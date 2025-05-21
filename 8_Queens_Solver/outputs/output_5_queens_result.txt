@@ -1,0 +1,71 @@
+================================= 5 Queens Problem Result =================================0th 5 Queens Problem Result: 
+Q....
+..Q..
+....Q
+.Q...
+...Q.
+
+1th 5 Queens Problem Result: 
+Q....
+...Q.
+.Q...
+....Q
+..Q..
+
+2th 5 Queens Problem Result: 
+.Q...
+...Q.
+Q....
+..Q..
+....Q
+
+3th 5 Queens Problem Result: 
+.Q...
+....Q
+..Q..
+Q....
+...Q.
+
+4th 5 Queens Problem Result: 
+..Q..
+Q....
+...Q.
+.Q...
+....Q
+
+5th 5 Queens Problem Result: 
+..Q..
+....Q
+.Q...
+...Q.
+Q....
+
+6th 5 Queens Problem Result: 
+...Q.
+Q....
+..Q..
+....Q
+.Q...
+
+7th 5 Queens Problem Result: 
+...Q.
+.Q...
+....Q
+..Q..
+Q....
+
+8th 5 Queens Problem Result: 
+....Q
+.Q...
+...Q.
+Q....
+..Q..
+
+9th 5 Queens Problem Result: 
+....Q
+..Q..
+Q....
+...Q.
+.Q...
+
+================================= 5 Queens Problem Result =================================

@@ -1,0 +1,2 @@
+================================= 2 Queens Problem Result =================================No solution for 2 Queens Problem.
+

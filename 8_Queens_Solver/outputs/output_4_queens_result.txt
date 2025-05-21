@@ -1,0 +1,13 @@
+================================= 4 Queens Problem Result =================================0th 4 Queens Problem Result: 
+.Q..
+...Q
+Q...
+..Q.
+
+1th 4 Queens Problem Result: 
+..Q.
+Q...
+...Q
+.Q..
+
+================================= 4 Queens Problem Result =================================

@@ -1,0 +1,2 @@
+================================= 3 Queens Problem Result =================================No solution for 3 Queens Problem.
+
