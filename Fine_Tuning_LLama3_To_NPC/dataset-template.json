@@ -1,0 +1,60 @@
+[
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "",
+      "name": "",
+      "role": "",
+      "moods": [],
+      "interests": [],
+      "playerRelationship": "",
+      "gender": "",
+      "personalities": [],
+      "requests": []
+    },
+    "environment_informations": {
+      "index": "",
+      "weather": "",
+      "time": ""
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "",
+      "name": "",
+      "role": "",
+      "moods": [],
+      "interests": [],
+      "playerRelationship": "",
+      "gender": "",
+      "personalities": [],
+      "requests": []
+    },
+    "environment_informations": {
+      "weather": "",
+      "time": ""
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "",
+      "name": "",
+      "role": "",
+      "moods": [],
+      "interests": [],
+      "playerRelationship": "",
+      "gender": "",
+      "personalities": [],
+      "requests": []
+    },
+    "environment_informations": {
+      "weather": "",
+      "time": ""
+    },
+    "npc_output": ""
+  }
+]

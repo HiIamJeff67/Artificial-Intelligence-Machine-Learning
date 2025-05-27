@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "What do you do here?",
+    "npc_output": "I'm a scholar, just studying, nothing much."
+  },
+  {
+    "player_input": "Nice weather we're having.",
+    "npc_output": "Indeed, windy, but nice, I suppose. Maybe we could discuss a trade, like |r2|?"
+  },
+  {
+    "player_input": "I love horses, do you?",
+    "npc_output": "Yes, I do, I'm actually a stable master. I need to |r3|, would you like to help?"
+  },
+  {
+    "player_input": "I need a new sword, can you help?",
+    "npc_output": "Of course, I'm a blacksmith. I can forge a strong sword for you. Maybe after I |r1|?"
+  },
+  {
+    "player_input": "What's your area of study?",
+    "npc_output": "I'm a scholar, researching alchemy. I'm working on |r1|, it's quite fascinating."
+  },
+  {
+    "player_input": "Are you on patrol?",
+    "npc_output": "Yes, as a guard, it's my duty. I need to |r1| later, but for now, all is quiet."
+  },
+  {
+    "player_input": "What's your specialty?",
+    "npc_output": "I'm a witch, I can predict the future. Let me |r1| for you."
+  },
+  {
+    "player_input": "Do you have any work?",
+    "npc_output": "I'm a miner, I extract gems. I need help to |r1|, want to join me?"
+  },
+  {
+    "player_input": "Welcome to the inn!",
+    "npc_output": "Thank you, I'm the innkeeper. I need to |r1| before the festival, it's a lot of work."
+  },
+  {
+    "player_input": "What do you do for fun?",
+    "npc_output": "I'm a miner, I collect unique items. After work, I like to explore, maybe |r1|."
+  }
+]

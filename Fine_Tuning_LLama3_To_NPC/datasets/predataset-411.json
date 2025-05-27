@@ -1,0 +1,569 @@
+[
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "25",
+      "name": "Karen Garcia",
+      "role": "messenger",
+      "moods": [
+        "sad",
+        "happy",
+        "excited"
+      ],
+      "interests": [
+        "sports"
+      ],
+      "playerRelationship": "76",
+      "gender": "female",
+      "personalities": [
+        "impatient",
+        "meticulous"
+      ],
+      "requests": [
+        "Report the punctual scroll before sunset",
+        "Announce the quick delivery before sunset",
+        "Notify the trusted route during rain",
+        "Travel the urgent scroll after delivery",
+        "Announce the swift scroll before sunset",
+        "Deliver the swift parcel at dawn",
+        "Deliver the swift errand at dawn",
+        "Deliver the reliable message before sunset",
+        "Report the discreet route after delivery",
+        "Announce the urgent letter on the road",
+        "Report the swift route during rain"
+      ]
+    },
+    "environment_informations": {
+      "weather": "rainy",
+      "time": "at dusk"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "51",
+      "name": "Gary Johnson",
+      "role": "scholar",
+      "moods": [
+        "hopeful",
+        "neutral",
+        "tired"
+      ],
+      "interests": [
+        "trading",
+        "fishing",
+        "farming",
+        "gardening",
+        "horsemanship"
+      ],
+      "playerRelationship": "73",
+      "gender": "male",
+      "personalities": [
+        "outgoing",
+        "moody"
+      ],
+      "requests": [
+        "Teach the learned study at night",
+        "Research the diligent manuscript at night",
+        "Record the diligent library in the library",
+        "Write the innovative library after lecture",
+        "Read the thoughtful research at night",
+        "Debate the diligent knowledge before exam",
+        "Read the reserved manuscript during study",
+        "Record the diligent knowledge before exam"
+      ]
+    },
+    "environment_informations": {
+      "weather": "sunny",
+      "time": "before sunrise"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "83",
+      "name": "David Lopez",
+      "role": "messenger",
+      "moods": [
+        "happy",
+        "hopeful"
+      ],
+      "interests": [
+        "magic",
+        "trading",
+        "sports",
+        "exploring"
+      ],
+      "playerRelationship": "25",
+      "gender": "female",
+      "personalities": [
+        "shy",
+        "reckless",
+        "loyal",
+        "protective"
+      ],
+      "requests": [
+        "Notify the trusted news after delivery",
+        "Announce the swift errand at dawn",
+        "Announce the quick parcel before sunset",
+        "Run the urgent route before sunset",
+        "Notify the urgent route before sunset",
+        "Report the trusted scroll after delivery",
+        "Run the trusted scroll at dawn",
+        "Announce the punctual scroll at dawn",
+        "Run the trusted route at dawn",
+        "Deliver the punctual delivery before sunset",
+        "Report the trusted parcel on the road",
+        "Notify the reliable route during rain",
+        "Report the urgent delivery after delivery",
+        "Fetch the discreet letter during rain"
+      ]
+    },
+    "environment_informations": {
+      "weather": "hot",
+      "time": "during the festival"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "59",
+      "name": "Ariana Hardin",
+      "role": "scholar",
+      "moods": [
+        "excited"
+      ],
+      "interests": [
+        "cooking",
+        "farming"
+      ],
+      "playerRelationship": "71",
+      "gender": "male",
+      "personalities": [
+        "romantic",
+        "ambitious",
+        "forgiving",
+        "greedy",
+        "reserved"
+      ],
+      "requests": []
+    },
+    "environment_informations": {
+      "weather": "hot",
+      "time": "at dawn"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "37",
+      "name": "David Weeks",
+      "role": "bard",
+      "moods": [
+        "angry",
+        "anxious"
+      ],
+      "interests": [
+        "music",
+        "dancing",
+        "reading"
+      ],
+      "playerRelationship": "62",
+      "gender": "female",
+      "personalities": [
+        "submissive",
+        "jealous"
+      ],
+      "requests": [
+        "Recite the colorful instrument after dinner",
+        "Play the charming poetry during festival",
+        "Recite the talented lyre in the evening",
+        "Recite the talented poetry after dinner",
+        "Entertain the charming song during festival",
+        "Compose the talented song on stage",
+        "Dance the witty performance on stage"
+      ]
+    },
+    "environment_informations": {
+      "weather": "hail",
+      "time": "after sunset"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "29",
+      "name": "David Sanders",
+      "role": "carpenter",
+      "moods": [
+        "anxious"
+      ],
+      "interests": [
+        "reading",
+        "music",
+        "crafting",
+        "hunting"
+      ],
+      "playerRelationship": "30",
+      "gender": "female",
+      "personalities": [
+        "arrogant",
+        "reckless"
+      ],
+      "requests": [
+        "Repair the smooth house during construction",
+        "Build the polished plank at the workshop",
+        "Carve the smooth nail after delivery",
+        "Build the wooden beam at noon",
+        "Assemble the reliable wood after delivery",
+        "Hammer the reliable workbench after delivery"
+      ]
+    },
+    "environment_informations": {
+      "weather": "hail",
+      "time": "at noon"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "48",
+      "name": "Jeanette Grant",
+      "role": "merchant",
+      "moods": [
+        "neutral",
+        "happy",
+        "tired"
+      ],
+      "interests": [
+        "hunting",
+        "farming",
+        "horsemanship"
+      ],
+      "playerRelationship": "25",
+      "gender": "female",
+      "personalities": [
+        "friendly",
+        "skeptical",
+        "pragmatic",
+        "dreamy"
+      ],
+      "requests": [
+        "Trade the valuable trade on the road",
+        "Buy the foreign spice during festival",
+        "Haggle the exotic spice in the city",
+        "Bargain the rare market on the road",
+        "Trade the exotic caravan during festival",
+        "Sell the expensive market during festival",
+        "Trade the cheap goods during festival"
+      ]
+    },
+    "environment_informations": {
+      "weather": "windy",
+      "time": "in the morning"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "26",
+      "name": "Miss Megan Dyer",
+      "role": "apprentice",
+      "moods": [
+        "angry",
+        "tired"
+      ],
+      "interests": [
+        "fishing",
+        "cooking",
+        "painting",
+        "gambling"
+      ],
+      "playerRelationship": "16",
+      "gender": "male",
+      "personalities": [
+        "romantic",
+        "vengeful",
+        "pessimistic"
+      ],
+      "requests": [
+        "Observe the inexperienced test during lesson",
+        "Learn the nervous training in the morning"
+      ]
+    },
+    "environment_informations": {
+      "weather": "foggy",
+      "time": "in the afternoon"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "40",
+      "name": "Melanie Fisher",
+      "role": "beggar",
+      "moods": [
+        "neutral"
+      ],
+      "interests": [
+        "meditation",
+        "cooking",
+        "alchemy",
+        "horsemanship"
+      ],
+      "playerRelationship": "88",
+      "gender": "male",
+      "personalities": [
+        "faithful"
+      ],
+      "requests": []
+    },
+    "environment_informations": {
+      "weather": "windy",
+      "time": "in the afternoon"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "71",
+      "name": "Patrick Garza",
+      "role": "bard",
+      "moods": [
+        "hopeful",
+        "happy",
+        "anxious"
+      ],
+      "interests": [
+        "music"
+      ],
+      "playerRelationship": "74",
+      "gender": "female",
+      "personalities": [
+        "patient",
+        "diligent",
+        "stubborn"
+      ],
+      "requests": [
+        "Play the charming performance during festival",
+        "Compose the inspiring song after dinner",
+        "Sing the creative dance at the tavern",
+        "Dance the charming lyre at the tavern",
+        "Perform the witty dance during festival",
+        "Recite the melodic performance in the evening",
+        "Compose the creative song during festival",
+        "Compose the inspiring dance on stage",
+        "Dance the lively lyre at the tavern",
+        "Compose the inspiring poetry on stage",
+        "Perform the talented dance during festival",
+        "Play the charming lyre at the tavern",
+        "Recite the witty performance at the tavern",
+        "Play the inspiring story on stage"
+      ]
+    },
+    "environment_informations": {
+      "weather": "stormy",
+      "time": "at noon"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "14",
+      "name": "Tina Gonzalez",
+      "role": "fisherman",
+      "moods": [
+        "sad",
+        "tired"
+      ],
+      "interests": [
+        "cooking",
+        "exploring",
+        "reading"
+      ],
+      "playerRelationship": "37",
+      "gender": "male",
+      "personalities": [
+        "meticulous",
+        "friendly"
+      ],
+      "requests": [
+        "Sail the lucky bait in the morning",
+        "Cast the weathered net in the morning",
+        "Row the early sea in the morning"
+      ]
+    },
+    "environment_informations": {
+      "weather": "windy",
+      "time": "at midnight"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "51",
+      "name": "Gary Johnson",
+      "role": "scholar",
+      "moods": [
+        "hopeful",
+        "neutral",
+        "tired"
+      ],
+      "interests": [
+        "trading",
+        "fishing",
+        "farming",
+        "gardening",
+        "horsemanship"
+      ],
+      "playerRelationship": "73",
+      "gender": "male",
+      "personalities": [
+        "outgoing",
+        "moody"
+      ],
+      "requests": [
+        "Teach the learned study at night",
+        "Research the diligent manuscript at night",
+        "Record the diligent library in the library",
+        "Write the innovative library after lecture",
+        "Read the thoughtful research at night",
+        "Debate the diligent knowledge before exam",
+        "Read the reserved manuscript during study",
+        "Record the diligent knowledge before exam"
+      ]
+    },
+    "environment_informations": {
+      "weather": "cloudy",
+      "time": "at noon"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "29",
+      "name": "David Sanders",
+      "role": "carpenter",
+      "moods": [
+        "anxious"
+      ],
+      "interests": [
+        "reading",
+        "music",
+        "crafting",
+        "hunting"
+      ],
+      "playerRelationship": "30",
+      "gender": "female",
+      "personalities": [
+        "arrogant",
+        "reckless"
+      ],
+      "requests": [
+        "Repair the smooth house during construction",
+        "Build the polished plank at the workshop",
+        "Carve the smooth nail after delivery",
+        "Build the wooden beam at noon",
+        "Assemble the reliable wood after delivery",
+        "Hammer the reliable workbench after delivery"
+      ]
+    },
+    "environment_informations": {
+      "weather": "foggy",
+      "time": "in the evening"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "93",
+      "name": "Matthew Hampton",
+      "role": "tailor",
+      "moods": [
+        "angry",
+        "excited"
+      ],
+      "interests": [
+        "collecting"
+      ],
+      "playerRelationship": "22",
+      "gender": "male",
+      "personalities": [
+        "submissive",
+        "protective",
+        "optimistic",
+        "dreamy",
+        "lazy"
+      ],
+      "requests": [
+        "Design the fine hat after delivery",
+        "Cut the colorful hat in the shop",
+        "Embroider the stylish pattern in the shop",
+        "Sew the colorful fashion in the shop",
+        "Fit the soft cloak during fitting"
+      ]
+    },
+    "environment_informations": {
+      "weather": "foggy",
+      "time": "at dawn"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "77",
+      "name": "John Miller",
+      "role": "bard",
+      "moods": [
+        "happy"
+      ],
+      "interests": [
+        "cooking",
+        "sports"
+      ],
+      "playerRelationship": "63",
+      "gender": "female",
+      "personalities": [
+        "materialistic",
+        "playful",
+        "cheerful"
+      ],
+      "requests": [
+        "Recite the witty instrument during festival",
+        "Play the creative dance after dinner",
+        "Tell the charming performance at the tavern",
+        "Perform the lively story at the tavern",
+        "Play the inspiring story on stage",
+        "Compose the inspiring poetry on stage",
+        "Entertain the colorful performance at the tavern",
+        "Dance the charming lyre at the tavern",
+        "Play the charming story during festival",
+        "Recite the melodic music on stage",
+        "Dance the inspiring instrument at the tavern",
+        "Play the lively instrument after dinner",
+        "Sing the talented story on stage",
+        "Perform the witty song after dinner",
+        "Play the colorful story during festival"
+      ]
+    },
+    "environment_informations": {
+      "weather": "drizzle",
+      "time": "during the festival"
+    },
+    "npc_output": ""
+  }
+]

@@ -1,0 +1,162 @@
+[
+  {
+    "player_input": "What's your role?",
+    "npc_output": "I'm a hunter, nice to meet you."
+  },
+  {
+    "player_input": "What's your hobby?",
+    "npc_output": "I enjoy painting and exploring in my free time."
+  },
+  {
+    "player_input": "What can I help you with?",
+    "npc_output": "Actually, I need help gathering some fresh flowers for my garden, would you like to assist me?"
+  },
+  {
+    "player_input": "How's your day?",
+    "npc_output": "It's going great, thanks for asking! I just love cooking and dancing.",
+    "npc_informations": {
+      "index": "97",
+      "name": "Michelle Adams",
+      "role": "thief",
+      "moods": [
+        "happy"
+      ],
+      "interests": [
+        "cooking",
+        "dancing",
+        "farming"
+      ],
+      "playerRelationship": "89",
+      "gender": "female",
+      "personalities": [
+        "curious",
+        "wise",
+        "dreamy"
+      ],
+      "requests": [
+        "Unlock the shadowy escape after curfew",
+        "Hide the quick secret before dawn",
+        "Unlock the cunning lock after curfew",
+        "Spy the shadowy hideout in the alley",
+        "Hide the silent hideout after curfew"
+      ]
+    }
+  },
+  {
+    "player_input": "Any requests?",
+    "npc_output": "As a matter of fact, I need someone to help me bargain for some expensive goods at the market, perhaps you could assist me?",
+    "npc_informations": {
+      "index": "76",
+      "name": "Thomas Myers",
+      "role": "merchant",
+      "moods": [
+        "neutral"
+      ],
+      "interests": [
+        "reading",
+        "meditation"
+      ],
+      "playerRelationship": "51",
+      "gender": "male",
+      "personalities": [
+        "skeptical",
+        "pessimistic",
+        "tactful",
+        "shy",
+        "calculating"
+      ],
+      "requests": [
+        "Import the profitable spice on the road",
+        "Bargain the foreign spice during festival",
+        "Sell the luxurious permit at the market",
+        "Bargain the expensive trade in the city",
+        "Buy the expensive permit on the road",
+        "Travel the luxurious caravan at the market",
+        "Sell the luxurious goods in the city",
+        "Travel the foreign stall on the road",
+        "Export the foreign stall in the city",
+        "Bargain the profitable stall during festival",
+        "Sell the profitable goods before sunset",
+        "Buy the profitable spice on the road",
+        "Sell the expensive market during festival",
+        "Bargain the cheap permit on the road"
+      ]
+    }
+  },
+  {
+    "player_input": "Need any help?",
+    "npc_output": "Actually, I could use some assistance searching for a rare mineral in the mine. Care to join me?"
+  },
+  {
+    "player_input": "Hi, what do you do?",
+    "npc_output": "I'm a tailor. I have to mend this elegant outfit for a customer, it's a bit of a challenge.|r1|"
+  },
+  {
+    "player_input": "What's going on?",
+    "npc_output": "There's been some strange occurrences in the city, I'm a guard, it's my duty to keep everyone safe.",
+    "npc_informations": {
+      "index": "92",
+      "name": "Arthur Holloway",
+      "role": "guard",
+      "moods": [
+        "tired",
+        "neutral"
+      ],
+      "interests": [
+        "hunting",
+        "dancing",
+        "meditation"
+      ],
+      "playerRelationship": "69",
+      "gender": "female",
+      "personalities": [
+        "indecisive",
+        "blunt",
+        "shy",
+        "stubborn"
+      ],
+      "requests": [
+        "Escort the secure law at the gate",
+        "Search the loyal bodyguard at night",
+        "Patrol the secure shield in the city",
+        "Search the safe gate at the gate",
+        "Watch the secure gate after curfew",
+        "Protect the loyal prisoner after curfew",
+        "Arrest the honest crime after curfew",
+        "Patrol the safe witness at the gate",
+        "Escort the secure bodyguard at the gate",
+        "Protect the strict crime at the gate",
+        "Escort the brave witness during patrol",
+        "Watch the strict prisoner during patrol"
+      ]
+    }
+  },
+  {
+    "player_input": "What do you need help with?",
+    "npc_output": "I need someone to attend to my debt in the city. It's a bit of a delicate matter, can I trust you with it?"
+  },
+  {
+    "player_input": "Do you need anything?",
+    "npc_output": "Actually, I need someone to help me announce an urgent message on the road. The weather is getting bad and I need to hurry."
+  },
+  {
+    "player_input": "Hi, how can I assist you?",
+    "npc_output": "I need to steal a cunning hideout in the alley, but it's heavily guarded. Could you create a distraction for me?"
+  },
+  {
+    "player_input": "What do you do for fun?",
+    "npc_output": "I love to perform and entertain people with my music and stories. Perhaps you'd like to hear a song?"
+  },
+  {
+    "player_input": "What are you up to?",
+    "npc_output": "Just preparing for a jest at the festival, want to join in on the fun?"
+  },
+  {
+    "player_input": "Can I help with anything?",
+    "npc_output": "Actually, I'm trying to navigate through this storm, it's tricky. Could you help me anchor the voyage at the harbor?"
+  },
+  {
+    "player_input": "Need help with something?",
+    "npc_output": "Yes, I'm researching an ancient debate and I need someone to help me find a rare book in the library."
+  }
+]

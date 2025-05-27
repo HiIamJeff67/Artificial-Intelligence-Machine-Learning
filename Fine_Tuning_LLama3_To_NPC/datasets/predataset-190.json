@@ -1,0 +1,577 @@
+[
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "7",
+      "name": "Aaron Stephenson",
+      "role": "queen",
+      "moods": [
+        "happy",
+        "hopeful"
+      ],
+      "interests": [
+        "magic",
+        "gardening"
+      ],
+      "playerRelationship": "63",
+      "gender": "female",
+      "personalities": [
+        "blunt",
+        "jealous",
+        "faithful",
+        "shy"
+      ],
+      "requests": [
+        "Host the graceful court at the palace",
+        "Support the elegant court before ceremony",
+        "Organize the graceful court in the garden",
+        "Lead the graceful court at the palace",
+        "Lead the influential court at the palace",
+        "Support the royal masquerade after tea"
+      ]
+    },
+    "environment_informations": {
+      "weather": "drizzle",
+      "time": "at dusk"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "78",
+      "name": "Mitchell Fernandez",
+      "role": "carpenter",
+      "moods": [
+        "anxious",
+        "happy"
+      ],
+      "interests": [
+        "painting"
+      ],
+      "playerRelationship": "1",
+      "gender": "male",
+      "personalities": [
+        "arrogant",
+        "stubborn"
+      ],
+      "requests": []
+    },
+    "environment_informations": {
+      "weather": "hot",
+      "time": "at dusk"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "37",
+      "name": "David Weeks",
+      "role": "bard",
+      "moods": [
+        "angry",
+        "anxious"
+      ],
+      "interests": [
+        "music",
+        "dancing",
+        "reading"
+      ],
+      "playerRelationship": "62",
+      "gender": "female",
+      "personalities": [
+        "submissive",
+        "jealous"
+      ],
+      "requests": [
+        "Recite the colorful instrument after dinner",
+        "Play the charming poetry during festival",
+        "Recite the talented lyre in the evening",
+        "Recite the talented poetry after dinner",
+        "Entertain the charming song during festival",
+        "Compose the talented song on stage",
+        "Dance the witty performance on stage"
+      ]
+    },
+    "environment_informations": {
+      "weather": "stormy",
+      "time": "after sunset"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "24",
+      "name": "Robert Thomas",
+      "role": "witch",
+      "moods": [
+        "anxious"
+      ],
+      "interests": [
+        "gambling",
+        "meditation",
+        "storytelling",
+        "exploring",
+        "sports"
+      ],
+      "playerRelationship": "43",
+      "gender": "female",
+      "personalities": [
+        "compassionate"
+      ],
+      "requests": [
+        "Curse the dark broom in the woods",
+        "Summon the strange charm before dawn",
+        "Mix the secretive curse in the woods",
+        "Enchant the secretive spell at midnight",
+        "Cast the secretive ritual during ritual",
+        "Predict the dark herb after storm",
+        "Hex the wise broom at midnight",
+        "Brew the wise ritual in the woods",
+        "Summon the cunning broom during ritual",
+        "Predict the secretive spell before dawn",
+        "Predict the strange spell in the woods",
+        "Cast the dark charm before dawn",
+        "Mix the mysterious broom in the woods",
+        "Brew the strange herb during ritual"
+      ]
+    },
+    "environment_informations": {
+      "weather": "sunny",
+      "time": "in the evening"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "71",
+      "name": "Patrick Garza",
+      "role": "bard",
+      "moods": [
+        "hopeful",
+        "happy",
+        "anxious"
+      ],
+      "interests": [
+        "music"
+      ],
+      "playerRelationship": "74",
+      "gender": "female",
+      "personalities": [
+        "patient",
+        "diligent",
+        "stubborn"
+      ],
+      "requests": [
+        "Play the charming performance during festival",
+        "Compose the inspiring song after dinner",
+        "Sing the creative dance at the tavern",
+        "Dance the charming lyre at the tavern",
+        "Perform the witty dance during festival",
+        "Recite the melodic performance in the evening",
+        "Compose the creative song during festival",
+        "Compose the inspiring dance on stage",
+        "Dance the lively lyre at the tavern",
+        "Compose the inspiring poetry on stage",
+        "Perform the talented dance during festival",
+        "Play the charming lyre at the tavern",
+        "Recite the witty performance at the tavern",
+        "Play the inspiring story on stage"
+      ]
+    },
+    "environment_informations": {
+      "weather": "stormy",
+      "time": "in the evening"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "72",
+      "name": "Scott Griffith",
+      "role": "farmer",
+      "moods": [
+        "tired",
+        "excited"
+      ],
+      "interests": [
+        "storytelling",
+        "crafting",
+        "exploring",
+        "farming"
+      ],
+      "playerRelationship": "76",
+      "gender": "female",
+      "personalities": [
+        "reserved",
+        "outgoing",
+        "reckless",
+        "pragmatic"
+      ],
+      "requests": [
+        "Sow the bountiful soil after sunrise",
+        "Sow the muddy seed at the field",
+        "Water the ripe seed during harvest",
+        "Plant the muddy crop at the field",
+        "Sow the abundant plow in the morning",
+        "Water the fertile soil at the field",
+        "Plant the muddy barn at the field",
+        "Plant the fresh field in the morning",
+        "Tend the abundant harvest at the field",
+        "Weed the ripe seed at the field",
+        "Water the healthy seed in the morning",
+        "Water the fresh barn after sunrise",
+        "Water the bountiful seed after sunrise"
+      ]
+    },
+    "environment_informations": {
+      "weather": "windy",
+      "time": "in the afternoon"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "28",
+      "name": "Caitlin Lewis",
+      "role": "apprentice",
+      "moods": [
+        "sad",
+        "bored"
+      ],
+      "interests": [
+        "crafting",
+        "dancing",
+        "gambling",
+        "fishing",
+        "magic"
+      ],
+      "playerRelationship": "74",
+      "gender": "female",
+      "personalities": [
+        "forgiving",
+        "decisive"
+      ],
+      "requests": []
+    },
+    "environment_informations": {
+      "weather": "sunny",
+      "time": "after sunset"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "33",
+      "name": "Victoria Hicks",
+      "role": "miner",
+      "moods": [
+        "anxious",
+        "sad",
+        "neutral"
+      ],
+      "interests": [
+        "gardening"
+      ],
+      "playerRelationship": "33",
+      "gender": "male",
+      "personalities": [
+        "indecisive"
+      ],
+      "requests": [
+        "Search the dusty tunnel in the mine",
+        "Dig the deep stone before sunset",
+        "Explore the dangerous helmet before sunset",
+        "Mine the rocky mine at dawn",
+        "Explore the hidden mine before sunset",
+        "Explore the deep helmet before sunset",
+        "Descend the tough stone in the mine",
+        "Descend the tough helmet before sunset",
+        "Extract the hidden tunnel before sunset",
+        "Haul the dusty tunnel at dawn",
+        "Dig the tough helmet during shift",
+        "Haul the dusty stone during shift",
+        "Descend the gritty pickaxe after cave-in"
+      ]
+    },
+    "environment_informations": {
+      "weather": "stormy",
+      "time": "at dawn"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "68",
+      "name": "Sheila Bautista",
+      "role": "fisherman",
+      "moods": [
+        "curious",
+        "angry"
+      ],
+      "interests": [
+        "collecting",
+        "exploring"
+      ],
+      "playerRelationship": "22",
+      "gender": "female",
+      "personalities": [
+        "faithful",
+        "shy"
+      ],
+      "requests": [
+        "Reel the skilled river in the morning",
+        "Cast the salty fish in the morning",
+        "Sail the wet river at the river",
+        "Fish the wet river before storm"
+      ]
+    },
+    "environment_informations": {
+      "weather": "hail",
+      "time": "in the afternoon"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "38",
+      "name": "Cody Soto",
+      "role": "beggar",
+      "moods": [
+        "hopeful"
+      ],
+      "interests": [
+        "crafting",
+        "exploring",
+        "music"
+      ],
+      "playerRelationship": "72",
+      "gender": "female",
+      "personalities": [
+        "loyal",
+        "wise",
+        "playful",
+        "optimistic",
+        "generous"
+      ],
+      "requests": [
+        "Wait the dirty hope before meal",
+        "Wander the lonely companion in the evening",
+        "Wander the grateful companion in the evening",
+        "Ask the tired companion in the evening",
+        "Hope the dirty companion after rain",
+        "Ask the dirty corner in the evening",
+        "Wait the tired companion after rain",
+        "Wait the hungry blanket after rain",
+        "Hope the needy corner before meal",
+        "Beg the poor companion at the square",
+        "Beg the dirty food at the square",
+        "Wander the grateful shelter in the evening",
+        "Hope the poor blanket during festival",
+        "Beg the dirty blanket before meal",
+        "Hope the cold blanket during festival"
+      ]
+    },
+    "environment_informations": {
+      "weather": "hail",
+      "time": "in the morning"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "25",
+      "name": "Karen Garcia",
+      "role": "messenger",
+      "moods": [
+        "sad",
+        "happy",
+        "excited"
+      ],
+      "interests": [
+        "sports"
+      ],
+      "playerRelationship": "76",
+      "gender": "female",
+      "personalities": [
+        "impatient",
+        "meticulous"
+      ],
+      "requests": [
+        "Report the punctual scroll before sunset",
+        "Announce the quick delivery before sunset",
+        "Notify the trusted route during rain",
+        "Travel the urgent scroll after delivery",
+        "Announce the swift scroll before sunset",
+        "Deliver the swift parcel at dawn",
+        "Deliver the swift errand at dawn",
+        "Deliver the reliable message before sunset",
+        "Report the discreet route after delivery",
+        "Announce the urgent letter on the road",
+        "Report the swift route during rain"
+      ]
+    },
+    "environment_informations": {
+      "weather": "drizzle",
+      "time": "after sunset"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "83",
+      "name": "David Lopez",
+      "role": "messenger",
+      "moods": [
+        "happy",
+        "hopeful"
+      ],
+      "interests": [
+        "magic",
+        "trading",
+        "sports",
+        "exploring"
+      ],
+      "playerRelationship": "25",
+      "gender": "female",
+      "personalities": [
+        "shy",
+        "reckless",
+        "loyal",
+        "protective"
+      ],
+      "requests": [
+        "Notify the trusted news after delivery",
+        "Announce the swift errand at dawn",
+        "Announce the quick parcel before sunset",
+        "Run the urgent route before sunset",
+        "Notify the urgent route before sunset",
+        "Report the trusted scroll after delivery",
+        "Run the trusted scroll at dawn",
+        "Announce the punctual scroll at dawn",
+        "Run the trusted route at dawn",
+        "Deliver the punctual delivery before sunset",
+        "Report the trusted parcel on the road",
+        "Notify the reliable route during rain",
+        "Report the urgent delivery after delivery",
+        "Fetch the discreet letter during rain"
+      ]
+    },
+    "environment_informations": {
+      "weather": "hot",
+      "time": "before sunrise"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "97",
+      "name": "Michelle Adams",
+      "role": "thief",
+      "moods": [
+        "happy"
+      ],
+      "interests": [
+        "cooking",
+        "dancing",
+        "farming"
+      ],
+      "playerRelationship": "89",
+      "gender": "female",
+      "personalities": [
+        "curious",
+        "wise",
+        "dreamy"
+      ],
+      "requests": [
+        "Unlock the shadowy escape after curfew",
+        "Hide the quick secret before dawn",
+        "Unlock the cunning lock after curfew",
+        "Spy the shadowy hideout in the alley",
+        "Hide the silent hideout after curfew"
+      ]
+    },
+    "environment_informations": {
+      "weather": "hot",
+      "time": "in the morning"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "68",
+      "name": "Sheila Bautista",
+      "role": "fisherman",
+      "moods": [
+        "curious",
+        "angry"
+      ],
+      "interests": [
+        "collecting",
+        "exploring"
+      ],
+      "playerRelationship": "22",
+      "gender": "female",
+      "personalities": [
+        "faithful",
+        "shy"
+      ],
+      "requests": [
+        "Reel the skilled river in the morning",
+        "Cast the salty fish in the morning",
+        "Sail the wet river at the river",
+        "Fish the wet river before storm"
+      ]
+    },
+    "environment_informations": {
+      "weather": "sunny",
+      "time": "after sunset"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "13",
+      "name": "Shelly Montgomery",
+      "role": "alchemist",
+      "moods": [
+        "bored"
+      ],
+      "interests": [
+        "reading",
+        "magic"
+      ],
+      "playerRelationship": "21",
+      "gender": "female",
+      "personalities": [
+        "brave",
+        "lazy"
+      ],
+      "requests": [
+        "Distill the magical formula before sunrise",
+        "Brew the colorful potion during experiment",
+        "Transmute the potent formula after market",
+        "Experiment the potent elixir at midnight",
+        "Experiment the rare formula at midnight"
+      ]
+    },
+    "environment_informations": {
+      "weather": "snowy",
+      "time": "in the evening"
+    },
+    "npc_output": ""
+  }
+]

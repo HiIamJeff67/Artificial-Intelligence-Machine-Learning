@@ -1,0 +1,58 @@
+[
+  {
+    "player_input": "Hi, how are you?",
+    "npc_output": "I'm a bit tired, but it's nice to see you. |r1|"
+  },
+  {
+    "player_input": "What's going on at midnight?",
+    "npc_output": "Not much, just keeping watch. The rain is making it a slow night. |r3|"
+  },
+  {
+    "player_input": "What do you think of the sunrise?",
+    "npc_output": "It's lovely, but I'm not a fan of the early hours. I have a training to observe soon, |r1|"
+  },
+  {
+    "player_input": "How's mining?",
+    "npc_output": "It's going well, thanks. The windy weather is making it a bit tricky, but we're managing. |r2|"
+  },
+  {
+    "player_input": "What's new with you?",
+    "npc_output": "Just enjoying the evening, despite the cloudy weather. I've been thinking about mixing some fresh flowers at sunrise, |r2|"
+  },
+  {
+    "player_input": "Need any help?",
+    "npc_output": "Actually, I could use some help with preaching a sacred donation on holy day, |r1|"
+  },
+  {
+    "player_input": "What's the plan for the day?",
+    "npc_output": "Just getting some work done before the festival. I need to embroider an elegant hat, |r1|"
+  },
+  {
+    "player_input": "How's the kingdom?",
+    "npc_output": "All is well, thanks. The king is busy ruling the noble kingdom during council, |r3|"
+  },
+  {
+    "player_input": "How's farming?",
+    "npc_output": "It's going great, thanks. The sunny weather is perfect for sowing seeds, |r1|"
+  },
+  {
+    "player_input": "What's new?",
+    "npc_output": "Not much, just getting ready for the festival. I'm supposed to serve a welcoming feast after sunset, |r2|"
+  },
+  {
+    "player_input": "How's the road?",
+    "npc_output": "It's a bit rough, but I'm on my way to announce an urgent letter, |r1|"
+  },
+  {
+    "player_input": "How's the mine?",
+    "npc_output": "It's going well, despite the rainy weather. I'm searching the dark mine during shift, |r3|"
+  },
+  {
+    "player_input": "What's the performance about?",
+    "npc_output": "It's a lively story, and I'm excited to perform it at the tavern, |r4|"
+  },
+  {
+    "player_input": "What's the plan for the evening?",
+    "npc_output": "Just attending to some noble duties, including attending the proud debt in the city, |r1|"
+  }
+]

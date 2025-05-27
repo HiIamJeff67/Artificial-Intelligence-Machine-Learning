@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "What's for breakfast?",
+    "npc_output": "I'm making some crispy dessert, |r1|."
+  },
+  {
+    "player_input": "How's the weather?",
+    "npc_output": "It's foggy, perfect for a lonely evening walk."
+  },
+  {
+    "player_input": "Need any help?",
+    "npc_output": "I could use some assistance with |r1|."
+  },
+  {
+    "player_input": "What's the hurry?",
+    "npc_output": "I need to |r3| before the festival starts."
+  },
+  {
+    "player_input": "What's the plan?",
+    "npc_output": "I'm attending a ceremony, maybe I'll |r1| afterwards."
+  },
+  {
+    "player_input": "Do you have any news?",
+    "npc_output": "Yes, I need to |r1| to the people."
+  },
+  {
+    "player_input": "Want to dance?",
+    "npc_output": "I'd love to, but first I need to |r1|."
+  },
+  {
+    "player_input": "Can I help with the festival?",
+    "npc_output": "Actually, I need someone to |r1|."
+  },
+  {
+    "player_input": "How's your stable?",
+    "npc_output": "It's tidy, thanks for asking, now I need to |r1|."
+  },
+  {
+    "player_input": "Going fishing?",
+    "npc_output": "Yes, I hope to |r1| today."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "Hello Mrs. Martinez",
+    "npc_output": "Good evening, I'm glad you're here, I need someone to |r1|."
+  },
+  {
+    "player_input": "Hi Linda, how's it going?",
+    "npc_output": "It's going well, thanks. I just got back from a hunt and I'm thinking of |r1|."
+  },
+  {
+    "player_input": "What's new, Mr. Lawrence?",
+    "npc_output": "Just working on a new forge, trying to |r1|."
+  },
+  {
+    "player_input": "Greetings Gregory, what's on your mind?",
+    "npc_output": "I'm thinking of |r1|, care to join me?"
+  },
+  {
+    "player_input": "Hi Regina, what are you up to?",
+    "npc_output": "Just planning a heist, want to help me |r1|?"
+  },
+  {
+    "player_input": "Good morning Shelley, beautiful day isn't it?",
+    "npc_output": "Indeed it is! I'm thinking of |r1| in this lovely weather."
+  },
+  {
+    "player_input": "Hey Scott, how's life as a servant?",
+    "npc_output": "It's good, just busy with |r1| and other tasks."
+  },
+  {
+    "player_input": "Hi David, what's new with you?",
+    "npc_output": "Not much, just got a new message to |r1|."
+  },
+  {
+    "player_input": "Morning Matthew, what are you working on?",
+    "npc_output": "Just |r1|, trying to get it perfect."
+  },
+  {
+    "player_input": "Hi Melissa, how's mining going?",
+    "npc_output": "It's going well, just found a new vein to |r1|."
+  }
+]

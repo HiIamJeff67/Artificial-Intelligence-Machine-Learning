@@ -1,0 +1,62 @@
+[
+  {
+    "player_input": "What brings you here?",
+    "npc_output": "I'm so excited to work on this elegant hat, I hope I can embroider it perfectly"
+  },
+  {
+    "player_input": "How's business?",
+    "npc_output": "It's been good, but I need to mend this outfit before noon, can you help me with that? |r1|"
+  },
+  {
+    "player_input": "Do you hunt often?",
+    "npc_output": "Not as much as I'd like, but I do need to track a rugged arrow before sunset"
+  },
+  {
+    "player_input": "What are you making?",
+    "npc_output": "A colorful fashion, and I'm trying to decide whether to cut or sew it first"
+  },
+  {
+    "player_input": "What's brewing?",
+    "npc_output": "Just a colorful potion, experiment is my favorite part of the day"
+  },
+  {
+    "player_input": "Do you like the snow?",
+    "npc_output": "It's lovely, but I'm more concerned with casting a strange curse after the storm |r2|"
+  },
+  {
+    "player_input": "What's the ceremony about?",
+    "npc_output": "It's a sacred wedding, and I need to conduct it during the ceremony, wish me luck"
+  },
+  {
+    "player_input": "Why are you angry?",
+    "npc_output": "Just a lot on my mind, including preaching the faithful faith after prayer |r1|"
+  },
+  {
+    "player_input": "Where's the best spot to fish?",
+    "npc_output": "The wet sea at the river is great, but I need to catch it before the storm"
+  },
+  {
+    "player_input": "What do you need?",
+    "npc_output": "Just some food, and maybe a place to rest, it's been a long day of begging"
+  },
+  {
+    "player_input": "Are you open?",
+    "npc_output": "Not yet, but I'll be preparing a festive banquet after sunset"
+  },
+  {
+    "player_input": "What's for lunch?",
+    "npc_output": "I'm not sure yet, but I need to mix something delicious in the kitchen"
+  },
+  {
+    "player_input": "Want to have some fun?",
+    "npc_output": "Always, let's joke around and entertain the crowd with a silly mask |r1|"
+  },
+  {
+    "player_input": "What's your expertise?",
+    "npc_output": "I'm knowledgeable about crafting and alchemy, maybe I can help you with something"
+  },
+  {
+    "player_input": "Need any help?",
+    "npc_output": "Actually, I could use some assistance with summoning a strange charm before dawn |r1|"
+  }
+]

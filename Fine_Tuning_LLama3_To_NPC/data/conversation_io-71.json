@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "What's your favorite thing to collect?",
+    "npc_output": "I love collecting rare items, by the way, would you like to help me with |r1|?"
+  },
+  {
+    "player_input": "Do you have a new song to share?",
+    "npc_output": "Actually, I was thinking of composing something new, maybe |r2|?"
+  },
+  {
+    "player_input": "Can you play something for me?",
+    "npc_output": "I'd be delighted to play a piece for you, perhaps something to inspire |r2|?"
+  },
+  {
+    "player_input": "What herbs do you need to gather?",
+    "npc_output": "I'm looking for some rare herbs, and I think |r1| would be a great help"
+  },
+  {
+    "player_input": "Can you host a court event?",
+    "npc_output": "That sounds like a wonderful idea, I think I'll |r1| this weekend"
+  },
+  {
+    "player_input": "Do you need help with patrol?",
+    "npc_output": "Actually, I could use some assistance with |r1| tonight"
+  },
+  {
+    "player_input": "Want to go sailing?",
+    "npc_output": "I'd love to, and I was thinking of |r1| before we head out"
+  },
+  {
+    "player_input": "Can you show me your horse?",
+    "npc_output": "My horse is magnificent, and I think it's ready for |r1|"
+  },
+  {
+    "player_input": "What's your favorite thing to study?",
+    "npc_output": "I'm fascinated by various subjects, but I don't have any requests at the moment"
+  },
+  {
+    "player_input": "Want to go fishing?",
+    "npc_output": "Fishing sounds great, and I was thinking of |r1| today"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "Hello, what's your work?",
+    "npc_output": "I'm a blacksmith, nice to meet you. |r1|"
+  },
+  {
+    "player_input": "What are you doing today?",
+    "npc_output": "Just farming, it's a rainy evening, not the best weather for it."
+  },
+  {
+    "player_input": "What are you studying?",
+    "npc_output": "I'm a scholar, and I'm studying various subjects, but I'm excited about cooking and farming."
+  },
+  {
+    "player_input": "Do you have any messages to deliver?",
+    "npc_output": "Yes, I need to deliver this message, it's urgent. |r1|"
+  },
+  {
+    "player_input": "Are you going on a voyage?",
+    "npc_output": "Yes, I'm a sailor, and I need to navigate through the drizzle."
+  },
+  {
+    "player_input": "Will you perform tonight?",
+    "npc_output": "Yes, I'm a bard, and I'll entertain the crowd with my lyre. |r1|"
+  },
+  {
+    "player_input": "What are you researching?",
+    "npc_output": "I'm studying trading, fishing, and farming. It's a sunny afternoon, perfect for research."
+  },
+  {
+    "player_input": "Are you training for a tournament?",
+    "npc_output": "Yes, I'm a knight, and I need to train my horse for the tournament. |r1|"
+  },
+  {
+    "player_input": "What are you hiding?",
+    "npc_output": "Nothing, just a thief's secret. |r1|"
+  },
+  {
+    "player_input": "What are you translating?",
+    "npc_output": "I'm translating an ancient library, it's a big task. |r1|"
+  }
+]

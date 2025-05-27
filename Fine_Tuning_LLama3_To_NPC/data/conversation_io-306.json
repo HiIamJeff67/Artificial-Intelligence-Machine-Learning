@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "What's the weather like?",
+    "npc_output": "It's hailing outside, I'm afraid. |r1|"
+  },
+  {
+    "player_input": "Do you have a message for me?",
+    "npc_output": "Actually, I do. I need you to notify the swift parcel at dawn. |r2|"
+  },
+  {
+    "player_input": "How's the storm?",
+    "npc_output": "It's getting worse, I'm tired and anxious. Can you repair the smooth house during construction for me? |r1|"
+  },
+  {
+    "player_input": "What's happening in the city?",
+    "npc_output": "There's a lot going on, but I'm bored. I wish you could attend the proud debt in the city for me. |r1|"
+  },
+  {
+    "player_input": "Is it a good time to fish?",
+    "npc_output": "It's foggy, but you can try. I need you to catch the early catch before storm. |r1|"
+  },
+  {
+    "player_input": "Can I help you with something?",
+    "npc_output": "Yes, please. I need you to wait the dirty hope before meal. |r1|"
+  },
+  {
+    "player_input": "What's the best way to hunt?",
+    "npc_output": "You should track the rugged arrow before sunset. It's foggy, so be careful."
+  },
+  {
+    "player_input": "Do you want to perform?",
+    "npc_output": "Yes, I'd love to recite the colorful instrument after dinner. It would be great entertainment."
+  },
+  {
+    "player_input": "What's for lunch?",
+    "npc_output": "I'm cooking something special, but I need you to season the crispy dessert before feast. |r1|"
+  },
+  {
+    "player_input": "Do you have a delivery for me?",
+    "npc_output": "Yes, I need to deliver the punctual letter at dawn. It's urgent."
+  }
+]

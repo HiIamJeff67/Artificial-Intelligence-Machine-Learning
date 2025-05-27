@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "What's your role?",
+    "npc_output": "I'm a witch, be careful."
+  },
+  {
+    "player_input": "Need help?",
+    "npc_output": "Yes, |r1| if you can."
+  },
+  {
+    "player_input": "What's your favorite hobby?",
+    "npc_output": "I love painting and magic."
+  },
+  {
+    "player_input": "How's the fishing?",
+    "npc_output": "It's tough, but I caught something.|r1|"
+  },
+  {
+    "player_input": "Want to joke around?",
+    "npc_output": "Let's tease the silly mask at the festival.|r1|"
+  },
+  {
+    "player_input": "What's the plan?",
+    "npc_output": "We need to escape the cunning loot before dawn.|r1|"
+  },
+  {
+    "player_input": "Do you need help with cooking?",
+    "npc_output": "Actually, I need to pour the festive banquet before festival.|r1|"
+  },
+  {
+    "player_input": "How's the sailing?",
+    "npc_output": "It's calm, but we need to load the strong rope on the ship.|r2|"
+  },
+  {
+    "player_input": "What's the message?",
+    "npc_output": "I need to deliver the reliable parcel on the road.|r3|"
+  },
+  {
+    "player_input": "What's the catch?",
+    "npc_output": "We're fishing for the patient fish at the river.|r5|"
+  }
+]

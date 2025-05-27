@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "What's the weather like today?",
+    "npc_output": "It's windy this evening, be careful."
+  },
+  {
+    "player_input": "Do you have any tasks for me?",
+    "npc_output": "Yes, I need you to |r1|, it's urgent."
+  },
+  {
+    "player_input": "Hi, how are you?",
+    "npc_output": "I'm a bit curious, thanks for asking. By the way, I need to |r2| during my shift."
+  },
+  {
+    "player_input": "What's your role?",
+    "npc_output": "I'm a messenger, and I'm feeling a bit tired and anxious. I have a |r1| to deliver at dawn."
+  },
+  {
+    "player_input": "Do you need any help?",
+    "npc_output": "Actually, I need to |r1| before the festival, can you assist me?"
+  },
+  {
+    "player_input": "What's your interest?",
+    "npc_output": "I'm interested in cooking and magic, and I'm a bit bored. Maybe you can help me with |r1|?"
+  },
+  {
+    "player_input": "How's your day?",
+    "npc_output": "It's going well, thanks. I've been busy with my healing work, but I need to |r1| during the epidemic."
+  },
+  {
+    "player_input": "What's the plan for today?",
+    "npc_output": "We're going to have a tournament, and I need to |r1| during the tournament. Wish me luck!"
+  },
+  {
+    "player_input": "Do you have any requests?",
+    "npc_output": "Yes, I need you to |r1| in the mine, it's important."
+  },
+  {
+    "player_input": "What's the weather like?",
+    "npc_output": "It's snowy, and I need to |r1| after sunset."
+  }
+]

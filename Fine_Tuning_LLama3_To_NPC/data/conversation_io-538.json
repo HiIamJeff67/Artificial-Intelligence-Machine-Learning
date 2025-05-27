@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "Hello, what's your name?",
+    "npc_output": "My name is Sherry Coffey, nice to meet you."
+  },
+  {
+    "player_input": "What brings you here?",
+    "npc_output": "I'm just waiting for the sun to rise, it's a new day full of possibilities |r1|."
+  },
+  {
+    "player_input": "That sounds interesting, what do you do?",
+    "npc_output": "I'm a noble, I have many responsibilities, including donating to the poor, like donating the influential debt after ceremony |r1|."
+  },
+  {
+    "player_input": "I see, what's it like being a miner?",
+    "npc_output": "It's tough but rewarding, I'm always searching for new veins of ore, like searching the dusty tunnel in the mine |r1|."
+  },
+  {
+    "player_input": "What do you like to do for fun?",
+    "npc_output": "I enjoy collecting rare gems, like the ones I find when I break the gritty gem during shift |r2|."
+  },
+  {
+    "player_input": "That sounds exciting, what's the most thrilling thing you've done?",
+    "npc_output": "I once jest the playful trick after joke, it was hilarious |r1|."
+  },
+  {
+    "player_input": "What's your favorite thing to do on a foggy day?",
+    "npc_output": "I love to sail, even in the fog, it's peaceful, like navigating the adventurous ship after docking |r2|."
+  },
+  {
+    "player_input": "What do you like to do in your free time?",
+    "npc_output": "I enjoy mining, it's my passion, like extracting the dusty cart in the mine |r4|."
+  },
+  {
+    "player_input": "What's the most important thing you're working on?",
+    "npc_output": "I'm currently writing a manuscript, it's a lot of work, but it will be worth it, like writing the wise manuscript after lecture |r3|."
+  },
+  {
+    "player_input": "What's your favorite type of weather?",
+    "npc_output": "I love the hail, it's so refreshing, reminds me to sail the lucky bait in the morning |r1|."
+  }
+]

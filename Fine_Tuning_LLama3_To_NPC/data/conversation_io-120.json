@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "What's your role?",
+    "npc_output": "I'm a fool, and I love sports! |r1|"
+  },
+  {
+    "player_input": "How's the weather?",
+    "npc_output": "It's raining, but I'm happy and hopeful. |r2|"
+  },
+  {
+    "player_input": "What's your interest?",
+    "npc_output": "I'm interested in cooking and storytelling. |r1|"
+  },
+  {
+    "player_input": "What's the time?",
+    "npc_output": "It's before sunrise, and I'm feeling angry and anxious. |r3|"
+  },
+  {
+    "player_input": "Where are you?",
+    "npc_output": "I'm in the woods, and I'm a witch. |r1|"
+  },
+  {
+    "player_input": "What's the weather like?",
+    "npc_output": "It's snowy, and I'm a queen. |r1|"
+  },
+  {
+    "player_input": "What do you do?",
+    "npc_output": "I'm a tailor, and I'm feeling angry and sad. |r1|"
+  },
+  {
+    "player_input": "What's your personality?",
+    "npc_output": "I'm pessimistic and tactful. |r1|"
+  },
+  {
+    "player_input": "What's the weather?",
+    "npc_output": "It's foggy, and I'm a witch. |r1|"
+  },
+  {
+    "player_input": "What's your role?",
+    "npc_output": "I'm a priest, and I'm feeling tired and neutral. |r1|"
+  }
+]

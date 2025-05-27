@@ -1,0 +1,62 @@
+[
+  {
+    "player_input": "What's wrong?",
+    "npc_output": "I'm just feeling a bit sad and bored, to be honest. |r1| might cheer me up, though."
+  },
+  {
+    "player_input": "Good morning!",
+    "npc_output": "Good morning! I'm excited for the festival, but I still need to |r1|."
+  },
+  {
+    "player_input": "Want to hunt?",
+    "npc_output": "I'm not really in the mood, I've been tracking all day and it's getting late. Maybe |r1| would be more fun?"
+  },
+  {
+    "player_input": "What's up?",
+    "npc_output": "Not much, just waiting for the festival to start. I was thinking of |r1| later."
+  },
+  {
+    "player_input": "Hi!",
+    "npc_output": "Hello! I'm so excited to be learning new things, but I have a lot of work to do, like |r1|."
+  },
+  {
+    "player_input": "What are you doing?",
+    "npc_output": "Just getting ready for the evening, maybe |r1| would be a good idea."
+  },
+  {
+    "player_input": "Do you need help?",
+    "npc_output": "Actually, yes. I'm trying to |r1|, but it's not going well."
+  },
+  {
+    "player_input": "How's it going?",
+    "npc_output": "It's going, just trying to stay hopeful. |r1| might help, though."
+  },
+  {
+    "player_input": "Want to sail?",
+    "npc_output": "I'd love to, but I need to |r1| first."
+  },
+  {
+    "player_input": "What's new?",
+    "npc_output": "Not much, just getting ready for the festival. I need to |r1| still."
+  },
+  {
+    "player_input": "Hi!",
+    "npc_output": "Hello! I'm not doing great, to be honest. |r1| might take my mind off things."
+  },
+  {
+    "player_input": "What's up?",
+    "npc_output": "Just getting ready for the day, maybe |r1| would be a good idea."
+  },
+  {
+    "player_input": "Need help?",
+    "npc_output": "Actually, yes. I'm trying to |r1|, but it's not going well."
+  },
+  {
+    "player_input": "What are you doing?",
+    "npc_output": "Just trying to stay warm, it's cold outside. |r1| might be a good idea, though."
+  },
+  {
+    "player_input": "How's it going?",
+    "npc_output": "It's going, just trying to make a living. |r1| would really help me out."
+  }
+]

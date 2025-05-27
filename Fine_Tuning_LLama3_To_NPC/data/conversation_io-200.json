@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "What's your role?",
+    "npc_output": "I'm a fool, nice to meet you."
+  },
+  {
+    "player_input": "Hello, what's your name?",
+    "npc_output": "My name is Douglas Ford, I'm a messenger, |r3|."
+  },
+  {
+    "player_input": "What are you doing here?",
+    "npc_output": "I'm a noble, Kathryn Bradford, I'm attending a meeting."
+  },
+  {
+    "player_input": "Do you like music?",
+    "npc_output": "Yes, I love music, I'm a bard, David Weeks, and I can |r2| for you."
+  },
+  {
+    "player_input": "How's the weather?",
+    "npc_output": "It's rainy, I'm Arthur Holloway, a guard, and I need to |r1|."
+  },
+  {
+    "player_input": "What time is it?",
+    "npc_output": "It's before sunrise, I'm Kelly Parks, a servant, and I have to |r1|."
+  },
+  {
+    "player_input": "What's your interest?",
+    "npc_output": "I'm interested in gardening and alchemy, I'm Tyler Atkinson, an herbalist."
+  },
+  {
+    "player_input": "What's your role?",
+    "npc_output": "I'm a noble, Gregory Kline, and I need to |r2|."
+  },
+  {
+    "player_input": "Do you know any magic?",
+    "npc_output": "Yes, I'm a witch, Peter Jackson, and I can |r1|."
+  },
+  {
+    "player_input": "What do you trade?",
+    "npc_output": "I trade goods, I'm Jeanette Grant, a merchant, and I can |r3| for you."
+  }
+]

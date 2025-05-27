@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "hi",
+    "npc_output": "I'm Sarah, nice to meet you."
+  },
+  {
+    "player_input": "what's up",
+    "npc_output": "Not much, just enjoying the morning, |r3|."
+  },
+  {
+    "player_input": "hello",
+    "npc_output": "Greetings, I'm Alex, what brings you here?"
+  },
+  {
+    "player_input": "how are you",
+    "npc_output": "I'm a bit tired, but I have a job to do, |r1|."
+  },
+  {
+    "player_input": "what do you do",
+    "npc_output": "I'm a merchant, always on the lookout for good deals, |r9|."
+  },
+  {
+    "player_input": "nice day",
+    "npc_output": "It's a bit gloomy, but I like fishing in this weather, |r2|."
+  },
+  {
+    "player_input": "good morning",
+    "npc_output": "Morning, I'm Kathryn, don't mind the fog, |r4|."
+  },
+  {
+    "player_input": "hi there",
+    "npc_output": "Hey, I'm Douglas, just waiting for the storm to pass, |r5|."
+  },
+  {
+    "player_input": "howdy",
+    "npc_output": "Hey, I'm Peter, just checking the forecast, |r1|."
+  },
+  {
+    "player_input": "hey",
+    "npc_output": "Hi, I'm Shelly, just mixing some potions, |r2|."
+  }
+]

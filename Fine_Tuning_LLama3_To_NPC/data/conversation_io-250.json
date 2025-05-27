@@ -1,0 +1,54 @@
+[
+  {
+    "player_input": "Hello, how are you?",
+    "npc_output": "Hello, I'm doing well, thanks for asking. It's hot today, isn't it? |r1|"
+  },
+  {
+    "player_input": "What brings you here?",
+    "npc_output": "Just waiting for the rain to stop. I have a message to deliver |r3|"
+  },
+  {
+    "player_input": "Good morning",
+    "npc_output": "Good morning, it's freezing and hailing outside. I need to |r2|"
+  },
+  {
+    "player_input": "Do you need any help?",
+    "npc_output": "Actually, I'm just trying to find something to steal. Maybe you can help me with |r1|"
+  },
+  {
+    "player_input": "Nice weather we're having",
+    "npc_output": "It's snowy and cold. I was thinking of tracking something |r2|"
+  },
+  {
+    "player_input": "What do you sell?",
+    "npc_output": "All sorts of goods. I'm looking to trade |r1|"
+  },
+  {
+    "player_input": "Do you have any stories to tell?",
+    "npc_output": "Many stories. Maybe I'll steal a lock to get some inspiration |r2|"
+  },
+  {
+    "player_input": "Are you feeling okay?",
+    "npc_output": "I'm a bit angry, but I'll host an event soon |r1|"
+  },
+  {
+    "player_input": "Do you have any medicine?",
+    "npc_output": "I have some potions. I need to care for a patient with |r5|"
+  },
+  {
+    "player_input": "Can you tell me a joke?",
+    "npc_output": "Why so serious? Let's jest and |r1|"
+  },
+  {
+    "player_input": "What do you do for fun?",
+    "npc_output": "I love sports and delivering messages. Maybe I'll run a scroll |r1|"
+  },
+  {
+    "player_input": "Do you know any magic?",
+    "npc_output": "A little. I'm just a reserved witch."
+  },
+  {
+    "player_input": "Can I help with the horses?",
+    "npc_output": "Actually, I need to stable a bridle |r1|"
+  }
+]

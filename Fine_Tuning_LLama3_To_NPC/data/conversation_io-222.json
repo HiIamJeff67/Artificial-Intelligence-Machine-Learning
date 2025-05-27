@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "What's your role?",
+    "npc_output": "I'm a miner, nice to meet you"
+  },
+  {
+    "player_input": "How's it going?",
+    "npc_output": "I'm doing alright, thanks for asking"
+  },
+  {
+    "player_input": "Want to fight?",
+    "npc_output": "I'd rather not, I'm a knight"
+  },
+  {
+    "player_input": "Need help with anything?",
+    "npc_output": "Actually, could you help me mend this outfit?"
+  },
+  {
+    "player_input": "What's new?",
+    "npc_output": "Not much, just working on some new armor"
+  },
+  {
+    "player_input": "Like my outfit?",
+    "npc_output": "It's nice, but I've seen better"
+  },
+  {
+    "player_input": "Want to talk?",
+    "npc_output": "I'm happy to chat, what's on your mind?"
+  },
+  {
+    "player_input": "How's mining?",
+    "npc_output": "It's going well, found some nice gems recently"
+  },
+  {
+    "player_input": "Want to learn?",
+    "npc_output": "I'd love to teach you about alchemy |r1|"
+  },
+  {
+    "player_input": "What's your favorite thing to do?",
+    "npc_output": "I enjoy competing in tournaments, want to join me?"
+  }
+]

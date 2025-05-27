@@ -1,0 +1,555 @@
+[
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "14",
+      "name": "Tina Gonzalez",
+      "role": "fisherman",
+      "moods": [
+        "sad",
+        "tired"
+      ],
+      "interests": [
+        "cooking",
+        "exploring",
+        "reading"
+      ],
+      "playerRelationship": "37",
+      "gender": "male",
+      "personalities": [
+        "meticulous",
+        "friendly"
+      ],
+      "requests": [
+        "Sail the lucky bait in the morning",
+        "Cast the weathered net in the morning",
+        "Row the early sea in the morning"
+      ]
+    },
+    "environment_informations": {
+      "weather": "sunny",
+      "time": "after sunset"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "79",
+      "name": "Alyssa Davis",
+      "role": "priest",
+      "moods": [
+        "neutral"
+      ],
+      "interests": [
+        "crafting",
+        "alchemy"
+      ],
+      "playerRelationship": "70",
+      "gender": "female",
+      "personalities": [
+        "authoritative",
+        "adventurous",
+        "calculating",
+        "eccentric"
+      ],
+      "requests": []
+    },
+    "environment_informations": {
+      "weather": "stormy",
+      "time": "in the afternoon"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "96",
+      "name": "Frank Parker",
+      "role": "fool",
+      "moods": [
+        "curious"
+      ],
+      "interests": [
+        "sports"
+      ],
+      "playerRelationship": "68",
+      "gender": "male",
+      "personalities": [
+        "adventurous",
+        "lazy",
+        "compassionate"
+      ],
+      "requests": [
+        "Jest the playful trick after joke",
+        "Mock the silly prank before sunset",
+        "Jest the loud dance at the festival"
+      ]
+    },
+    "environment_informations": {
+      "weather": "drizzle",
+      "time": "at noon"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "26",
+      "name": "Miss Megan Dyer",
+      "role": "apprentice",
+      "moods": [
+        "angry",
+        "tired"
+      ],
+      "interests": [
+        "fishing",
+        "cooking",
+        "painting",
+        "gambling"
+      ],
+      "playerRelationship": "16",
+      "gender": "male",
+      "personalities": [
+        "romantic",
+        "vengeful",
+        "pessimistic"
+      ],
+      "requests": [
+        "Observe the inexperienced test during lesson",
+        "Learn the nervous training in the morning"
+      ]
+    },
+    "environment_informations": {
+      "weather": "cloudy",
+      "time": "during the festival"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "5",
+      "name": "Micheal Duncan",
+      "role": "king",
+      "moods": [
+        "tired",
+        "neutral"
+      ],
+      "interests": [
+        "meditation",
+        "alchemy",
+        "hunting"
+      ],
+      "playerRelationship": "27",
+      "gender": "male",
+      "personalities": [
+        "brave",
+        "indecisive",
+        "dreamy",
+        "blunt"
+      ],
+      "requests": [
+        "Lead the powerful treasure at festival",
+        "Appoint the powerful court during council",
+        "Rule the noble kingdom during council",
+        "Rule the powerful kingdom in the morning",
+        "Summon the powerful throne in the morning",
+        "Command the just throne after victory",
+        "Rule the noble crown after victory",
+        "Decree the commanding festival in the throne room",
+        "Summon the noble law at festival",
+        "Judge the noble festival at festival",
+        "Judge the commanding court in the morning"
+      ]
+    },
+    "environment_informations": {
+      "weather": "sunny",
+      "time": "at dusk"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "47",
+      "name": "Douglas Ford",
+      "role": "messenger",
+      "moods": [
+        "tired",
+        "anxious"
+      ],
+      "interests": [
+        "gardening",
+        "gambling",
+        "music",
+        "reading"
+      ],
+      "playerRelationship": "34",
+      "gender": "female",
+      "personalities": [
+        "brave",
+        "sarcastic"
+      ],
+      "requests": [
+        "Run the trusted scroll at dawn",
+        "Notify the punctual news during rain",
+        "Deliver the reliable parcel on the road",
+        "Announce the swift errand at dawn",
+        "Deliver the trusted delivery after delivery",
+        "Report the urgent route after delivery",
+        "Fetch the swift scroll before sunset",
+        "Announce the punctual scroll at dawn",
+        "Run the trusted scroll after delivery",
+        "Deliver the tireless parcel after delivery",
+        "Deliver the discreet route after delivery",
+        "Deliver the punctual letter at dawn",
+        "Notify the discreet message before sunset"
+      ]
+    },
+    "environment_informations": {
+      "weather": "rainy",
+      "time": "at dawn"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "71",
+      "name": "Patrick Garza",
+      "role": "bard",
+      "moods": [
+        "hopeful",
+        "happy",
+        "anxious"
+      ],
+      "interests": [
+        "music"
+      ],
+      "playerRelationship": "74",
+      "gender": "female",
+      "personalities": [
+        "patient",
+        "diligent",
+        "stubborn"
+      ],
+      "requests": [
+        "Play the charming performance during festival",
+        "Compose the inspiring song after dinner",
+        "Sing the creative dance at the tavern",
+        "Dance the charming lyre at the tavern",
+        "Perform the witty dance during festival",
+        "Recite the melodic performance in the evening",
+        "Compose the creative song during festival",
+        "Compose the inspiring dance on stage",
+        "Dance the lively lyre at the tavern",
+        "Compose the inspiring poetry on stage",
+        "Perform the talented dance during festival",
+        "Play the charming lyre at the tavern",
+        "Recite the witty performance at the tavern",
+        "Play the inspiring story on stage"
+      ]
+    },
+    "environment_informations": {
+      "weather": "cloudy",
+      "time": "during the festival"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "89",
+      "name": "Kristi Potts",
+      "role": "carpenter",
+      "moods": [
+        "sad",
+        "bored",
+        "anxious"
+      ],
+      "interests": [
+        "gardening",
+        "collecting"
+      ],
+      "playerRelationship": "57",
+      "gender": "female",
+      "personalities": [
+        "moody",
+        "forgiving"
+      ],
+      "requests": [
+        "Saw the handcrafted plank before rain",
+        "Join the solid nail at noon",
+        "Assemble the handcrafted tool before rain",
+        "Measure the smooth plank at the workshop",
+        "Join the handcrafted house after delivery",
+        "Assemble the reliable tool after delivery",
+        "Measure the well-made tool before rain",
+        "Hammer the solid wood during construction",
+        "Measure the polished wood during construction",
+        "Join the solid plank before rain",
+        "Saw the wooden furniture after delivery",
+        "Carve the sturdy workbench at noon",
+        "Carve the sturdy wood at noon"
+      ]
+    },
+    "environment_informations": {
+      "weather": "snowy",
+      "time": "before sunrise"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "88",
+      "name": "Sarah Simmons",
+      "role": "farmer",
+      "moods": [
+        "sad",
+        "anxious"
+      ],
+      "interests": [
+        "magic",
+        "crafting",
+        "sports",
+        "dancing"
+      ],
+      "playerRelationship": "67",
+      "gender": "female",
+      "personalities": [
+        "timid"
+      ],
+      "requests": [
+        "Plant the healthy vegetable during harvest",
+        "Weed the healthy soil before rain",
+        "Water the bountiful barn after sunrise"
+      ]
+    },
+    "environment_informations": {
+      "weather": "snowy",
+      "time": "after sunset"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "24",
+      "name": "Robert Thomas",
+      "role": "witch",
+      "moods": [
+        "anxious"
+      ],
+      "interests": [
+        "gambling",
+        "meditation",
+        "storytelling",
+        "exploring",
+        "sports"
+      ],
+      "playerRelationship": "43",
+      "gender": "female",
+      "personalities": [
+        "compassionate"
+      ],
+      "requests": [
+        "Curse the dark broom in the woods",
+        "Summon the strange charm before dawn",
+        "Mix the secretive curse in the woods",
+        "Enchant the secretive spell at midnight",
+        "Cast the secretive ritual during ritual",
+        "Predict the dark herb after storm",
+        "Hex the wise broom at midnight",
+        "Brew the wise ritual in the woods",
+        "Summon the cunning broom during ritual",
+        "Predict the secretive spell before dawn",
+        "Predict the strange spell in the woods",
+        "Cast the dark charm before dawn",
+        "Mix the mysterious broom in the woods",
+        "Brew the strange herb during ritual"
+      ]
+    },
+    "environment_informations": {
+      "weather": "foggy",
+      "time": "before sunrise"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "8",
+      "name": "Kimberly Cummings",
+      "role": "farmer",
+      "moods": [
+        "happy"
+      ],
+      "interests": [
+        "gambling",
+        "music",
+        "gardening",
+        "collecting"
+      ],
+      "playerRelationship": "70",
+      "gender": "female",
+      "personalities": [
+        "greedy",
+        "eccentric"
+      ],
+      "requests": [
+        "Plow the abundant soil after sunrise",
+        "Plow the fresh soil after sunrise",
+        "Plant the fresh field in the morning"
+      ]
+    },
+    "environment_informations": {
+      "weather": "snowy",
+      "time": "at noon"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "82",
+      "name": "Jennifer Baker",
+      "role": "tailor",
+      "moods": [
+        "neutral"
+      ],
+      "interests": [
+        "hunting",
+        "fishing",
+        "gardening",
+        "trading",
+        "cooking"
+      ],
+      "playerRelationship": "36",
+      "gender": "male",
+      "personalities": [
+        "reckless",
+        "strict",
+        "eccentric",
+        "protective"
+      ],
+      "requests": [
+        "Fit the embroidered needle at noon",
+        "Cut the elegant cloak during fitting",
+        "Mend the colorful outfit at noon"
+      ]
+    },
+    "environment_informations": {
+      "weather": "cloudy",
+      "time": "during the festival"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "36",
+      "name": "Alexandria Snyder",
+      "role": "fisherman",
+      "moods": [
+        "tired"
+      ],
+      "interests": [
+        "crafting",
+        "farming",
+        "reading",
+        "music"
+      ],
+      "playerRelationship": "69",
+      "gender": "female",
+      "personalities": [
+        "authoritative",
+        "protective",
+        "jealous",
+        "humble"
+      ],
+      "requests": [
+        "Catch the early catch before storm",
+        "Bait the lucky net on the boat",
+        "Bait the salty net on the boat",
+        "Net the lucky bait before storm",
+        "Fish the patient fish at the river",
+        "Reel the steady net on the boat",
+        "Row the salty catch on the boat",
+        "Cast the weathered bait before storm",
+        "Sail the lucky fish at the river",
+        "Catch the lucky sea before storm",
+        "Fish the patient river during fishing"
+      ]
+    },
+    "environment_informations": {
+      "weather": "foggy",
+      "time": "at noon"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "41",
+      "name": "Andrea Yu",
+      "role": "farmer",
+      "moods": [
+        "hopeful"
+      ],
+      "interests": [
+        "fishing",
+        "sports"
+      ],
+      "playerRelationship": "42",
+      "gender": "male",
+      "personalities": [
+        "pessimistic"
+      ],
+      "requests": [
+        "Sow the fresh soil at the field",
+        "Sow the bountiful soil after sunrise",
+        "Plant the abundant soil after sunrise",
+        "Plant the ripe barn after sunrise",
+        "Weed the green barn in the morning",
+        "Tend the healthy plow during harvest",
+        "Plant the healthy plow after sunrise",
+        "Plant the muddy crop at the field"
+      ]
+    },
+    "environment_informations": {
+      "weather": "sunny",
+      "time": "before sunrise"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "40",
+      "name": "Melanie Fisher",
+      "role": "beggar",
+      "moods": [
+        "neutral"
+      ],
+      "interests": [
+        "meditation",
+        "cooking",
+        "alchemy",
+        "horsemanship"
+      ],
+      "playerRelationship": "88",
+      "gender": "male",
+      "personalities": [
+        "faithful"
+      ],
+      "requests": []
+    },
+    "environment_informations": {
+      "weather": "hail",
+      "time": "before sunrise"
+    },
+    "npc_output": ""
+  }
+]

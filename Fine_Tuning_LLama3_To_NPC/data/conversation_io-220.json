@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "What's your role?",
+    "npc_output": "I'm a sailor, nice to meet you.|r1|"
+  },
+  {
+    "player_input": "How's the mine?",
+    "npc_output": "It's dusty, but we're digging deep.|r2|"
+  },
+  {
+    "player_input": "Need any help?",
+    "npc_output": "Actually, I need someone to gather dried plants at sunrise.|r1|"
+  },
+  {
+    "player_input": "What's the ceremony about?",
+    "npc_output": "It's for the noble family, I need to donate some land.|r3|"
+  },
+  {
+    "player_input": "Any messages to deliver?",
+    "npc_output": "Yes, I have a parcel to carry at dawn.|r1|"
+  },
+  {
+    "player_input": "How's the road?",
+    "npc_output": "It's tough, but I need to announce some urgent news.|r1|"
+  },
+  {
+    "player_input": "What's brewing?",
+    "npc_output": "A medicinal flower, I need to mix it during spring.|r2|"
+  },
+  {
+    "player_input": "Can you build something?",
+    "npc_output": "I'm a carpenter, but I don't have any requests currently."
+  },
+  {
+    "player_input": "Need a blessing?",
+    "npc_output": "Actually, I need to heal the holy altar on holy day.|r1|"
+  },
+  {
+    "player_input": "What do you need?",
+    "npc_output": "Just some hope, I'm waiting for a meal.|r3|"
+  }
+]

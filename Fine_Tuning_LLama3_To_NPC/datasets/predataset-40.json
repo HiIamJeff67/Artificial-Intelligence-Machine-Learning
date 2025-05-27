@@ -1,0 +1,599 @@
+[
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "50",
+      "name": "Melissa Burns",
+      "role": "miner",
+      "moods": [
+        "curious"
+      ],
+      "interests": [
+        "hunting",
+        "cooking"
+      ],
+      "playerRelationship": "32",
+      "gender": "female",
+      "personalities": [
+        "submissive"
+      ],
+      "requests": [
+        "Descend the deep helmet during shift",
+        "Explore the dangerous helmet during shift",
+        "Search the dark mine during shift",
+        "Mine the rocky mine at dawn",
+        "Extract the dusty cart in the mine",
+        "Dig the dark helmet at dawn"
+      ]
+    },
+    "environment_informations": {
+      "weather": "hail",
+      "time": "at dawn"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "61",
+      "name": "Kayla Moody",
+      "role": "witch",
+      "moods": [
+        "angry"
+      ],
+      "interests": [
+        "meditation",
+        "storytelling"
+      ],
+      "playerRelationship": "90",
+      "gender": "female",
+      "personalities": [
+        "reserved"
+      ],
+      "requests": []
+    },
+    "environment_informations": {
+      "weather": "sunny",
+      "time": "in the evening"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "63",
+      "name": "April Gonzalez",
+      "role": "cook",
+      "moods": [
+        "angry",
+        "anxious"
+      ],
+      "interests": [
+        "dancing",
+        "crafting",
+        "gambling",
+        "music",
+        "cooking"
+      ],
+      "playerRelationship": "48",
+      "gender": "male",
+      "personalities": [
+        "faithful",
+        "timid",
+        "materialistic"
+      ],
+      "requests": [
+        "Season the crispy dessert before feast",
+        "Cook the savory dessert after market",
+        "Prepare the fresh meal during festival",
+        "Season the sweet dessert at noon",
+        "Prepare the spicy ingredient after market",
+        "Chop the crispy recipe during festival",
+        "Chop the sweet feast during festival",
+        "Bake the sweet meal before feast",
+        "Prepare the tasty kitchen at noon",
+        "Serve the hot bread in the kitchen",
+        "Prepare the crispy meal after market",
+        "Cook the spicy dessert before feast",
+        "Prepare the crispy kitchen after market"
+      ]
+    },
+    "environment_informations": {
+      "weather": "stormy",
+      "time": "in the afternoon"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "13",
+      "name": "Shelly Montgomery",
+      "role": "alchemist",
+      "moods": [
+        "bored"
+      ],
+      "interests": [
+        "reading",
+        "magic"
+      ],
+      "playerRelationship": "21",
+      "gender": "female",
+      "personalities": [
+        "brave",
+        "lazy"
+      ],
+      "requests": [
+        "Distill the magical formula before sunrise",
+        "Brew the colorful potion during experiment",
+        "Transmute the potent formula after market",
+        "Experiment the potent elixir at midnight",
+        "Experiment the rare formula at midnight"
+      ]
+    },
+    "environment_informations": {
+      "weather": "windy",
+      "time": "before sunrise"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "95",
+      "name": "Veronica Austin",
+      "role": "stable master",
+      "moods": [
+        "curious",
+        "bored",
+        "excited"
+      ],
+      "interests": [
+        "reading",
+        "horsemanship"
+      ],
+      "playerRelationship": "61",
+      "gender": "female",
+      "personalities": [
+        "shy",
+        "romantic",
+        "humble",
+        "calculating"
+      ],
+      "requests": [
+        "Stable the tidy bridle at dawn",
+        "Feed the tidy saddle after feeding",
+        "Stable the strong hay in the stable",
+        "Groom the patient hay during rain",
+        "Lead the reliable horse before race",
+        "Train the experienced groom before race",
+        "Clean the tidy stable in the stable",
+        "Groom the strong stall in the stable",
+        "Saddle the tidy saddle in the stable",
+        "Clean the patient hay during rain",
+        "Lead the reliable hoof in the stable",
+        "Saddle the reliable groom at dawn",
+        "Train the reliable stall before race",
+        "Clean the skilled hoof after feeding",
+        "Stable the tidy groom before race"
+      ]
+    },
+    "environment_informations": {
+      "weather": "foggy",
+      "time": "during the festival"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "73",
+      "name": "Christopher Turner",
+      "role": "tailor",
+      "moods": [
+        "hopeful",
+        "excited"
+      ],
+      "interests": [
+        "meditation"
+      ],
+      "playerRelationship": "35",
+      "gender": "female",
+      "personalities": [
+        "meticulous"
+      ],
+      "requests": [
+        "Embroider the elegant hat in the shop",
+        "Mend the colorful outfit at noon",
+        "Sew the elegant outfit before festival",
+        "Embroider the fashionable needle before festival",
+        "Measure the embroidered pattern during fitting"
+      ]
+    },
+    "environment_informations": {
+      "weather": "stormy",
+      "time": "at dusk"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "44",
+      "name": "Crystal Gonzalez",
+      "role": "thief",
+      "moods": [
+        "bored",
+        "tired",
+        "happy"
+      ],
+      "interests": [
+        "storytelling"
+      ],
+      "playerRelationship": "80",
+      "gender": "female",
+      "personalities": [
+        "ambitious",
+        "pessimistic",
+        "sarcastic",
+        "submissive",
+        "adventurous"
+      ],
+      "requests": [
+        "Steal the cunning hideout in the alley",
+        "Hide the cunning loot during festival",
+        "Steal the nimble lock at night"
+      ]
+    },
+    "environment_informations": {
+      "weather": "foggy",
+      "time": "in the afternoon"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "95",
+      "name": "Veronica Austin",
+      "role": "stable master",
+      "moods": [
+        "curious",
+        "bored",
+        "excited"
+      ],
+      "interests": [
+        "reading",
+        "horsemanship"
+      ],
+      "playerRelationship": "61",
+      "gender": "female",
+      "personalities": [
+        "shy",
+        "romantic",
+        "humble",
+        "calculating"
+      ],
+      "requests": [
+        "Stable the tidy bridle at dawn",
+        "Feed the tidy saddle after feeding",
+        "Stable the strong hay in the stable",
+        "Groom the patient hay during rain",
+        "Lead the reliable horse before race",
+        "Train the experienced groom before race",
+        "Clean the tidy stable in the stable",
+        "Groom the strong stall in the stable",
+        "Saddle the tidy saddle in the stable",
+        "Clean the patient hay during rain",
+        "Lead the reliable hoof in the stable",
+        "Saddle the reliable groom at dawn",
+        "Train the reliable stall before race",
+        "Clean the skilled hoof after feeding",
+        "Stable the tidy groom before race"
+      ]
+    },
+    "environment_informations": {
+      "weather": "snowy",
+      "time": "at noon"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "66",
+      "name": "Kelly Parks",
+      "role": "servant",
+      "moods": [
+        "tired",
+        "sad"
+      ],
+      "interests": [
+        "horsemanship",
+        "magic"
+      ],
+      "playerRelationship": "14",
+      "gender": "male",
+      "personalities": [
+        "patient",
+        "reserved",
+        "timid",
+        "outgoing"
+      ],
+      "requests": [
+        "Fetch the loyal errand before dinner",
+        "Fetch the humble tray after cleaning",
+        "Fetch the loyal task in the hall",
+        "Tidy the humble errand at the manor",
+        "Clean the busy borrow after cleaning",
+        "Deliver the humble tray in the hall",
+        "Assist the busy tray before dinner",
+        "Prepare the helpful cleaning in the hall",
+        "Arrange the humble errand before dinner"
+      ]
+    },
+    "environment_informations": {
+      "weather": "hot",
+      "time": "at dusk"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "57",
+      "name": "Shaun Gibson",
+      "role": "herbalist",
+      "moods": [
+        "neutral",
+        "anxious"
+      ],
+      "interests": [
+        "gambling",
+        "reading",
+        "crafting",
+        "trading",
+        "alchemy"
+      ],
+      "playerRelationship": "14",
+      "gender": "male",
+      "personalities": [
+        "adventurous",
+        "tactful",
+        "innovative",
+        "moody",
+        "blunt"
+      ],
+      "requests": [
+        "Crush the fresh herb in the woods",
+        "Dry the dried balm in the garden",
+        "Mix the bitter remedy during spring",
+        "Identify the dried plant in the woods",
+        "Identify the fresh plant in the woods",
+        "Brew the fragrant plant in the woods",
+        "Mix the medicinal herb at sunrise",
+        "Gather the wild herb after rain",
+        "Mix the fresh tincture in the garden",
+        "Grow the healing plant during spring",
+        "Crush the bitter root after rain",
+        "Mix the dried potion at sunrise",
+        "Brew the rare potion during spring",
+        "Dry the fresh remedy in the woods",
+        "Dry the medicinal plant at sunrise"
+      ]
+    },
+    "environment_informations": {
+      "weather": "sunny",
+      "time": "in the evening"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "38",
+      "name": "Cody Soto",
+      "role": "beggar",
+      "moods": [
+        "hopeful"
+      ],
+      "interests": [
+        "crafting",
+        "exploring",
+        "music"
+      ],
+      "playerRelationship": "72",
+      "gender": "female",
+      "personalities": [
+        "loyal",
+        "wise",
+        "playful",
+        "optimistic",
+        "generous"
+      ],
+      "requests": [
+        "Wait the dirty hope before meal",
+        "Wander the lonely companion in the evening",
+        "Wander the grateful companion in the evening",
+        "Ask the tired companion in the evening",
+        "Hope the dirty companion after rain",
+        "Ask the dirty corner in the evening",
+        "Wait the tired companion after rain",
+        "Wait the hungry blanket after rain",
+        "Hope the needy corner before meal",
+        "Beg the poor companion at the square",
+        "Beg the dirty food at the square",
+        "Wander the grateful shelter in the evening",
+        "Hope the poor blanket during festival",
+        "Beg the dirty blanket before meal",
+        "Hope the cold blanket during festival"
+      ]
+    },
+    "environment_informations": {
+      "weather": "hail",
+      "time": "at dusk"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "34",
+      "name": "Alyssa Kemp",
+      "role": "scholar",
+      "moods": [
+        "bored",
+        "curious"
+      ],
+      "interests": [
+        "horsemanship"
+      ],
+      "playerRelationship": "46",
+      "gender": "female",
+      "personalities": [
+        "greedy"
+      ],
+      "requests": []
+    },
+    "environment_informations": {
+      "weather": "snowy",
+      "time": "at dawn"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "95",
+      "name": "Veronica Austin",
+      "role": "stable master",
+      "moods": [
+        "curious",
+        "bored",
+        "excited"
+      ],
+      "interests": [
+        "reading",
+        "horsemanship"
+      ],
+      "playerRelationship": "61",
+      "gender": "female",
+      "personalities": [
+        "shy",
+        "romantic",
+        "humble",
+        "calculating"
+      ],
+      "requests": [
+        "Stable the tidy bridle at dawn",
+        "Feed the tidy saddle after feeding",
+        "Stable the strong hay in the stable",
+        "Groom the patient hay during rain",
+        "Lead the reliable horse before race",
+        "Train the experienced groom before race",
+        "Clean the tidy stable in the stable",
+        "Groom the strong stall in the stable",
+        "Saddle the tidy saddle in the stable",
+        "Clean the patient hay during rain",
+        "Lead the reliable hoof in the stable",
+        "Saddle the reliable groom at dawn",
+        "Train the reliable stall before race",
+        "Clean the skilled hoof after feeding",
+        "Stable the tidy groom before race"
+      ]
+    },
+    "environment_informations": {
+      "weather": "windy",
+      "time": "in the evening"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "5",
+      "name": "Micheal Duncan",
+      "role": "king",
+      "moods": [
+        "tired",
+        "neutral"
+      ],
+      "interests": [
+        "meditation",
+        "alchemy",
+        "hunting"
+      ],
+      "playerRelationship": "27",
+      "gender": "male",
+      "personalities": [
+        "brave",
+        "indecisive",
+        "dreamy",
+        "blunt"
+      ],
+      "requests": [
+        "Lead the powerful treasure at festival",
+        "Appoint the powerful court during council",
+        "Rule the noble kingdom during council",
+        "Rule the powerful kingdom in the morning",
+        "Summon the powerful throne in the morning",
+        "Command the just throne after victory",
+        "Rule the noble crown after victory",
+        "Decree the commanding festival in the throne room",
+        "Summon the noble law at festival",
+        "Judge the noble festival at festival",
+        "Judge the commanding court in the morning"
+      ]
+    },
+    "environment_informations": {
+      "weather": "snowy",
+      "time": "at noon"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "76",
+      "name": "Thomas Myers",
+      "role": "merchant",
+      "moods": [
+        "neutral"
+      ],
+      "interests": [
+        "reading",
+        "meditation"
+      ],
+      "playerRelationship": "51",
+      "gender": "male",
+      "personalities": [
+        "skeptical",
+        "pessimistic",
+        "tactful",
+        "shy",
+        "calculating"
+      ],
+      "requests": [
+        "Import the profitable spice on the road",
+        "Bargain the foreign spice during festival",
+        "Sell the luxurious permit at the market",
+        "Bargain the expensive trade in the city",
+        "Buy the expensive permit on the road",
+        "Travel the luxurious caravan at the market",
+        "Sell the luxurious goods in the city",
+        "Travel the foreign stall on the road",
+        "Export the foreign stall in the city",
+        "Bargain the profitable stall during festival",
+        "Sell the profitable goods before sunset",
+        "Buy the profitable spice on the road",
+        "Sell the expensive market during festival",
+        "Bargain the cheap permit on the road"
+      ]
+    },
+    "environment_informations": {
+      "weather": "stormy",
+      "time": "at midnight"
+    },
+    "npc_output": ""
+  }
+]

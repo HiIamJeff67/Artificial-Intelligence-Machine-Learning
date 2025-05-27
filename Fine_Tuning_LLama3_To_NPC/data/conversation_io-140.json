@@ -1,0 +1,62 @@
+[
+  {
+    "player_input": "Hi, what's up?",
+    "npc_output": "I'm feeling a bit bored, to be honest. |r1|"
+  },
+  {
+    "player_input": "How's the mine?",
+    "npc_output": "It's been a tough morning so far. |r1|"
+  },
+  {
+    "player_input": "Your Majesty, how are you?",
+    "npc_output": "I'm tired, but I have a lot of work to do. |r1|"
+  },
+  {
+    "player_input": "Do you need any help?",
+    "npc_output": "Actually, I could use some company. |r1|"
+  },
+  {
+    "player_input": "What's going on?",
+    "npc_output": "Not much, just trying to stay warm. |r1|"
+  },
+  {
+    "player_input": "Want to go fishing?",
+    "npc_output": "That sounds great, I love fishing! |r1|"
+  },
+  {
+    "player_input": "How's the kitchen?",
+    "npc_output": "It's been a bit chaotic today. |r1|"
+  },
+  {
+    "player_input": "Do you need any assistance?",
+    "npc_output": "Actually, I could use some help with the debt. |r1|"
+  },
+  {
+    "player_input": "What are you studying?",
+    "npc_output": "I'm researching alchemy. |r1|"
+  },
+  {
+    "player_input": "Want to trade?",
+    "npc_output": "I'm not sure, what do you have to offer? |r1|"
+  },
+  {
+    "player_input": "How's the temple?",
+    "npc_output": "It's quiet, as usual. |r1|"
+  },
+  {
+    "player_input": "Want to sail with me?",
+    "npc_output": "I'd love to, but I have to anchor the ship first. |r1|"
+  },
+  {
+    "player_input": "Do you have any messages?",
+    "npc_output": "Actually, I have a few deliveries to make. |r1|"
+  },
+  {
+    "player_input": "Want to buy something?",
+    "npc_output": "I'm not sure, what are you selling? |r1|"
+  },
+  {
+    "player_input": "What's new?",
+    "npc_output": "Not much, just experimenting with some new formulas. |r1|"
+  }
+]

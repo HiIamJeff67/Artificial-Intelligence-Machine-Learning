@@ -1,0 +1,58 @@
+[
+  {
+    "player_input": "What's wrong",
+    "npc_output": "I'm just feeling a bit sad and anxious about the stormy weather, it's been affecting my farming work |r1|"
+  },
+  {
+    "player_input": "Hello",
+    "npc_output": "Hi, isn't it lovely to see the sun shining at dusk? I was thinking of going for a walk"
+  },
+  {
+    "player_input": "How's fishing",
+    "npc_output": "It's been tough, the fish aren't biting this time of day, but I'm going to try my luck again soon |r2|"
+  },
+  {
+    "player_input": "Any messages",
+    "npc_output": "Actually, I need to report the punctual scroll before sunset, it's very urgent |r1|"
+  },
+  {
+    "player_input": "Do you need help",
+    "npc_output": "Yes, I could use some assistance with stabling the tidy bridle at dawn, would you be willing to lend a hand? |r1|"
+  },
+  {
+    "player_input": "What's on your mind",
+    "npc_output": "I'm just feeling a bit angry and tired, but I have to host the generous estate before council, it's a big responsibility |r1|"
+  },
+  {
+    "player_input": "Welcome to the inn",
+    "npc_output": "Thank you, I'm glad to be here, and I need to serve the welcoming feast after sunset, it's going to be a busy night |r2|"
+  },
+  {
+    "player_input": "Do you need any help",
+    "npc_output": "Actually, I could use some assistance with healing the holy altar on holy day, it's a big ceremony |r1|"
+  },
+  {
+    "player_input": "What's new",
+    "npc_output": "Just working on some new clothes, I need to embroider the elegant hat in the shop, it's a complex design |r1|"
+  },
+  {
+    "player_input": "How's the soil",
+    "npc_output": "It's perfect for planting, I need to plow the abundant soil after sunrise, want to join me? |r1|"
+  },
+  {
+    "player_input": "Do you need any help",
+    "npc_output": "Actually, I could use some assistance with designing the fine hat after delivery, it's a tough design |r1|"
+  },
+  {
+    "player_input": "What's on your mind",
+    "npc_output": "I'm just feeling a bit angry and bored, but I have to host the generous estate before council, it's a big responsibility |r1|"
+  },
+  {
+    "player_input": "What's the weather like",
+    "npc_output": "It's looking a bit rough, I need to repair the rowdy storm during storm, want to help me? |r1|"
+  },
+  {
+    "player_input": "Do you need any help",
+    "npc_output": "No, I'm just doing some crafting, but thank you for offering"
+  }
+]

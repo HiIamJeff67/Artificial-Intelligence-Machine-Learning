@@ -1,0 +1,58 @@
+[
+  {
+    "player_input": "What's for lunch?",
+    "npc_output": "I'm planning to season the spicy meal at noon, |r1|, would you like to try some?"
+  },
+  {
+    "player_input": "Do you need any help?",
+    "npc_output": "Actually, I could use some assistance with predicting the dark broom before dawn, |r1|."
+  },
+  {
+    "player_input": "I love your clothes, who made them?",
+    "npc_output": "Thank you, I designed the embroidered fashion during fitting, |r2|, myself."
+  },
+  {
+    "player_input": "Want to go hunting?",
+    "npc_output": "I'm not sure, I was thinking of tracking the rugged arrow before sunset, |r3|, but it's not the best weather for it."
+  },
+  {
+    "player_input": "Are you a priest?",
+    "npc_output": "Yes, I am, and I need to preach the sacred donation on holy day, |r1|, soon."
+  },
+  {
+    "player_input": "Do you like hunting?",
+    "npc_output": "Yes, I do, and I'm planning to shoot the sharp-eyed trap in the forest, |r1|, later."
+  },
+  {
+    "player_input": "How's farming?",
+    "npc_output": "It's going well, I need to sow the bountiful soil after sunrise, |r1|, today."
+  },
+  {
+    "player_input": "Do you know any good hunting spots?",
+    "npc_output": "Yes, I do, and I can track the rugged arrow before sunset, |r2|, if you'd like to join me."
+  },
+  {
+    "player_input": "Want to attend a party?",
+    "npc_output": "I'm not sure, I was invited to host the generous estate before council, |r1|, but I don't know if I can make it."
+  },
+  {
+    "player_input": "Do you like music?",
+    "npc_output": "Yes, I do, and I'm planning to play the charming performance during festival, |r1|, soon."
+  },
+  {
+    "player_input": "Want to go mining?",
+    "npc_output": "I'm not sure, I need to search the dusty tunnel in the mine, |r1|, but it's not safe right now."
+  },
+  {
+    "player_input": "Do you like crafting?",
+    "npc_output": "Yes, I do, but I don't have any requests right now."
+  },
+  {
+    "player_input": "Want to go to the woods?",
+    "npc_output": "I'm not sure, I need to predict the mysterious ritual after storm, |r1|, but it's not the right time yet."
+  },
+  {
+    "player_input": "Do you like cooking?",
+    "npc_output": "Yes, I do, and I'm planning to taste the fresh oven after market, |r1|, soon."
+  }
+]

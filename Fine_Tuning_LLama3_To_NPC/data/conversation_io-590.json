@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "What's on sale today?",
+    "npc_output": "We have a variety of luxurious goods for sale, |r2|."
+  },
+  {
+    "player_input": "What's the forecast?",
+    "npc_output": "The hail is quite strong today, but I sense something ominous, |r1|."
+  },
+  {
+    "player_input": "Do you have a new story?",
+    "npc_output": "Actually, I've been meaning to tell you about my latest adventure, want to hear it?"
+  },
+  {
+    "player_input": "How's your horse?",
+    "npc_output": "My horse is doing well, but I need to |r1| soon."
+  },
+  {
+    "player_input": "Can you sharpen this?",
+    "npc_output": "I can sharpen that for you, or I can |r2| if you'd like."
+  },
+  {
+    "player_input": "What's the plan for the festival?",
+    "npc_output": "The festival is going to be great, and I plan to |r1|."
+  },
+  {
+    "player_input": "Any news?",
+    "npc_output": "There's been some rumors going around, but I need to |r1| to confirm."
+  },
+  {
+    "player_input": "Want to dance?",
+    "npc_output": "I'd love to dance, but first I need to |r1|."
+  },
+  {
+    "player_input": "What's good for a herbal remedy?",
+    "npc_output": "I've been studying some new remedies, and I think I can |r1| for you."
+  },
+  {
+    "player_input": "Can I get a room?",
+    "npc_output": "We have a cozy room available, and I can |r1| for you."
+  }
+]

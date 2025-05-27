@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "What's up Gary?",
+    "npc_output": "Not much, just feeling a bit tired from the festival preparations. |r1|"
+  },
+  {
+    "player_input": "Need help with dinner, Katherine?",
+    "npc_output": "Actually, I could use some assistance with seasoning the spicy meal at noon. Care to lend a hand?"
+  },
+  {
+    "player_input": "All quiet, Arthur?",
+    "npc_output": "Yes, all secure here. Although I could use some company on my patrol of the secure shield in the city. |r3|"
+  },
+  {
+    "player_input": "Big day, Karen?",
+    "npc_output": "You could say that! I have to report the punctual scroll before sunset. Wish me luck! |r1|"
+  },
+  {
+    "player_input": "New outfit, Christopher?",
+    "npc_output": "Indeed! I'm working on embroidering the elegant hat in the shop. It's going to be a masterpiece! |r1|"
+  },
+  {
+    "player_input": "Catch anything, Linda?",
+    "npc_output": "Not yet, but I'm hoping to soon. I've set up a sharp-eyed trap in the forest. |r1|"
+  },
+  {
+    "player_input": "What's brewing, Shaun?",
+    "npc_output": "Just mixing up some fresh herbs in the woods. Care to take a look? |r2|"
+  },
+  {
+    "player_input": "Study hard, Alyssa?",
+    "npc_output": "Always! Though I'm feeling a bit bored at the moment. Nothing a good book can't cure."
+  },
+  {
+    "player_input": "Big ceremony, Gregory?",
+    "npc_output": "Indeed it is! I need to donate the influential debt after the ceremony. |r1|"
+  },
+  {
+    "player_input": "New song, Jillian?",
+    "npc_output": "Actually, I'm composing a new piece. Perhaps I'll play the charming story during festival. |r5|"
+  }
+]

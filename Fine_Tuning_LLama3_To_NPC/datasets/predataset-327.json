@@ -1,0 +1,601 @@
+[
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "31",
+      "name": "Derek Freeman",
+      "role": "miner",
+      "moods": [
+        "angry",
+        "excited"
+      ],
+      "interests": [
+        "collecting"
+      ],
+      "playerRelationship": "2",
+      "gender": "male",
+      "personalities": [
+        "adventurous",
+        "forgiving",
+        "curious",
+        "playful"
+      ],
+      "requests": [
+        "Search the dusty tunnel in the mine",
+        "Break the gritty gem during shift",
+        "Explore the dark stone at dawn",
+        "Haul the deep mine after cave-in",
+        "Extract the dangerous mine during shift",
+        "Search the dusty ore at dawn",
+        "Explore the deep helmet before sunset",
+        "Break the dangerous helmet during shift",
+        "Search the rocky gem at dawn",
+        "Descend the dark pickaxe before sunset",
+        "Break the rocky gem before sunset",
+        "Break the hidden gem before sunset",
+        "Dig the dark ore after cave-in",
+        "Search the gritty ore at dawn",
+        "Haul the hidden pickaxe at dawn"
+      ]
+    },
+    "environment_informations": {
+      "weather": "drizzle",
+      "time": "after sunset"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "57",
+      "name": "Shaun Gibson",
+      "role": "herbalist",
+      "moods": [
+        "neutral",
+        "anxious"
+      ],
+      "interests": [
+        "gambling",
+        "reading",
+        "crafting",
+        "trading",
+        "alchemy"
+      ],
+      "playerRelationship": "14",
+      "gender": "male",
+      "personalities": [
+        "adventurous",
+        "tactful",
+        "innovative",
+        "moody",
+        "blunt"
+      ],
+      "requests": [
+        "Crush the fresh herb in the woods",
+        "Dry the dried balm in the garden",
+        "Mix the bitter remedy during spring",
+        "Identify the dried plant in the woods",
+        "Identify the fresh plant in the woods",
+        "Brew the fragrant plant in the woods",
+        "Mix the medicinal herb at sunrise",
+        "Gather the wild herb after rain",
+        "Mix the fresh tincture in the garden",
+        "Grow the healing plant during spring",
+        "Crush the bitter root after rain",
+        "Mix the dried potion at sunrise",
+        "Brew the rare potion during spring",
+        "Dry the fresh remedy in the woods",
+        "Dry the medicinal plant at sunrise"
+      ]
+    },
+    "environment_informations": {
+      "weather": "stormy",
+      "time": "at dusk"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "12",
+      "name": "Tyler Atkinson",
+      "role": "herbalist",
+      "moods": [
+        "curious"
+      ],
+      "interests": [
+        "gardening",
+        "alchemy"
+      ],
+      "playerRelationship": "50",
+      "gender": "female",
+      "personalities": [
+        "meticulous",
+        "strict",
+        "sarcastic"
+      ],
+      "requests": [
+        "Grow the medicinal herb in the woods",
+        "Crush the rare herb at sunrise",
+        "Gather the fresh flower during spring",
+        "Crush the fragrant remedy in the garden",
+        "Identify the dried potion at sunrise",
+        "Identify the wild balm during spring",
+        "Gather the fragrant tincture in the garden"
+      ]
+    },
+    "environment_informations": {
+      "weather": "drizzle",
+      "time": "in the evening"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "91",
+      "name": "Noah Mann",
+      "role": "innkeeper",
+      "moods": [
+        "tired",
+        "angry"
+      ],
+      "interests": [
+        "crafting",
+        "trading"
+      ],
+      "playerRelationship": "98",
+      "gender": "female",
+      "personalities": [
+        "stubborn",
+        "faithful",
+        "sarcastic",
+        "eccentric"
+      ],
+      "requests": [
+        "Prepare the festive banquet after sunset",
+        "Host the cozy music after sunset",
+        "Cook the clean parade before festival"
+      ]
+    },
+    "environment_informations": {
+      "weather": "hot",
+      "time": "at dusk"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "63",
+      "name": "April Gonzalez",
+      "role": "cook",
+      "moods": [
+        "angry",
+        "anxious"
+      ],
+      "interests": [
+        "dancing",
+        "crafting",
+        "gambling",
+        "music",
+        "cooking"
+      ],
+      "playerRelationship": "48",
+      "gender": "male",
+      "personalities": [
+        "faithful",
+        "timid",
+        "materialistic"
+      ],
+      "requests": [
+        "Season the crispy dessert before feast",
+        "Cook the savory dessert after market",
+        "Prepare the fresh meal during festival",
+        "Season the sweet dessert at noon",
+        "Prepare the spicy ingredient after market",
+        "Chop the crispy recipe during festival",
+        "Chop the sweet feast during festival",
+        "Bake the sweet meal before feast",
+        "Prepare the tasty kitchen at noon",
+        "Serve the hot bread in the kitchen",
+        "Prepare the crispy meal after market",
+        "Cook the spicy dessert before feast",
+        "Prepare the crispy kitchen after market"
+      ]
+    },
+    "environment_informations": {
+      "weather": "cloudy",
+      "time": "at dusk"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "100",
+      "name": "Pamela Sherman",
+      "role": "scholar",
+      "moods": [
+        "excited"
+      ],
+      "interests": [
+        "alchemy"
+      ],
+      "playerRelationship": "71",
+      "gender": "male",
+      "personalities": [
+        "playful",
+        "moody",
+        "protective",
+        "diligent"
+      ],
+      "requests": [
+        "Translate the curious library before exam",
+        "Read the innovative study before exam",
+        "Write the wise manuscript after lecture",
+        "Teach the reserved book at night",
+        "Write the thoughtful debate at night",
+        "Record the learned manuscript during study",
+        "Translate the diligent book at night",
+        "Record the reserved study in the library",
+        "Research the ancient knowledge during study",
+        "Research the curious book during study",
+        "Teach the reserved knowledge in the library",
+        "Teach the wise library before exam",
+        "Write the reserved knowledge at night",
+        "Translate the reserved library during study",
+        "Translate the ancient study at night"
+      ]
+    },
+    "environment_informations": {
+      "weather": "stormy",
+      "time": "at midnight"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "66",
+      "name": "Kelly Parks",
+      "role": "servant",
+      "moods": [
+        "tired",
+        "sad"
+      ],
+      "interests": [
+        "horsemanship",
+        "magic"
+      ],
+      "playerRelationship": "14",
+      "gender": "male",
+      "personalities": [
+        "patient",
+        "reserved",
+        "timid",
+        "outgoing"
+      ],
+      "requests": [
+        "Fetch the loyal errand before dinner",
+        "Fetch the humble tray after cleaning",
+        "Fetch the loyal task in the hall",
+        "Tidy the humble errand at the manor",
+        "Clean the busy borrow after cleaning",
+        "Deliver the humble tray in the hall",
+        "Assist the busy tray before dinner",
+        "Prepare the helpful cleaning in the hall",
+        "Arrange the humble errand before dinner"
+      ]
+    },
+    "environment_informations": {
+      "weather": "stormy",
+      "time": "after sunset"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "51",
+      "name": "Gary Johnson",
+      "role": "scholar",
+      "moods": [
+        "hopeful",
+        "neutral",
+        "tired"
+      ],
+      "interests": [
+        "trading",
+        "fishing",
+        "farming",
+        "gardening",
+        "horsemanship"
+      ],
+      "playerRelationship": "73",
+      "gender": "male",
+      "personalities": [
+        "outgoing",
+        "moody"
+      ],
+      "requests": [
+        "Teach the learned study at night",
+        "Research the diligent manuscript at night",
+        "Record the diligent library in the library",
+        "Write the innovative library after lecture",
+        "Read the thoughtful research at night",
+        "Debate the diligent knowledge before exam",
+        "Read the reserved manuscript during study",
+        "Record the diligent knowledge before exam"
+      ]
+    },
+    "environment_informations": {
+      "weather": "snowy",
+      "time": "in the evening"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "86",
+      "name": "Jennifer Allen",
+      "role": "thief",
+      "moods": [
+        "excited",
+        "sad"
+      ],
+      "interests": [
+        "dancing"
+      ],
+      "playerRelationship": "3",
+      "gender": "male",
+      "personalities": [
+        "lazy",
+        "pessimistic",
+        "humble"
+      ],
+      "requests": [
+        "Escape the cunning loot before dawn",
+        "Pick the clever lock before dawn",
+        "Steal the sneaky crime after curfew",
+        "Disguise the sneaky crime at night",
+        "Unlock the silent hideout in the alley",
+        "Steal the nimble mask in the alley",
+        "Hide the quick lock in the alley",
+        "Escape the sneaky lock after curfew",
+        "Disguise the nimble secret at night"
+      ]
+    },
+    "environment_informations": {
+      "weather": "hot",
+      "time": "during the festival"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "66",
+      "name": "Kelly Parks",
+      "role": "servant",
+      "moods": [
+        "tired",
+        "sad"
+      ],
+      "interests": [
+        "horsemanship",
+        "magic"
+      ],
+      "playerRelationship": "14",
+      "gender": "male",
+      "personalities": [
+        "patient",
+        "reserved",
+        "timid",
+        "outgoing"
+      ],
+      "requests": [
+        "Fetch the loyal errand before dinner",
+        "Fetch the humble tray after cleaning",
+        "Fetch the loyal task in the hall",
+        "Tidy the humble errand at the manor",
+        "Clean the busy borrow after cleaning",
+        "Deliver the humble tray in the hall",
+        "Assist the busy tray before dinner",
+        "Prepare the helpful cleaning in the hall",
+        "Arrange the humble errand before dinner"
+      ]
+    },
+    "environment_informations": {
+      "weather": "windy",
+      "time": "at dawn"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "6",
+      "name": "Glenda Moss",
+      "role": "merchant",
+      "moods": [
+        "hopeful"
+      ],
+      "interests": [
+        "alchemy",
+        "meditation",
+        "hunting",
+        "trading"
+      ],
+      "playerRelationship": "78",
+      "gender": "male",
+      "personalities": [
+        "sarcastic",
+        "greedy",
+        "cautious"
+      ],
+      "requests": [
+        "Sell the expensive market during festival",
+        "Sell the luxurious goods in the city"
+      ]
+    },
+    "environment_informations": {
+      "weather": "rainy",
+      "time": "at dawn"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "6",
+      "name": "Glenda Moss",
+      "role": "merchant",
+      "moods": [
+        "hopeful"
+      ],
+      "interests": [
+        "alchemy",
+        "meditation",
+        "hunting",
+        "trading"
+      ],
+      "playerRelationship": "78",
+      "gender": "male",
+      "personalities": [
+        "sarcastic",
+        "greedy",
+        "cautious"
+      ],
+      "requests": [
+        "Sell the expensive market during festival",
+        "Sell the luxurious goods in the city"
+      ]
+    },
+    "environment_informations": {
+      "weather": "snowy",
+      "time": "at noon"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "56",
+      "name": "Mrs. Kathleen Smith",
+      "role": "scholar",
+      "moods": [
+        "anxious",
+        "sad",
+        "tired"
+      ],
+      "interests": [
+        "painting",
+        "magic",
+        "meditation",
+        "collecting",
+        "fishing"
+      ],
+      "playerRelationship": "63",
+      "gender": "female",
+      "personalities": [
+        "pessimistic",
+        "tactful",
+        "adventurous",
+        "strict",
+        "protective"
+      ],
+      "requests": [
+        "Research the ancient debate at night",
+        "Write the reserved manuscript before exam",
+        "Study the innovative study during study",
+        "Research the curious book during study",
+        "Research the innovative scroll during study",
+        "Translate the diligent book at night",
+        "Write the curious study in the library",
+        "Record the ancient study before exam",
+        "Teach the reserved book at night",
+        "Teach the reserved debate in the library"
+      ]
+    },
+    "environment_informations": {
+      "weather": "hail",
+      "time": "in the morning"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "62",
+      "name": "Craig Coleman",
+      "role": "fisherman",
+      "moods": [
+        "tired"
+      ],
+      "interests": [
+        "hunting",
+        "music",
+        "exploring"
+      ],
+      "playerRelationship": "31",
+      "gender": "male",
+      "personalities": [
+        "cautious",
+        "blunt",
+        "curious",
+        "romantic",
+        "vengeful"
+      ],
+      "requests": [
+        "Catch the wet sea at the river",
+        "Row the salty catch on the boat",
+        "Net the early river at the river",
+        "Bait the wet sea before storm"
+      ]
+    },
+    "environment_informations": {
+      "weather": "snowy",
+      "time": "during the festival"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "54",
+      "name": "Mandy Silva",
+      "role": "witch",
+      "moods": [
+        "curious"
+      ],
+      "interests": [
+        "meditation"
+      ],
+      "playerRelationship": "90",
+      "gender": "female",
+      "personalities": [
+        "compassionate",
+        "forgiving"
+      ],
+      "requests": [
+        "Hex the strange ritual at midnight",
+        "Cast the strange curse after storm",
+        "Brew the cunning herb in the woods",
+        "Summon the powerful ritual at midnight",
+        "Curse the powerful curse during ritual",
+        "Predict the strange broom after storm",
+        "Predict the strange spell before dawn",
+        "Mix the strange charm during ritual",
+        "Mix the cunning ritual in the woods",
+        "Curse the ancient herb after storm"
+      ]
+    },
+    "environment_informations": {
+      "weather": "hail",
+      "time": "in the morning"
+    },
+    "npc_output": ""
+  }
+]

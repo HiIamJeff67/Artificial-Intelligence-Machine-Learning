@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "Hi, what's up?",
+    "npc_output": "Not much, just tired after a long day of farming. The foggy weather doesn't help."
+  },
+  {
+    "player_input": "What are you doing?",
+    "npc_output": "I'm trying to get some rest, it's been a long day of hunting and the sunny weather is making me anxious."
+  },
+  {
+    "player_input": "How's the palace?",
+    "npc_output": "It's beautiful as always, despite the hail. I need to host the elegant court before ceremony, |r1|."
+  },
+  {
+    "player_input": "What's your favorite hobby?",
+    "npc_output": "I enjoy meditation, it helps me relax. Maybe I'll brew the cunning herb in the woods later, |r3|."
+  },
+  {
+    "player_input": "Do you have any news?",
+    "npc_output": "Just the usual, trying to stay dry in this foggy weather. I should announce the urgent letter on the road, |r1|."
+  },
+  {
+    "player_input": "Want to trade?",
+    "npc_output": "Not right now, I'm trying to sell the luxurious permit at the market, |r3|. The windy weather is making it difficult."
+  },
+  {
+    "player_input": "How's work?",
+    "npc_output": "It's going well, just trying to finish this carpentry project. No requests for now, just enjoying the drizzle."
+  },
+  {
+    "player_input": "What's new?",
+    "npc_output": "Just gathering some fresh flowers for my gardening. I should crush the rare herb at sunrise, |r2|. This stormy weather is making it tricky."
+  },
+  {
+    "player_input": "Found anything interesting?",
+    "npc_output": "Actually, I found some nice gems while mining. I need to search the dusty tunnel in the mine, |r1|. The rainy weather is making it difficult."
+  },
+  {
+    "player_input": "Need help?",
+    "npc_output": "No thanks, just trying to stay warm before sunrise. No requests for now, just enjoying the quiet."
+  }
+]

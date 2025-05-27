@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "What's your favorite hobby?",
+    "npc_output": "I love cooking, it's so much fun! |r1|"
+  },
+  {
+    "player_input": "How's the weather?",
+    "npc_output": "It's sunny, perfect for delivering messages! |r2|"
+  },
+  {
+    "player_input": "What's for lunch?",
+    "npc_output": "I'm cooking something special, come taste it! |r3|"
+  },
+  {
+    "player_input": "What's your favorite book?",
+    "npc_output": "I love reading about magic, it's so fascinating! |r5|"
+  },
+  {
+    "player_input": "Do you have any herbs?",
+    "npc_output": "I have some rare ones, would you like to see? |r4|"
+  },
+  {
+    "player_input": "What's the best herb?",
+    "npc_output": "I think the medicinal one is the most useful, don't you? |r1|"
+  },
+  {
+    "player_input": "I'm bored, what can I do?",
+    "npc_output": "You can go for a ride, the weather is nice!"
+  },
+  {
+    "player_input": "Can you fix my sail?",
+    "npc_output": "I'd be happy to help you with that, let's get to work! |r1|"
+  },
+  {
+    "player_input": "What's new with you?",
+    "npc_output": "I'm designing a new hat, it's going to be amazing! |r1|"
+  },
+  {
+    "player_input": "Can I help with anything?",
+    "npc_output": "Actually, I need help with crushing some herbs, thanks for offering! |r2|"
+  }
+]

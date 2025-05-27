@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "What's wrong?",
+    "npc_output": "I'm just feeling a bit sad and tired after a long day of fishing.|r1|"
+  },
+  {
+    "player_input": "Need help?",
+    "npc_output": "Not really, just trying to prepare for the stormy weather."
+  },
+  {
+    "player_input": "Want to joke around?",
+    "npc_output": "Actually, I'd love to |r1|, it's always fun to jest and have a good time."
+  },
+  {
+    "player_input": "Tough day?",
+    "npc_output": "You have no idea, I'm so angry and tired from all the work.|r1|"
+  },
+  {
+    "player_input": "Your Majesty...",
+    "npc_output": "Ah, yes, I was thinking of |r1|, it's time to lead the powerful treasure at the festival."
+  },
+  {
+    "player_input": "Message for me?",
+    "npc_output": "Actually, I need to |r1|, it's quite urgent and important."
+  },
+  {
+    "player_input": "Play something?",
+    "npc_output": "I'd love to |r1|, music is my passion and I've been preparing for the festival."
+  },
+  {
+    "player_input": "Need a hand?",
+    "npc_output": "I could use some help with |r1|, it's not easy working with wood in this snowy weather."
+  },
+  {
+    "player_input": "How's farming?",
+    "npc_output": "It's been tough, but I need to |r1|, the soil needs care and attention."
+  },
+  {
+    "player_input": "What's brewing?",
+    "npc_output": "Just preparing for a ritual, I need to |r1| and make sure everything is ready."
+  }
+]

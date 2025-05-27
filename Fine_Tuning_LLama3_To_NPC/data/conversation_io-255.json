@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "Hi, what's up?",
+    "npc_output": "Not much, just getting ready for the festival. I need to pour the festive banquet before it starts, |r1|."
+  },
+  {
+    "player_input": "How's hunting?",
+    "npc_output": "It's been slow lately. Maybe after this rain, the animals will come out, and I can finally shoot the sharp-eyed trap in the forest, |r1|."
+  },
+  {
+    "player_input": "Hello, how are you?",
+    "npc_output": "I'm a bit down. The rain is making it hard to track the rugged arrow before sunset, |r2|."
+  },
+  {
+    "player_input": "What's cooking?",
+    "npc_output": "Just some experiments with new recipes. Nothing too exciting."
+  },
+  {
+    "player_input": "What's new with you?",
+    "npc_output": "Not much, just getting ready for the festival. I need to sing the colorful performance during festival, |r1|."
+  },
+  {
+    "player_input": "Any good fishing spots?",
+    "npc_output": "There are some good spots nearby, but the weather is not ideal. I need to reel the skilled river in the morning, |r1|."
+  },
+  {
+    "player_input": "Need any help with herbs?",
+    "npc_output": "Actually, I need to gather the dried plant at sunrise, |r1|. Want to help?"
+  },
+  {
+    "player_input": "What's on your mind?",
+    "npc_output": "Just worried about the festival. I need to gather the dried plant at sunrise, |r1|, and I'm running out of time."
+  },
+  {
+    "player_input": "Want to have some fun?",
+    "npc_output": "I'd love to! Maybe we can tease the silly mask at the festival, |r1|, and have a good laugh."
+  },
+  {
+    "player_input": "How's life as an herbalist?",
+    "npc_output": "It's been good. I've been busy brewing the medicinal flower in the woods, |r4|."
+  }
+]

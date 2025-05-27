@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "What's for breakfast?",
+    "npc_output": "Good morning! I can make you some pancakes, |r5|."
+  },
+  {
+    "player_input": "I'm cold",
+    "npc_output": "You should go back inside, it's windy and cold outside."
+  },
+  {
+    "player_input": "I'm bored",
+    "npc_output": "Well, we could go fishing or tell stories, I'm bored too."
+  },
+  {
+    "player_input": "Where are we?",
+    "npc_output": "We're on a ship, and we need to |r1|."
+  },
+  {
+    "player_input": "I'm hungry",
+    "npc_output": "Let me serve you some fresh bread, |r3|."
+  },
+  {
+    "player_input": "What's your job?",
+    "npc_output": "I'm a herbalist, I need to |r1|."
+  },
+  {
+    "player_input": "Need help?",
+    "npc_output": "Yes, I need help with |r2|, it's almost evening."
+  },
+  {
+    "player_input": "Where can I sail?",
+    "npc_output": "You can sail to the harbor, but first, |r1|."
+  },
+  {
+    "player_input": "What's your name?",
+    "npc_output": "My name is Christina, and I need to |r9|."
+  },
+  {
+    "player_input": "What's the weather?",
+    "npc_output": "It's cloudy, perfect for a noble like me to |r5|."
+  }
+]

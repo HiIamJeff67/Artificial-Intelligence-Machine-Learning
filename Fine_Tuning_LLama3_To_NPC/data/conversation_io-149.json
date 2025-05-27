@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "What's the message?",
+    "npc_output": "I need to deliver this package, |r2|."
+  },
+  {
+    "player_input": "How's your day?",
+    "npc_output": "It's been a lovely afternoon, despite the drizzle."
+  },
+  {
+    "player_input": "Found any gems?",
+    "npc_output": "Not yet, but I'm hoping to strike it rich soon."
+  },
+  {
+    "player_input": "Want to trade?",
+    "npc_output": "I'm not interested in trading right now, but thanks for offering."
+  },
+  {
+    "player_input": "Need any help?",
+    "npc_output": "Actually, I could use some assistance with |r1|."
+  },
+  {
+    "player_input": "What's for breakfast?",
+    "npc_output": "I'm not sure, but I think |r3| might be a good idea."
+  },
+  {
+    "player_input": "How's business?",
+    "npc_output": "It's been slow, but I'm hoping to pick up some new customers soon."
+  },
+  {
+    "player_input": "Want to cook?",
+    "npc_output": "I'd love to, but I need to |r4| first."
+  },
+  {
+    "player_input": "What's the news?",
+    "npc_output": "I heard that |r1| is happening soon."
+  },
+  {
+    "player_input": "How's fishing?",
+    "npc_output": "It's been good, but I need to |r2| before I can go again."
+  }
+]

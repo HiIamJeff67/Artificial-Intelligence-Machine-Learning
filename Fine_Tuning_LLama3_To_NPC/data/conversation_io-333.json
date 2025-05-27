@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "Hello, what's wrong?",
+    "npc_output": "I'm so anxious about the mine, |r1|"
+  },
+  {
+    "player_input": "What's your job?",
+    "npc_output": "I'm a witch, and I need to |r1|"
+  },
+  {
+    "player_input": "Do you like fishing?",
+    "npc_output": "Yes, I love fishing! Maybe you can help me with |r1|"
+  },
+  {
+    "player_input": "What do you like to do?",
+    "npc_output": "I like fishing and horsemanship, but now I need to |r1|"
+  },
+  {
+    "player_input": "How can I help you?",
+    "npc_output": "I need someone to |r1|"
+  },
+  {
+    "player_input": "What's your favorite hobby?",
+    "npc_output": "I love gardening, but it's hard to focus with the foggy weather"
+  },
+  {
+    "player_input": "What brings you here?",
+    "npc_output": "I'm on a mission to |r1|, care to join me?"
+  },
+  {
+    "player_input": "How's your day?",
+    "npc_output": "It's been a sad day, but I must |r1|"
+  },
+  {
+    "player_input": "What do you sell?",
+    "npc_output": "I sell all sorts of goods, and I'm looking to |r1|"
+  },
+  {
+    "player_input": "Do you need help?",
+    "npc_output": "Actually, I need someone to |r1|"
+  }
+]

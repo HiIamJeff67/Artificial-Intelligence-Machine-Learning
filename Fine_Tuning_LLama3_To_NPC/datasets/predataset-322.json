@@ -1,0 +1,528 @@
+[
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "93",
+      "name": "Matthew Hampton",
+      "role": "tailor",
+      "moods": [
+        "angry",
+        "excited"
+      ],
+      "interests": [
+        "collecting"
+      ],
+      "playerRelationship": "22",
+      "gender": "male",
+      "personalities": [
+        "submissive",
+        "protective",
+        "optimistic",
+        "dreamy",
+        "lazy"
+      ],
+      "requests": [
+        "Design the fine hat after delivery",
+        "Cut the colorful hat in the shop",
+        "Embroider the stylish pattern in the shop",
+        "Sew the colorful fashion in the shop",
+        "Fit the soft cloak during fitting"
+      ]
+    },
+    "environment_informations": {
+      "weather": "windy",
+      "time": "in the morning"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "37",
+      "name": "David Weeks",
+      "role": "bard",
+      "moods": [
+        "angry",
+        "anxious"
+      ],
+      "interests": [
+        "music",
+        "dancing",
+        "reading"
+      ],
+      "playerRelationship": "62",
+      "gender": "female",
+      "personalities": [
+        "submissive",
+        "jealous"
+      ],
+      "requests": [
+        "Recite the colorful instrument after dinner",
+        "Play the charming poetry during festival",
+        "Recite the talented lyre in the evening",
+        "Recite the talented poetry after dinner",
+        "Entertain the charming song during festival",
+        "Compose the talented song on stage",
+        "Dance the witty performance on stage"
+      ]
+    },
+    "environment_informations": {
+      "weather": "foggy",
+      "time": "in the evening"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "96",
+      "name": "Frank Parker",
+      "role": "fool",
+      "moods": [
+        "curious"
+      ],
+      "interests": [
+        "sports"
+      ],
+      "playerRelationship": "68",
+      "gender": "male",
+      "personalities": [
+        "adventurous",
+        "lazy",
+        "compassionate"
+      ],
+      "requests": [
+        "Jest the playful trick after joke",
+        "Mock the silly prank before sunset",
+        "Jest the loud dance at the festival"
+      ]
+    },
+    "environment_informations": {
+      "weather": "windy",
+      "time": "at midnight"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "53",
+      "name": "Robert Parker",
+      "role": "fisherman",
+      "moods": [
+        "excited"
+      ],
+      "interests": [
+        "painting",
+        "alchemy",
+        "trading",
+        "dancing",
+        "hunting"
+      ],
+      "playerRelationship": "82",
+      "gender": "male",
+      "personalities": [
+        "innovative",
+        "wise",
+        "ambitious"
+      ],
+      "requests": [
+        "Net the salty fish on the boat",
+        "Catch the weathered fish before storm",
+        "Catch the lucky catch during fishing",
+        "Fish the skilled boat on the boat",
+        "Reel the patient river in the morning",
+        "Fish the early river on the boat",
+        "Cast the lucky river before storm",
+        "Fish the patient fish at the river"
+      ]
+    },
+    "environment_informations": {
+      "weather": "snowy",
+      "time": "in the afternoon"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "32",
+      "name": "Gregory Kline",
+      "role": "noble",
+      "moods": [
+        "angry",
+        "tired"
+      ],
+      "interests": [
+        "meditation",
+        "painting",
+        "dancing",
+        "alchemy",
+        "gambling"
+      ],
+      "playerRelationship": "68",
+      "gender": "female",
+      "personalities": [
+        "lazy",
+        "diligent",
+        "greedy",
+        "wise"
+      ],
+      "requests": [
+        "Donate the influential debt after ceremony",
+        "Attend the proud land after ceremony",
+        "Donate the wealthy land before council",
+        "Command the arrogant title after ceremony",
+        "Invite the proud estate before council",
+        "Donate the wealthy estate at the estate",
+        "Inherit the refined invitation before council"
+      ]
+    },
+    "environment_informations": {
+      "weather": "sunny",
+      "time": "after sunset"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "50",
+      "name": "Melissa Burns",
+      "role": "miner",
+      "moods": [
+        "curious"
+      ],
+      "interests": [
+        "hunting",
+        "cooking"
+      ],
+      "playerRelationship": "32",
+      "gender": "female",
+      "personalities": [
+        "submissive"
+      ],
+      "requests": [
+        "Descend the deep helmet during shift",
+        "Explore the dangerous helmet during shift",
+        "Search the dark mine during shift",
+        "Mine the rocky mine at dawn",
+        "Extract the dusty cart in the mine",
+        "Dig the dark helmet at dawn"
+      ]
+    },
+    "environment_informations": {
+      "weather": "stormy",
+      "time": "in the afternoon"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "10",
+      "name": "Kimberly Porter",
+      "role": "noble",
+      "moods": [
+        "bored",
+        "tired",
+        "anxious"
+      ],
+      "interests": [
+        "storytelling",
+        "fishing"
+      ],
+      "playerRelationship": "81",
+      "gender": "male",
+      "personalities": [
+        "generous",
+        "innovative",
+        "indecisive"
+      ],
+      "requests": [
+        "Attend the proud debt before council",
+        "Command the arrogant title after ceremony",
+        "Attend the proud debt in the city",
+        "Invite the powerful invitation after ceremony",
+        "Donate the influential debt after ceremony",
+        "Rule the arrogant jewel in the city",
+        "Command the arrogant debt before council",
+        "Inherit the dignified jewel in the city",
+        "Invite the influential invitation after ceremony",
+        "Invite the influential servant during banquet",
+        "Invest the generous jewel after ceremony",
+        "Donate the proud debt at the estate"
+      ]
+    },
+    "environment_informations": {
+      "weather": "sunny",
+      "time": "at dawn"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "65",
+      "name": "Alex Cook",
+      "role": "fool",
+      "moods": [
+        "sad",
+        "hopeful",
+        "neutral"
+      ],
+      "interests": [
+        "dancing",
+        "reading",
+        "music",
+        "hunting"
+      ],
+      "playerRelationship": "23",
+      "gender": "female",
+      "personalities": [
+        "reckless",
+        "pessimistic",
+        "sarcastic",
+        "blunt"
+      ],
+      "requests": [
+        "Amuse the witty prank during parade"
+      ]
+    },
+    "environment_informations": {
+      "weather": "stormy",
+      "time": "during the festival"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "52",
+      "name": "Mr. George Lawrence DDS",
+      "role": "blacksmith",
+      "moods": [
+        "anxious",
+        "curious"
+      ],
+      "interests": [
+        "hunting",
+        "reading"
+      ],
+      "playerRelationship": "5",
+      "gender": "male",
+      "personalities": [
+        "materialistic"
+      ],
+      "requests": [
+        "Melt the heavy forge in the forge",
+        "Forge the hot forge in the forge",
+        "Hammer the rusty anvil during festival",
+        "Sharpen the sharp metal before noon"
+      ]
+    },
+    "environment_informations": {
+      "weather": "windy",
+      "time": "before sunrise"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "61",
+      "name": "Kayla Moody",
+      "role": "witch",
+      "moods": [
+        "angry"
+      ],
+      "interests": [
+        "meditation",
+        "storytelling"
+      ],
+      "playerRelationship": "90",
+      "gender": "female",
+      "personalities": [
+        "reserved"
+      ],
+      "requests": []
+    },
+    "environment_informations": {
+      "weather": "rainy",
+      "time": "at dusk"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "13",
+      "name": "Shelly Montgomery",
+      "role": "alchemist",
+      "moods": [
+        "bored"
+      ],
+      "interests": [
+        "reading",
+        "magic"
+      ],
+      "playerRelationship": "21",
+      "gender": "female",
+      "personalities": [
+        "brave",
+        "lazy"
+      ],
+      "requests": [
+        "Distill the magical formula before sunrise",
+        "Brew the colorful potion during experiment",
+        "Transmute the potent formula after market",
+        "Experiment the potent elixir at midnight",
+        "Experiment the rare formula at midnight"
+      ]
+    },
+    "environment_informations": {
+      "weather": "stormy",
+      "time": "in the afternoon"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "55",
+      "name": "Thomas Riley",
+      "role": "thief",
+      "moods": [
+        "curious",
+        "bored",
+        "sad"
+      ],
+      "interests": [
+        "storytelling",
+        "trading",
+        "collecting",
+        "meditation"
+      ],
+      "playerRelationship": "34",
+      "gender": "female",
+      "personalities": [
+        "optimistic",
+        "meticulous",
+        "decisive"
+      ],
+      "requests": [
+        "Steal the nimble lock at night",
+        "Steal the nimble mask in the alley",
+        "Pick the silent crime before dawn",
+        "Escape the quick disguise during festival",
+        "Escape the shadowy crime before dawn",
+        "Disguise the nimble hideout at night"
+      ]
+    },
+    "environment_informations": {
+      "weather": "snowy",
+      "time": "at dusk"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "26",
+      "name": "Miss Megan Dyer",
+      "role": "apprentice",
+      "moods": [
+        "angry",
+        "tired"
+      ],
+      "interests": [
+        "fishing",
+        "cooking",
+        "painting",
+        "gambling"
+      ],
+      "playerRelationship": "16",
+      "gender": "male",
+      "personalities": [
+        "romantic",
+        "vengeful",
+        "pessimistic"
+      ],
+      "requests": [
+        "Observe the inexperienced test during lesson",
+        "Learn the nervous training in the morning"
+      ]
+    },
+    "environment_informations": {
+      "weather": "foggy",
+      "time": "during the festival"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "41",
+      "name": "Andrea Yu",
+      "role": "farmer",
+      "moods": [
+        "hopeful"
+      ],
+      "interests": [
+        "fishing",
+        "sports"
+      ],
+      "playerRelationship": "42",
+      "gender": "male",
+      "personalities": [
+        "pessimistic"
+      ],
+      "requests": [
+        "Sow the fresh soil at the field",
+        "Sow the bountiful soil after sunrise",
+        "Plant the abundant soil after sunrise",
+        "Plant the ripe barn after sunrise",
+        "Weed the green barn in the morning",
+        "Tend the healthy plow during harvest",
+        "Plant the healthy plow after sunrise",
+        "Plant the muddy crop at the field"
+      ]
+    },
+    "environment_informations": {
+      "weather": "sunny",
+      "time": "in the afternoon"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "75",
+      "name": "James Gordon",
+      "role": "messenger",
+      "moods": [
+        "bored",
+        "angry"
+      ],
+      "interests": [
+        "trading"
+      ],
+      "playerRelationship": "69",
+      "gender": "male",
+      "personalities": [
+        "protective",
+        "sarcastic"
+      ],
+      "requests": [
+        "Announce the urgent letter on the road",
+        "Report the tireless news during rain",
+        "Notify the tireless message after delivery"
+      ]
+    },
+    "environment_informations": {
+      "weather": "snowy",
+      "time": "before sunrise"
+    },
+    "npc_output": ""
+  }
+]

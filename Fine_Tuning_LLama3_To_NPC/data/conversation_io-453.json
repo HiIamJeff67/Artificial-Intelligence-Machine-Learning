@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "What's your favorite music?",
+    "npc_output": "I love music, especially the charming performances during festival. By the way, |r1| would be wonderful right now."
+  },
+  {
+    "player_input": "How's your day?",
+    "npc_output": "It's been a great day so far, thanks for asking! The sunny weather is lovely."
+  },
+  {
+    "player_input": "Need any help?",
+    "npc_output": "Actually, I was thinking of attending the proud debt in the city, but I'm not sure if I can make it alone."
+  },
+  {
+    "player_input": "What's the festival like?",
+    "npc_output": "It's amazing! The festive atmosphere is perfect for pouring the festive banquet before festival, which is one of my tasks, |r1|."
+  },
+  {
+    "player_input": "Do you have a moment to talk?",
+    "npc_output": "I'm a bit busy, but I can spare a minute. I have to heal the holy faith during ceremony later, |r1|."
+  },
+  {
+    "player_input": "What brings you here?",
+    "npc_output": "Just enjoying the foggy evening. It's a great time to think about horsemanship, my favorite topic."
+  },
+  {
+    "player_input": "How's fishing today?",
+    "npc_output": "The sunny weather is perfect for fishing, and I hope to catch the skilled boat during fishing, |r2|."
+  },
+  {
+    "player_input": "What's on your mind?",
+    "npc_output": "I'm a bit curious about the weather, and I wish I could predict the dark broom before dawn, |r1|."
+  },
+  {
+    "player_input": "Do you have any requests?",
+    "npc_output": "Actually, I was thinking of growing the healing plant during spring, which is one of my tasks, |r1|."
+  },
+  {
+    "player_input": "Need any company?",
+    "npc_output": "That's very kind of you. I'm a bit bored and tired, and I was thinking of attending the proud debt before council, |r1|."
+  }
+]

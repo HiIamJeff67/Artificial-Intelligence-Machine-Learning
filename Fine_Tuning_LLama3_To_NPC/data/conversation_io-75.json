@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "What's the festival like?",
+    "npc_output": "The festival is lovely, isn't it? The snowy weather adds to its charm. |r1|"
+  },
+  {
+    "player_input": "How's your day?",
+    "npc_output": "I'm a bit tired and sad, to be honest. This snowy weather isn't helping. I have a few tasks to complete, like |r2|."
+  },
+  {
+    "player_input": "Need any help?",
+    "npc_output": "Actually, yes. I have a lot of patients to attend to. Perhaps you could assist me with |r1|?"
+  },
+  {
+    "player_input": "What's brewing?",
+    "npc_output": "Just preparing for a ritual. The rainy weather is perfect for it. I need to |r1| soon."
+  },
+  {
+    "player_input": "Any news?",
+    "npc_output": "Yes, I have some urgent news to announce. But first, I need to |r1|."
+  },
+  {
+    "player_input": "Want to spar?",
+    "npc_output": "I'm not sure I'm up for it. I'm a bit tired from the tournament. But I do need to |r1| soon."
+  },
+  {
+    "player_input": "Let's have fun!",
+    "npc_output": "I'd love to! The hot weather is perfect for a festival. Want to help me with |r1|?"
+  },
+  {
+    "player_input": "What's the plan?",
+    "npc_output": "I'm planning to sneak out after sunset. Care to join me and help with |r1|?"
+  },
+  {
+    "player_input": "Need help studying?",
+    "npc_output": "Actually, yes. I have a lot of manuscripts to translate. Perhaps you could assist me with |r1|?"
+  },
+  {
+    "player_input": "What's for breakfast?",
+    "npc_output": "Not sure yet. I was thinking of gathering some herbs. Want to help me with |r1|?"
+  }
+]

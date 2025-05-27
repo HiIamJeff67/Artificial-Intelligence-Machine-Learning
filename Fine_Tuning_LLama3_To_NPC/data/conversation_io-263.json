@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "Hello April, how's it going?",
+    "npc_output": "I'm a bit anxious, to be honest. I have to season the crispy dessert before the feast and I'm running out of time. |r1|"
+  },
+  {
+    "player_input": "What's new Michelle?",
+    "npc_output": "Not much, just enjoying the cloudy afternoon. I was thinking of hiding a quick secret before dawn, but I need to find a good spot first. |r2|"
+  },
+  {
+    "player_input": "Veronica, how's the stable?",
+    "npc_output": "It's a bit messy, to be honest. I need to stable the tidy bridle at dawn and groom the patient hay during the rain. |r3|"
+  },
+  {
+    "player_input": "Christina, what's troubling you?",
+    "npc_output": "I'm just feeling a bit bored and anxious. I need to gather some dried plants at sunrise and crush the fragrant remedy in the garden. |r1|"
+  },
+  {
+    "player_input": "Kristi, how's the carpentry business?",
+    "npc_output": "It's going okay, I guess. I need to saw the handcrafted plank before the rain and assemble the handcrafted tool before the rain. |r2|"
+  },
+  {
+    "player_input": "David, what's new with you?",
+    "npc_output": "Not much, just trying to repair the smooth house during construction. It's a bit of a challenge, but I'll manage. |r1|"
+  },
+  {
+    "player_input": "Michael, how's the tournament training?",
+    "npc_output": "It's going well, thanks for asking. I need to train the fearless horse during the tournament and fight the strong horse during the tournament. |r1|"
+  },
+  {
+    "player_input": "Regina, what's on your mind?",
+    "npc_output": "I'm just feeling a bit angry and curious. I need to steal the shadowy loot in the alley and unlock the quick loot after curfew. |r1|"
+  },
+  {
+    "player_input": "Pamela, how's the studying?",
+    "npc_output": "It's going well, thanks for asking. I need to translate the curious library before the exam and read the innovative study before the exam. |r1|"
+  },
+  {
+    "player_input": "Veronica, how's the stable master work?",
+    "npc_output": "It's keeping me busy, that's for sure. I need to stable the tidy bridle at dawn and lead the reliable horse before the race. |r1|"
+  }
+]

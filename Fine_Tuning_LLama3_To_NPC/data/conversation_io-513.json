@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "What's the news during the festival?",
+    "npc_output": "The festival is going great, but I need to |r1| after this."
+  },
+  {
+    "player_input": "What do you think about the fog?",
+    "npc_output": "It's a bit boring, but I have to |r2| soon."
+  },
+  {
+    "player_input": "New study on alchemy?",
+    "npc_output": "Yes, I'm excited to |r1| before the exam."
+  },
+  {
+    "player_input": "Catch any fish today?",
+    "npc_output": "Not today, but I plan to |r1| in the morning."
+  },
+  {
+    "player_input": "Can you deliver a message?",
+    "npc_output": "Yes, I'll |r4| after I finish this task."
+  },
+  {
+    "player_input": "How's your magic going?",
+    "npc_output": "It's going well, but I'm a bit |r5| today."
+  },
+  {
+    "player_input": "Do you like the snow?",
+    "npc_output": "It's beautiful, and I'm hosting the |r1| at the palace."
+  },
+  {
+    "player_input": "Do you have any medicine?",
+    "npc_output": "Yes, I can |r1| during the epidemic."
+  },
+  {
+    "player_input": "Can you help me with herbs?",
+    "npc_output": "I'd be happy to |r1| in the woods."
+  },
+  {
+    "player_input": "Can you teach me something?",
+    "npc_output": "I can |r1| at night, let's discuss."
+  }
+]

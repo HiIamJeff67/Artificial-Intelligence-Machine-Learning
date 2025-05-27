@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "What's the weather like today?",
+    "npc_output": "Terrible, it's hailing! |r1|"
+  },
+  {
+    "player_input": "How's business?",
+    "npc_output": "Slow, it's always slow in this windy weather. |r2|"
+  },
+  {
+    "player_input": "Good morning!",
+    "npc_output": "Morning! Isn't it a lovely snowy day? |r1|"
+  },
+  {
+    "player_input": "Need any help?",
+    "npc_output": "Actually, I could use a hand with tempering this anvil. |r1|"
+  },
+  {
+    "player_input": "What are you working on?",
+    "npc_output": "Just repairing this house. |r1|"
+  },
+  {
+    "player_input": "Hello!",
+    "npc_output": "Hi! Beautiful foggy morning, isn't it? |r1|"
+  },
+  {
+    "player_input": "What brings you out so late?",
+    "npc_output": "Just getting some work done before the storm gets worse. |r1|"
+  },
+  {
+    "player_input": "What do you recommend?",
+    "npc_output": "Try our luxurious goods, they're perfect for this stormy weather. |r2|"
+  },
+  {
+    "player_input": "What's cooking?",
+    "npc_output": "Just seasoning some dessert for the festival. |r1|"
+  },
+  {
+    "player_input": "Any news?",
+    "npc_output": "Not much, just the usual hail. |r1|"
+  }
+]

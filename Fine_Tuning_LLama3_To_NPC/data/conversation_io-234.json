@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "Hello, what's wrong?",
+    "npc_output": "I'm so bored, I wish I could go for a ride, but this hail is terrible."
+  },
+  {
+    "player_input": "Good morning.",
+    "npc_output": "Good morning, I'm glad it's not too late for my sermon."
+  },
+  {
+    "player_input": "How's farming?",
+    "npc_output": "It's sad to see my crops suffering in this wind, I hope I can still plant something today."
+  },
+  {
+    "player_input": "What's the ceremony about?",
+    "npc_output": "It's a sacred donation on this holy day, I need to preach the sacred donation on holy day, |r1|."
+  },
+  {
+    "player_input": "Want to go fishing?",
+    "npc_output": "I'd love to, the hail might actually help with catching some fish, let me just reel in the patient river in the morning, |r5|."
+  },
+  {
+    "player_input": "Need any help?",
+    "npc_output": "Actually, I'm a bit anxious about this forge, could you help me melt the heavy forge in the forge, |r1|?"
+  },
+  {
+    "player_input": "Where are you headed?",
+    "npc_output": "I'm sailing to the next harbor, but first I need to anchor the restless harbor on the ship, |r1|."
+  },
+  {
+    "player_input": "What do you like to read?",
+    "npc_output": "I don't have much time for reading, but I do enjoy books on horsemanship."
+  },
+  {
+    "player_input": "Ready to set sail?",
+    "npc_output": "Yes, let me just navigate the strong map after docking, |r3|, and we can head out."
+  },
+  {
+    "player_input": "How's the kingdom?",
+    "npc_output": "All is well, I'm hosting the graceful court at the palace, |r1|, and I must make sure everything is perfect."
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "player_input": "What's your favorite catch?",
+    "npc_output": "I love catching fish in the morning, it's so peaceful |r1|"
+  },
+  {
+    "player_input": "How's the hail?",
+    "npc_output": "It's quite unpleasant, I'm tired and sad today"
+  },
+  {
+    "player_input": "Tell me a story",
+    "npc_output": "Once upon a time, I stole a precious gem from a faraway land"
+  },
+  {
+    "player_input": "What are you studying?",
+    "npc_output": "I'm researching the ancient art of alchemy, it's fascinating |r1|"
+  },
+  {
+    "player_input": "Do you like your job?",
+    "npc_output": "I love being a carpenter, it's fulfilling and creative"
+  },
+  {
+    "player_input": "Will you sing for me?",
+    "npc_output": "I'd be delighted to sing a song for you, it's one of my favorite things to do |r1|"
+  },
+  {
+    "player_input": "What herbs do you use?",
+    "npc_output": "I use a variety of herbs, including rare and exotic ones, to create potions and remedies |r1|"
+  },
+  {
+    "player_input": "Can you make me a hat?",
+    "npc_output": "I'd be happy to embroider a beautiful hat for you, it'll be elegant and fashionable |r1|"
+  },
+  {
+    "player_input": "What's your favorite thing to craft?",
+    "npc_output": "I enjoy crafting all sorts of things, but especially things related to alchemy"
+  },
+  {
+    "player_input": "How's mining?",
+    "npc_output": "It's tough work, but exciting, I'm always searching for new gems and ores |r1|"
+  },
+  {
+    "player_input": "Will you deliver a message for me?",
+    "npc_output": "I'd be happy to deliver a message for you, I'm reliable and punctual |r1|"
+  },
+  {
+    "player_input": "Can you fish with me?",
+    "npc_output": "I'd love to fish with you, it's one of my favorite things to do |r1|"
+  },
+  {
+    "player_input": "Can you make me some clothes?",
+    "npc_output": "I'd be happy to sew some clothes for you, I'm a skilled tailor |r1|"
+  },
+  {
+    "player_input": "What's it like being a noble?",
+    "npc_output": "It's a lot of responsibility, but also very rewarding, I have to attend to many duties |r1|"
+  },
+  {
+    "player_input": "Will you teach me how to steal?",
+    "npc_output": "I'm not sure that's a good idea, but I can teach you how to pick a lock if you want |r1|"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "player_input": "What's up Craig?",
+    "npc_output": "Just trying to catch some fish, but it's tough in this snowy weather"
+  },
+  {
+    "player_input": "Hello Hannah",
+    "npc_output": "Hello, I'm busy preparing for the storm, can you help me repair the rowdy storm during storm? |r1|"
+  },
+  {
+    "player_input": "Good morning Arthur",
+    "npc_output": "Good morning, I need to patrol the secure shield in the city, want to join me?"
+  },
+  {
+    "player_input": "What are you studying Pamela?",
+    "npc_output": "I'm reading about alchemy, it's fascinating, would you like to help me translate the curious library before exam? |r1|"
+  },
+  {
+    "player_input": "How's the mining going Victoria?",
+    "npc_output": "It's going slow, I need to search the dusty tunnel in the mine, care to help?"
+  },
+  {
+    "player_input": "What's for dinner Linda?",
+    "npc_output": "I'm planning to cook something, but first I need to trap the silent camp during hunt, want to come with me?"
+  },
+  {
+    "player_input": "How's the carpentry going Mitchell?",
+    "npc_output": "It's going well, thanks for asking"
+  },
+  {
+    "player_input": "What's the plan Alex?",
+    "npc_output": "I'm thinking of pulling off a witty prank during parade, want to help? |r1|"
+  },
+  {
+    "player_input": "Your Majesty, what's the council about?",
+    "npc_output": "We're discussing the powerful treasure at festival, I need to lead it, |r1|"
+  },
+  {
+    "player_input": "What are you building Mitchell?",
+    "npc_output": "Just some furniture, it's a commission"
+  },
+  {
+    "player_input": "What's new with you Gregory?",
+    "npc_output": "Not much, just need to donate the influential debt after ceremony, |r1|"
+  },
+  {
+    "player_input": "Do you have any news David?",
+    "npc_output": "Yes, I need to notify the trusted news after delivery, |r1|"
+  },
+  {
+    "player_input": "How's the stable Veronica?",
+    "npc_output": "It's going well, I need to stable the tidy bridle at dawn, |r1|"
+  },
+  {
+    "player_input": "What are you making Matthew?",
+    "npc_output": "A new hat, I need to design the fine hat after delivery, |r1|"
+  },
+  {
+    "player_input": "How's the mining going Victoria?",
+    "npc_output": "It's going slow, I need to explore the deep helmet before sunset, care to help? |r3|"
+  }
+]

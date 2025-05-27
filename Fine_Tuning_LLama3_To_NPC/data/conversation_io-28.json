@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "What's your role",
+    "npc_output": "I'm a thief, nice to meet you |r2|"
+  },
+  {
+    "player_input": "How's it going",
+    "npc_output": "Just waiting for the storm to pass, a bit tired"
+  },
+  {
+    "player_input": "Need help",
+    "npc_output": "Actually, I need to melt the heavy forge in the forge |r1|"
+  },
+  {
+    "player_input": "What's your task",
+    "npc_output": "I need to fetch the loyal errand before dinner |r1|"
+  },
+  {
+    "player_input": "What's your interest",
+    "npc_output": "I'm interested in fishing, cooking and painting |r1|"
+  },
+  {
+    "player_input": "What's your schedule",
+    "npc_output": "I have to sew the fitted pattern after delivery |r2|"
+  },
+  {
+    "player_input": "How's fishing",
+    "npc_output": "It's good, I'm about to sail the lucky bait in the morning |r1|"
+  },
+  {
+    "player_input": "What's your craft",
+    "npc_output": "I'm embroidering the elegant hat in the shop |r1|"
+  },
+  {
+    "player_input": "What's your hobby",
+    "npc_output": "I enjoy crafting, dancing and magic"
+  },
+  {
+    "player_input": "What's your job",
+    "npc_output": "I'm a farmer, I need to plant the healthy vegetable during harvest |r1|"
+  }
+]

@@ -1,0 +1,2002 @@
+[
+  {
+    "weather": "rainy",
+    "time": "in the morning"
+  },
+  {
+    "weather": "stormy",
+    "time": "after sunset"
+  },
+  {
+    "weather": "hot",
+    "time": "before sunrise"
+  },
+  {
+    "weather": "drizzle",
+    "time": "at noon"
+  },
+  {
+    "weather": "hail",
+    "time": "at noon"
+  },
+  {
+    "weather": "stormy",
+    "time": "in the afternoon"
+  },
+  {
+    "weather": "snowy",
+    "time": "in the morning"
+  },
+  {
+    "weather": "hot",
+    "time": "at dawn"
+  },
+  {
+    "weather": "drizzle",
+    "time": "in the morning"
+  },
+  {
+    "weather": "windy",
+    "time": "at dawn"
+  },
+  {
+    "weather": "drizzle",
+    "time": "at noon"
+  },
+  {
+    "weather": "foggy",
+    "time": "before sunrise"
+  },
+  {
+    "weather": "cloudy",
+    "time": "at dawn"
+  },
+  {
+    "weather": "snowy",
+    "time": "in the afternoon"
+  },
+  {
+    "weather": "windy",
+    "time": "at dawn"
+  },
+  {
+    "weather": "drizzle",
+    "time": "at dawn"
+  },
+  {
+    "weather": "foggy",
+    "time": "at noon"
+  },
+  {
+    "weather": "hot",
+    "time": "at midnight"
+  },
+  {
+    "weather": "rainy",
+    "time": "during the festival"
+  },
+  {
+    "weather": "windy",
+    "time": "in the morning"
+  },
+  {
+    "weather": "foggy",
+    "time": "after sunset"
+  },
+  {
+    "weather": "stormy",
+    "time": "at midnight"
+  },
+  {
+    "weather": "rainy",
+    "time": "at dusk"
+  },
+  {
+    "weather": "hail",
+    "time": "during the festival"
+  },
+  {
+    "weather": "rainy",
+    "time": "in the morning"
+  },
+  {
+    "weather": "cloudy",
+    "time": "after sunset"
+  },
+  {
+    "weather": "foggy",
+    "time": "at dawn"
+  },
+  {
+    "weather": "snowy",
+    "time": "after sunset"
+  },
+  {
+    "weather": "cloudy",
+    "time": "in the evening"
+  },
+  {
+    "weather": "cloudy",
+    "time": "in the evening"
+  },
+  {
+    "weather": "hail",
+    "time": "in the morning"
+  },
+  {
+    "weather": "snowy",
+    "time": "before sunrise"
+  },
+  {
+    "weather": "hot",
+    "time": "in the afternoon"
+  },
+  {
+    "weather": "hail",
+    "time": "in the afternoon"
+  },
+  {
+    "weather": "stormy",
+    "time": "before sunrise"
+  },
+  {
+    "weather": "foggy",
+    "time": "at noon"
+  },
+  {
+    "weather": "drizzle",
+    "time": "after sunset"
+  },
+  {
+    "weather": "snowy",
+    "time": "in the morning"
+  },
+  {
+    "weather": "windy",
+    "time": "at noon"
+  },
+  {
+    "weather": "windy",
+    "time": "before sunrise"
+  },
+  {
+    "weather": "foggy",
+    "time": "in the morning"
+  },
+  {
+    "weather": "cloudy",
+    "time": "in the evening"
+  },
+  {
+    "weather": "rainy",
+    "time": "during the festival"
+  },
+  {
+    "weather": "hot",
+    "time": "in the morning"
+  },
+  {
+    "weather": "rainy",
+    "time": "in the evening"
+  },
+  {
+    "weather": "hail",
+    "time": "in the evening"
+  },
+  {
+    "weather": "windy",
+    "time": "in the afternoon"
+  },
+  {
+    "weather": "foggy",
+    "time": "in the evening"
+  },
+  {
+    "weather": "hot",
+    "time": "at dusk"
+  },
+  {
+    "weather": "stormy",
+    "time": "at noon"
+  },
+  {
+    "weather": "drizzle",
+    "time": "in the afternoon"
+  },
+  {
+    "weather": "drizzle",
+    "time": "in the morning"
+  },
+  {
+    "weather": "snowy",
+    "time": "at dawn"
+  },
+  {
+    "weather": "hot",
+    "time": "at noon"
+  },
+  {
+    "weather": "cloudy",
+    "time": "in the morning"
+  },
+  {
+    "weather": "windy",
+    "time": "at dusk"
+  },
+  {
+    "weather": "sunny",
+    "time": "at dusk"
+  },
+  {
+    "weather": "drizzle",
+    "time": "in the morning"
+  },
+  {
+    "weather": "hail",
+    "time": "after sunset"
+  },
+  {
+    "weather": "rainy",
+    "time": "in the morning"
+  },
+  {
+    "weather": "rainy",
+    "time": "in the evening"
+  },
+  {
+    "weather": "snowy",
+    "time": "at dusk"
+  },
+  {
+    "weather": "foggy",
+    "time": "during the festival"
+  },
+  {
+    "weather": "foggy",
+    "time": "in the morning"
+  },
+  {
+    "weather": "hail",
+    "time": "in the morning"
+  },
+  {
+    "weather": "snowy",
+    "time": "at dusk"
+  },
+  {
+    "weather": "windy",
+    "time": "at dusk"
+  },
+  {
+    "weather": "stormy",
+    "time": "in the afternoon"
+  },
+  {
+    "weather": "stormy",
+    "time": "after sunset"
+  },
+  {
+    "weather": "windy",
+    "time": "at dusk"
+  },
+  {
+    "weather": "stormy",
+    "time": "at dawn"
+  },
+  {
+    "weather": "hot",
+    "time": "before sunrise"
+  },
+  {
+    "weather": "drizzle",
+    "time": "before sunrise"
+  },
+  {
+    "weather": "sunny",
+    "time": "after sunset"
+  },
+  {
+    "weather": "windy",
+    "time": "at dusk"
+  },
+  {
+    "weather": "sunny",
+    "time": "after sunset"
+  },
+  {
+    "weather": "hail",
+    "time": "in the morning"
+  },
+  {
+    "weather": "sunny",
+    "time": "in the afternoon"
+  },
+  {
+    "weather": "cloudy",
+    "time": "in the afternoon"
+  },
+  {
+    "weather": "stormy",
+    "time": "during the festival"
+  },
+  {
+    "weather": "sunny",
+    "time": "in the evening"
+  },
+  {
+    "weather": "foggy",
+    "time": "during the festival"
+  },
+  {
+    "weather": "foggy",
+    "time": "in the morning"
+  },
+  {
+    "weather": "rainy",
+    "time": "after sunset"
+  },
+  {
+    "weather": "sunny",
+    "time": "at dusk"
+  },
+  {
+    "weather": "rainy",
+    "time": "before sunrise"
+  },
+  {
+    "weather": "hail",
+    "time": "in the evening"
+  },
+  {
+    "weather": "drizzle",
+    "time": "before sunrise"
+  },
+  {
+    "weather": "hot",
+    "time": "in the evening"
+  },
+  {
+    "weather": "hail",
+    "time": "in the evening"
+  },
+  {
+    "weather": "sunny",
+    "time": "before sunrise"
+  },
+  {
+    "weather": "windy",
+    "time": "in the afternoon"
+  },
+  {
+    "weather": "foggy",
+    "time": "in the evening"
+  },
+  {
+    "weather": "windy",
+    "time": "in the evening"
+  },
+  {
+    "weather": "drizzle",
+    "time": "in the afternoon"
+  },
+  {
+    "weather": "snowy",
+    "time": "during the festival"
+  },
+  {
+    "weather": "rainy",
+    "time": "at midnight"
+  },
+  {
+    "weather": "foggy",
+    "time": "in the afternoon"
+  },
+  {
+    "weather": "sunny",
+    "time": "in the evening"
+  },
+  {
+    "weather": "sunny",
+    "time": "at noon"
+  },
+  {
+    "weather": "foggy",
+    "time": "before sunrise"
+  },
+  {
+    "weather": "windy",
+    "time": "at midnight"
+  },
+  {
+    "weather": "sunny",
+    "time": "in the evening"
+  },
+  {
+    "weather": "drizzle",
+    "time": "in the afternoon"
+  },
+  {
+    "weather": "hail",
+    "time": "before sunrise"
+  },
+  {
+    "weather": "sunny",
+    "time": "before sunrise"
+  },
+  {
+    "weather": "cloudy",
+    "time": "at midnight"
+  },
+  {
+    "weather": "windy",
+    "time": "at midnight"
+  },
+  {
+    "weather": "sunny",
+    "time": "in the afternoon"
+  },
+  {
+    "weather": "snowy",
+    "time": "at dawn"
+  },
+  {
+    "weather": "rainy",
+    "time": "in the afternoon"
+  },
+  {
+    "weather": "stormy",
+    "time": "at midnight"
+  },
+  {
+    "weather": "drizzle",
+    "time": "at midnight"
+  },
+  {
+    "weather": "drizzle",
+    "time": "at noon"
+  },
+  {
+    "weather": "windy",
+    "time": "at dawn"
+  },
+  {
+    "weather": "windy",
+    "time": "before sunrise"
+  },
+  {
+    "weather": "hot",
+    "time": "in the morning"
+  },
+  {
+    "weather": "snowy",
+    "time": "in the morning"
+  },
+  {
+    "weather": "snowy",
+    "time": "at midnight"
+  },
+  {
+    "weather": "drizzle",
+    "time": "in the afternoon"
+  },
+  {
+    "weather": "foggy",
+    "time": "at dusk"
+  },
+  {
+    "weather": "snowy",
+    "time": "at midnight"
+  },
+  {
+    "weather": "windy",
+    "time": "at midnight"
+  },
+  {
+    "weather": "rainy",
+    "time": "at midnight"
+  },
+  {
+    "weather": "stormy",
+    "time": "in the evening"
+  },
+  {
+    "weather": "stormy",
+    "time": "in the evening"
+  },
+  {
+    "weather": "snowy",
+    "time": "during the festival"
+  },
+  {
+    "weather": "foggy",
+    "time": "in the evening"
+  },
+  {
+    "weather": "snowy",
+    "time": "at noon"
+  },
+  {
+    "weather": "stormy",
+    "time": "at dusk"
+  },
+  {
+    "weather": "sunny",
+    "time": "in the evening"
+  },
+  {
+    "weather": "snowy",
+    "time": "at noon"
+  },
+  {
+    "weather": "cloudy",
+    "time": "at dusk"
+  },
+  {
+    "weather": "cloudy",
+    "time": "at noon"
+  },
+  {
+    "weather": "rainy",
+    "time": "in the morning"
+  },
+  {
+    "weather": "hail",
+    "time": "during the festival"
+  },
+  {
+    "weather": "drizzle",
+    "time": "in the evening"
+  },
+  {
+    "weather": "hot",
+    "time": "at dawn"
+  },
+  {
+    "weather": "sunny",
+    "time": "after sunset"
+  },
+  {
+    "weather": "foggy",
+    "time": "at noon"
+  },
+  {
+    "weather": "drizzle",
+    "time": "during the festival"
+  },
+  {
+    "weather": "hail",
+    "time": "at dawn"
+  },
+  {
+    "weather": "snowy",
+    "time": "in the morning"
+  },
+  {
+    "weather": "sunny",
+    "time": "at midnight"
+  },
+  {
+    "weather": "stormy",
+    "time": "at noon"
+  },
+  {
+    "weather": "snowy",
+    "time": "before sunrise"
+  },
+  {
+    "weather": "hot",
+    "time": "at dusk"
+  },
+  {
+    "weather": "foggy",
+    "time": "in the evening"
+  },
+  {
+    "weather": "stormy",
+    "time": "at midnight"
+  },
+  {
+    "weather": "hail",
+    "time": "at noon"
+  },
+  {
+    "weather": "drizzle",
+    "time": "in the afternoon"
+  },
+  {
+    "weather": "snowy",
+    "time": "in the evening"
+  },
+  {
+    "weather": "sunny",
+    "time": "at dawn"
+  },
+  {
+    "weather": "rainy",
+    "time": "at dawn"
+  },
+  {
+    "weather": "snowy",
+    "time": "in the evening"
+  },
+  {
+    "weather": "foggy",
+    "time": "before sunrise"
+  },
+  {
+    "weather": "drizzle",
+    "time": "before sunrise"
+  },
+  {
+    "weather": "snowy",
+    "time": "at dawn"
+  },
+  {
+    "weather": "hail",
+    "time": "at midnight"
+  },
+  {
+    "weather": "hot",
+    "time": "at midnight"
+  },
+  {
+    "weather": "windy",
+    "time": "in the morning"
+  },
+  {
+    "weather": "stormy",
+    "time": "at midnight"
+  },
+  {
+    "weather": "windy",
+    "time": "at midnight"
+  },
+  {
+    "weather": "hail",
+    "time": "during the festival"
+  },
+  {
+    "weather": "snowy",
+    "time": "at dawn"
+  },
+  {
+    "weather": "drizzle",
+    "time": "in the afternoon"
+  },
+  {
+    "weather": "stormy",
+    "time": "in the morning"
+  },
+  {
+    "weather": "cloudy",
+    "time": "during the festival"
+  },
+  {
+    "weather": "foggy",
+    "time": "at midnight"
+  },
+  {
+    "weather": "snowy",
+    "time": "after sunset"
+  },
+  {
+    "weather": "hail",
+    "time": "in the morning"
+  },
+  {
+    "weather": "stormy",
+    "time": "after sunset"
+  },
+  {
+    "weather": "snowy",
+    "time": "at noon"
+  },
+  {
+    "weather": "cloudy",
+    "time": "at dusk"
+  },
+  {
+    "weather": "sunny",
+    "time": "at dusk"
+  },
+  {
+    "weather": "hot",
+    "time": "in the afternoon"
+  },
+  {
+    "weather": "windy",
+    "time": "after sunset"
+  },
+  {
+    "weather": "sunny",
+    "time": "at midnight"
+  },
+  {
+    "weather": "foggy",
+    "time": "during the festival"
+  },
+  {
+    "weather": "foggy",
+    "time": "during the festival"
+  },
+  {
+    "weather": "windy",
+    "time": "in the evening"
+  },
+  {
+    "weather": "cloudy",
+    "time": "at midnight"
+  },
+  {
+    "weather": "windy",
+    "time": "at noon"
+  },
+  {
+    "weather": "hail",
+    "time": "before sunrise"
+  },
+  {
+    "weather": "cloudy",
+    "time": "during the festival"
+  },
+  {
+    "weather": "rainy",
+    "time": "at dawn"
+  },
+  {
+    "weather": "sunny",
+    "time": "at dusk"
+  },
+  {
+    "weather": "sunny",
+    "time": "in the afternoon"
+  },
+  {
+    "weather": "windy",
+    "time": "at dusk"
+  },
+  {
+    "weather": "rainy",
+    "time": "before sunrise"
+  },
+  {
+    "weather": "cloudy",
+    "time": "at dawn"
+  },
+  {
+    "weather": "drizzle",
+    "time": "before sunrise"
+  },
+  {
+    "weather": "cloudy",
+    "time": "before sunrise"
+  },
+  {
+    "weather": "rainy",
+    "time": "during the festival"
+  },
+  {
+    "weather": "drizzle",
+    "time": "in the evening"
+  },
+  {
+    "weather": "drizzle",
+    "time": "after sunset"
+  },
+  {
+    "weather": "cloudy",
+    "time": "after sunset"
+  },
+  {
+    "weather": "drizzle",
+    "time": "at dusk"
+  },
+  {
+    "weather": "rainy",
+    "time": "at dusk"
+  },
+  {
+    "weather": "sunny",
+    "time": "in the evening"
+  },
+  {
+    "weather": "foggy",
+    "time": "at dawn"
+  },
+  {
+    "weather": "stormy",
+    "time": "before sunrise"
+  },
+  {
+    "weather": "hot",
+    "time": "after sunset"
+  },
+  {
+    "weather": "hail",
+    "time": "at noon"
+  },
+  {
+    "weather": "rainy",
+    "time": "at dusk"
+  },
+  {
+    "weather": "hot",
+    "time": "during the festival"
+  },
+  {
+    "weather": "drizzle",
+    "time": "before sunrise"
+  },
+  {
+    "weather": "windy",
+    "time": "at noon"
+  },
+  {
+    "weather": "sunny",
+    "time": "at noon"
+  },
+  {
+    "weather": "rainy",
+    "time": "before sunrise"
+  },
+  {
+    "weather": "hail",
+    "time": "at noon"
+  },
+  {
+    "weather": "hot",
+    "time": "in the afternoon"
+  },
+  {
+    "weather": "sunny",
+    "time": "at midnight"
+  },
+  {
+    "weather": "snowy",
+    "time": "in the afternoon"
+  },
+  {
+    "weather": "snowy",
+    "time": "during the festival"
+  },
+  {
+    "weather": "foggy",
+    "time": "at noon"
+  },
+  {
+    "weather": "windy",
+    "time": "in the afternoon"
+  },
+  {
+    "weather": "rainy",
+    "time": "before sunrise"
+  },
+  {
+    "weather": "stormy",
+    "time": "at noon"
+  },
+  {
+    "weather": "cloudy",
+    "time": "during the festival"
+  },
+  {
+    "weather": "rainy",
+    "time": "at dusk"
+  },
+  {
+    "weather": "snowy",
+    "time": "at midnight"
+  },
+  {
+    "weather": "drizzle",
+    "time": "in the afternoon"
+  },
+  {
+    "weather": "windy",
+    "time": "during the festival"
+  },
+  {
+    "weather": "sunny",
+    "time": "in the evening"
+  },
+  {
+    "weather": "stormy",
+    "time": "at midnight"
+  },
+  {
+    "weather": "snowy",
+    "time": "before sunrise"
+  },
+  {
+    "weather": "stormy",
+    "time": "after sunset"
+  },
+  {
+    "weather": "foggy",
+    "time": "during the festival"
+  },
+  {
+    "weather": "drizzle",
+    "time": "in the morning"
+  },
+  {
+    "weather": "sunny",
+    "time": "after sunset"
+  },
+  {
+    "weather": "hail",
+    "time": "in the afternoon"
+  },
+  {
+    "weather": "snowy",
+    "time": "during the festival"
+  },
+  {
+    "weather": "drizzle",
+    "time": "in the evening"
+  },
+  {
+    "weather": "drizzle",
+    "time": "at midnight"
+  },
+  {
+    "weather": "snowy",
+    "time": "at dawn"
+  },
+  {
+    "weather": "snowy",
+    "time": "in the evening"
+  },
+  {
+    "weather": "hot",
+    "time": "at dusk"
+  },
+  {
+    "weather": "hot",
+    "time": "at dusk"
+  },
+  {
+    "weather": "foggy",
+    "time": "in the afternoon"
+  },
+  {
+    "weather": "windy",
+    "time": "at dawn"
+  },
+  {
+    "weather": "hot",
+    "time": "at midnight"
+  },
+  {
+    "weather": "sunny",
+    "time": "in the evening"
+  },
+  {
+    "weather": "rainy",
+    "time": "at dawn"
+  },
+  {
+    "weather": "sunny",
+    "time": "in the afternoon"
+  },
+  {
+    "weather": "foggy",
+    "time": "at dusk"
+  },
+  {
+    "weather": "stormy",
+    "time": "after sunset"
+  },
+  {
+    "weather": "hail",
+    "time": "at noon"
+  },
+  {
+    "weather": "stormy",
+    "time": "at dusk"
+  },
+  {
+    "weather": "rainy",
+    "time": "after sunset"
+  },
+  {
+    "weather": "drizzle",
+    "time": "in the evening"
+  },
+  {
+    "weather": "cloudy",
+    "time": "after sunset"
+  },
+  {
+    "weather": "snowy",
+    "time": "at noon"
+  },
+  {
+    "weather": "sunny",
+    "time": "at midnight"
+  },
+  {
+    "weather": "snowy",
+    "time": "in the morning"
+  },
+  {
+    "weather": "sunny",
+    "time": "after sunset"
+  },
+  {
+    "weather": "stormy",
+    "time": "at midnight"
+  },
+  {
+    "weather": "cloudy",
+    "time": "at noon"
+  },
+  {
+    "weather": "windy",
+    "time": "after sunset"
+  },
+  {
+    "weather": "foggy",
+    "time": "at dawn"
+  },
+  {
+    "weather": "windy",
+    "time": "at dawn"
+  },
+  {
+    "weather": "hail",
+    "time": "during the festival"
+  },
+  {
+    "weather": "windy",
+    "time": "at noon"
+  },
+  {
+    "weather": "snowy",
+    "time": "in the afternoon"
+  },
+  {
+    "weather": "cloudy",
+    "time": "during the festival"
+  },
+  {
+    "weather": "sunny",
+    "time": "before sunrise"
+  },
+  {
+    "weather": "cloudy",
+    "time": "at noon"
+  },
+  {
+    "weather": "stormy",
+    "time": "in the morning"
+  },
+  {
+    "weather": "stormy",
+    "time": "at noon"
+  },
+  {
+    "weather": "hail",
+    "time": "before sunrise"
+  },
+  {
+    "weather": "sunny",
+    "time": "at dusk"
+  },
+  {
+    "weather": "foggy",
+    "time": "at midnight"
+  },
+  {
+    "weather": "hot",
+    "time": "at dusk"
+  },
+  {
+    "weather": "foggy",
+    "time": "during the festival"
+  },
+  {
+    "weather": "stormy",
+    "time": "at dawn"
+  },
+  {
+    "weather": "cloudy",
+    "time": "in the afternoon"
+  },
+  {
+    "weather": "rainy",
+    "time": "in the afternoon"
+  },
+  {
+    "weather": "windy",
+    "time": "at midnight"
+  },
+  {
+    "weather": "sunny",
+    "time": "at midnight"
+  },
+  {
+    "weather": "snowy",
+    "time": "in the evening"
+  },
+  {
+    "weather": "cloudy",
+    "time": "before sunrise"
+  },
+  {
+    "weather": "drizzle",
+    "time": "in the morning"
+  },
+  {
+    "weather": "snowy",
+    "time": "in the afternoon"
+  },
+  {
+    "weather": "stormy",
+    "time": "in the afternoon"
+  },
+  {
+    "weather": "cloudy",
+    "time": "at midnight"
+  },
+  {
+    "weather": "hail",
+    "time": "at midnight"
+  },
+  {
+    "weather": "stormy",
+    "time": "in the afternoon"
+  },
+  {
+    "weather": "hail",
+    "time": "before sunrise"
+  },
+  {
+    "weather": "stormy",
+    "time": "at noon"
+  },
+  {
+    "weather": "windy",
+    "time": "in the evening"
+  },
+  {
+    "weather": "sunny",
+    "time": "at dusk"
+  },
+  {
+    "weather": "cloudy",
+    "time": "in the evening"
+  },
+  {
+    "weather": "hot",
+    "time": "in the evening"
+  },
+  {
+    "weather": "hail",
+    "time": "in the afternoon"
+  },
+  {
+    "weather": "snowy",
+    "time": "at dusk"
+  },
+  {
+    "weather": "hail",
+    "time": "at dusk"
+  },
+  {
+    "weather": "rainy",
+    "time": "in the evening"
+  },
+  {
+    "weather": "snowy",
+    "time": "at dusk"
+  },
+  {
+    "weather": "hot",
+    "time": "at midnight"
+  },
+  {
+    "weather": "cloudy",
+    "time": "at noon"
+  },
+  {
+    "weather": "hot",
+    "time": "in the morning"
+  },
+  {
+    "weather": "drizzle",
+    "time": "at dawn"
+  },
+  {
+    "weather": "snowy",
+    "time": "after sunset"
+  },
+  {
+    "weather": "hot",
+    "time": "in the morning"
+  },
+  {
+    "weather": "hot",
+    "time": "before sunrise"
+  },
+  {
+    "weather": "hail",
+    "time": "after sunset"
+  },
+  {
+    "weather": "cloudy",
+    "time": "in the afternoon"
+  },
+  {
+    "weather": "stormy",
+    "time": "in the evening"
+  },
+  {
+    "weather": "cloudy",
+    "time": "at noon"
+  },
+  {
+    "weather": "drizzle",
+    "time": "before sunrise"
+  },
+  {
+    "weather": "windy",
+    "time": "in the morning"
+  },
+  {
+    "weather": "hail",
+    "time": "before sunrise"
+  },
+  {
+    "weather": "hot",
+    "time": "at midnight"
+  },
+  {
+    "weather": "stormy",
+    "time": "at dusk"
+  },
+  {
+    "weather": "foggy",
+    "time": "during the festival"
+  },
+  {
+    "weather": "windy",
+    "time": "at midnight"
+  },
+  {
+    "weather": "snowy",
+    "time": "at dusk"
+  },
+  {
+    "weather": "stormy",
+    "time": "during the festival"
+  },
+  {
+    "weather": "rainy",
+    "time": "before sunrise"
+  },
+  {
+    "weather": "snowy",
+    "time": "during the festival"
+  },
+  {
+    "weather": "stormy",
+    "time": "at dawn"
+  },
+  {
+    "weather": "snowy",
+    "time": "at dawn"
+  },
+  {
+    "weather": "sunny",
+    "time": "after sunset"
+  },
+  {
+    "weather": "windy",
+    "time": "in the evening"
+  },
+  {
+    "weather": "rainy",
+    "time": "before sunrise"
+  },
+  {
+    "weather": "hail",
+    "time": "at midnight"
+  },
+  {
+    "weather": "hail",
+    "time": "after sunset"
+  },
+  {
+    "weather": "foggy",
+    "time": "at noon"
+  },
+  {
+    "weather": "rainy",
+    "time": "at dawn"
+  },
+  {
+    "weather": "cloudy",
+    "time": "at noon"
+  },
+  {
+    "weather": "hail",
+    "time": "before sunrise"
+  },
+  {
+    "weather": "hot",
+    "time": "in the morning"
+  },
+  {
+    "weather": "foggy",
+    "time": "in the afternoon"
+  },
+  {
+    "weather": "stormy",
+    "time": "at midnight"
+  },
+  {
+    "weather": "windy",
+    "time": "in the evening"
+  },
+  {
+    "weather": "hail",
+    "time": "at midnight"
+  },
+  {
+    "weather": "drizzle",
+    "time": "after sunset"
+  },
+  {
+    "weather": "snowy",
+    "time": "after sunset"
+  },
+  {
+    "weather": "hail",
+    "time": "at dawn"
+  },
+  {
+    "weather": "rainy",
+    "time": "at dawn"
+  },
+  {
+    "weather": "stormy",
+    "time": "before sunrise"
+  },
+  {
+    "weather": "windy",
+    "time": "during the festival"
+  },
+  {
+    "weather": "sunny",
+    "time": "before sunrise"
+  },
+  {
+    "weather": "cloudy",
+    "time": "in the evening"
+  },
+  {
+    "weather": "drizzle",
+    "time": "after sunset"
+  },
+  {
+    "weather": "sunny",
+    "time": "at midnight"
+  },
+  {
+    "weather": "hail",
+    "time": "at noon"
+  },
+  {
+    "weather": "stormy",
+    "time": "at midnight"
+  },
+  {
+    "weather": "windy",
+    "time": "in the afternoon"
+  },
+  {
+    "weather": "snowy",
+    "time": "before sunrise"
+  },
+  {
+    "weather": "windy",
+    "time": "in the afternoon"
+  },
+  {
+    "weather": "foggy",
+    "time": "at dawn"
+  },
+  {
+    "weather": "sunny",
+    "time": "at dawn"
+  },
+  {
+    "weather": "stormy",
+    "time": "in the evening"
+  },
+  {
+    "weather": "snowy",
+    "time": "at midnight"
+  },
+  {
+    "weather": "hot",
+    "time": "at noon"
+  },
+  {
+    "weather": "drizzle",
+    "time": "at dusk"
+  },
+  {
+    "weather": "hail",
+    "time": "at dusk"
+  },
+  {
+    "weather": "cloudy",
+    "time": "in the evening"
+  },
+  {
+    "weather": "sunny",
+    "time": "after sunset"
+  },
+  {
+    "weather": "rainy",
+    "time": "before sunrise"
+  },
+  {
+    "weather": "hot",
+    "time": "at midnight"
+  },
+  {
+    "weather": "rainy",
+    "time": "in the morning"
+  },
+  {
+    "weather": "foggy",
+    "time": "during the festival"
+  },
+  {
+    "weather": "stormy",
+    "time": "before sunrise"
+  },
+  {
+    "weather": "windy",
+    "time": "at dawn"
+  },
+  {
+    "weather": "hail",
+    "time": "before sunrise"
+  },
+  {
+    "weather": "hot",
+    "time": "at midnight"
+  },
+  {
+    "weather": "cloudy",
+    "time": "in the evening"
+  },
+  {
+    "weather": "hot",
+    "time": "in the evening"
+  },
+  {
+    "weather": "drizzle",
+    "time": "during the festival"
+  },
+  {
+    "weather": "cloudy",
+    "time": "in the morning"
+  },
+  {
+    "weather": "stormy",
+    "time": "at dusk"
+  },
+  {
+    "weather": "cloudy",
+    "time": "in the afternoon"
+  },
+  {
+    "weather": "hail",
+    "time": "at dawn"
+  },
+  {
+    "weather": "hail",
+    "time": "in the morning"
+  },
+  {
+    "weather": "foggy",
+    "time": "at noon"
+  },
+  {
+    "weather": "rainy",
+    "time": "at dawn"
+  },
+  {
+    "weather": "hail",
+    "time": "at dusk"
+  },
+  {
+    "weather": "drizzle",
+    "time": "at dusk"
+  },
+  {
+    "weather": "windy",
+    "time": "after sunset"
+  },
+  {
+    "weather": "hail",
+    "time": "in the afternoon"
+  },
+  {
+    "weather": "sunny",
+    "time": "at dawn"
+  },
+  {
+    "weather": "drizzle",
+    "time": "at dusk"
+  },
+  {
+    "weather": "hot",
+    "time": "in the afternoon"
+  },
+  {
+    "weather": "drizzle",
+    "time": "at dawn"
+  },
+  {
+    "weather": "hail",
+    "time": "in the morning"
+  },
+  {
+    "weather": "foggy",
+    "time": "in the afternoon"
+  },
+  {
+    "weather": "hot",
+    "time": "at noon"
+  },
+  {
+    "weather": "windy",
+    "time": "at midnight"
+  },
+  {
+    "weather": "cloudy",
+    "time": "after sunset"
+  },
+  {
+    "weather": "windy",
+    "time": "in the morning"
+  },
+  {
+    "weather": "rainy",
+    "time": "at noon"
+  },
+  {
+    "weather": "hail",
+    "time": "at noon"
+  },
+  {
+    "weather": "hail",
+    "time": "in the afternoon"
+  },
+  {
+    "weather": "sunny",
+    "time": "at dawn"
+  },
+  {
+    "weather": "foggy",
+    "time": "in the afternoon"
+  },
+  {
+    "weather": "foggy",
+    "time": "at dawn"
+  },
+  {
+    "weather": "hot",
+    "time": "during the festival"
+  },
+  {
+    "weather": "rainy",
+    "time": "in the afternoon"
+  },
+  {
+    "weather": "windy",
+    "time": "during the festival"
+  },
+  {
+    "weather": "windy",
+    "time": "before sunrise"
+  },
+  {
+    "weather": "cloudy",
+    "time": "before sunrise"
+  },
+  {
+    "weather": "stormy",
+    "time": "before sunrise"
+  },
+  {
+    "weather": "drizzle",
+    "time": "in the afternoon"
+  },
+  {
+    "weather": "drizzle",
+    "time": "at midnight"
+  },
+  {
+    "weather": "drizzle",
+    "time": "before sunrise"
+  },
+  {
+    "weather": "stormy",
+    "time": "at midnight"
+  },
+  {
+    "weather": "sunny",
+    "time": "before sunrise"
+  },
+  {
+    "weather": "windy",
+    "time": "after sunset"
+  },
+  {
+    "weather": "stormy",
+    "time": "at midnight"
+  },
+  {
+    "weather": "windy",
+    "time": "after sunset"
+  },
+  {
+    "weather": "windy",
+    "time": "after sunset"
+  },
+  {
+    "weather": "foggy",
+    "time": "in the afternoon"
+  },
+  {
+    "weather": "cloudy",
+    "time": "at midnight"
+  },
+  {
+    "weather": "cloudy",
+    "time": "in the evening"
+  },
+  {
+    "weather": "sunny",
+    "time": "after sunset"
+  },
+  {
+    "weather": "snowy",
+    "time": "in the morning"
+  },
+  {
+    "weather": "drizzle",
+    "time": "in the afternoon"
+  },
+  {
+    "weather": "rainy",
+    "time": "during the festival"
+  },
+  {
+    "weather": "cloudy",
+    "time": "in the afternoon"
+  },
+  {
+    "weather": "windy",
+    "time": "in the morning"
+  },
+  {
+    "weather": "stormy",
+    "time": "before sunrise"
+  },
+  {
+    "weather": "sunny",
+    "time": "in the morning"
+  },
+  {
+    "weather": "snowy",
+    "time": "at midnight"
+  },
+  {
+    "weather": "hail",
+    "time": "at midnight"
+  },
+  {
+    "weather": "windy",
+    "time": "before sunrise"
+  },
+  {
+    "weather": "hail",
+    "time": "before sunrise"
+  },
+  {
+    "weather": "windy",
+    "time": "before sunrise"
+  },
+  {
+    "weather": "cloudy",
+    "time": "at midnight"
+  },
+  {
+    "weather": "hot",
+    "time": "at dusk"
+  },
+  {
+    "weather": "snowy",
+    "time": "before sunrise"
+  },
+  {
+    "weather": "windy",
+    "time": "in the afternoon"
+  },
+  {
+    "weather": "drizzle",
+    "time": "in the afternoon"
+  },
+  {
+    "weather": "windy",
+    "time": "at dawn"
+  },
+  {
+    "weather": "windy",
+    "time": "in the morning"
+  },
+  {
+    "weather": "rainy",
+    "time": "at midnight"
+  },
+  {
+    "weather": "hot",
+    "time": "in the evening"
+  },
+  {
+    "weather": "rainy",
+    "time": "at dawn"
+  },
+  {
+    "weather": "drizzle",
+    "time": "before sunrise"
+  },
+  {
+    "weather": "snowy",
+    "time": "at noon"
+  },
+  {
+    "weather": "snowy",
+    "time": "in the afternoon"
+  },
+  {
+    "weather": "stormy",
+    "time": "in the evening"
+  },
+  {
+    "weather": "foggy",
+    "time": "in the afternoon"
+  },
+  {
+    "weather": "hot",
+    "time": "at midnight"
+  },
+  {
+    "weather": "sunny",
+    "time": "in the evening"
+  },
+  {
+    "weather": "windy",
+    "time": "at dusk"
+  },
+  {
+    "weather": "snowy",
+    "time": "in the evening"
+  },
+  {
+    "weather": "cloudy",
+    "time": "at midnight"
+  },
+  {
+    "weather": "drizzle",
+    "time": "after sunset"
+  },
+  {
+    "weather": "hail",
+    "time": "before sunrise"
+  },
+  {
+    "weather": "foggy",
+    "time": "in the morning"
+  },
+  {
+    "weather": "drizzle",
+    "time": "at midnight"
+  },
+  {
+    "weather": "windy",
+    "time": "at dawn"
+  },
+  {
+    "weather": "foggy",
+    "time": "before sunrise"
+  },
+  {
+    "weather": "snowy",
+    "time": "during the festival"
+  },
+  {
+    "weather": "cloudy",
+    "time": "after sunset"
+  },
+  {
+    "weather": "drizzle",
+    "time": "at midnight"
+  },
+  {
+    "weather": "hot",
+    "time": "during the festival"
+  },
+  {
+    "weather": "cloudy",
+    "time": "in the evening"
+  },
+  {
+    "weather": "windy",
+    "time": "at dusk"
+  },
+  {
+    "weather": "snowy",
+    "time": "at dusk"
+  },
+  {
+    "weather": "rainy",
+    "time": "at dawn"
+  },
+  {
+    "weather": "sunny",
+    "time": "at dawn"
+  },
+  {
+    "weather": "snowy",
+    "time": "at dusk"
+  },
+  {
+    "weather": "hail",
+    "time": "before sunrise"
+  },
+  {
+    "weather": "sunny",
+    "time": "in the afternoon"
+  },
+  {
+    "weather": "stormy",
+    "time": "during the festival"
+  },
+  {
+    "weather": "hot",
+    "time": "in the evening"
+  },
+  {
+    "weather": "rainy",
+    "time": "at dawn"
+  },
+  {
+    "weather": "snowy",
+    "time": "in the evening"
+  },
+  {
+    "weather": "hail",
+    "time": "at dusk"
+  },
+  {
+    "weather": "cloudy",
+    "time": "at dawn"
+  },
+  {
+    "weather": "hail",
+    "time": "in the evening"
+  },
+  {
+    "weather": "stormy",
+    "time": "after sunset"
+  },
+  {
+    "weather": "foggy",
+    "time": "before sunrise"
+  },
+  {
+    "weather": "rainy",
+    "time": "at noon"
+  },
+  {
+    "weather": "hail",
+    "time": "during the festival"
+  },
+  {
+    "weather": "stormy",
+    "time": "in the afternoon"
+  },
+  {
+    "weather": "snowy",
+    "time": "after sunset"
+  },
+  {
+    "weather": "drizzle",
+    "time": "before sunrise"
+  },
+  {
+    "weather": "stormy",
+    "time": "at dusk"
+  },
+  {
+    "weather": "snowy",
+    "time": "at noon"
+  },
+  {
+    "weather": "foggy",
+    "time": "before sunrise"
+  },
+  {
+    "weather": "sunny",
+    "time": "during the festival"
+  },
+  {
+    "weather": "hail",
+    "time": "in the morning"
+  },
+  {
+    "weather": "snowy",
+    "time": "before sunrise"
+  },
+  {
+    "weather": "cloudy",
+    "time": "during the festival"
+  },
+  {
+    "weather": "cloudy",
+    "time": "in the evening"
+  },
+  {
+    "weather": "stormy",
+    "time": "at midnight"
+  },
+  {
+    "weather": "stormy",
+    "time": "at dusk"
+  },
+  {
+    "weather": "hail",
+    "time": "in the evening"
+  },
+  {
+    "weather": "foggy",
+    "time": "in the afternoon"
+  },
+  {
+    "weather": "stormy",
+    "time": "before sunrise"
+  },
+  {
+    "weather": "foggy",
+    "time": "after sunset"
+  },
+  {
+    "weather": "hot",
+    "time": "at dusk"
+  },
+  {
+    "weather": "stormy",
+    "time": "at dawn"
+  },
+  {
+    "weather": "drizzle",
+    "time": "during the festival"
+  },
+  {
+    "weather": "windy",
+    "time": "at dawn"
+  },
+  {
+    "weather": "foggy",
+    "time": "in the afternoon"
+  }
+]

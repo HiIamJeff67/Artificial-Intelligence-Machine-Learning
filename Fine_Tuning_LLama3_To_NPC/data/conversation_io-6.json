@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "What's wrong?",
+    "npc_output": "I'm so anxious about the research I need to do tonight, |r1|."
+  },
+  {
+    "player_input": "Nice to meet you",
+    "npc_output": "It's nice to meet you too, would you like to hear a story about my travels?"
+  },
+  {
+    "player_input": "Want to go hunting?",
+    "npc_output": "I'm not really in the mood, I'm feeling a bit bored and neutral about it."
+  },
+  {
+    "player_input": "How's business?",
+    "npc_output": "It's been slow, I was thinking of preparing a festive banquet after sunset, |r1|."
+  },
+  {
+    "player_input": "Need any help?",
+    "npc_output": "No, I'm just meditating and trying to clear my mind."
+  },
+  {
+    "player_input": "What brings you here?",
+    "npc_output": "I'm just waiting for my ship to arrive, it's been a long day and I'm excited to navigate the adventurous ship after docking, |r2|."
+  },
+  {
+    "player_input": "Want to have some fun?",
+    "npc_output": "I'd love to, let's jest and play some tricks, maybe even |r1|."
+  },
+  {
+    "player_input": "What's on your mind?",
+    "npc_output": "I'm just worried about attending the proud debt before council, |r1|, it's been weighing on my mind."
+  },
+  {
+    "player_input": "How's work?",
+    "npc_output": "It's been keeping me up at night, I have to repair the smooth house during construction, |r1|."
+  },
+  {
+    "player_input": "What do you like to do?",
+    "npc_output": "I enjoy gathering plants and herbs, maybe one day I'll gather the dried plant at sunrise, |r1|."
+  }
+]

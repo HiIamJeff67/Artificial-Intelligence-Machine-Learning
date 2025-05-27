@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "What's your role as a fisherman?",
+    "npc_output": "I'm a fisherman, and I love exploring the rivers. By the way, have you tried |r1|?"
+  },
+  {
+    "player_input": "How's it going?",
+    "npc_output": "It's a bit foggy today, but I'm doing well. I was thinking of |r2| later."
+  },
+  {
+    "player_input": "What do you do as a priest?",
+    "npc_output": "I help people in need and study alchemy. Nothing much to do on a snowy evening like this."
+  },
+  {
+    "player_input": "What do you like to do?",
+    "npc_output": "I enjoy cooking and dancing. Maybe I'll |r1| later tonight."
+  },
+  {
+    "player_input": "What's your favorite thing to do?",
+    "npc_output": "I love sailing and exploring the seas. The hail is quite strong today, I might need to |r2| soon."
+  },
+  {
+    "player_input": "How's your day going?",
+    "npc_output": "It's been a long day, but I'm happy to be a healer. I might need to |r1| soon to help someone."
+  },
+  {
+    "player_input": "What do you do as a sailor?",
+    "npc_output": "I sail and navigate the seas. It's a bit challenging with the hail, but I need to |r2| before sunrise."
+  },
+  {
+    "player_input": "What kind of projects do you work on?",
+    "npc_output": "I build and repair houses. It's getting windy, I should |r1| before it gets dark."
+  },
+  {
+    "player_input": "What do you like to grow?",
+    "npc_output": "I grow herbs and plants. It's a bit windy, but I need to |r1| at sunrise."
+  },
+  {
+    "player_input": "What kind of performances do you do?",
+    "npc_output": "I do pranks and jokes. Maybe I'll |r1| during the parade today."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "What's the weather like today?",
+    "npc_output": "It's stormy outside, but in here it's cozy. By the way, I need to |r1|."
+  },
+  {
+    "player_input": "How's business?",
+    "npc_output": "Slow, thanks for asking. Not many people out on a cloudy night like this. I wish someone would |r2|."
+  },
+  {
+    "player_input": "Do you have any new stock?",
+    "npc_output": "Actually, I was going to |r3| today, but this storm is putting me behind schedule."
+  },
+  {
+    "player_input": "Want to go fishing?",
+    "npc_output": "I'm too tired from the festival, but maybe later. I was thinking of |r1| before the storm hits."
+  },
+  {
+    "player_input": "Spare some change?",
+    "npc_output": "Sorry, I'm a bit short myself. I'm hoping to |r1| soon."
+  },
+  {
+    "player_input": "What's for lunch?",
+    "npc_output": "We have a few options, but I need to |r3| first. How about some soup?"
+  },
+  {
+    "player_input": "Can I help with anything?",
+    "npc_output": "Actually, I need to |r1|. It's getting dark and I want to get it done before nightfall."
+  },
+  {
+    "player_input": "Do you have any news?",
+    "npc_output": "Not much, just the usual. Though I did hear I need to |r5| soon."
+  },
+  {
+    "player_input": "What brings you here?",
+    "npc_output": "Just passing through. I'm on my way to |r3|, but I got lost in the fog."
+  },
+  {
+    "player_input": "Do you need any assistance?",
+    "npc_output": "Actually, I do. I need to |r1|, but I'm not sure where to start."
+  }
+]

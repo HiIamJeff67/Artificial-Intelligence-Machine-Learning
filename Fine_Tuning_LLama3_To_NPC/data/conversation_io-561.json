@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "What's wrong",
+    "npc_output": "I'm just feeling a bit sad, it's this stormy weather at midnight that's getting to me |r1|"
+  },
+  {
+    "player_input": "How's it going",
+    "npc_output": "I'm a bit bored and curious, but excited for the festival, perhaps you can help me with |r1|"
+  },
+  {
+    "player_input": "Want to fish",
+    "npc_output": "I'd love to catch some fish on the boat, it's a great morning for it, let's try to |r3|"
+  },
+  {
+    "player_input": "Need help",
+    "npc_output": "I'm trying to distill the magical formula before sunrise, but this hail is making it difficult"
+  },
+  {
+    "player_input": "What's for lunch",
+    "npc_output": "I'm happy to serve you, and I was thinking of pouring the festive banquet before festival, would you like that |r1|"
+  },
+  {
+    "player_input": "You look angry",
+    "npc_output": "Yes, I am, and I don't have any requests for you right now, just leave me be"
+  },
+  {
+    "player_input": "Want to preach",
+    "npc_output": "I'm feeling neutral, but I should preach the sacred donation on holy day, it's a good time for it |r1|"
+  },
+  {
+    "player_input": "Time for a duel",
+    "npc_output": "I'm a bit bored, but I'll fight the strong horse during tournament, let's do it |r1|"
+  },
+  {
+    "player_input": "Can you mine",
+    "npc_output": "I'm feeling anxious, but I need to search the dusty tunnel in the mine, it's time for |r1|"
+  },
+  {
+    "player_input": "What's cooking",
+    "npc_output": "I'm trying to taste the fresh oven after market, but these windy conditions at noon are not helping, maybe |r1|"
+  }
+]

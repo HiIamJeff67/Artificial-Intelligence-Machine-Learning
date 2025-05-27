@@ -1,0 +1,58 @@
+[
+  {
+    "player_input": "What are you selling?",
+    "npc_output": "Welcome! I have various goods for sale, perhaps you'd like to |r2|?"
+  },
+  {
+    "player_input": "Do you have any messages?",
+    "npc_output": "Actually, I was supposed to |r5|, would you like to help me?"
+  },
+  {
+    "player_input": "How's farming going?",
+    "npc_output": "It's going well, but I still need to |r1|, care to lend a hand?"
+  },
+  {
+    "player_input": "What's your royal decree?",
+    "npc_output": "I've decided to |r3|, it's a great honor for our kingdom."
+  },
+  {
+    "player_input": "Do you need help with carpentry?",
+    "npc_output": "I'm almost done, but I still need to |r4|, thanks for offering."
+  },
+  {
+    "player_input": "What's the special at the inn?",
+    "npc_output": "We have a |r3|, would you like to try it?"
+  },
+  {
+    "player_input": "What's new in your research?",
+    "npc_output": "I've been studying all night, perhaps you can help me |r1|?"
+  },
+  {
+    "player_input": "What do you think of horsemanship?",
+    "npc_output": "It's interesting, but I don't have much time for it."
+  },
+  {
+    "player_input": "Do you have any herbal remedies?",
+    "npc_output": "Yes, I can |r2|, would you like some?"
+  },
+  {
+    "player_input": "What's the weather like?",
+    "npc_output": "It's a bit |r1|, maybe we should |r6|?"
+  },
+  {
+    "player_input": "How's your day?",
+    "npc_output": "It's been good, thanks, I was able to |r9| earlier."
+  },
+  {
+    "player_input": "Need help with anything?",
+    "npc_output": "Actually, I need to |r5|, can you assist me?"
+  },
+  {
+    "player_input": "What's your favorite hobby?",
+    "npc_output": "I enjoy |r1|, it's very relaxing."
+  },
+  {
+    "player_input": "What's the diagnosis?",
+    "npc_output": "It's not good, I need to |r8|, right away."
+  }
+]

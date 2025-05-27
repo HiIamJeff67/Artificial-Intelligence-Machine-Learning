@@ -1,0 +1,553 @@
+[
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "71",
+      "name": "Patrick Garza",
+      "role": "bard",
+      "moods": [
+        "hopeful",
+        "happy",
+        "anxious"
+      ],
+      "interests": [
+        "music"
+      ],
+      "playerRelationship": "74",
+      "gender": "female",
+      "personalities": [
+        "patient",
+        "diligent",
+        "stubborn"
+      ],
+      "requests": [
+        "Play the charming performance during festival",
+        "Compose the inspiring song after dinner",
+        "Sing the creative dance at the tavern",
+        "Dance the charming lyre at the tavern",
+        "Perform the witty dance during festival",
+        "Recite the melodic performance in the evening",
+        "Compose the creative song during festival",
+        "Compose the inspiring dance on stage",
+        "Dance the lively lyre at the tavern",
+        "Compose the inspiring poetry on stage",
+        "Perform the talented dance during festival",
+        "Play the charming lyre at the tavern",
+        "Recite the witty performance at the tavern",
+        "Play the inspiring story on stage"
+      ]
+    },
+    "environment_informations": {
+      "weather": "cloudy",
+      "time": "during the festival"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "22",
+      "name": "Peter Jackson",
+      "role": "witch",
+      "moods": [
+        "curious",
+        "angry"
+      ],
+      "interests": [
+        "collecting",
+        "hunting",
+        "fishing",
+        "magic"
+      ],
+      "playerRelationship": "11",
+      "gender": "male",
+      "personalities": [
+        "skeptical",
+        "protective",
+        "ambitious"
+      ],
+      "requests": [
+        "Predict the dark broom before dawn"
+      ]
+    },
+    "environment_informations": {
+      "weather": "sunny",
+      "time": "in the evening"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "19",
+      "name": "Kathryn Bradford",
+      "role": "noble",
+      "moods": [
+        "bored"
+      ],
+      "interests": [
+        "horsemanship",
+        "magic",
+        "meditation",
+        "trading",
+        "hunting"
+      ],
+      "playerRelationship": "66",
+      "gender": "female",
+      "personalities": [
+        "reckless",
+        "patient",
+        "materialistic"
+      ],
+      "requests": [
+        "Attend the proud debt in the city",
+        "Command the arrogant invitation during banquet",
+        "Command the proud servant before council",
+        "Host the refined debt before council",
+        "Invite the powerful debt at the estate",
+        "Invite the wealthy invitation during banquet",
+        "Rule the powerful invitation at the estate",
+        "Donate the generous servant before council",
+        "Donate the wealthy land before council"
+      ]
+    },
+    "environment_informations": {
+      "weather": "drizzle",
+      "time": "at midnight"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "46",
+      "name": "Jeremy Robinson",
+      "role": "innkeeper",
+      "moods": [
+        "happy"
+      ],
+      "interests": [
+        "crafting",
+        "cooking"
+      ],
+      "playerRelationship": "45",
+      "gender": "male",
+      "personalities": [
+        "lazy",
+        "loyal",
+        "curious"
+      ],
+      "requests": [
+        "Pour the festive banquet before festival",
+        "Clean the cozy room before festival",
+        "Pour the festive feast during feast"
+      ]
+    },
+    "environment_informations": {
+      "weather": "hail",
+      "time": "during the festival"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "74",
+      "name": "Mrs. Madison Martinez",
+      "role": "priest",
+      "moods": [
+        "angry"
+      ],
+      "interests": [
+        "exploring",
+        "sports",
+        "crafting",
+        "fishing",
+        "collecting"
+      ],
+      "playerRelationship": "20",
+      "gender": "male",
+      "personalities": [
+        "timid",
+        "jealous"
+      ],
+      "requests": [
+        "Heal the holy faith during ceremony",
+        "Preach the faithful faith after prayer",
+        "Heal the holy faith at dawn",
+        "Conduct the holy prayer during ceremony",
+        "Forgive the faithful wedding in the temple",
+        "Conduct the faithful prayer on holy day"
+      ]
+    },
+    "environment_informations": {
+      "weather": "snowy",
+      "time": "in the afternoon"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "34",
+      "name": "Alyssa Kemp",
+      "role": "scholar",
+      "moods": [
+        "bored",
+        "curious"
+      ],
+      "interests": [
+        "horsemanship"
+      ],
+      "playerRelationship": "46",
+      "gender": "female",
+      "personalities": [
+        "greedy"
+      ],
+      "requests": []
+    },
+    "environment_informations": {
+      "weather": "foggy",
+      "time": "after sunset"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "18",
+      "name": "Donald Cooper",
+      "role": "fisherman",
+      "moods": [
+        "tired"
+      ],
+      "interests": [
+        "fishing",
+        "gardening",
+        "reading",
+        "painting"
+      ],
+      "playerRelationship": "18",
+      "gender": "male",
+      "personalities": [
+        "curious",
+        "reckless",
+        "decisive",
+        "stubborn",
+        "generous"
+      ],
+      "requests": [
+        "Cast the salty fish during fishing",
+        "Catch the skilled boat during fishing",
+        "Bait the skilled bait at the river",
+        "Catch the lucky sea before storm"
+      ]
+    },
+    "environment_informations": {
+      "weather": "sunny",
+      "time": "during the festival"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "22",
+      "name": "Peter Jackson",
+      "role": "witch",
+      "moods": [
+        "curious",
+        "angry"
+      ],
+      "interests": [
+        "collecting",
+        "hunting",
+        "fishing",
+        "magic"
+      ],
+      "playerRelationship": "11",
+      "gender": "male",
+      "personalities": [
+        "skeptical",
+        "protective",
+        "ambitious"
+      ],
+      "requests": [
+        "Predict the dark broom before dawn"
+      ]
+    },
+    "environment_informations": {
+      "weather": "windy",
+      "time": "before sunrise"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "1",
+      "name": "Shelley Conner",
+      "role": "herbalist",
+      "moods": [
+        "curious",
+        "tired"
+      ],
+      "interests": [
+        "gambling"
+      ],
+      "playerRelationship": "47",
+      "gender": "male",
+      "personalities": [
+        "stubborn",
+        "faithful"
+      ],
+      "requests": [
+        "Grow the healing plant during spring",
+        "Gather the dried balm after rain",
+        "Dry the fresh potion in the woods",
+        "Identify the dried flower in the garden",
+        "Gather the wild remedy in the woods",
+        "Crush the fragrant plant at sunrise",
+        "Gather the wild herb after rain",
+        "Crush the fresh herb in the woods",
+        "Grow the medicinal herb in the woods"
+      ]
+    },
+    "environment_informations": {
+      "weather": "stormy",
+      "time": "at midnight"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "10",
+      "name": "Kimberly Porter",
+      "role": "noble",
+      "moods": [
+        "bored",
+        "tired",
+        "anxious"
+      ],
+      "interests": [
+        "storytelling",
+        "fishing"
+      ],
+      "playerRelationship": "81",
+      "gender": "male",
+      "personalities": [
+        "generous",
+        "innovative",
+        "indecisive"
+      ],
+      "requests": [
+        "Attend the proud debt before council",
+        "Command the arrogant title after ceremony",
+        "Attend the proud debt in the city",
+        "Invite the powerful invitation after ceremony",
+        "Donate the influential debt after ceremony",
+        "Rule the arrogant jewel in the city",
+        "Command the arrogant debt before council",
+        "Inherit the dignified jewel in the city",
+        "Invite the influential invitation after ceremony",
+        "Invite the influential servant during banquet",
+        "Invest the generous jewel after ceremony",
+        "Donate the proud debt at the estate"
+      ]
+    },
+    "environment_informations": {
+      "weather": "drizzle",
+      "time": "after sunset"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "60",
+      "name": "Tiffany Johnson",
+      "role": "miner",
+      "moods": [
+        "neutral"
+      ],
+      "interests": [
+        "crafting"
+      ],
+      "playerRelationship": "60",
+      "gender": "female",
+      "personalities": [
+        "materialistic",
+        "decisive",
+        "cautious",
+        "lazy"
+      ],
+      "requests": [
+        "Break the hidden gem before sunset",
+        "Descend the rocky tunnel in the mine"
+      ]
+    },
+    "environment_informations": {
+      "weather": "cloudy",
+      "time": "in the evening"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "3",
+      "name": "Edward Lee DVM",
+      "role": "sailor",
+      "moods": [
+        "curious",
+        "excited",
+        "hopeful"
+      ],
+      "interests": [
+        "gardening",
+        "hunting",
+        "music",
+        "painting",
+        "dancing"
+      ],
+      "playerRelationship": "34",
+      "gender": "male",
+      "personalities": [
+        "protective",
+        "playful",
+        "meticulous"
+      ],
+      "requests": [
+        "Anchor the restless harbor on the ship",
+        "Repair the weathered ship on the ship"
+      ]
+    },
+    "environment_informations": {
+      "weather": "hot",
+      "time": "during the festival"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "13",
+      "name": "Shelly Montgomery",
+      "role": "alchemist",
+      "moods": [
+        "bored"
+      ],
+      "interests": [
+        "reading",
+        "magic"
+      ],
+      "playerRelationship": "21",
+      "gender": "female",
+      "personalities": [
+        "brave",
+        "lazy"
+      ],
+      "requests": [
+        "Distill the magical formula before sunrise",
+        "Brew the colorful potion during experiment",
+        "Transmute the potent formula after market",
+        "Experiment the potent elixir at midnight",
+        "Experiment the rare formula at midnight"
+      ]
+    },
+    "environment_informations": {
+      "weather": "hot",
+      "time": "at dawn"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "5",
+      "name": "Micheal Duncan",
+      "role": "king",
+      "moods": [
+        "tired",
+        "neutral"
+      ],
+      "interests": [
+        "meditation",
+        "alchemy",
+        "hunting"
+      ],
+      "playerRelationship": "27",
+      "gender": "male",
+      "personalities": [
+        "brave",
+        "indecisive",
+        "dreamy",
+        "blunt"
+      ],
+      "requests": [
+        "Lead the powerful treasure at festival",
+        "Appoint the powerful court during council",
+        "Rule the noble kingdom during council",
+        "Rule the powerful kingdom in the morning",
+        "Summon the powerful throne in the morning",
+        "Command the just throne after victory",
+        "Rule the noble crown after victory",
+        "Decree the commanding festival in the throne room",
+        "Summon the noble law at festival",
+        "Judge the noble festival at festival",
+        "Judge the commanding court in the morning"
+      ]
+    },
+    "environment_informations": {
+      "weather": "stormy",
+      "time": "after sunset"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "23",
+      "name": "Scott Wood",
+      "role": "servant",
+      "moods": [
+        "curious"
+      ],
+      "interests": [
+        "horsemanship",
+        "painting",
+        "storytelling",
+        "fishing"
+      ],
+      "playerRelationship": "82",
+      "gender": "female",
+      "personalities": [
+        "compassionate",
+        "optimistic",
+        "innovative"
+      ],
+      "requests": [
+        "Deliver the humble cleaning before dinner",
+        "Serve the busy room after cleaning",
+        "Fetch the helpful tray at the manor",
+        "Clean the helpful tray in the hall",
+        "Serve the tired cleaning before dinner",
+        "Fetch the loyal message after cleaning",
+        "Tidy the quiet room in the hall",
+        "Serve the tired message during event",
+        "Clean the helpful order during event",
+        "Assist the busy tray before dinner",
+        "Fetch the busy cleaning at the manor",
+        "Deliver the obedient task during event",
+        "Tidy the quiet message after cleaning",
+        "Serve the helpful cleaning at the manor"
+      ]
+    },
+    "environment_informations": {
+      "weather": "foggy",
+      "time": "in the afternoon"
+    },
+    "npc_output": ""
+  }
+]

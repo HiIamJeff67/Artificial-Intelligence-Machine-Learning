@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "What's your job?",
+    "npc_output": "I'm a thief, it's a tough life, but someone's gotta do it."
+  },
+  {
+    "player_input": "Hello, how are you?",
+    "npc_output": "I'm not doing great, to be honest. I'm a bit angry and sad today. |r2|"
+  },
+  {
+    "player_input": "What do you like to do?",
+    "npc_output": "I enjoy reading, music, and crafting. I'm a carpenter, you know."
+  },
+  {
+    "player_input": "What's the weather like?",
+    "npc_output": "It's hot, and I'm tired. I wish I could go hunting or farming, but I'm a merchant, so I have to work."
+  },
+  {
+    "player_input": "Do you like collecting things?",
+    "npc_output": "Yes, I love collecting! I'm a hunter, and I enjoy tracking prey in the forest. Maybe one day I'll |r1|."
+  },
+  {
+    "player_input": "What's your favorite hobby?",
+    "npc_output": "I love music! I'm a tailor, but in my free time, I like to sing and dance. I might even |r1| during the festival."
+  },
+  {
+    "player_input": "What's the best way to cook food?",
+    "npc_input": "Ah, cooking! I'm a cook, and I think the best way to cook food is to add a lot of flavor. Maybe I'll |r3| for the feast."
+  },
+  {
+    "player_input": "Do you like playing music?",
+    "npc_output": "Music is my passion! I'm a bard, and I love performing. I might even |r1| during the festival."
+  },
+  {
+    "player_input": "Where's the best place to fish?",
+    "npc_output": "I'm a fisherman, and I think the best place to fish is in the morning. Maybe I'll |r1| before the storm."
+  },
+  {
+    "player_input": "What's your favorite book?",
+    "npc_output": "I'm a scholar, and I love reading. I'm currently researching an ancient debate, but I wish I had more time to |r1|."
+  }
+]

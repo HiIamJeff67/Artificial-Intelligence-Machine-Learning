@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "Good morning",
+    "npc_output": "Good morning! Isn't it a lovely day despite the drizzle? |r1|"
+  },
+  {
+    "player_input": "What's the news",
+    "npc_output": "Not much, just getting ready for another day. The drizzle is quite refreshing, don't you think?"
+  },
+  {
+    "player_input": "Let's dance",
+    "npc_output": "I'd love to, but perhaps later when the snow stops. It's quite snowy in the evening, you know."
+  },
+  {
+    "player_input": "Tell me a story",
+    "npc_output": "Ah, I've got a great one for you! But first, let me just finish this song. |r3|!"
+  },
+  {
+    "player_input": "I need help",
+    "npc_output": "What seems to be the matter? Is everything alright? Perhaps I can assist you with something."
+  },
+  {
+    "player_input": "What's for breakfast",
+    "npc_output": "We've got a lovely spread prepared. Help yourself! |r1|"
+  },
+  {
+    "player_input": "Let's hunt",
+    "npc_output": "The forest is lovely this time of year, but we should be careful with the snow. |r5|"
+  },
+  {
+    "player_input": "I'm cold",
+    "npc_output": "Let me get you a blanket. It can get quite chilly before sunrise, especially with the storm."
+  },
+  {
+    "player_input": "Tell me about your day",
+    "npc_output": "It's been quite eventful, to be honest. I've been conducting ceremonies and whatnot. |r9|"
+  },
+  {
+    "player_input": "What's the plan",
+    "npc_output": "We've got a festival to prepare for! I need to make sure everything is perfect. |r1|"
+  }
+]

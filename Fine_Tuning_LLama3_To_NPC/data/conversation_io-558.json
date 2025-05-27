@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "What's your role?",
+    "npc_output": "I'm a hunter. |r1|"
+  },
+  {
+    "player_input": "How's the weather?",
+    "npc_output": "It's stormy. I should probably attend the proud land after ceremony."
+  },
+  {
+    "player_input": "What do you like to do?",
+    "npc_output": "I like crafting and dancing. Nothing much to do now, though."
+  },
+  {
+    "player_input": "Play some music!",
+    "npc_output": "I can recite the colorful instrument after dinner."
+  },
+  {
+    "player_input": "That's funny!",
+    "npc_output": "Hehe, I can entertain the cheerful prank after joke."
+  },
+  {
+    "player_input": "What's your expertise?",
+    "npc_output": "I'm a scholar, and I can research the ancient debate at night."
+  },
+  {
+    "player_input": "Need any help?",
+    "npc_output": "Actually, I need to melt the heavy forge in the forge. Can you help?"
+  },
+  {
+    "player_input": "What's your interest?",
+    "npc_output": "I'm into horsemanship and magic. Maybe I'll attend the proud debt in the city later."
+  },
+  {
+    "player_input": "Cast a spell!",
+    "npc_output": "I can hex the strange ritual at midnight. But first, let me predict the strange broom after storm."
+  },
+  {
+    "player_input": "Gather herbs!",
+    "npc_output": "Let's crush the fragrant tincture after rain."
+  }
+]

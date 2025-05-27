@@ -1,0 +1,26 @@
+You will be given an array of 10 conversations.
+
+Each item includes:
+- npc_informations: NPC attributes
+- environment_informations: environment attributes
+- player_input: (empty)
+- npc_output: (empty)
+
+Your task:
+1. For **each** of the 10 items, generate a natural, short player_input (within 10 tokens).
+2. Generate a matching npc_output based on npc_informations and environment_informations.
+3. The npc_output may optionally include one request from npc_informations.requests, using the token "|rN|" (e.g., |r2|) to refer to a specific task.
+4. Output must contain exactly 10 objects, each corresponding to one item in the input array. Do not skip, combine, or remove any.
+5. Do not include explanations or formatting — only return the compressed JSON array.
+
+⚠️ Output format rules:
+- Output must be a **compressed JSON array**, not a string.
+- No indentation, no newlines, no extra spacing.
+- Use only these characters: `[ ] { } " : ,`
+- Each item must be a raw JSON object like: `{"player_input":"...","npc_output":"..."}`
+
+❌ Bad (wrong format):
+"[\"{\\\"player_input\\\":...}\", ...]"
+
+✅ Good (correct format):
+[{"player_input":"...","npc_output":"..."}, {"player_input":"...","npc_output":"..."}, ...]

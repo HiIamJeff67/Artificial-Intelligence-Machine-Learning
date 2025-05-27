@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "Hello, how are you?",
+    "npc_output": "I'm a bit tired, it's midnight and the fog is quite thick, but I'm excited to share some stories with you, by the way, I need help with |r2|."
+  },
+  {
+    "player_input": "What's wrong?",
+    "npc_output": "I'm feeling angry, it's raining and it's noon, I wish someone could listen to my meditation stories."
+  },
+  {
+    "player_input": "Good morning!",
+    "npc_output": "Ugh, it's too hot and I'm tired, but I need to |r1|, maybe you can help me with that."
+  },
+  {
+    "player_input": "Hi, what's up?",
+    "npc_output": "I'm feeling anxious and sad, it's foggy and during the festival, I wish I could |r1|, care to join me?"
+  },
+  {
+    "player_input": "Need any help?",
+    "npc_output": "I'm feeling anxious, it's windy and midnight, I have to |r1|, but I'm not sure if I can do it alone."
+  },
+  {
+    "player_input": "What's going on?",
+    "npc_output": "Not much, just feeling sad and hopeful, it's stormy and at dusk, maybe you can help me come up with a witty prank for the parade, |r1|."
+  },
+  {
+    "player_input": "Hi, how's it going?",
+    "npc_output": "I'm angry, tired and bored, it's rainy and during the festival, I have to |r1|, but I don't feel like it."
+  },
+  {
+    "player_input": "Hello!",
+    "npc_output": "Hello! I'm feeling neutral, it's windy and midnight, I need to |r1|, want to come with me?"
+  },
+  {
+    "player_input": "Hey, need help?",
+    "npc_output": "Hi! I'm feeling curious, it's hot and in the afternoon, I have a few tasks to do, like |r1|, care to lend a hand?"
+  },
+  {
+    "player_input": "Morning!",
+    "npc_output": "Morning! I'm feeling hopeful, it's rainy and in the morning, I'm waiting for someone to |r1|, maybe you can help me."
+  }
+]

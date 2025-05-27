@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "What's the weather like?",
+    "npc_output": "It's foggy this afternoon, isn't it lovely?"
+  },
+  {
+    "player_input": "What are you doing?",
+    "npc_output": "I'm preparing for my experiment, |r1|, and I need some peace and quiet."
+  },
+  {
+    "player_input": "Can I help?",
+    "npc_output": "Not now, I'm too tired from cooking and dancing, maybe later you can assist me with |r3|."
+  },
+  {
+    "player_input": "How's business?",
+    "npc_output": "It's hopeful and exciting, I have a lot of sewing to do, including |r1|."
+  },
+  {
+    "player_input": "What's new?",
+    "npc_output": "Not much, just trying to predict the dark broom, |r1|, before it's too late."
+  },
+  {
+    "player_input": "Want to jest?",
+    "npc_output": "Always, let's jest the playful trick, |r1|, and have some fun!"
+  },
+  {
+    "player_input": "What are you hiding?",
+    "npc_output": "Nothing, just a few secrets, like |r2|, but don't worry about it."
+  },
+  {
+    "player_input": "How's your day?",
+    "npc_output": "It's been happy and hopeful, thanks for asking, I have to report the urgent delivery, |r5|, soon."
+  },
+  {
+    "player_input": "Need any help?",
+    "npc_output": "Not now, I'm angry and need some space, but you can help me with |r1| later."
+  },
+  {
+    "player_input": "What's your role?",
+    "npc_output": "I'm a fool, and I love to amuse, like |r1|, it's my favorite thing to do."
+  }
+]

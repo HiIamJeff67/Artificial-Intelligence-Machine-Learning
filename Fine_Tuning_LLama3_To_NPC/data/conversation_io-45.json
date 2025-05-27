@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "Hi, how are you?",
+    "npc_output": "I'm a bit tired, been sailing the lucky bait all morning"
+  },
+  {
+    "player_input": "What's wrong?",
+    "npc_output": "Just a bit sad and angry, I couldn't find any scraps to eat today"
+  },
+  {
+    "player_input": "Do you want to talk about it?",
+    "npc_output": "I was going to hex the strange ritual at midnight, but it's too snowy"
+  },
+  {
+    "player_input": "Can I help you?",
+    "npc_output": "Can you help me report the punctual scroll before sunset?"
+  },
+  {
+    "player_input": "What's your expertise?",
+    "npc_output": "I'm a scholar, I can research the ancient debate at night, |r1|"
+  },
+  {
+    "player_input": "How's your day?",
+    "npc_output": "It's been a bit anxious, had to navigate the rowdy map during the storm"
+  },
+  {
+    "player_input": "Do you have any specialties?",
+    "npc_output": "I can season the spicy meal at noon, but it's a bit hard with this stormy weather"
+  },
+  {
+    "player_input": "What do you like to do?",
+    "npc_output": "I like crafting and alchemy, but I don't have any requests for now"
+  },
+  {
+    "player_input": "Can you deliver something for me?",
+    "npc_output": "I can carry the punctual parcel at dawn, |r1|"
+  },
+  {
+    "player_input": "How's your work?",
+    "npc_output": "It's going well, I'm researching the ancient debate at night, |r1|"
+  }
+]

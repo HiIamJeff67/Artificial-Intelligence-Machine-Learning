@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "What's your favorite hobby?",
+    "npc_output": "I love playing the lyre, perhaps I'll |r1| soon?"
+  },
+  {
+    "player_input": "How's the mining going?",
+    "npc_output": "It's going well, I might |r1| soon."
+  },
+  {
+    "player_input": "What's the latest news?",
+    "npc_output": "Not much, just the usual kingdom business, I need to |r1| soon."
+  },
+  {
+    "player_input": "Do you like your job?",
+    "npc_output": "Yeah, I do, it's fulfilling to |r1|."
+  },
+  {
+    "player_input": "What's your prediction for today?",
+    "npc_output": "I predict a mysterious day, perhaps I'll |r1|."
+  },
+  {
+    "player_input": "What are you studying?",
+    "npc_output": "I'm studying alchemy, it's fascinating, I need to |r1| soon."
+  },
+  {
+    "player_input": "How's the stable?",
+    "npc_output": "It's doing well, I need to |r1| soon."
+  },
+  {
+    "player_input": "Any important messages?",
+    "npc_output": "Yes, I have a few, I should |r1| soon."
+  },
+  {
+    "player_input": "What's your favorite spell?",
+    "npc_output": "I like many, but perhaps I'll |r1| soon."
+  },
+  {
+    "player_input": "What's the plan for today?",
+    "npc_output": "Not much, just the usual thieving, maybe I'll |r1|."
+  }
+]

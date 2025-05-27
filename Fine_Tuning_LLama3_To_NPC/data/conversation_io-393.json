@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "What's your job?",
+    "npc_output": "I'm a thief, |r1|."
+  },
+  {
+    "player_input": "How's it going?",
+    "npc_output": "I'm a bit tired after a long day of fishing."
+  },
+  {
+    "player_input": "Where are you from?",
+    "npc_output": "I'm a sailor from a city by the sea, and I need to |r1|."
+  },
+  {
+    "player_input": "What's your role?",
+    "npc_output": "I'm a knight, and I'm here to |r1|."
+  },
+  {
+    "player_input": "What do you like to do?",
+    "npc_output": "I enjoy storytelling and trading, but now I need to |r2|."
+  },
+  {
+    "player_input": "How's your day?",
+    "npc_output": "It's been a hopeful day, but I have to |r1| soon."
+  },
+  {
+    "player_input": "What's your profession?",
+    "npc_output": "I'm a bard, and I love to |r1|."
+  },
+  {
+    "player_input": "What do you need help with?",
+    "npc_output": "I'm a beggar, and I need someone to |r1|."
+  },
+  {
+    "player_input": "What's your task?",
+    "npc_output": "I'm a messenger, and I have to |r1|."
+  },
+  {
+    "player_input": "How's the farm?",
+    "npc_output": "It's been a tough day with this hail, but I need to |r1|."
+  }
+]

@@ -1,0 +1,609 @@
+[
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "24",
+      "name": "Robert Thomas",
+      "role": "witch",
+      "moods": [
+        "anxious"
+      ],
+      "interests": [
+        "gambling",
+        "meditation",
+        "storytelling",
+        "exploring",
+        "sports"
+      ],
+      "playerRelationship": "43",
+      "gender": "female",
+      "personalities": [
+        "compassionate"
+      ],
+      "requests": [
+        "Curse the dark broom in the woods",
+        "Summon the strange charm before dawn",
+        "Mix the secretive curse in the woods",
+        "Enchant the secretive spell at midnight",
+        "Cast the secretive ritual during ritual",
+        "Predict the dark herb after storm",
+        "Hex the wise broom at midnight",
+        "Brew the wise ritual in the woods",
+        "Summon the cunning broom during ritual",
+        "Predict the secretive spell before dawn",
+        "Predict the strange spell in the woods",
+        "Cast the dark charm before dawn",
+        "Mix the mysterious broom in the woods",
+        "Brew the strange herb during ritual"
+      ]
+    },
+    "environment_informations": {
+      "weather": "rainy",
+      "time": "in the morning"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "12",
+      "name": "Tyler Atkinson",
+      "role": "herbalist",
+      "moods": [
+        "curious"
+      ],
+      "interests": [
+        "gardening",
+        "alchemy"
+      ],
+      "playerRelationship": "50",
+      "gender": "female",
+      "personalities": [
+        "meticulous",
+        "strict",
+        "sarcastic"
+      ],
+      "requests": [
+        "Grow the medicinal herb in the woods",
+        "Crush the rare herb at sunrise",
+        "Gather the fresh flower during spring",
+        "Crush the fragrant remedy in the garden",
+        "Identify the dried potion at sunrise",
+        "Identify the wild balm during spring",
+        "Gather the fragrant tincture in the garden"
+      ]
+    },
+    "environment_informations": {
+      "weather": "hot",
+      "time": "at dusk"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "2",
+      "name": "Scott Vaughn",
+      "role": "witch",
+      "moods": [
+        "sad"
+      ],
+      "interests": [
+        "exploring",
+        "sports",
+        "alchemy",
+        "painting"
+      ],
+      "playerRelationship": "99",
+      "gender": "male",
+      "personalities": [
+        "materialistic",
+        "calculating",
+        "tactful"
+      ],
+      "requests": [
+        "Predict the mysterious ritual after storm",
+        "Cast the wise charm in the woods",
+        "Brew the mysterious ritual before dawn",
+        "Cast the strange curse after storm",
+        "Cast the secretive ritual during ritual",
+        "Summon the powerful spell during ritual",
+        "Predict the strange broom after storm",
+        "Predict the dark secret at midnight",
+        "Predict the strange spell in the woods",
+        "Summon the strange charm before dawn",
+        "Brew the wise ritual in the woods"
+      ]
+    },
+    "environment_informations": {
+      "weather": "snowy",
+      "time": "at dusk"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "38",
+      "name": "Cody Soto",
+      "role": "beggar",
+      "moods": [
+        "hopeful"
+      ],
+      "interests": [
+        "crafting",
+        "exploring",
+        "music"
+      ],
+      "playerRelationship": "72",
+      "gender": "female",
+      "personalities": [
+        "loyal",
+        "wise",
+        "playful",
+        "optimistic",
+        "generous"
+      ],
+      "requests": [
+        "Wait the dirty hope before meal",
+        "Wander the lonely companion in the evening",
+        "Wander the grateful companion in the evening",
+        "Ask the tired companion in the evening",
+        "Hope the dirty companion after rain",
+        "Ask the dirty corner in the evening",
+        "Wait the tired companion after rain",
+        "Wait the hungry blanket after rain",
+        "Hope the needy corner before meal",
+        "Beg the poor companion at the square",
+        "Beg the dirty food at the square",
+        "Wander the grateful shelter in the evening",
+        "Hope the poor blanket during festival",
+        "Beg the dirty blanket before meal",
+        "Hope the cold blanket during festival"
+      ]
+    },
+    "environment_informations": {
+      "weather": "cloudy",
+      "time": "at noon"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "1",
+      "name": "Shelley Conner",
+      "role": "herbalist",
+      "moods": [
+        "curious",
+        "tired"
+      ],
+      "interests": [
+        "gambling"
+      ],
+      "playerRelationship": "47",
+      "gender": "male",
+      "personalities": [
+        "stubborn",
+        "faithful"
+      ],
+      "requests": [
+        "Grow the healing plant during spring",
+        "Gather the dried balm after rain",
+        "Dry the fresh potion in the woods",
+        "Identify the dried flower in the garden",
+        "Gather the wild remedy in the woods",
+        "Crush the fragrant plant at sunrise",
+        "Gather the wild herb after rain",
+        "Crush the fresh herb in the woods",
+        "Grow the medicinal herb in the woods"
+      ]
+    },
+    "environment_informations": {
+      "weather": "hail",
+      "time": "at dusk"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "8",
+      "name": "Kimberly Cummings",
+      "role": "farmer",
+      "moods": [
+        "happy"
+      ],
+      "interests": [
+        "gambling",
+        "music",
+        "gardening",
+        "collecting"
+      ],
+      "playerRelationship": "70",
+      "gender": "female",
+      "personalities": [
+        "greedy",
+        "eccentric"
+      ],
+      "requests": [
+        "Plow the abundant soil after sunrise",
+        "Plow the fresh soil after sunrise",
+        "Plant the fresh field in the morning"
+      ]
+    },
+    "environment_informations": {
+      "weather": "snowy",
+      "time": "after sunset"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "83",
+      "name": "David Lopez",
+      "role": "messenger",
+      "moods": [
+        "happy",
+        "hopeful"
+      ],
+      "interests": [
+        "magic",
+        "trading",
+        "sports",
+        "exploring"
+      ],
+      "playerRelationship": "25",
+      "gender": "female",
+      "personalities": [
+        "shy",
+        "reckless",
+        "loyal",
+        "protective"
+      ],
+      "requests": [
+        "Notify the trusted news after delivery",
+        "Announce the swift errand at dawn",
+        "Announce the quick parcel before sunset",
+        "Run the urgent route before sunset",
+        "Notify the urgent route before sunset",
+        "Report the trusted scroll after delivery",
+        "Run the trusted scroll at dawn",
+        "Announce the punctual scroll at dawn",
+        "Run the trusted route at dawn",
+        "Deliver the punctual delivery before sunset",
+        "Report the trusted parcel on the road",
+        "Notify the reliable route during rain",
+        "Report the urgent delivery after delivery",
+        "Fetch the discreet letter during rain"
+      ]
+    },
+    "environment_informations": {
+      "weather": "snowy",
+      "time": "at dusk"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "31",
+      "name": "Derek Freeman",
+      "role": "miner",
+      "moods": [
+        "angry",
+        "excited"
+      ],
+      "interests": [
+        "collecting"
+      ],
+      "playerRelationship": "2",
+      "gender": "male",
+      "personalities": [
+        "adventurous",
+        "forgiving",
+        "curious",
+        "playful"
+      ],
+      "requests": [
+        "Search the dusty tunnel in the mine",
+        "Break the gritty gem during shift",
+        "Explore the dark stone at dawn",
+        "Haul the deep mine after cave-in",
+        "Extract the dangerous mine during shift",
+        "Search the dusty ore at dawn",
+        "Explore the deep helmet before sunset",
+        "Break the dangerous helmet during shift",
+        "Search the rocky gem at dawn",
+        "Descend the dark pickaxe before sunset",
+        "Break the rocky gem before sunset",
+        "Break the hidden gem before sunset",
+        "Dig the dark ore after cave-in",
+        "Search the gritty ore at dawn",
+        "Haul the hidden pickaxe at dawn"
+      ]
+    },
+    "environment_informations": {
+      "weather": "stormy",
+      "time": "at dawn"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "11",
+      "name": "Mrs. Destiny Rice",
+      "role": "innkeeper",
+      "moods": [
+        "hopeful",
+        "anxious",
+        "excited"
+      ],
+      "interests": [
+        "gambling",
+        "dancing",
+        "alchemy"
+      ],
+      "playerRelationship": "95",
+      "gender": "male",
+      "personalities": [
+        "pragmatic",
+        "meticulous"
+      ],
+      "requests": [
+        "Clean the busy room before festival",
+        "Serve the welcoming feast after sunset",
+        "Pour the generous feast at the inn",
+        "Serve the generous drink in the evening"
+      ]
+    },
+    "environment_informations": {
+      "weather": "snowy",
+      "time": "in the afternoon"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "22",
+      "name": "Peter Jackson",
+      "role": "witch",
+      "moods": [
+        "curious",
+        "angry"
+      ],
+      "interests": [
+        "collecting",
+        "hunting",
+        "fishing",
+        "magic"
+      ],
+      "playerRelationship": "11",
+      "gender": "male",
+      "personalities": [
+        "skeptical",
+        "protective",
+        "ambitious"
+      ],
+      "requests": [
+        "Predict the dark broom before dawn"
+      ]
+    },
+    "environment_informations": {
+      "weather": "cloudy",
+      "time": "at midnight"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "82",
+      "name": "Jennifer Baker",
+      "role": "tailor",
+      "moods": [
+        "neutral"
+      ],
+      "interests": [
+        "hunting",
+        "fishing",
+        "gardening",
+        "trading",
+        "cooking"
+      ],
+      "playerRelationship": "36",
+      "gender": "male",
+      "personalities": [
+        "reckless",
+        "strict",
+        "eccentric",
+        "protective"
+      ],
+      "requests": [
+        "Fit the embroidered needle at noon",
+        "Cut the elegant cloak during fitting",
+        "Mend the colorful outfit at noon"
+      ]
+    },
+    "environment_informations": {
+      "weather": "rainy",
+      "time": "in the morning"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "35",
+      "name": "John Nelson",
+      "role": "messenger",
+      "moods": [
+        "hopeful",
+        "angry"
+      ],
+      "interests": [
+        "exploring",
+        "dancing",
+        "music",
+        "crafting",
+        "fishing"
+      ],
+      "playerRelationship": "72",
+      "gender": "female",
+      "personalities": [
+        "outgoing"
+      ],
+      "requests": [
+        "Deliver the punctual letter at dawn",
+        "Carry the reliable route at dawn",
+        "Run the quick errand at dawn",
+        "Announce the swift errand at dawn",
+        "Announce the discreet scroll on the road",
+        "Announce the quick parcel before sunset",
+        "Run the trusted scroll at dawn",
+        "Fetch the reliable parcel during rain",
+        "Notify the reliable route during rain",
+        "Run the tireless message at dawn",
+        "Announce the punctual scroll at dawn",
+        "Deliver the urgent delivery after delivery",
+        "Carry the swift letter on the road"
+      ]
+    },
+    "environment_informations": {
+      "weather": "stormy",
+      "time": "at midnight"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "31",
+      "name": "Derek Freeman",
+      "role": "miner",
+      "moods": [
+        "angry",
+        "excited"
+      ],
+      "interests": [
+        "collecting"
+      ],
+      "playerRelationship": "2",
+      "gender": "male",
+      "personalities": [
+        "adventurous",
+        "forgiving",
+        "curious",
+        "playful"
+      ],
+      "requests": [
+        "Search the dusty tunnel in the mine",
+        "Break the gritty gem during shift",
+        "Explore the dark stone at dawn",
+        "Haul the deep mine after cave-in",
+        "Extract the dangerous mine during shift",
+        "Search the dusty ore at dawn",
+        "Explore the deep helmet before sunset",
+        "Break the dangerous helmet during shift",
+        "Search the rocky gem at dawn",
+        "Descend the dark pickaxe before sunset",
+        "Break the rocky gem before sunset",
+        "Break the hidden gem before sunset",
+        "Dig the dark ore after cave-in",
+        "Search the gritty ore at dawn",
+        "Haul the hidden pickaxe at dawn"
+      ]
+    },
+    "environment_informations": {
+      "weather": "hail",
+      "time": "at noon"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "94",
+      "name": "John Brooks",
+      "role": "hunter",
+      "moods": [
+        "sad",
+        "happy",
+        "hopeful"
+      ],
+      "interests": [
+        "collecting"
+      ],
+      "playerRelationship": "23",
+      "gender": "female",
+      "personalities": [
+        "wise",
+        "reckless",
+        "pragmatic"
+      ],
+      "requests": [
+        "Track the skilled prey in the forest",
+        "Camp the patient fur before sunset",
+        "Ambush the stealthy fur at dawn",
+        "Shoot the sharp-eyed trap in the forest",
+        "Track the wild bow in the forest",
+        "Hunt the sharp-eyed camp before sunset",
+        "Skin the skilled bow at dawn",
+        "Track the rugged arrow before sunset",
+        "Camp the skilled prey in the forest",
+        "Trap the silent animal after rain",
+        "Stalk the sharp-eyed camp after rain",
+        "Ambush the patient fur at dawn",
+        "Camp the quick arrow before sunset",
+        "Skin the skilled arrow at dawn"
+      ]
+    },
+    "environment_informations": {
+      "weather": "stormy",
+      "time": "at midnight"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "55",
+      "name": "Thomas Riley",
+      "role": "thief",
+      "moods": [
+        "curious",
+        "bored",
+        "sad"
+      ],
+      "interests": [
+        "storytelling",
+        "trading",
+        "collecting",
+        "meditation"
+      ],
+      "playerRelationship": "34",
+      "gender": "female",
+      "personalities": [
+        "optimistic",
+        "meticulous",
+        "decisive"
+      ],
+      "requests": [
+        "Steal the nimble lock at night",
+        "Steal the nimble mask in the alley",
+        "Pick the silent crime before dawn",
+        "Escape the quick disguise during festival",
+        "Escape the shadowy crime before dawn",
+        "Disguise the nimble hideout at night"
+      ]
+    },
+    "environment_informations": {
+      "weather": "rainy",
+      "time": "after sunset"
+    },
+    "npc_output": ""
+  }
+]

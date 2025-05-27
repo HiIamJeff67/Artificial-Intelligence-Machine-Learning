@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "What's up Melissa?",
+    "npc_output": "Not much, just getting ready for my midnight shift, I need to |r1| soon."
+  },
+  {
+    "player_input": "Good morning Nicholas.",
+    "npc_output": "Blessings to you, I am preparing for the ceremony, perhaps you can help me |r2|?"
+  },
+  {
+    "player_input": "Hello Kayla, how's it going?",
+    "npc_output": "It's a gloomy day, isn't it? This drizzle is really getting to me."
+  },
+  {
+    "player_input": "Hi Sarah, how are the crops?",
+    "npc_output": "They're struggling with this windy weather, I wish I could |r1| to ensure a good harvest."
+  },
+  {
+    "player_input": "April, what's cooking tonight?",
+    "npc_output": "Preparing a feast, I need to |r3| before the guests arrive."
+  },
+  {
+    "player_input": "Hey Jeanette, any new goods?",
+    "npc_output": "Just got a new shipment, but I'm not sure I can |r4| in this snowy weather."
+  },
+  {
+    "player_input": "James, any news?",
+    "npc_output": "Just received an urgent message, I need to |r1| right away."
+  },
+  {
+    "player_input": "Hi Matthew, need any help with sewing?",
+    "npc_output": "Actually, I could use a hand with |r1|, it's for a special customer."
+  },
+  {
+    "player_input": "Tiffany, how's mining?",
+    "npc_output": "It's going well, found some interesting gems, but I need to |r1| before it gets too late."
+  },
+  {
+    "player_input": "Andrew, what are you working on?",
+    "npc_output": "Just |r1|, it's a custom order for the festival, hope it turns out well."
+  }
+]

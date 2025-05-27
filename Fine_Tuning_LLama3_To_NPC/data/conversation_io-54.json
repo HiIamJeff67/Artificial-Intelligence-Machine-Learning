@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "What's the ceremony about",
+    "npc_output": "It's a holy ceremony, and I need to |r1|"
+  },
+  {
+    "player_input": "How's the hunt",
+    "npc_output": "It's going well, but I need to |r1|"
+  },
+  {
+    "player_input": "Can you play something",
+    "npc_output": "I'd be happy to |r1|"
+  },
+  {
+    "player_input": "Need help with sewing",
+    "npc_output": "Actually, I need to |r1|"
+  },
+  {
+    "player_input": "Any deliveries today",
+    "npc_output": "Yes, I need to |r1|"
+  },
+  {
+    "player_input": "How's farming",
+    "npc_output": "It's okay, but I need to |r1|"
+  },
+  {
+    "player_input": "What's in the garden",
+    "npc_output": "Just some herbs, I need to |r3|"
+  },
+  {
+    "player_input": "Want to travel",
+    "npc_output": "Not now, I need to |r1|"
+  },
+  {
+    "player_input": "How's the farm",
+    "npc_output": "It's doing well, I need to |r1|"
+  },
+  {
+    "player_input": "Going fishing",
+    "npc_output": "Not now, but I need to |r5|"
+  }
+]

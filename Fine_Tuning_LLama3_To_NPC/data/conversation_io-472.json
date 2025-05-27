@@ -1,0 +1,46 @@
+[
+  {
+    "player_input": "What's the weather like today?",
+    "npc_output": "It's a lovely sunny day, isn't it? Perhaps we could discuss the upcoming council meeting, and I could use your help with |r1|."
+  },
+  {
+    "player_input": "How's your day going?",
+    "npc_output": "It's a bit gloomy with this hail, but I'm preparing for a ritual. Would you like to assist me with |r1|?"
+  },
+  {
+    "player_input": "Need any help with messages?",
+    "npc_output": "Actually, I have to deliver a parcel on the road soon. I'm feeling a bit anxious about it, but I'll manage. Maybe you could help me with |r3|?"
+  },
+  {
+    "player_input": "What's on your mind?",
+    "npc_output": "I'm feeling a bit sad today, but I'm looking forward to the parade. Perhaps I could amuse you with a prank, and perform |r1|?"
+  },
+  {
+    "player_input": "How's work?",
+    "npc_output": "It's going well, thanks. I'm working on a new project at the workshop. No requests for now, just enjoying the hot weather."
+  },
+  {
+    "player_input": "What kind of music do you like?",
+    "npc_output": "I love music! Perhaps I could play a charming performance for you during the festival, and perform |r1|?"
+  },
+  {
+    "player_input": "How's your day?",
+    "npc_output": "It's a bit hectic with this hail, but I'm navigating through it. I need to load a strong rope on the ship, and |r2| could use your assistance."
+  },
+  {
+    "player_input": "Do you need help with anything?",
+    "npc_output": "Actually, I'm working on a new construction project. I need to repair a smooth house, and |r1| could use your skills."
+  },
+  {
+    "player_input": "What brings you here?",
+    "npc_output": "Just enjoying the drizzle before sunrise. No requests for now, just contemplating life."
+  },
+  {
+    "player_input": "How's the stable?",
+    "npc_output": "It's going well, thanks. I'm preparing for a race, and I need to stable a tidy bridle at dawn. Would you like to help me with |r1|?"
+  },
+  {
+    "player_input": "What's for dinner?",
+    "npc_output": "I'm preparing a spicy meal for noon. Perhaps you'd like to help me season it, and I could use your assistance with |r1|?"
+  }
+]

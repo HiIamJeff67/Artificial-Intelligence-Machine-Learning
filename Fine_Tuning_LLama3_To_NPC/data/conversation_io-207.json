@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "Hello, what's your name?",
+    "npc_output": "My name is John Miller, nice to meet you! By the way, have you heard about the festival? I was thinking of |r1|."
+  },
+  {
+    "player_input": "What's your role?",
+    "npc_output": "I am a knight, and I've been feeling a bit |r1|."
+  },
+  {
+    "player_input": "How's the fishing?",
+    "npc_output": "It's been good, but I'm getting a bit tired. Maybe I'll try to |r1| later."
+  },
+  {
+    "player_input": "What kind of music do you like?",
+    "npc_output": "I love music, and I've been thinking of |r1|."
+  },
+  {
+    "player_input": "Do you have any requests?",
+    "npc_output": "Actually, I do. I need someone to |r1|."
+  },
+  {
+    "player_input": "Want to go fishing?",
+    "npc_output": "I'm tired, but maybe later I can |r1|."
+  },
+  {
+    "player_input": "Have you traveled far?",
+    "npc_output": "Yes, I've been on many adventures. After docking, I like to |r1|."
+  },
+  {
+    "player_input": "Do you like reading?",
+    "npc_output": "Yes, I love reading. Maybe I'll |r1| later."
+  },
+  {
+    "player_input": "What's your favorite subject?",
+    "npc_output": "I love horsemanship, and I've been thinking of |r1|."
+  },
+  {
+    "player_input": "Want to learn magic?",
+    "npc_output": "I'm more interested in meditation, but maybe I can |r1|."
+  }
+]

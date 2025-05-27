@@ -1,0 +1,62 @@
+[
+  {
+    "player_input": "What brings you here at midnight?",
+    "npc_output": "Just couldn't sleep, feeling a bit tired, was thinking about my horses, |r1|."
+  },
+  {
+    "player_input": "How's life as a servant?",
+    "npc_output": "It's exhausting, especially on a snowy evening like this, I wish I could just |r1|."
+  },
+  {
+    "player_input": "What's the joke?",
+    "npc_output": "Ah, I'm just trying to come up with a new prank, perhaps something for the festival, but it's tough when it's so windy at midnight."
+  },
+  {
+    "player_input": "Any news to share?",
+    "npc_output": "Actually, I have some urgent news to deliver, but I need to hurry before sunset, |r4|."
+  },
+  {
+    "player_input": "How can I help the faith?",
+    "npc_output": "Well, we could use someone to |r1| during the ceremony, it's getting late in the evening."
+  },
+  {
+    "player_input": "What are you selling?",
+    "npc_output": "Luxurious goods, the best in the city, and I'm hoping to sell them at a high price during the festival, |r1|."
+  },
+  {
+    "player_input": "Are you here for the festival?",
+    "npc_output": "Yes, I'm planning to entertain the crowd with my pranks and jokes, perhaps a cheerful mask, |r3|."
+  },
+  {
+    "player_input": "Can you help me with a curse?",
+    "npc_output": "I can try, but first, let me just brew this secretive ritual, |r4|, it's almost midnight."
+  },
+  {
+    "player_input": "Do you need help with the ship?",
+    "npc_output": "Actually, we need to navigate the strong map after docking, would you be able to assist, |r3|?"
+  },
+  {
+    "player_input": "Where can I find gems?",
+    "npc_output": "You might try breaking some rocks before sunset, I heard there are hidden gems around, |r1|."
+  },
+  {
+    "player_input": "What's wrong?",
+    "npc_output": "Nothing, just a bit angry and reserved, don't mind me."
+  },
+  {
+    "player_input": "Need help in the kitchen?",
+    "npc_output": "Actually, we're preparing for a feast, and we could use someone to season the crispy dessert, |r1|, it's almost noon."
+  },
+  {
+    "player_input": "Planning a heist?",
+    "npc_output": "Perhaps, we're looking to steal a nimble lock tonight, under the cover of the cloudy festival, |r1|."
+  },
+  {
+    "player_input": "What have you got for sale?",
+    "npc_output": "Luxurious goods, the best in the city, and I'm hoping to sell them at a high price, |r2|, before sunrise."
+  },
+  {
+    "player_input": "Do you need anything?",
+    "npc_output": "No, I'm just faithful and content, just meditating here at dawn."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "What's the weather like",
+    "npc_output": "It's hailing outside, be careful |r1|"
+  },
+  {
+    "player_input": "Need help with festival",
+    "npc_output": "I'd be happy to help, let's pour the festive feast"
+  },
+  {
+    "player_input": "Want to go hunting",
+    "npc_output": "I'm tracking the rugged arrow, want to come"
+  },
+  {
+    "player_input": "Need a new house",
+    "npc_output": "I can build the polished plank, let's get started"
+  },
+  {
+    "player_input": "What's your ritual",
+    "npc_output": "I'm mixing the secretive curse, don't interrupt"
+  },
+  {
+    "player_input": "Want to serve",
+    "npc_output": "I need help with the humble cleaning, thanks for offering"
+  },
+  {
+    "player_input": "How's the farm",
+    "npc_output": "The ripe seed needs watering, want to help"
+  },
+  {
+    "player_input": "What's brewing",
+    "npc_output": "A strange charm, predict the strange broom after storm"
+  },
+  {
+    "player_input": "Going to the mine",
+    "npc_output": "Break the hidden gem before sunset, careful in there"
+  },
+  {
+    "player_input": "Need food",
+    "npc_output": "Hope the dirty companion after rain, I can share"
+  }
+]

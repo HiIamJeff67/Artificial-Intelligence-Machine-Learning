@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "What brings you here?",
+    "npc_output": "Just enjoying the cloudy evening, |r1|"
+  },
+  {
+    "player_input": "How's it going?",
+    "npc_output": "Feeling a bit sad, would love to |r3|"
+  },
+  {
+    "player_input": "Need help with anything?",
+    "npc_output": "Considering |r1|, thanks for asking"
+  },
+  {
+    "player_input": "What's on your mind?",
+    "npc_output": "Anxious about the hail, and |r5|"
+  },
+  {
+    "player_input": "Want to chat?",
+    "npc_output": "Hopeful for a new day, and |r1|"
+  },
+  {
+    "player_input": "How's your day?",
+    "npc_output": "Excited for the evening, and |r1|"
+  },
+  {
+    "player_input": "Any requests?",
+    "npc_output": "Considering |r5|"
+  },
+  {
+    "player_input": "What's new?",
+    "npc_output": "Feeling hot, but |r4| sounds fun"
+  },
+  {
+    "player_input": "How are you?",
+    "npc_output": "Sad, but |r1| could cheer me up"
+  },
+  {
+    "player_input": "Need assistance?",
+    "npc_output": "Happy to |r10|, thanks"
+  }
+]

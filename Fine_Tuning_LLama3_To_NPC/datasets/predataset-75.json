@@ -1,0 +1,577 @@
+[
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "79",
+      "name": "Alyssa Davis",
+      "role": "priest",
+      "moods": [
+        "neutral"
+      ],
+      "interests": [
+        "crafting",
+        "alchemy"
+      ],
+      "playerRelationship": "70",
+      "gender": "female",
+      "personalities": [
+        "authoritative",
+        "adventurous",
+        "calculating",
+        "eccentric"
+      ],
+      "requests": []
+    },
+    "environment_informations": {
+      "weather": "snowy",
+      "time": "during the festival"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "66",
+      "name": "Kelly Parks",
+      "role": "servant",
+      "moods": [
+        "tired",
+        "sad"
+      ],
+      "interests": [
+        "horsemanship",
+        "magic"
+      ],
+      "playerRelationship": "14",
+      "gender": "male",
+      "personalities": [
+        "patient",
+        "reserved",
+        "timid",
+        "outgoing"
+      ],
+      "requests": [
+        "Fetch the loyal errand before dinner",
+        "Fetch the humble tray after cleaning",
+        "Fetch the loyal task in the hall",
+        "Tidy the humble errand at the manor",
+        "Clean the busy borrow after cleaning",
+        "Deliver the humble tray in the hall",
+        "Assist the busy tray before dinner",
+        "Prepare the helpful cleaning in the hall",
+        "Arrange the humble errand before dinner"
+      ]
+    },
+    "environment_informations": {
+      "weather": "snowy",
+      "time": "in the afternoon"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "81",
+      "name": "Erica Davis",
+      "role": "healer",
+      "moods": [
+        "angry",
+        "bored"
+      ],
+      "interests": [
+        "reading",
+        "magic"
+      ],
+      "playerRelationship": "78",
+      "gender": "female",
+      "personalities": [
+        "cheerful",
+        "reserved",
+        "pessimistic",
+        "blunt"
+      ],
+      "requests": [
+        "Care the caring medicine during epidemic",
+        "Prescribe the compassionate herb before sunset",
+        "Bandage the gentle patient after battle",
+        "Bandage the gentle patient during epidemic",
+        "Soothe the kind patient after battle",
+        "Treat the caring remedy during epidemic",
+        "Diagnose the patient balm at dawn",
+        "Heal the compassionate potion after battle",
+        "Care the kind remedy after battle",
+        "Diagnose the compassionate treat in the clinic",
+        "Care the compassionate patient during epidemic",
+        "Heal the dedicated bandage in the clinic",
+        "Treat the patient remedy after battle",
+        "Treat the wise medicine at dawn",
+        "Care the kind balm in the clinic"
+      ]
+    },
+    "environment_informations": {
+      "weather": "cloudy",
+      "time": "in the evening"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "2",
+      "name": "Scott Vaughn",
+      "role": "witch",
+      "moods": [
+        "sad"
+      ],
+      "interests": [
+        "exploring",
+        "sports",
+        "alchemy",
+        "painting"
+      ],
+      "playerRelationship": "99",
+      "gender": "male",
+      "personalities": [
+        "materialistic",
+        "calculating",
+        "tactful"
+      ],
+      "requests": [
+        "Predict the mysterious ritual after storm",
+        "Cast the wise charm in the woods",
+        "Brew the mysterious ritual before dawn",
+        "Cast the strange curse after storm",
+        "Cast the secretive ritual during ritual",
+        "Summon the powerful spell during ritual",
+        "Predict the strange broom after storm",
+        "Predict the dark secret at midnight",
+        "Predict the strange spell in the woods",
+        "Summon the strange charm before dawn",
+        "Brew the wise ritual in the woods"
+      ]
+    },
+    "environment_informations": {
+      "weather": "rainy",
+      "time": "before sunrise"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "75",
+      "name": "James Gordon",
+      "role": "messenger",
+      "moods": [
+        "bored",
+        "angry"
+      ],
+      "interests": [
+        "trading"
+      ],
+      "playerRelationship": "69",
+      "gender": "male",
+      "personalities": [
+        "protective",
+        "sarcastic"
+      ],
+      "requests": [
+        "Announce the urgent letter on the road",
+        "Report the tireless news during rain",
+        "Notify the tireless message after delivery"
+      ]
+    },
+    "environment_informations": {
+      "weather": "rainy",
+      "time": "at dusk"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "69",
+      "name": "Michael Flores",
+      "role": "knight",
+      "moods": [
+        "neutral",
+        "tired"
+      ],
+      "interests": [
+        "farming",
+        "cooking",
+        "horsemanship",
+        "sports",
+        "fishing"
+      ],
+      "playerRelationship": "60",
+      "gender": "male",
+      "personalities": [
+        "dreamy",
+        "arrogant",
+        "vengeful"
+      ],
+      "requests": [
+        "Train the fearless horse during tournament",
+        "Fight the strong horse during tournament",
+        "Train the valiant joust during tournament",
+        "Escort the brave horse during tournament",
+        "Train the valiant sword after battle",
+        "Challenge the noble duty during tournament",
+        "Challenge the loyal duty after battle",
+        "Ride the honorable tournament during tournament",
+        "Swear the loyal tournament after battle",
+        "Fight the brave shield at the castle",
+        "Train the honorable armor after battle",
+        "Train the loyal horse after battle",
+        "Compete the brave joust at the castle",
+        "Swear the noble joust before dawn"
+      ]
+    },
+    "environment_informations": {
+      "weather": "rainy",
+      "time": "in the evening"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "64",
+      "name": "Gary Payne",
+      "role": "fool",
+      "moods": [
+        "tired"
+      ],
+      "interests": [
+        "collecting"
+      ],
+      "playerRelationship": "62",
+      "gender": "male",
+      "personalities": [
+        "protective",
+        "compassionate"
+      ],
+      "requests": [
+        "Tease the silly mask at the festival",
+        "Entertain the cheerful prank after joke",
+        "Amuse the clumsy mask during parade",
+        "Joke the witty mask after joke",
+        "Joke the funny prank in the square",
+        "Dance the funny joke after joke",
+        "Jest the witty trick after joke",
+        "Tease the cheerful mask during parade",
+        "Prank the cheerful jest before sunset",
+        "Dance the cheerful trick at the festival",
+        "Amuse the funny prank after joke",
+        "Amuse the clumsy festival during parade",
+        "Prank the silly jest in the square",
+        "Mock the colorful joke after joke",
+        "Dance the playful joke at the festival"
+      ]
+    },
+    "environment_informations": {
+      "weather": "hot",
+      "time": "during the festival"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "97",
+      "name": "Michelle Adams",
+      "role": "thief",
+      "moods": [
+        "happy"
+      ],
+      "interests": [
+        "cooking",
+        "dancing",
+        "farming"
+      ],
+      "playerRelationship": "89",
+      "gender": "female",
+      "personalities": [
+        "curious",
+        "wise",
+        "dreamy"
+      ],
+      "requests": [
+        "Unlock the shadowy escape after curfew",
+        "Hide the quick secret before dawn",
+        "Unlock the cunning lock after curfew",
+        "Spy the shadowy hideout in the alley",
+        "Hide the silent hideout after curfew"
+      ]
+    },
+    "environment_informations": {
+      "weather": "sunny",
+      "time": "after sunset"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "100",
+      "name": "Pamela Sherman",
+      "role": "scholar",
+      "moods": [
+        "excited"
+      ],
+      "interests": [
+        "alchemy"
+      ],
+      "playerRelationship": "71",
+      "gender": "male",
+      "personalities": [
+        "playful",
+        "moody",
+        "protective",
+        "diligent"
+      ],
+      "requests": [
+        "Translate the curious library before exam",
+        "Read the innovative study before exam",
+        "Write the wise manuscript after lecture",
+        "Teach the reserved book at night",
+        "Write the thoughtful debate at night",
+        "Record the learned manuscript during study",
+        "Translate the diligent book at night",
+        "Record the reserved study in the library",
+        "Research the ancient knowledge during study",
+        "Research the curious book during study",
+        "Teach the reserved knowledge in the library",
+        "Teach the wise library before exam",
+        "Write the reserved knowledge at night",
+        "Translate the reserved library during study",
+        "Translate the ancient study at night"
+      ]
+    },
+    "environment_informations": {
+      "weather": "stormy",
+      "time": "at dusk"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "1",
+      "name": "Shelley Conner",
+      "role": "herbalist",
+      "moods": [
+        "curious",
+        "tired"
+      ],
+      "interests": [
+        "gambling"
+      ],
+      "playerRelationship": "47",
+      "gender": "male",
+      "personalities": [
+        "stubborn",
+        "faithful"
+      ],
+      "requests": [
+        "Grow the healing plant during spring",
+        "Gather the dried balm after rain",
+        "Dry the fresh potion in the woods",
+        "Identify the dried flower in the garden",
+        "Gather the wild remedy in the woods",
+        "Crush the fragrant plant at sunrise",
+        "Gather the wild herb after rain",
+        "Crush the fresh herb in the woods",
+        "Grow the medicinal herb in the woods"
+      ]
+    },
+    "environment_informations": {
+      "weather": "drizzle",
+      "time": "before sunrise"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "62",
+      "name": "Craig Coleman",
+      "role": "fisherman",
+      "moods": [
+        "tired"
+      ],
+      "interests": [
+        "hunting",
+        "music",
+        "exploring"
+      ],
+      "playerRelationship": "31",
+      "gender": "male",
+      "personalities": [
+        "cautious",
+        "blunt",
+        "curious",
+        "romantic",
+        "vengeful"
+      ],
+      "requests": [
+        "Catch the wet sea at the river",
+        "Row the salty catch on the boat",
+        "Net the early river at the river",
+        "Bait the wet sea before storm"
+      ]
+    },
+    "environment_informations": {
+      "weather": "windy",
+      "time": "at dusk"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "14",
+      "name": "Tina Gonzalez",
+      "role": "fisherman",
+      "moods": [
+        "sad",
+        "tired"
+      ],
+      "interests": [
+        "cooking",
+        "exploring",
+        "reading"
+      ],
+      "playerRelationship": "37",
+      "gender": "male",
+      "personalities": [
+        "meticulous",
+        "friendly"
+      ],
+      "requests": [
+        "Sail the lucky bait in the morning",
+        "Cast the weathered net in the morning",
+        "Row the early sea in the morning"
+      ]
+    },
+    "environment_informations": {
+      "weather": "foggy",
+      "time": "at noon"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "68",
+      "name": "Sheila Bautista",
+      "role": "fisherman",
+      "moods": [
+        "curious",
+        "angry"
+      ],
+      "interests": [
+        "collecting",
+        "exploring"
+      ],
+      "playerRelationship": "22",
+      "gender": "female",
+      "personalities": [
+        "faithful",
+        "shy"
+      ],
+      "requests": [
+        "Reel the skilled river in the morning",
+        "Cast the salty fish in the morning",
+        "Sail the wet river at the river",
+        "Fish the wet river before storm"
+      ]
+    },
+    "environment_informations": {
+      "weather": "sunny",
+      "time": "after sunset"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "89",
+      "name": "Kristi Potts",
+      "role": "carpenter",
+      "moods": [
+        "sad",
+        "bored",
+        "anxious"
+      ],
+      "interests": [
+        "gardening",
+        "collecting"
+      ],
+      "playerRelationship": "57",
+      "gender": "female",
+      "personalities": [
+        "moody",
+        "forgiving"
+      ],
+      "requests": [
+        "Saw the handcrafted plank before rain",
+        "Join the solid nail at noon",
+        "Assemble the handcrafted tool before rain",
+        "Measure the smooth plank at the workshop",
+        "Join the handcrafted house after delivery",
+        "Assemble the reliable tool after delivery",
+        "Measure the well-made tool before rain",
+        "Hammer the solid wood during construction",
+        "Measure the polished wood during construction",
+        "Join the solid plank before rain",
+        "Saw the wooden furniture after delivery",
+        "Carve the sturdy workbench at noon",
+        "Carve the sturdy wood at noon"
+      ]
+    },
+    "environment_informations": {
+      "weather": "sunny",
+      "time": "at dawn"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "1",
+      "name": "Shelley Conner",
+      "role": "herbalist",
+      "moods": [
+        "curious",
+        "tired"
+      ],
+      "interests": [
+        "gambling"
+      ],
+      "playerRelationship": "47",
+      "gender": "male",
+      "personalities": [
+        "stubborn",
+        "faithful"
+      ],
+      "requests": [
+        "Grow the healing plant during spring",
+        "Gather the dried balm after rain",
+        "Dry the fresh potion in the woods",
+        "Identify the dried flower in the garden",
+        "Gather the wild remedy in the woods",
+        "Crush the fragrant plant at sunrise",
+        "Gather the wild herb after rain",
+        "Crush the fresh herb in the woods",
+        "Grow the medicinal herb in the woods"
+      ]
+    },
+    "environment_informations": {
+      "weather": "hail",
+      "time": "at noon"
+    },
+    "npc_output": ""
+  }
+]

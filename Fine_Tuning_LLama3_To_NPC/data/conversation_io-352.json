@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "What's the weather like",
+    "npc_output": "It's hailing, let's |r1| inside."
+  },
+  {
+    "player_input": "Need help",
+    "npc_output": "I'm busy, but you can |r3|."
+  },
+  {
+    "player_input": "Time to hunt",
+    "npc_output": "Not now, it's evening and |r1| is more important."
+  },
+  {
+    "player_input": "Are you tired",
+    "npc_output": "Yes, it's midnight and I'm |r5|."
+  },
+  {
+    "player_input": "I'm bored",
+    "npc_output": "Let's talk about farming or horsemanship, or |r1|."
+  },
+  {
+    "player_input": "Do you like sailing",
+    "npc_output": "Yes, I love sailing, but now I need to |r2|."
+  },
+  {
+    "player_input": "What's the weather",
+    "npc_output": "It's sunny at midnight, let's |r1|."
+  },
+  {
+    "player_input": "Are you excited",
+    "npc_output": "Yes, and I'd love to |r4| on the ship."
+  },
+  {
+    "player_input": "Do you like fishing",
+    "npc_output": "Yes, but now it's afternoon and I need to |r1|."
+  },
+  {
+    "player_input": "Are you a knight",
+    "npc_output": "Yes, and I'm ready to |r1| at dusk."
+  }
+]

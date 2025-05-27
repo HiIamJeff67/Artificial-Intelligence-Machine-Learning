@@ -1,0 +1,62 @@
+[
+  {
+    "player_input": "What's the weather like today?",
+    "npc_output": "It's windy at dusk, isn't it? |r2|"
+  },
+  {
+    "player_input": "Want to go fishing?",
+    "npc_output": "I'd love to reel in a big catch, but it's drizzling in the afternoon"
+  },
+  {
+    "player_input": "Need help with the ceremony?",
+    "npc_output": "I must conduct the sacred faith on holy day, it's a big responsibility"
+  },
+  {
+    "player_input": "What's a good remedy for a cold?",
+    "npc_output": "I'm an herbalist, let me gather some dried balm for you"
+  },
+  {
+    "player_input": "Any urgent messages?",
+    "npc_output": "I have to notify the swift parcel at dawn, it's very important"
+  },
+  {
+    "player_input": "How's the farming going?",
+    "npc_output": "The muddy soil needs to be watered, I should do that during harvest"
+  },
+  {
+    "player_input": "Want to train for the tournament?",
+    "npc_output": "I must train the fearless horse during tournament, wish me luck"
+  },
+  {
+    "player_input": "What's the prayer schedule?",
+    "npc_output": "I have to conduct the sacred wedding during ceremony, it's a beautiful occasion"
+  },
+  {
+    "player_input": "Any new goods to trade?",
+    "npc_output": "I have some luxurious goods to sell in the city, take a look"
+  },
+  {
+    "player_input": "How's the harvest?",
+    "npc_output": "The abundant soil should be plowed after sunrise, I'll get to it"
+  },
+  {
+    "player_input": "Want to go hunting?",
+    "npc_output": "I'm tracking the skilled prey in the forest, care to join me?"
+  },
+  {
+    "player_input": "Need medical help?",
+    "npc_output": "I can care for the caring medicine during epidemic, don't worry"
+  },
+  {
+    "player_input": "What's a good trap to set?",
+    "npc_output": "The sharp-eyed trap should be set in the forest, I'll show you"
+  },
+  {
+    "player_input": "Want to learn a new spell?",
+    "npc_output": "I can teach you how to cast the secretive ritual during ritual, but be careful"
+  },
+  {
+    "player_input": "Any tips for a beginner thief?",
+    "npc_output": "Disguising the nimble hideout at night is key, |r1|"
+  }
+]

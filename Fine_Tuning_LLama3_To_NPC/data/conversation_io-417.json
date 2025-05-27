@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "What's the weather like?",
+    "npc_output": "It's snowy and getting dark, I need to |r1| before it gets too late."
+  },
+  {
+    "player_input": "Do you need help with anything?",
+    "npc_output": "Actually, I was thinking of |r1|, care to join me?"
+  },
+  {
+    "player_input": "Are you ready to set sail?",
+    "npc_output": "Not yet, I still need to |r1| and make sure everything is secure."
+  },
+  {
+    "player_input": "Is everything okay?",
+    "npc_output": "Yeah, just a bit |r1|, I was thinking of taking a walk to clear my head."
+  },
+  {
+    "player_input": "Do you have any tasks for me?",
+    "npc_output": "Now that you mention it, I need someone to |r1|, can you handle it?"
+  },
+  {
+    "player_input": "What are you working on?",
+    "npc_output": "Just trying to |r1|, but it's proving to be a bit tricky."
+  },
+  {
+    "player_input": "How's the garden coming along?",
+    "npc_output": "It's doing well, I was thinking of |r1| to make sure it stays healthy."
+  },
+  {
+    "player_input": "Can you show me some magic?",
+    "npc_output": "I'd be happy to |r1|, but first let me just mix this potion."
+  },
+  {
+    "player_input": "What's the plan for today?",
+    "npc_output": "I was thinking of |r1| and then heading out to gather some more supplies."
+  },
+  {
+    "player_input": "Do you need any help with your performance?",
+    "npc_output": "Actually, I could use someone to |r1|, would you like to join me on stage?"
+  }
+]

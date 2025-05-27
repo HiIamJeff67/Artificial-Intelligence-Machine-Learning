@@ -1,0 +1,58 @@
+[
+  {
+    "player_input": "What's your job?",
+    "npc_output": "I'm a tailor, nice to meet you."
+  },
+  {
+    "player_input": "What are you doing tonight?",
+    "npc_output": "Just enjoying the windy evening, maybe I'll go dancing later."
+  },
+  {
+    "player_input": "Do you like your work?",
+    "npc_output": "It's okay, I guess. I'm a thief, so it can be exciting, but also dangerous."
+  },
+  {
+    "player_input": "What's your favorite herb?",
+    "npc_output": "I love all herbs, but if I had to choose, I'd say the medicinal herb is my favorite.|r1|"
+  },
+  {
+    "player_input": "Do you have any land to donate?",
+    "npc_output": "Actually, I do. I'm a noble, and I have some wealthy land that I might be willing to donate.|r2|"
+  },
+  {
+    "player_input": "Want to go hunting?",
+    "npc_output": "I'd love to, but I'm not sure if the weather is right. It's a bit windy, and I'm a hunter, so I need to be careful."
+  },
+  {
+    "player_input": "Do you have a horse?",
+    "npc_output": "Yes, I do. I'm a knight, and I have a strong horse that I'm very proud of.|r1|"
+  },
+  {
+    "player_input": "Can you host a party?",
+    "npc_output": "I'd be happy to host a party at my estate. I'm a noble, and I love entertaining guests.|r1|"
+  },
+  {
+    "player_input": "What's your favorite book?",
+    "npc_output": "I love reading about magic and science. I'm an alchemist, so I find those subjects fascinating."
+  },
+  {
+    "player_input": "Want to go mining?",
+    "npc_output": "Sure, I'd love to go mining with you. I'm a miner, and I know the mines like the back of my hand.|r1|"
+  },
+  {
+    "player_input": "Do you have a debt to pay?",
+    "npc_output": "Actually, I do. I'm a noble, and I have a proud debt that I need to pay off.|r2|"
+  },
+  {
+    "player_input": "Can you play music?",
+    "npc_output": "Yes, I can play music. I'm a bard, and I love playing my instrument and singing.|r1|"
+  },
+  {
+    "player_input": "Do you have a message to deliver?",
+    "npc_output": "Yes, I do. I'm a messenger, and I have a trusted scroll that I need to deliver.|r1|"
+  },
+  {
+    "player_input": "Want to hear a joke?",
+    "npc_output": "Sure, I'd love to hear a joke. I'm a fool, and I love making people laugh.|r1|"
+  }
+]

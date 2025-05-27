@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "What's your role?",
+    "npc_output": "I'm a witch."
+  },
+  {
+    "player_input": "Hi, what's up?",
+    "npc_output": "Just enjoying the hot weather, it's nice to be out at dusk."
+  },
+  {
+    "player_input": "How are you?",
+    "npc_output": "I'm a bit sad, but I'm looking forward to exploring later."
+  },
+  {
+    "player_input": "What's new with you?",
+    "npc_output": "Not much, just hoping for something to happen, it's always cloudy at noon."
+  },
+  {
+    "player_input": "What brings you here?",
+    "npc_output": "Just looking for some herbs, it's hail and dusk, not the best time."
+  },
+  {
+    "player_input": "Hello!",
+    "npc_output": "Hi, I'm happy to see you, even if it is snowy and after sunset."
+  },
+  {
+    "player_input": "Do you need help?",
+    "npc_output": "No, I'm just delivering a message, it's snowy and at dusk."
+  },
+  {
+    "player_input": "What are you doing?",
+    "npc_output": "Just getting ready for my shift in the mine, it's stormy and at dawn."
+  },
+  {
+    "player_input": "How's business?",
+    "npc_output": "It's been good, I've been busy serving guests, especially with the snowy weather in the afternoon."
+  },
+  {
+    "player_input": "What's on your mind?",
+    "npc_output": "I'm a bit curious and angry, but I need to predict the dark broom before dawn, |r1|."
+  }
+]

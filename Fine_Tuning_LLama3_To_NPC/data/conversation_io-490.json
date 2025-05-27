@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "What's your occupation?",
+    "npc_output": "I'm a herbalist, nice to meet you!"
+  },
+  {
+    "player_input": "What's your favorite hobby?",
+    "npc_output": "I love alchemy and playing music, |r2| would be great right about now."
+  },
+  {
+    "player_input": "Need any help?",
+    "npc_output": "I could use some company, it's getting dark."
+  },
+  {
+    "player_input": "Can I get a cloak?",
+    "npc_output": "I'd be happy to help you with that, let me just cut this elegant cloak."
+  },
+  {
+    "player_input": "Do you have any rooms available?",
+    "npc_output": "We have a few rooms left, would you like me to serve you a welcoming feast?"
+  },
+  {
+    "player_input": "What's it like being a farmer?",
+    "npc_output": "It's a lot of work, but I love sowing the bountiful soil after sunrise."
+  },
+  {
+    "player_input": "Can you take me to the harbor?",
+    "npc_output": "I'd be happy to navigate the adventurous ship after docking."
+  },
+  {
+    "player_input": "Do you have any messages for me?",
+    "npc_output": "Actually, I need to notify the swift parcel at dawn, want to come with?"
+  },
+  {
+    "player_input": "What's the kingdom like?",
+    "npc_output": "It's a noble kingdom, our king rules with a just throne after victory."
+  },
+  {
+    "player_input": "Can you help me with my errand?",
+    "npc_output": "I'd be happy to fetch the loyal errand before dinner for you."
+  }
+]

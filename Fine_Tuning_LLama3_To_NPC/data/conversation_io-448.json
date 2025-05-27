@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "Hello, how's the fishing?",
+    "npc_output": "Not great, the hail is making it difficult. I was thinking of trying to |r1| later."
+  },
+  {
+    "player_input": "What's new?",
+    "npc_output": "Just got a new order for a hat, need to |r1|."
+  },
+  {
+    "player_input": "Need help?",
+    "npc_output": "Actually, I could use help translating a book before the exam, it's a lot of work to |r1|."
+  },
+  {
+    "player_input": "How's the research?",
+    "npc_output": "It's going, but I'm getting a bit anxious with the hail outside. I wish I could |r1|."
+  },
+  {
+    "player_input": "What's the plan for today?",
+    "npc_output": "I need to deliver a parcel at dawn, hope the drizzle doesn't make it too hard to |r1|."
+  },
+  {
+    "player_input": "Do you have any new designs?",
+    "npc_output": "Yes, I've been thinking of embroidering an elegant hat, but I need to |r1| first."
+  },
+  {
+    "player_input": "Can you mend this?",
+    "npc_output": "Of course, I can mend the elegant outfit, just need to |r1|."
+  },
+  {
+    "player_input": "What's interesting?",
+    "npc_output": "Not much, just a bit bored and curious. I don't have any requests for you."
+  },
+  {
+    "player_input": "Want to go fishing?",
+    "npc_output": "Actually, I was thinking of trying to |r1| later, the snowy evening might be good for it."
+  },
+  {
+    "player_input": "Need assistance?",
+    "npc_output": "Yes, I could use help researching the ancient debate at night, it's a lot of work to |r1|."
+  }
+]

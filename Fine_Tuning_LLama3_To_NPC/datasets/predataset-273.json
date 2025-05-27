@@ -1,0 +1,594 @@
+[
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "57",
+      "name": "Shaun Gibson",
+      "role": "herbalist",
+      "moods": [
+        "neutral",
+        "anxious"
+      ],
+      "interests": [
+        "gambling",
+        "reading",
+        "crafting",
+        "trading",
+        "alchemy"
+      ],
+      "playerRelationship": "14",
+      "gender": "male",
+      "personalities": [
+        "adventurous",
+        "tactful",
+        "innovative",
+        "moody",
+        "blunt"
+      ],
+      "requests": [
+        "Crush the fresh herb in the woods",
+        "Dry the dried balm in the garden",
+        "Mix the bitter remedy during spring",
+        "Identify the dried plant in the woods",
+        "Identify the fresh plant in the woods",
+        "Brew the fragrant plant in the woods",
+        "Mix the medicinal herb at sunrise",
+        "Gather the wild herb after rain",
+        "Mix the fresh tincture in the garden",
+        "Grow the healing plant during spring",
+        "Crush the bitter root after rain",
+        "Mix the dried potion at sunrise",
+        "Brew the rare potion during spring",
+        "Dry the fresh remedy in the woods",
+        "Dry the medicinal plant at sunrise"
+      ]
+    },
+    "environment_informations": {
+      "weather": "windy",
+      "time": "in the morning"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "60",
+      "name": "Tiffany Johnson",
+      "role": "miner",
+      "moods": [
+        "neutral"
+      ],
+      "interests": [
+        "crafting"
+      ],
+      "playerRelationship": "60",
+      "gender": "female",
+      "personalities": [
+        "materialistic",
+        "decisive",
+        "cautious",
+        "lazy"
+      ],
+      "requests": [
+        "Break the hidden gem before sunset",
+        "Descend the rocky tunnel in the mine"
+      ]
+    },
+    "environment_informations": {
+      "weather": "cloudy",
+      "time": "at dawn"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "63",
+      "name": "April Gonzalez",
+      "role": "cook",
+      "moods": [
+        "angry",
+        "anxious"
+      ],
+      "interests": [
+        "dancing",
+        "crafting",
+        "gambling",
+        "music",
+        "cooking"
+      ],
+      "playerRelationship": "48",
+      "gender": "male",
+      "personalities": [
+        "faithful",
+        "timid",
+        "materialistic"
+      ],
+      "requests": [
+        "Season the crispy dessert before feast",
+        "Cook the savory dessert after market",
+        "Prepare the fresh meal during festival",
+        "Season the sweet dessert at noon",
+        "Prepare the spicy ingredient after market",
+        "Chop the crispy recipe during festival",
+        "Chop the sweet feast during festival",
+        "Bake the sweet meal before feast",
+        "Prepare the tasty kitchen at noon",
+        "Serve the hot bread in the kitchen",
+        "Prepare the crispy meal after market",
+        "Cook the spicy dessert before feast",
+        "Prepare the crispy kitchen after market"
+      ]
+    },
+    "environment_informations": {
+      "weather": "rainy",
+      "time": "during the festival"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "23",
+      "name": "Scott Wood",
+      "role": "servant",
+      "moods": [
+        "curious"
+      ],
+      "interests": [
+        "horsemanship",
+        "painting",
+        "storytelling",
+        "fishing"
+      ],
+      "playerRelationship": "82",
+      "gender": "female",
+      "personalities": [
+        "compassionate",
+        "optimistic",
+        "innovative"
+      ],
+      "requests": [
+        "Deliver the humble cleaning before dinner",
+        "Serve the busy room after cleaning",
+        "Fetch the helpful tray at the manor",
+        "Clean the helpful tray in the hall",
+        "Serve the tired cleaning before dinner",
+        "Fetch the loyal message after cleaning",
+        "Tidy the quiet room in the hall",
+        "Serve the tired message during event",
+        "Clean the helpful order during event",
+        "Assist the busy tray before dinner",
+        "Fetch the busy cleaning at the manor",
+        "Deliver the obedient task during event",
+        "Tidy the quiet message after cleaning",
+        "Serve the helpful cleaning at the manor"
+      ]
+    },
+    "environment_informations": {
+      "weather": "rainy",
+      "time": "at noon"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "89",
+      "name": "Kristi Potts",
+      "role": "carpenter",
+      "moods": [
+        "sad",
+        "bored",
+        "anxious"
+      ],
+      "interests": [
+        "gardening",
+        "collecting"
+      ],
+      "playerRelationship": "57",
+      "gender": "female",
+      "personalities": [
+        "moody",
+        "forgiving"
+      ],
+      "requests": [
+        "Saw the handcrafted plank before rain",
+        "Join the solid nail at noon",
+        "Assemble the handcrafted tool before rain",
+        "Measure the smooth plank at the workshop",
+        "Join the handcrafted house after delivery",
+        "Assemble the reliable tool after delivery",
+        "Measure the well-made tool before rain",
+        "Hammer the solid wood during construction",
+        "Measure the polished wood during construction",
+        "Join the solid plank before rain",
+        "Saw the wooden furniture after delivery",
+        "Carve the sturdy workbench at noon",
+        "Carve the sturdy wood at noon"
+      ]
+    },
+    "environment_informations": {
+      "weather": "windy",
+      "time": "at noon"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "27",
+      "name": "Sherry Coffey",
+      "role": "priest",
+      "moods": [
+        "neutral"
+      ],
+      "interests": [
+        "cooking",
+        "storytelling",
+        "dancing",
+        "fishing"
+      ],
+      "playerRelationship": "0",
+      "gender": "female",
+      "personalities": [
+        "stubborn",
+        "moody",
+        "innovative",
+        "sarcastic"
+      ],
+      "requests": [
+        "Preach the sacred donation on holy day",
+        "Preach the wise blessing on holy day",
+        "Preach the devout ceremony at dawn",
+        "Forgive the sacred wedding in the temple",
+        "Bless the merciful altar at dawn",
+        "Bless the wise altar during ceremony",
+        "Forgive the pure blessing during ceremony",
+        "Conduct the pure ceremony on holy day",
+        "Chant the holy wedding on holy day",
+        "Heal the blessed prayer on holy day",
+        "Guide the devout faith during ceremony"
+      ]
+    },
+    "environment_informations": {
+      "weather": "foggy",
+      "time": "during the festival"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "85",
+      "name": "Wesley Ayers",
+      "role": "herbalist",
+      "moods": [
+        "excited"
+      ],
+      "interests": [
+        "alchemy",
+        "exploring",
+        "dancing",
+        "cooking",
+        "crafting"
+      ],
+      "playerRelationship": "49",
+      "gender": "male",
+      "personalities": [
+        "optimistic",
+        "diligent",
+        "eccentric"
+      ],
+      "requests": [
+        "Crush the fragrant tincture after rain",
+        "Mix the fresh flower at sunrise",
+        "Prescribe the rare root in the woods",
+        "Crush the fragrant remedy in the garden",
+        "Grow the rare potion in the garden",
+        "Dry the healing tincture during spring",
+        "Gather the wild remedy in the woods",
+        "Grow the fragrant flower during spring",
+        "Dry the dried balm in the garden",
+        "Identify the dried plant in the woods",
+        "Prescribe the rare root at sunrise"
+      ]
+    },
+    "environment_informations": {
+      "weather": "snowy",
+      "time": "at noon"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "34",
+      "name": "Alyssa Kemp",
+      "role": "scholar",
+      "moods": [
+        "bored",
+        "curious"
+      ],
+      "interests": [
+        "horsemanship"
+      ],
+      "playerRelationship": "46",
+      "gender": "female",
+      "personalities": [
+        "greedy"
+      ],
+      "requests": []
+    },
+    "environment_informations": {
+      "weather": "hot",
+      "time": "at noon"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "26",
+      "name": "Miss Megan Dyer",
+      "role": "apprentice",
+      "moods": [
+        "angry",
+        "tired"
+      ],
+      "interests": [
+        "fishing",
+        "cooking",
+        "painting",
+        "gambling"
+      ],
+      "playerRelationship": "16",
+      "gender": "male",
+      "personalities": [
+        "romantic",
+        "vengeful",
+        "pessimistic"
+      ],
+      "requests": [
+        "Observe the inexperienced test during lesson",
+        "Learn the nervous training in the morning"
+      ]
+    },
+    "environment_informations": {
+      "weather": "rainy",
+      "time": "before sunrise"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "50",
+      "name": "Melissa Burns",
+      "role": "miner",
+      "moods": [
+        "curious"
+      ],
+      "interests": [
+        "hunting",
+        "cooking"
+      ],
+      "playerRelationship": "32",
+      "gender": "female",
+      "personalities": [
+        "submissive"
+      ],
+      "requests": [
+        "Descend the deep helmet during shift",
+        "Explore the dangerous helmet during shift",
+        "Search the dark mine during shift",
+        "Mine the rocky mine at dawn",
+        "Extract the dusty cart in the mine",
+        "Dig the dark helmet at dawn"
+      ]
+    },
+    "environment_informations": {
+      "weather": "windy",
+      "time": "at midnight"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "17",
+      "name": "Edgar Burns",
+      "role": "knight",
+      "moods": [
+        "bored"
+      ],
+      "interests": [
+        "magic"
+      ],
+      "playerRelationship": "36",
+      "gender": "male",
+      "personalities": [
+        "forgiving",
+        "arrogant",
+        "reserved",
+        "friendly"
+      ],
+      "requests": [
+        "Fight the strong horse during tournament",
+        "Fight the fearless horse at the castle",
+        "Train the fearless sword on patrol",
+        "Challenge the noble duty during tournament"
+      ]
+    },
+    "environment_informations": {
+      "weather": "snowy",
+      "time": "after sunset"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "71",
+      "name": "Patrick Garza",
+      "role": "bard",
+      "moods": [
+        "hopeful",
+        "happy",
+        "anxious"
+      ],
+      "interests": [
+        "music"
+      ],
+      "playerRelationship": "74",
+      "gender": "female",
+      "personalities": [
+        "patient",
+        "diligent",
+        "stubborn"
+      ],
+      "requests": [
+        "Play the charming performance during festival",
+        "Compose the inspiring song after dinner",
+        "Sing the creative dance at the tavern",
+        "Dance the charming lyre at the tavern",
+        "Perform the witty dance during festival",
+        "Recite the melodic performance in the evening",
+        "Compose the creative song during festival",
+        "Compose the inspiring dance on stage",
+        "Dance the lively lyre at the tavern",
+        "Compose the inspiring poetry on stage",
+        "Perform the talented dance during festival",
+        "Play the charming lyre at the tavern",
+        "Recite the witty performance at the tavern",
+        "Play the inspiring story on stage"
+      ]
+    },
+    "environment_informations": {
+      "weather": "sunny",
+      "time": "after sunset"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "4",
+      "name": "Jillian Stokes",
+      "role": "bard",
+      "moods": [
+        "sad"
+      ],
+      "interests": [
+        "storytelling"
+      ],
+      "playerRelationship": "41",
+      "gender": "female",
+      "personalities": [
+        "faithful",
+        "indecisive",
+        "patient"
+      ],
+      "requests": [
+        "Sing the colorful performance during festival",
+        "Entertain the melodic song in the evening",
+        "Compose the talented story in the evening",
+        "Tell the charming instrument in the evening",
+        "Play the charming story during festival",
+        "Compose the inspiring poetry on stage",
+        "Perform the witty song after dinner",
+        "Entertain the lively lyre at the tavern",
+        "Perform the witty dance on stage",
+        "Compose the inspiring dance on stage"
+      ]
+    },
+    "environment_informations": {
+      "weather": "hail",
+      "time": "before sunrise"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "32",
+      "name": "Gregory Kline",
+      "role": "noble",
+      "moods": [
+        "angry",
+        "tired"
+      ],
+      "interests": [
+        "meditation",
+        "painting",
+        "dancing",
+        "alchemy",
+        "gambling"
+      ],
+      "playerRelationship": "68",
+      "gender": "female",
+      "personalities": [
+        "lazy",
+        "diligent",
+        "greedy",
+        "wise"
+      ],
+      "requests": [
+        "Donate the influential debt after ceremony",
+        "Attend the proud land after ceremony",
+        "Donate the wealthy land before council",
+        "Command the arrogant title after ceremony",
+        "Invite the proud estate before council",
+        "Donate the wealthy estate at the estate",
+        "Inherit the refined invitation before council"
+      ]
+    },
+    "environment_informations": {
+      "weather": "rainy",
+      "time": "at midnight"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "9",
+      "name": "Diane Cox",
+      "role": "messenger",
+      "moods": [
+        "happy",
+        "curious",
+        "excited"
+      ],
+      "interests": [
+        "alchemy",
+        "sports",
+        "horsemanship"
+      ],
+      "playerRelationship": "53",
+      "gender": "male",
+      "personalities": [
+        "blunt",
+        "authoritative",
+        "compassionate"
+      ],
+      "requests": [
+        "Notify the discreet parcel on the road",
+        "Notify the swift parcel at dawn",
+        "Fetch the quick scroll before sunset",
+        "Notify the swift message before sunset",
+        "Carry the tireless letter during rain",
+        "Announce the urgent letter before sunset",
+        "Deliver the urgent delivery after delivery",
+        "Announce the quick parcel before sunset",
+        "Report the punctual scroll on the road",
+        "Deliver the swift errand at dawn"
+      ]
+    },
+    "environment_informations": {
+      "weather": "snowy",
+      "time": "during the festival"
+    },
+    "npc_output": ""
+  }
+]

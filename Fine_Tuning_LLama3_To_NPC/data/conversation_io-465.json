@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "What's the harvest like this season?",
+    "npc_output": "The hail is really affecting our crops, can you help me |r1|?"
+  },
+  {
+    "player_input": "How's mining going?",
+    "npc_output": "It's slow due to the fog, but I need to |r1| soon."
+  },
+  {
+    "player_input": "What are you studying?",
+    "npc_output": "I'm excited about this alchemy project, but I need to |r1| before the exam."
+  },
+  {
+    "player_input": "What's the best remedy for a cold?",
+    "npc_output": "I'd recommend mixing a fresh flower, I need to |r2| at sunrise."
+  },
+  {
+    "player_input": "What goods do you have for sale?",
+    "npc_output": "Luxurious goods, I plan to |r1| during the festival."
+  },
+  {
+    "player_input": "What's your favorite horse breed?",
+    "npc_output": "I'm bored, but I love talking about horsemanship."
+  },
+  {
+    "player_input": "Can I get a room for the night?",
+    "npc_output": "Yes, and I'll |r1| before the festival starts."
+  },
+  {
+    "player_input": "I need a new outfit, can you help?",
+    "npc_output": "I can fit you, and I need to |r1| at noon."
+  },
+  {
+    "player_input": "Where's the best place to farm?",
+    "npc_output": "The field is great, but I need to |r2| after sunrise."
+  },
+  {
+    "player_input": "What's the best way to catch fish?",
+    "npc_output": "You should try casting salty fish during fishing, I need to |r1|."
+  }
+]

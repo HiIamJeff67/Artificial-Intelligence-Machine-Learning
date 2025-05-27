@@ -1,0 +1,12 @@
+AllMoods = [
+    "happy", # 快樂
+    "sad", # 悲傷
+    "angry", # 生氣
+    "neutral", # 普通
+    "excited", # 興奮
+    "bored", # 無聊
+    "anxious", # 焦慮
+    "curious", # 好奇
+    "tired", # 疲倦
+    "hopeful" # 充滿希望
+]

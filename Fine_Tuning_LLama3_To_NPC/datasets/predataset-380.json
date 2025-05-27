@@ -1,0 +1,569 @@
+[
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "31",
+      "name": "Derek Freeman",
+      "role": "miner",
+      "moods": [
+        "angry",
+        "excited"
+      ],
+      "interests": [
+        "collecting"
+      ],
+      "playerRelationship": "2",
+      "gender": "male",
+      "personalities": [
+        "adventurous",
+        "forgiving",
+        "curious",
+        "playful"
+      ],
+      "requests": [
+        "Search the dusty tunnel in the mine",
+        "Break the gritty gem during shift",
+        "Explore the dark stone at dawn",
+        "Haul the deep mine after cave-in",
+        "Extract the dangerous mine during shift",
+        "Search the dusty ore at dawn",
+        "Explore the deep helmet before sunset",
+        "Break the dangerous helmet during shift",
+        "Search the rocky gem at dawn",
+        "Descend the dark pickaxe before sunset",
+        "Break the rocky gem before sunset",
+        "Break the hidden gem before sunset",
+        "Dig the dark ore after cave-in",
+        "Search the gritty ore at dawn",
+        "Haul the hidden pickaxe at dawn"
+      ]
+    },
+    "environment_informations": {
+      "weather": "foggy",
+      "time": "before sunrise"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "40",
+      "name": "Melanie Fisher",
+      "role": "beggar",
+      "moods": [
+        "neutral"
+      ],
+      "interests": [
+        "meditation",
+        "cooking",
+        "alchemy",
+        "horsemanship"
+      ],
+      "playerRelationship": "88",
+      "gender": "male",
+      "personalities": [
+        "faithful"
+      ],
+      "requests": []
+    },
+    "environment_informations": {
+      "weather": "windy",
+      "time": "at noon"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "47",
+      "name": "Douglas Ford",
+      "role": "messenger",
+      "moods": [
+        "tired",
+        "anxious"
+      ],
+      "interests": [
+        "gardening",
+        "gambling",
+        "music",
+        "reading"
+      ],
+      "playerRelationship": "34",
+      "gender": "female",
+      "personalities": [
+        "brave",
+        "sarcastic"
+      ],
+      "requests": [
+        "Run the trusted scroll at dawn",
+        "Notify the punctual news during rain",
+        "Deliver the reliable parcel on the road",
+        "Announce the swift errand at dawn",
+        "Deliver the trusted delivery after delivery",
+        "Report the urgent route after delivery",
+        "Fetch the swift scroll before sunset",
+        "Announce the punctual scroll at dawn",
+        "Run the trusted scroll after delivery",
+        "Deliver the tireless parcel after delivery",
+        "Deliver the discreet route after delivery",
+        "Deliver the punctual letter at dawn",
+        "Notify the discreet message before sunset"
+      ]
+    },
+    "environment_informations": {
+      "weather": "cloudy",
+      "time": "at midnight"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "59",
+      "name": "Ariana Hardin",
+      "role": "scholar",
+      "moods": [
+        "excited"
+      ],
+      "interests": [
+        "cooking",
+        "farming"
+      ],
+      "playerRelationship": "71",
+      "gender": "male",
+      "personalities": [
+        "romantic",
+        "ambitious",
+        "forgiving",
+        "greedy",
+        "reserved"
+      ],
+      "requests": []
+    },
+    "environment_informations": {
+      "weather": "sunny",
+      "time": "at midnight"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "71",
+      "name": "Patrick Garza",
+      "role": "bard",
+      "moods": [
+        "hopeful",
+        "happy",
+        "anxious"
+      ],
+      "interests": [
+        "music"
+      ],
+      "playerRelationship": "74",
+      "gender": "female",
+      "personalities": [
+        "patient",
+        "diligent",
+        "stubborn"
+      ],
+      "requests": [
+        "Play the charming performance during festival",
+        "Compose the inspiring song after dinner",
+        "Sing the creative dance at the tavern",
+        "Dance the charming lyre at the tavern",
+        "Perform the witty dance during festival",
+        "Recite the melodic performance in the evening",
+        "Compose the creative song during festival",
+        "Compose the inspiring dance on stage",
+        "Dance the lively lyre at the tavern",
+        "Compose the inspiring poetry on stage",
+        "Perform the talented dance during festival",
+        "Play the charming lyre at the tavern",
+        "Recite the witty performance at the tavern",
+        "Play the inspiring story on stage"
+      ]
+    },
+    "environment_informations": {
+      "weather": "sunny",
+      "time": "at dawn"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "91",
+      "name": "Noah Mann",
+      "role": "innkeeper",
+      "moods": [
+        "tired",
+        "angry"
+      ],
+      "interests": [
+        "crafting",
+        "trading"
+      ],
+      "playerRelationship": "98",
+      "gender": "female",
+      "personalities": [
+        "stubborn",
+        "faithful",
+        "sarcastic",
+        "eccentric"
+      ],
+      "requests": [
+        "Prepare the festive banquet after sunset",
+        "Host the cozy music after sunset",
+        "Cook the clean parade before festival"
+      ]
+    },
+    "environment_informations": {
+      "weather": "foggy",
+      "time": "in the evening"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "26",
+      "name": "Miss Megan Dyer",
+      "role": "apprentice",
+      "moods": [
+        "angry",
+        "tired"
+      ],
+      "interests": [
+        "fishing",
+        "cooking",
+        "painting",
+        "gambling"
+      ],
+      "playerRelationship": "16",
+      "gender": "male",
+      "personalities": [
+        "romantic",
+        "vengeful",
+        "pessimistic"
+      ],
+      "requests": [
+        "Observe the inexperienced test during lesson",
+        "Learn the nervous training in the morning"
+      ]
+    },
+    "environment_informations": {
+      "weather": "stormy",
+      "time": "at midnight"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "5",
+      "name": "Micheal Duncan",
+      "role": "king",
+      "moods": [
+        "tired",
+        "neutral"
+      ],
+      "interests": [
+        "meditation",
+        "alchemy",
+        "hunting"
+      ],
+      "playerRelationship": "27",
+      "gender": "male",
+      "personalities": [
+        "brave",
+        "indecisive",
+        "dreamy",
+        "blunt"
+      ],
+      "requests": [
+        "Lead the powerful treasure at festival",
+        "Appoint the powerful court during council",
+        "Rule the noble kingdom during council",
+        "Rule the powerful kingdom in the morning",
+        "Summon the powerful throne in the morning",
+        "Command the just throne after victory",
+        "Rule the noble crown after victory",
+        "Decree the commanding festival in the throne room",
+        "Summon the noble law at festival",
+        "Judge the noble festival at festival",
+        "Judge the commanding court in the morning"
+      ]
+    },
+    "environment_informations": {
+      "weather": "hot",
+      "time": "at dusk"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "35",
+      "name": "John Nelson",
+      "role": "messenger",
+      "moods": [
+        "hopeful",
+        "angry"
+      ],
+      "interests": [
+        "exploring",
+        "dancing",
+        "music",
+        "crafting",
+        "fishing"
+      ],
+      "playerRelationship": "72",
+      "gender": "female",
+      "personalities": [
+        "outgoing"
+      ],
+      "requests": [
+        "Deliver the punctual letter at dawn",
+        "Carry the reliable route at dawn",
+        "Run the quick errand at dawn",
+        "Announce the swift errand at dawn",
+        "Announce the discreet scroll on the road",
+        "Announce the quick parcel before sunset",
+        "Run the trusted scroll at dawn",
+        "Fetch the reliable parcel during rain",
+        "Notify the reliable route during rain",
+        "Run the tireless message at dawn",
+        "Announce the punctual scroll at dawn",
+        "Deliver the urgent delivery after delivery",
+        "Carry the swift letter on the road"
+      ]
+    },
+    "environment_informations": {
+      "weather": "foggy",
+      "time": "in the morning"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "68",
+      "name": "Sheila Bautista",
+      "role": "fisherman",
+      "moods": [
+        "curious",
+        "angry"
+      ],
+      "interests": [
+        "collecting",
+        "exploring"
+      ],
+      "playerRelationship": "22",
+      "gender": "female",
+      "personalities": [
+        "faithful",
+        "shy"
+      ],
+      "requests": [
+        "Reel the skilled river in the morning",
+        "Cast the salty fish in the morning",
+        "Sail the wet river at the river",
+        "Fish the wet river before storm"
+      ]
+    },
+    "environment_informations": {
+      "weather": "snowy",
+      "time": "in the afternoon"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "100",
+      "name": "Pamela Sherman",
+      "role": "scholar",
+      "moods": [
+        "excited"
+      ],
+      "interests": [
+        "alchemy"
+      ],
+      "playerRelationship": "71",
+      "gender": "male",
+      "personalities": [
+        "playful",
+        "moody",
+        "protective",
+        "diligent"
+      ],
+      "requests": [
+        "Translate the curious library before exam",
+        "Read the innovative study before exam",
+        "Write the wise manuscript after lecture",
+        "Teach the reserved book at night",
+        "Write the thoughtful debate at night",
+        "Record the learned manuscript during study",
+        "Translate the diligent book at night",
+        "Record the reserved study in the library",
+        "Research the ancient knowledge during study",
+        "Research the curious book during study",
+        "Teach the reserved knowledge in the library",
+        "Teach the wise library before exam",
+        "Write the reserved knowledge at night",
+        "Translate the reserved library during study",
+        "Translate the ancient study at night"
+      ]
+    },
+    "environment_informations": {
+      "weather": "hot",
+      "time": "in the evening"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "97",
+      "name": "Michelle Adams",
+      "role": "thief",
+      "moods": [
+        "happy"
+      ],
+      "interests": [
+        "cooking",
+        "dancing",
+        "farming"
+      ],
+      "playerRelationship": "89",
+      "gender": "female",
+      "personalities": [
+        "curious",
+        "wise",
+        "dreamy"
+      ],
+      "requests": [
+        "Unlock the shadowy escape after curfew",
+        "Hide the quick secret before dawn",
+        "Unlock the cunning lock after curfew",
+        "Spy the shadowy hideout in the alley",
+        "Hide the silent hideout after curfew"
+      ]
+    },
+    "environment_informations": {
+      "weather": "cloudy",
+      "time": "in the evening"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "30",
+      "name": "Sarah Ruiz",
+      "role": "tailor",
+      "moods": [
+        "happy",
+        "sad",
+        "hopeful"
+      ],
+      "interests": [
+        "exploring",
+        "storytelling",
+        "farming"
+      ],
+      "playerRelationship": "16",
+      "gender": "female",
+      "personalities": [
+        "innovative",
+        "ambitious",
+        "eccentric",
+        "dreamy"
+      ],
+      "requests": [
+        "Mend the elegant outfit in the shop",
+        "Design the embroidered fashion during fitting",
+        "Embroider the fitted fabric in the shop",
+        "Fit the elegant hat at noon",
+        "Design the fashionable needle during fitting",
+        "Cut the fashionable fashion before festival",
+        "Cut the elegant thread at noon",
+        "Mend the fine needle after delivery"
+      ]
+    },
+    "environment_informations": {
+      "weather": "stormy",
+      "time": "at noon"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "93",
+      "name": "Matthew Hampton",
+      "role": "tailor",
+      "moods": [
+        "angry",
+        "excited"
+      ],
+      "interests": [
+        "collecting"
+      ],
+      "playerRelationship": "22",
+      "gender": "male",
+      "personalities": [
+        "submissive",
+        "protective",
+        "optimistic",
+        "dreamy",
+        "lazy"
+      ],
+      "requests": [
+        "Design the fine hat after delivery",
+        "Cut the colorful hat in the shop",
+        "Embroider the stylish pattern in the shop",
+        "Sew the colorful fashion in the shop",
+        "Fit the soft cloak during fitting"
+      ]
+    },
+    "environment_informations": {
+      "weather": "stormy",
+      "time": "at midnight"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "73",
+      "name": "Christopher Turner",
+      "role": "tailor",
+      "moods": [
+        "hopeful",
+        "excited"
+      ],
+      "interests": [
+        "meditation"
+      ],
+      "playerRelationship": "35",
+      "gender": "female",
+      "personalities": [
+        "meticulous"
+      ],
+      "requests": [
+        "Embroider the elegant hat in the shop",
+        "Mend the colorful outfit at noon",
+        "Sew the elegant outfit before festival",
+        "Embroider the fashionable needle before festival",
+        "Measure the embroidered pattern during fitting"
+      ]
+    },
+    "environment_informations": {
+      "weather": "cloudy",
+      "time": "in the evening"
+    },
+    "npc_output": ""
+  }
+]

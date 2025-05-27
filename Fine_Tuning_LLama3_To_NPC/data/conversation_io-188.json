@@ -1,0 +1,62 @@
+[
+  {
+    "player_input": "What's your role here?",
+    "npc_output": "Hi, I'm Veronica Austin, the stable master. I stable horses and maintain the stables. |r1|"
+  },
+  {
+    "player_input": "Need any help?",
+    "npc_output": "Actually, I could use some assistance with embroidering this elegant hat in the shop. It's a new design I'm working on. |r1|"
+  },
+  {
+    "player_input": "Want to chat?",
+    "npc_output": "Not really, I'm quite busy mining and don't have much time for conversation. |r2|"
+  },
+  {
+    "player_input": "What's new?",
+    "npc_output": "Just getting ready for the festival, pouring the festive banquet before it starts. |r1|"
+  },
+  {
+    "player_input": "How's it going?",
+    "npc_output": "A bit bored, to be honest. I was thinking of stealing the nimble lock at night, but it's not the right time yet. |r1|"
+  },
+  {
+    "player_input": "What do you do?",
+    "npc_output": "I'm a merchant. I import and export goods, like the profitable spice on the road. |r1|"
+  },
+  {
+    "player_input": "Need help with studies?",
+    "npc_output": "Actually, I could use some help teaching the learned study at night. It's a complex topic. |r1|"
+  },
+  {
+    "player_input": "What's wrong?",
+    "npc_output": "I'm just a bit angry today, that's all. Nothing to worry about."
+  },
+  {
+    "player_input": "Want to perform?",
+    "npc_output": "Always! I love to entertain the lively lyre on stage. It's my favorite thing to do. |r1|"
+  },
+  {
+    "player_input": "Hungry?",
+    "npc_output": "Now that you mention it, I should season the spicy meal at noon. Care to join me?"
+  },
+  {
+    "player_input": "Want to farm?",
+    "npc_output": "I'd love to plow the abundant soil after sunrise. It's a great way to start the day. |r1|"
+  },
+  {
+    "player_input": "Need help begging?",
+    "npc_output": "Actually, I could use some company while I wait the dirty hope before meal. It's not easy being a beggar. |r1|"
+  },
+  {
+    "player_input": "Want to go begging again?",
+    "npc_output": "Ugh, I'm so tired of it, but I suppose I'll wait the tired companion after rain. |r7|"
+  },
+  {
+    "player_input": "Like fishing?",
+    "npc_output": "Love it! I should cast the salty fish during fishing, it's a great way to relax. |r1|"
+  },
+  {
+    "player_input": "Want to attend council?",
+    "npc_output": "Yes, I need to attend the proud debt before council, it's a matter of great importance. |r1|"
+  }
+]

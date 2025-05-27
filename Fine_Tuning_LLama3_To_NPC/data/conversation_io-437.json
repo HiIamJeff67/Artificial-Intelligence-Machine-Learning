@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "What are you selling?",
+    "npc_output": "Welcome to my market stall! I have some rare goods for sale, but first, I need to |r1|."
+  },
+  {
+    "player_input": "How is the weather?",
+    "npc_output": "Ugh, this hail is terrible. I was hoping for a clearer day to |r2|."
+  },
+  {
+    "player_input": "Do you need any help?",
+    "npc_output": "Actually, I could use a hand with |r3|. We need to get this meal ready for the feast."
+  },
+  {
+    "player_input": "What brings you out so late?",
+    "npc_output": "I'm just trying to get some work done before the night gets too late. Maybe |r1| will help me unwind."
+  },
+  {
+    "player_input": "Do you have any new projects?",
+    "npc_output": "Yes, I'm working on |r1|, but it's proving to be a bit of a challenge."
+  },
+  {
+    "player_input": "You look busy, what are you doing?",
+    "npc_output": "Just trying to get some work done before the festival starts. I still need to |r1|."
+  },
+  {
+    "player_input": "How's business been?",
+    "npc_output": "It's been good, but I'm excited for the festival to start. I plan to |r1| and make some extra money."
+  },
+  {
+    "player_input": "What's the best way to stay warm in this hail?",
+    "npc_output": "Ha! Good question. I'm just trying to stay warm myself. Maybe a hot cup of tea after |r2| would help."
+  },
+  {
+    "player_input": "Do you have any deliveries to make?",
+    "npc_output": "Yes, I have a few parcels to deliver, including one that requires me to |r1|."
+  },
+  {
+    "player_input": "What brings you out so early?",
+    "npc_output": "Just getting a head start on the day. I have a lot to do, including |r1|."
+  }
+]

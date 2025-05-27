@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "What's your job?",
+    "npc_output": "I'm a messenger. |r3|"
+  },
+  {
+    "player_input": "How's your day?",
+    "npc_output": "It's been tiring, but I have to patrol the secure shield in the city.|r2|"
+  },
+  {
+    "player_input": "Want to go fishing?",
+    "npc_output": "I'm a fisherman, but I need to bait the lucky net on the boat first.|r1|"
+  },
+  {
+    "player_input": "Need help with something?",
+    "npc_output": "Actually, I need to escape the cunning loot before dawn.|r1|"
+  },
+  {
+    "player_input": "What do you sell?",
+    "npc_output": "I'm a merchant, I trade valuable goods on the road.|r1|"
+  },
+  {
+    "player_input": "Want to steal something?",
+    "npc_output": "I'm a thief, and I need to steal the nimble lock at night.|r1|"
+  },
+  {
+    "player_input": "Where are you headed?",
+    "npc_output": "I'm a miner, and I need to haul the deep mine after cave-in.|r4|"
+  },
+  {
+    "player_input": "Do you need food?",
+    "npc_output": "As a beggar, I'm waiting for the dirty hope before meal.|r1|"
+  },
+  {
+    "player_input": "Can you make something for me?",
+    "npc_output": "I'm a blacksmith, and I can melt the heavy forge in the forge.|r1|"
+  },
+  {
+    "player_input": "What do you need?",
+    "npc_output": "As a beggar, I'm hoping for the cold blanket during festival.|r2|"
+  }
+]

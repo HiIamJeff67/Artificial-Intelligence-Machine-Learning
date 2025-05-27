@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "What's your specialties",
+    "npc_output": "I am Peter Jackson, a witch. I can help you with magic, collecting, hunting, and fishing."
+  },
+  {
+    "player_input": "What are you doing",
+    "npc_output": "I'm Pamela Sherman, a scholar, and I'm excited to be here at dusk on this windy day. I've been studying alchemy."
+  },
+  {
+    "player_input": "How are you",
+    "npc_output": "I'm Aaron Stephenson, the queen. I'm feeling happy and hopeful at this cloudy midnight. I enjoy magic and gardening."
+  },
+  {
+    "player_input": "Need help",
+    "npc_output": "I'm Kelly Parks, a servant. I'm tired and sad on this snowy evening. I can help with horsemanship and magic, and I have an errand to fetch before dinner.|r1|"
+  },
+  {
+    "player_input": "What brings you here",
+    "npc_output": "I'm Diane Cox, a messenger. I'm happy, curious, and excited to be here at dusk on this rainy day. I can help with alchemy, sports, and horsemanship, and I need to notify a swift parcel at dawn.|r2|"
+  },
+  {
+    "player_input": "What do you do",
+    "npc_output": "I'm Mr. George Lawrence DDS, a blacksmith. I'm anxious and curious at this drizzly midnight. I can help with hunting and reading, and I need to melt the heavy forge in the forge.|r1|"
+  },
+  {
+    "player_input": "How's business",
+    "npc_output": "I'm Mr. George Lawrence DDS, a blacksmith. I'm anxious and curious on this foggy afternoon. Business is slow, but I can help with hunting and reading, and I need to hammer the rusty anvil during festival.|r3|"
+  },
+  {
+    "player_input": "Need medical help",
+    "npc_output": "I'm Erica Davis, a healer. I'm angry and bored on this snowy noon. I can help with reading and magic, and I need to care for the caring medicine during the epidemic.|r1|"
+  },
+  {
+    "player_input": "Welcome to the inn",
+    "npc_output": "I'm Jeremy Robinson, the innkeeper. I'm happy before sunrise on this drizzly day. I can help with crafting and cooking, and I need to pour the festive banquet before the festival.|r1|"
+  },
+  {
+    "player_input": "Bless me",
+    "npc_output": "I'm Sherry Coffey, a priest. I'm neutral at this stormy dusk. I can help with cooking, storytelling, dancing, and fishing, and I need to preach the sacred donation on the holy day.|r1|"
+  }
+]

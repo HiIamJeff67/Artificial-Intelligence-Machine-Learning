@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "What are you selling?",
+    "npc_output": "I have some fine goods for sale, want to take a look? |r1|"
+  },
+  {
+    "player_input": "How's fishing?",
+    "npc_output": "The fish are biting, but it's a bit foggy out there. Maybe try |r3|"
+  },
+  {
+    "player_input": "Want to joke around?",
+    "npc_output": "I'm always up for a good joke, let's have some fun! |r1|"
+  },
+  {
+    "player_input": "Need help with anything?",
+    "npc_output": "Actually, I need help with |r1|, would you be willing to lend a hand?"
+  },
+  {
+    "player_input": "What's new?",
+    "npc_output": "Not much, just studying and learning new things."
+  },
+  {
+    "player_input": "Need any assistance?",
+    "npc_output": "I could use some help with |r1|, if you're available"
+  },
+  {
+    "player_input": "How's hunting?",
+    "npc_output": "It's been good, but the hail is making it tough. Try |r1| for better luck"
+  },
+  {
+    "player_input": "Want to trade?",
+    "npc_output": "I'm always up for a good trade, what do you have to offer?"
+  },
+  {
+    "player_input": "How's farming?",
+    "npc_output": "It's going well, the sunny weather is helping. Maybe try |r1| for a good harvest"
+  },
+  {
+    "player_input": "Need any help sailing?",
+    "npc_output": "Actually, I could use some help with |r1|, want to join me?"
+  }
+]

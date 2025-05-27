@@ -1,0 +1,576 @@
+[
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "32",
+      "name": "Gregory Kline",
+      "role": "noble",
+      "moods": [
+        "angry",
+        "tired"
+      ],
+      "interests": [
+        "meditation",
+        "painting",
+        "dancing",
+        "alchemy",
+        "gambling"
+      ],
+      "playerRelationship": "68",
+      "gender": "female",
+      "personalities": [
+        "lazy",
+        "diligent",
+        "greedy",
+        "wise"
+      ],
+      "requests": [
+        "Donate the influential debt after ceremony",
+        "Attend the proud land after ceremony",
+        "Donate the wealthy land before council",
+        "Command the arrogant title after ceremony",
+        "Invite the proud estate before council",
+        "Donate the wealthy estate at the estate",
+        "Inherit the refined invitation before council"
+      ]
+    },
+    "environment_informations": {
+      "weather": "snowy",
+      "time": "after sunset"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "62",
+      "name": "Craig Coleman",
+      "role": "fisherman",
+      "moods": [
+        "tired"
+      ],
+      "interests": [
+        "hunting",
+        "music",
+        "exploring"
+      ],
+      "playerRelationship": "31",
+      "gender": "male",
+      "personalities": [
+        "cautious",
+        "blunt",
+        "curious",
+        "romantic",
+        "vengeful"
+      ],
+      "requests": [
+        "Catch the wet sea at the river",
+        "Row the salty catch on the boat",
+        "Net the early river at the river",
+        "Bait the wet sea before storm"
+      ]
+    },
+    "environment_informations": {
+      "weather": "drizzle",
+      "time": "after sunset"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "17",
+      "name": "Edgar Burns",
+      "role": "knight",
+      "moods": [
+        "bored"
+      ],
+      "interests": [
+        "magic"
+      ],
+      "playerRelationship": "36",
+      "gender": "male",
+      "personalities": [
+        "forgiving",
+        "arrogant",
+        "reserved",
+        "friendly"
+      ],
+      "requests": [
+        "Fight the strong horse during tournament",
+        "Fight the fearless horse at the castle",
+        "Train the fearless sword on patrol",
+        "Challenge the noble duty during tournament"
+      ]
+    },
+    "environment_informations": {
+      "weather": "drizzle",
+      "time": "at midnight"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "74",
+      "name": "Mrs. Madison Martinez",
+      "role": "priest",
+      "moods": [
+        "angry"
+      ],
+      "interests": [
+        "exploring",
+        "sports",
+        "crafting",
+        "fishing",
+        "collecting"
+      ],
+      "playerRelationship": "20",
+      "gender": "male",
+      "personalities": [
+        "timid",
+        "jealous"
+      ],
+      "requests": [
+        "Heal the holy faith during ceremony",
+        "Preach the faithful faith after prayer",
+        "Heal the holy faith at dawn",
+        "Conduct the holy prayer during ceremony",
+        "Forgive the faithful wedding in the temple",
+        "Conduct the faithful prayer on holy day"
+      ]
+    },
+    "environment_informations": {
+      "weather": "snowy",
+      "time": "in the evening"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "92",
+      "name": "Arthur Holloway",
+      "role": "guard",
+      "moods": [
+        "tired",
+        "neutral"
+      ],
+      "interests": [
+        "hunting",
+        "dancing",
+        "meditation"
+      ],
+      "playerRelationship": "69",
+      "gender": "female",
+      "personalities": [
+        "indecisive",
+        "blunt",
+        "shy",
+        "stubborn"
+      ],
+      "requests": [
+        "Escort the secure law at the gate",
+        "Search the loyal bodyguard at night",
+        "Patrol the secure shield in the city",
+        "Search the safe gate at the gate",
+        "Watch the secure gate after curfew",
+        "Protect the loyal prisoner after curfew",
+        "Arrest the honest crime after curfew",
+        "Patrol the safe witness at the gate",
+        "Escort the secure bodyguard at the gate",
+        "Protect the strict crime at the gate",
+        "Escort the brave witness during patrol",
+        "Watch the strict prisoner during patrol"
+      ]
+    },
+    "environment_informations": {
+      "weather": "hail",
+      "time": "at midnight"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "43",
+      "name": "Nicholas Graves",
+      "role": "priest",
+      "moods": [
+        "tired",
+        "neutral"
+      ],
+      "interests": [
+        "storytelling",
+        "meditation",
+        "gambling",
+        "cooking",
+        "horsemanship"
+      ],
+      "playerRelationship": "78",
+      "gender": "male",
+      "personalities": [
+        "cheerful",
+        "adventurous",
+        "eccentric",
+        "sarcastic"
+      ],
+      "requests": [
+        "Heal the holy altar on holy day",
+        "Bless the wise altar during ceremony",
+        "Chant the faithful faith on holy day",
+        "Forgive the holy festival after prayer",
+        "Conduct the sacred wedding during ceremony",
+        "Heal the devout altar at dawn",
+        "Forgive the sacred wedding in the temple",
+        "Guide the devout faith during ceremony",
+        "Conduct the sacred faith on holy day",
+        "Forgive the pure ceremony during ceremony",
+        "Preach the blessed ceremony on holy day",
+        "Heal the wise faith in the temple",
+        "Conduct the blessed blessing during ceremony",
+        "Conduct the pure blessing after prayer"
+      ]
+    },
+    "environment_informations": {
+      "weather": "snowy",
+      "time": "in the evening"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "7",
+      "name": "Aaron Stephenson",
+      "role": "queen",
+      "moods": [
+        "happy",
+        "hopeful"
+      ],
+      "interests": [
+        "magic",
+        "gardening"
+      ],
+      "playerRelationship": "63",
+      "gender": "female",
+      "personalities": [
+        "blunt",
+        "jealous",
+        "faithful",
+        "shy"
+      ],
+      "requests": [
+        "Host the graceful court at the palace",
+        "Support the elegant court before ceremony",
+        "Organize the graceful court in the garden",
+        "Lead the graceful court at the palace",
+        "Lead the influential court at the palace",
+        "Support the royal masquerade after tea"
+      ]
+    },
+    "environment_informations": {
+      "weather": "windy",
+      "time": "before sunrise"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "39",
+      "name": "James Haynes",
+      "role": "sailor",
+      "moods": [
+        "excited",
+        "neutral",
+        "angry"
+      ],
+      "interests": [
+        "alchemy",
+        "hunting"
+      ],
+      "playerRelationship": "22",
+      "gender": "female",
+      "personalities": [
+        "submissive",
+        "romantic",
+        "authoritative",
+        "patient"
+      ],
+      "requests": [
+        "Row the rowdy ship after docking",
+        "Navigate the adventurous ship after docking",
+        "Load the strong map at the harbor",
+        "Repair the skilled treasure during storm",
+        "Load the brave treasure at the harbor"
+      ]
+    },
+    "environment_informations": {
+      "weather": "sunny",
+      "time": "after sunset"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "44",
+      "name": "Crystal Gonzalez",
+      "role": "thief",
+      "moods": [
+        "bored",
+        "tired",
+        "happy"
+      ],
+      "interests": [
+        "storytelling"
+      ],
+      "playerRelationship": "80",
+      "gender": "female",
+      "personalities": [
+        "ambitious",
+        "pessimistic",
+        "sarcastic",
+        "submissive",
+        "adventurous"
+      ],
+      "requests": [
+        "Steal the cunning hideout in the alley",
+        "Hide the cunning loot during festival",
+        "Steal the nimble lock at night"
+      ]
+    },
+    "environment_informations": {
+      "weather": "hail",
+      "time": "in the morning"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "62",
+      "name": "Craig Coleman",
+      "role": "fisherman",
+      "moods": [
+        "tired"
+      ],
+      "interests": [
+        "hunting",
+        "music",
+        "exploring"
+      ],
+      "playerRelationship": "31",
+      "gender": "male",
+      "personalities": [
+        "cautious",
+        "blunt",
+        "curious",
+        "romantic",
+        "vengeful"
+      ],
+      "requests": [
+        "Catch the wet sea at the river",
+        "Row the salty catch on the boat",
+        "Net the early river at the river",
+        "Bait the wet sea before storm"
+      ]
+    },
+    "environment_informations": {
+      "weather": "hot",
+      "time": "at dusk"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "75",
+      "name": "James Gordon",
+      "role": "messenger",
+      "moods": [
+        "bored",
+        "angry"
+      ],
+      "interests": [
+        "trading"
+      ],
+      "playerRelationship": "69",
+      "gender": "male",
+      "personalities": [
+        "protective",
+        "sarcastic"
+      ],
+      "requests": [
+        "Announce the urgent letter on the road",
+        "Report the tireless news during rain",
+        "Notify the tireless message after delivery"
+      ]
+    },
+    "environment_informations": {
+      "weather": "windy",
+      "time": "before sunrise"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "90",
+      "name": "Tyler Alexander",
+      "role": "thief",
+      "moods": [
+        "sad",
+        "bored",
+        "tired"
+      ],
+      "interests": [
+        "magic",
+        "horsemanship",
+        "alchemy",
+        "collecting"
+      ],
+      "playerRelationship": "89",
+      "gender": "male",
+      "personalities": [
+        "faithful"
+      ],
+      "requests": [
+        "Disguise the nimble hideout at night",
+        "Steal the masked lock during festival",
+        "Disguise the clever secret during festival",
+        "Escape the nimble escape during festival",
+        "Pick the cunning mask during festival",
+        "Steal the nimble lock at night",
+        "Unlock the quick loot after curfew",
+        "Escape the cunning hideout in the alley",
+        "Pick the sneaky lock in the alley",
+        "Unlock the shadowy escape after curfew",
+        "Escape the quick escape at night",
+        "Escape the cunning loot before dawn",
+        "Unlock the cunning lock after curfew"
+      ]
+    },
+    "environment_informations": {
+      "weather": "hot",
+      "time": "in the morning"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "80",
+      "name": "Thomas Dixon",
+      "role": "bard",
+      "moods": [
+        "anxious",
+        "happy"
+      ],
+      "interests": [
+        "alchemy",
+        "collecting",
+        "hunting",
+        "cooking",
+        "meditation"
+      ],
+      "playerRelationship": "97",
+      "gender": "male",
+      "personalities": [
+        "blunt",
+        "cheerful",
+        "tactful",
+        "impatient",
+        "lazy"
+      ],
+      "requests": [
+        "Entertain the lively lyre on stage",
+        "Tell the lively lyre at the tavern",
+        "Perform the witty dance on stage",
+        "Tell the charming performance at the tavern",
+        "Tell the colorful lyre in the evening",
+        "Dance the colorful lyre on stage"
+      ]
+    },
+    "environment_informations": {
+      "weather": "foggy",
+      "time": "in the afternoon"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "22",
+      "name": "Peter Jackson",
+      "role": "witch",
+      "moods": [
+        "curious",
+        "angry"
+      ],
+      "interests": [
+        "collecting",
+        "hunting",
+        "fishing",
+        "magic"
+      ],
+      "playerRelationship": "11",
+      "gender": "male",
+      "personalities": [
+        "skeptical",
+        "protective",
+        "ambitious"
+      ],
+      "requests": [
+        "Predict the dark broom before dawn"
+      ]
+    },
+    "environment_informations": {
+      "weather": "stormy",
+      "time": "at dusk"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "19",
+      "name": "Kathryn Bradford",
+      "role": "noble",
+      "moods": [
+        "bored"
+      ],
+      "interests": [
+        "horsemanship",
+        "magic",
+        "meditation",
+        "trading",
+        "hunting"
+      ],
+      "playerRelationship": "66",
+      "gender": "female",
+      "personalities": [
+        "reckless",
+        "patient",
+        "materialistic"
+      ],
+      "requests": [
+        "Attend the proud debt in the city",
+        "Command the arrogant invitation during banquet",
+        "Command the proud servant before council",
+        "Host the refined debt before council",
+        "Invite the powerful debt at the estate",
+        "Invite the wealthy invitation during banquet",
+        "Rule the powerful invitation at the estate",
+        "Donate the generous servant before council",
+        "Donate the wealthy land before council"
+      ]
+    },
+    "environment_informations": {
+      "weather": "hail",
+      "time": "in the morning"
+    },
+    "npc_output": ""
+  }
+]

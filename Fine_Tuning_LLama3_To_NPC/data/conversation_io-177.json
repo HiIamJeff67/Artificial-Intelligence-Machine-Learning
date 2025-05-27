@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "What's your role?",
+    "npc_output": "I'm a healer, nice to meet you."
+  },
+  {
+    "player_input": "How's the weather?",
+    "npc_output": "It's quite hailish today, isn't it?"
+  },
+  {
+    "player_input": "Need help?",
+    "npc_output": "Actually, I need to clean the cozy room before the festival, |r1|."
+  },
+  {
+    "player_input": "What are you doing?",
+    "npc_output": "I'm preparing for the festival, it's going to be busy."
+  },
+  {
+    "player_input": "Want to chat?",
+    "npc_output": "I'd love to, but I have to pour the festive feast during the feast, |r3|."
+  },
+  {
+    "player_input": "What's your role?",
+    "npc_output": "I'm a fool, and I'm here to entertain you, perhaps with a jest, |r1|."
+  },
+  {
+    "player_input": "What's your interest?",
+    "npc_output": "I love reading and magic, and I'm currently experimenting with the magical formula, |r2|."
+  },
+  {
+    "player_input": "What's your role?",
+    "npc_output": "I'm a merchant, and I'm here to sell you some goods, maybe the expensive market during the festival, |r1|."
+  },
+  {
+    "player_input": "Want to hunt?",
+    "npc_output": "I'm a hunter, and I'd love to go hunting with you, we could trap the silent camp during the hunt, |r2|."
+  },
+  {
+    "player_input": "How's the weather?",
+    "npc_output": "It's quite stormy today, isn't it? I should probably repair the rowdy storm during the storm, |r1|."
+  }
+]

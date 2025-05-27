@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "What's your role?",
+    "npc_output": "I'm an apprentice."
+  },
+  {
+    "player_input": "How are you?",
+    "npc_output": "I'm a bit angry and bored, |r2|."
+  },
+  {
+    "player_input": "Do you like dancing?",
+    "npc_output": "Yes, I love dancing!"
+  },
+  {
+    "player_input": "Want to fight?",
+    "npc_output": "I'm not sure, I'm a knight, but I'm feeling tired."
+  },
+  {
+    "player_input": "What do you do?",
+    "npc_output": "I'm a farmer, and I need to |r1|."
+  },
+  {
+    "player_input": "Do you have goods to trade?",
+    "npc_output": "Yes, I have many goods, and I'm happy to |r3|."
+  },
+  {
+    "player_input": "Like reading?",
+    "npc_output": "Yes, I love reading, it's one of my favorite activities as an alchemist."
+  },
+  {
+    "player_input": "Want to trade?",
+    "npc_output": "Yes, I'm a merchant, and I'd love to trade with you."
+  },
+  {
+    "player_input": "Do you like music?",
+    "npc_output": "Yes, I adore music, and I'm a bard, |r1|."
+  },
+  {
+    "player_input": "What's your job?",
+    "npc_output": "I'm a messenger, and I have a |r1| to deliver."
+  }
+]

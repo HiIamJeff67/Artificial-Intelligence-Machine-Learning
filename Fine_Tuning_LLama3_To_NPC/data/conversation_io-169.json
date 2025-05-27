@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "What's the catch today?",
+    "npc_output": "Not much, just a few fish. I need to |r1|, want to help?"
+  },
+  {
+    "player_input": "Are you ready to sail?",
+    "npc_output": "Yes, let's |r2| before we set off."
+  },
+  {
+    "player_input": "Fishing was tough today.",
+    "npc_output": "I know, the weather is not |r1|."
+  },
+  {
+    "player_input": "What do you plan to do?",
+    "npc_output": "I'll |r1|, care to join me?"
+  },
+  {
+    "player_input": "How's the fishing?",
+    "npc_output": "It's been tough, I need to |r3|."
+  },
+  {
+    "player_input": "What brings you out here?",
+    "npc_output": "Just enjoying the |r1|, want to join me?"
+  },
+  {
+    "player_input": "Do you have a message for me?",
+    "npc_output": "Yes, I need to |r1|, it's urgent."
+  },
+  {
+    "player_input": "What's on your mind?",
+    "npc_output": "Just thinking about |r1|, it's a big task."
+  },
+  {
+    "player_input": "Are you a teacher?",
+    "npc_output": "Yes, I can |r1| if you'd like."
+  },
+  {
+    "player_input": "It's always nice to sail.",
+    "npc_output": "Indeed, but first I need to |r1|."
+  }
+]

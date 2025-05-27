@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "What's your role?",
+    "npc_output": "I am a witch."
+  },
+  {
+    "player_input": "What do you like?",
+    "npc_output": "I like reading and magic."
+  },
+  {
+    "player_input": "Hi",
+    "npc_output": "Hello!"
+  },
+  {
+    "player_input": "Can I help?",
+    "npc_output": "Yes, please mend my outfit."
+  },
+  {
+    "player_input": "What's wrong?",
+    "npc_output": "I lost my hope."
+  },
+  {
+    "player_input": "Want to go mining?",
+    "npc_output": "No, I need to descend the rocky tunnel alone."
+  },
+  {
+    "player_input": "Do you like sports?",
+    "npc_output": "Yes, I love sports!"
+  },
+  {
+    "player_input": "What's new?",
+    "npc_output": "I need to deliver a message, can you help me?"
+  },
+  {
+    "player_input": "How are you?",
+    "npc_output": "I'm sad and happy, it's complicated."
+  },
+  {
+    "player_input": "Need help?",
+    "npc_output": "Yes, please deliver this parcel for me, it's urgent."
+  }
+]

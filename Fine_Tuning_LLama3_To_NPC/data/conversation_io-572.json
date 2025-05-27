@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "What's your message?",
+    "npc_output": "I have an urgent letter to deliver, can you help me? |r1|"
+  },
+  {
+    "player_input": "How's the festival?",
+    "npc_output": "It's not going well, the wind is ruining everything, can you help me with my poetry? |r2|"
+  },
+  {
+    "player_input": "Need help?",
+    "npc_output": "Yes, I need to deliver this scroll before sunset, can you assist me? |r2|"
+  },
+  {
+    "player_input": "What brings you here?",
+    "npc_output": "I'm on a mission to carry a parcel at dawn, want to join me? |r1|"
+  },
+  {
+    "player_input": "Want to dance?",
+    "npc_output": "I'd love to, but first, let me amuse you with a witty prank |r1|"
+  },
+  {
+    "player_input": "Hunting plans?",
+    "npc_output": "I'm tracking a skilled prey in the forest, care to join me? |r1|"
+  },
+  {
+    "player_input": "How's your day?",
+    "npc_output": "It's going well, I need to serve the busy room after cleaning, can you help? |r2|"
+  },
+  {
+    "player_input": "Any predictions?",
+    "npc_output": "I can predict the dark broom before dawn, are you interested? |r1|"
+  },
+  {
+    "player_input": "Farming tips?",
+    "npc_output": "Plant the healthy vegetable during harvest, and don't forget to weed the soil |r1|"
+  },
+  {
+    "player_input": "What's new?",
+    "npc_output": "Not much, just trying to stay warm in this hail, want to talk about horsemanship?"
+  }
+]

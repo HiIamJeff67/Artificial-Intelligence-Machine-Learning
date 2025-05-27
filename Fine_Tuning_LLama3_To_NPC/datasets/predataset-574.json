@@ -1,0 +1,581 @@
+[
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "6",
+      "name": "Glenda Moss",
+      "role": "merchant",
+      "moods": [
+        "hopeful"
+      ],
+      "interests": [
+        "alchemy",
+        "meditation",
+        "hunting",
+        "trading"
+      ],
+      "playerRelationship": "78",
+      "gender": "male",
+      "personalities": [
+        "sarcastic",
+        "greedy",
+        "cautious"
+      ],
+      "requests": [
+        "Sell the expensive market during festival",
+        "Sell the luxurious goods in the city"
+      ]
+    },
+    "environment_informations": {
+      "weather": "stormy",
+      "time": "at midnight"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "100",
+      "name": "Pamela Sherman",
+      "role": "scholar",
+      "moods": [
+        "excited"
+      ],
+      "interests": [
+        "alchemy"
+      ],
+      "playerRelationship": "71",
+      "gender": "male",
+      "personalities": [
+        "playful",
+        "moody",
+        "protective",
+        "diligent"
+      ],
+      "requests": [
+        "Translate the curious library before exam",
+        "Read the innovative study before exam",
+        "Write the wise manuscript after lecture",
+        "Teach the reserved book at night",
+        "Write the thoughtful debate at night",
+        "Record the learned manuscript during study",
+        "Translate the diligent book at night",
+        "Record the reserved study in the library",
+        "Research the ancient knowledge during study",
+        "Research the curious book during study",
+        "Teach the reserved knowledge in the library",
+        "Teach the wise library before exam",
+        "Write the reserved knowledge at night",
+        "Translate the reserved library during study",
+        "Translate the ancient study at night"
+      ]
+    },
+    "environment_informations": {
+      "weather": "stormy",
+      "time": "at noon"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "24",
+      "name": "Robert Thomas",
+      "role": "witch",
+      "moods": [
+        "anxious"
+      ],
+      "interests": [
+        "gambling",
+        "meditation",
+        "storytelling",
+        "exploring",
+        "sports"
+      ],
+      "playerRelationship": "43",
+      "gender": "female",
+      "personalities": [
+        "compassionate"
+      ],
+      "requests": [
+        "Curse the dark broom in the woods",
+        "Summon the strange charm before dawn",
+        "Mix the secretive curse in the woods",
+        "Enchant the secretive spell at midnight",
+        "Cast the secretive ritual during ritual",
+        "Predict the dark herb after storm",
+        "Hex the wise broom at midnight",
+        "Brew the wise ritual in the woods",
+        "Summon the cunning broom during ritual",
+        "Predict the secretive spell before dawn",
+        "Predict the strange spell in the woods",
+        "Cast the dark charm before dawn",
+        "Mix the mysterious broom in the woods",
+        "Brew the strange herb during ritual"
+      ]
+    },
+    "environment_informations": {
+      "weather": "stormy",
+      "time": "at dusk"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "74",
+      "name": "Mrs. Madison Martinez",
+      "role": "priest",
+      "moods": [
+        "angry"
+      ],
+      "interests": [
+        "exploring",
+        "sports",
+        "crafting",
+        "fishing",
+        "collecting"
+      ],
+      "playerRelationship": "20",
+      "gender": "male",
+      "personalities": [
+        "timid",
+        "jealous"
+      ],
+      "requests": [
+        "Heal the holy faith during ceremony",
+        "Preach the faithful faith after prayer",
+        "Heal the holy faith at dawn",
+        "Conduct the holy prayer during ceremony",
+        "Forgive the faithful wedding in the temple",
+        "Conduct the faithful prayer on holy day"
+      ]
+    },
+    "environment_informations": {
+      "weather": "cloudy",
+      "time": "at dusk"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "27",
+      "name": "Sherry Coffey",
+      "role": "priest",
+      "moods": [
+        "neutral"
+      ],
+      "interests": [
+        "cooking",
+        "storytelling",
+        "dancing",
+        "fishing"
+      ],
+      "playerRelationship": "0",
+      "gender": "female",
+      "personalities": [
+        "stubborn",
+        "moody",
+        "innovative",
+        "sarcastic"
+      ],
+      "requests": [
+        "Preach the sacred donation on holy day",
+        "Preach the wise blessing on holy day",
+        "Preach the devout ceremony at dawn",
+        "Forgive the sacred wedding in the temple",
+        "Bless the merciful altar at dawn",
+        "Bless the wise altar during ceremony",
+        "Forgive the pure blessing during ceremony",
+        "Conduct the pure ceremony on holy day",
+        "Chant the holy wedding on holy day",
+        "Heal the blessed prayer on holy day",
+        "Guide the devout faith during ceremony"
+      ]
+    },
+    "environment_informations": {
+      "weather": "foggy",
+      "time": "during the festival"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "62",
+      "name": "Craig Coleman",
+      "role": "fisherman",
+      "moods": [
+        "tired"
+      ],
+      "interests": [
+        "hunting",
+        "music",
+        "exploring"
+      ],
+      "playerRelationship": "31",
+      "gender": "male",
+      "personalities": [
+        "cautious",
+        "blunt",
+        "curious",
+        "romantic",
+        "vengeful"
+      ],
+      "requests": [
+        "Catch the wet sea at the river",
+        "Row the salty catch on the boat",
+        "Net the early river at the river",
+        "Bait the wet sea before storm"
+      ]
+    },
+    "environment_informations": {
+      "weather": "stormy",
+      "time": "after sunset"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "90",
+      "name": "Tyler Alexander",
+      "role": "thief",
+      "moods": [
+        "sad",
+        "bored",
+        "tired"
+      ],
+      "interests": [
+        "magic",
+        "horsemanship",
+        "alchemy",
+        "collecting"
+      ],
+      "playerRelationship": "89",
+      "gender": "male",
+      "personalities": [
+        "faithful"
+      ],
+      "requests": [
+        "Disguise the nimble hideout at night",
+        "Steal the masked lock during festival",
+        "Disguise the clever secret during festival",
+        "Escape the nimble escape during festival",
+        "Pick the cunning mask during festival",
+        "Steal the nimble lock at night",
+        "Unlock the quick loot after curfew",
+        "Escape the cunning hideout in the alley",
+        "Pick the sneaky lock in the alley",
+        "Unlock the shadowy escape after curfew",
+        "Escape the quick escape at night",
+        "Escape the cunning loot before dawn",
+        "Unlock the cunning lock after curfew"
+      ]
+    },
+    "environment_informations": {
+      "weather": "sunny",
+      "time": "before sunrise"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "33",
+      "name": "Victoria Hicks",
+      "role": "miner",
+      "moods": [
+        "anxious",
+        "sad",
+        "neutral"
+      ],
+      "interests": [
+        "gardening"
+      ],
+      "playerRelationship": "33",
+      "gender": "male",
+      "personalities": [
+        "indecisive"
+      ],
+      "requests": [
+        "Search the dusty tunnel in the mine",
+        "Dig the deep stone before sunset",
+        "Explore the dangerous helmet before sunset",
+        "Mine the rocky mine at dawn",
+        "Explore the hidden mine before sunset",
+        "Explore the deep helmet before sunset",
+        "Descend the tough stone in the mine",
+        "Descend the tough helmet before sunset",
+        "Extract the hidden tunnel before sunset",
+        "Haul the dusty tunnel at dawn",
+        "Dig the tough helmet during shift",
+        "Haul the dusty stone during shift",
+        "Descend the gritty pickaxe after cave-in"
+      ]
+    },
+    "environment_informations": {
+      "weather": "windy",
+      "time": "at dusk"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "39",
+      "name": "James Haynes",
+      "role": "sailor",
+      "moods": [
+        "excited",
+        "neutral",
+        "angry"
+      ],
+      "interests": [
+        "alchemy",
+        "hunting"
+      ],
+      "playerRelationship": "22",
+      "gender": "female",
+      "personalities": [
+        "submissive",
+        "romantic",
+        "authoritative",
+        "patient"
+      ],
+      "requests": [
+        "Row the rowdy ship after docking",
+        "Navigate the adventurous ship after docking",
+        "Load the strong map at the harbor",
+        "Repair the skilled treasure during storm",
+        "Load the brave treasure at the harbor"
+      ]
+    },
+    "environment_informations": {
+      "weather": "snowy",
+      "time": "in the afternoon"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "22",
+      "name": "Peter Jackson",
+      "role": "witch",
+      "moods": [
+        "curious",
+        "angry"
+      ],
+      "interests": [
+        "collecting",
+        "hunting",
+        "fishing",
+        "magic"
+      ],
+      "playerRelationship": "11",
+      "gender": "male",
+      "personalities": [
+        "skeptical",
+        "protective",
+        "ambitious"
+      ],
+      "requests": [
+        "Predict the dark broom before dawn"
+      ]
+    },
+    "environment_informations": {
+      "weather": "windy",
+      "time": "at midnight"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "1",
+      "name": "Shelley Conner",
+      "role": "herbalist",
+      "moods": [
+        "curious",
+        "tired"
+      ],
+      "interests": [
+        "gambling"
+      ],
+      "playerRelationship": "47",
+      "gender": "male",
+      "personalities": [
+        "stubborn",
+        "faithful"
+      ],
+      "requests": [
+        "Grow the healing plant during spring",
+        "Gather the dried balm after rain",
+        "Dry the fresh potion in the woods",
+        "Identify the dried flower in the garden",
+        "Gather the wild remedy in the woods",
+        "Crush the fragrant plant at sunrise",
+        "Gather the wild herb after rain",
+        "Crush the fresh herb in the woods",
+        "Grow the medicinal herb in the woods"
+      ]
+    },
+    "environment_informations": {
+      "weather": "stormy",
+      "time": "during the festival"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "26",
+      "name": "Miss Megan Dyer",
+      "role": "apprentice",
+      "moods": [
+        "angry",
+        "tired"
+      ],
+      "interests": [
+        "fishing",
+        "cooking",
+        "painting",
+        "gambling"
+      ],
+      "playerRelationship": "16",
+      "gender": "male",
+      "personalities": [
+        "romantic",
+        "vengeful",
+        "pessimistic"
+      ],
+      "requests": [
+        "Observe the inexperienced test during lesson",
+        "Learn the nervous training in the morning"
+      ]
+    },
+    "environment_informations": {
+      "weather": "rainy",
+      "time": "before sunrise"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "36",
+      "name": "Alexandria Snyder",
+      "role": "fisherman",
+      "moods": [
+        "tired"
+      ],
+      "interests": [
+        "crafting",
+        "farming",
+        "reading",
+        "music"
+      ],
+      "playerRelationship": "69",
+      "gender": "female",
+      "personalities": [
+        "authoritative",
+        "protective",
+        "jealous",
+        "humble"
+      ],
+      "requests": [
+        "Catch the early catch before storm",
+        "Bait the lucky net on the boat",
+        "Bait the salty net on the boat",
+        "Net the lucky bait before storm",
+        "Fish the patient fish at the river",
+        "Reel the steady net on the boat",
+        "Row the salty catch on the boat",
+        "Cast the weathered bait before storm",
+        "Sail the lucky fish at the river",
+        "Catch the lucky sea before storm",
+        "Fish the patient river during fishing"
+      ]
+    },
+    "environment_informations": {
+      "weather": "windy",
+      "time": "in the evening"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "74",
+      "name": "Mrs. Madison Martinez",
+      "role": "priest",
+      "moods": [
+        "angry"
+      ],
+      "interests": [
+        "exploring",
+        "sports",
+        "crafting",
+        "fishing",
+        "collecting"
+      ],
+      "playerRelationship": "20",
+      "gender": "male",
+      "personalities": [
+        "timid",
+        "jealous"
+      ],
+      "requests": [
+        "Heal the holy faith during ceremony",
+        "Preach the faithful faith after prayer",
+        "Heal the holy faith at dawn",
+        "Conduct the holy prayer during ceremony",
+        "Forgive the faithful wedding in the temple",
+        "Conduct the faithful prayer on holy day"
+      ]
+    },
+    "environment_informations": {
+      "weather": "snowy",
+      "time": "at noon"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "82",
+      "name": "Jennifer Baker",
+      "role": "tailor",
+      "moods": [
+        "neutral"
+      ],
+      "interests": [
+        "hunting",
+        "fishing",
+        "gardening",
+        "trading",
+        "cooking"
+      ],
+      "playerRelationship": "36",
+      "gender": "male",
+      "personalities": [
+        "reckless",
+        "strict",
+        "eccentric",
+        "protective"
+      ],
+      "requests": [
+        "Fit the embroidered needle at noon",
+        "Cut the elegant cloak during fitting",
+        "Mend the colorful outfit at noon"
+      ]
+    },
+    "environment_informations": {
+      "weather": "sunny",
+      "time": "in the afternoon"
+    },
+    "npc_output": ""
+  }
+]

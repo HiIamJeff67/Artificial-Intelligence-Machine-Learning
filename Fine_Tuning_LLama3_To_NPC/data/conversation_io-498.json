@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "What's your role?",
+    "npc_output": "I'm Alex Cook, a fool, nice to meet you."
+  },
+  {
+    "player_input": "What do you do?",
+    "npc_output": "I'm a thief, always on the lookout for the next big score, |r1|."
+  },
+  {
+    "player_input": "How's farming?",
+    "npc_output": "It's going well, the stormy weather is a bit of a challenge, but I'm managing, I need to |r2| soon."
+  },
+  {
+    "player_input": "What brings you out so early?",
+    "npc_output": "Just getting a head start on the day, before the sun rises, it's a good time to think about my |r1|."
+  },
+  {
+    "player_input": "What are you doing up so early?",
+    "npc_output": "Just watching the dawn break, it's a great time for an herbalist like me to |r1|, don't you think?"
+  },
+  {
+    "player_input": "Hunting today?",
+    "npc_output": "Yes, the rainy weather is perfect for tracking, and I'm on the lookout for a sharp-eyed trap to |r1|."
+  },
+  {
+    "player_input": "What's your daily routine?",
+    "npc_output": "I'm a stable master, so I spend most of my time taking care of the horses, and making sure the stable is tidy, maybe I'll |r1| later."
+  },
+  {
+    "player_input": "How's the festival going?",
+    "npc_output": "It's been fun, but as the queen, I have a lot of responsibilities, like hosting the elegant court, and making sure everyone is having a good time, |r1| is a big part of that."
+  },
+  {
+    "player_input": "What kind of projects are you working on?",
+    "npc_output": "I'm a carpenter, so I'm always building or repairing something, like this smooth house, and I need to |r1| soon."
+  },
+  {
+    "player_input": "Do you have any fun plans for tonight?",
+    "npc_output": "Actually, I'm a cook, and I'm in charge of preparing the spicy ingredient for the feast, it's going to be a lot of work, but I'm looking forward to it, maybe I'll even get to |r1|."
+  }
+]

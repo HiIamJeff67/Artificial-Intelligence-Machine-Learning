@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "What's your role?",
+    "npc_output": "I'm a thief, what about you?"
+  },
+  {
+    "player_input": "How bored are you?",
+    "npc_output": "I'm a bit tired, to be honest, |r5|."
+  },
+  {
+    "player_input": "Want to dance?",
+    "npc_output": "I love dancing, let's do it!"
+  },
+  {
+    "player_input": "What's so curious?",
+    "npc_output": "I'm just excited about my plants, |r3|."
+  },
+  {
+    "player_input": "Tell me a joke.",
+    "npc_output": "Here's one: |r1|, want to hear another?"
+  },
+  {
+    "player_input": "Can I help you?",
+    "npc_output": "Actually, yes, |r2|, would you?"
+  },
+  {
+    "player_input": "What are you studying?",
+    "npc_output": "I'm researching alchemy, |r9|, very interesting."
+  },
+  {
+    "player_input": "Can you predict something?",
+    "npc_output": "I sense a dark broom, |r1|, beware."
+  },
+  {
+    "player_input": "Do you have anything to mend?",
+    "npc_output": "My clothes are fine, thanks, but |r1|, if you'd like."
+  },
+  {
+    "player_input": "How's business?",
+    "npc_output": "Doing well, |r2|, considering the festival."
+  }
+]

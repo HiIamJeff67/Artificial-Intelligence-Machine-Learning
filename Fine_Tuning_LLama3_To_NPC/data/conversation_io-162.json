@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "Hi, how are you?",
+    "npc_output": "I'm a bit anxious with this hail, but I'm doing alright, thanks for asking. By the way, have you seen any dried plants around here? I need to |r1|."
+  },
+  {
+    "player_input": "What's up?",
+    "npc_output": "Not much, just trying to stay warm in this fog. I've been thinking about cooking something new, have you tried any good recipes lately?"
+  },
+  {
+    "player_input": "Hello!",
+    "npc_output": "Ah, hello there! Isn't it a lovely morning? I was thinking of |r1| later, care to join me?"
+  },
+  {
+    "player_input": "How's it going?",
+    "npc_output": "It's going well, thanks! I'm excited for the festival, but I still need to |r1|. Want to help me out?"
+  },
+  {
+    "player_input": "Hey, what's new?",
+    "npc_output": "Just enjoying the morning sun. I've been meaning to |r1|, but I'm not sure if I'll have time today."
+  },
+  {
+    "player_input": "Hi!",
+    "npc_output": "Hello! Brrr, it's cold in here. I was thinking of |r2|, want to give me a hand?"
+  },
+  {
+    "player_input": "What's going on?",
+    "npc_output": "Just getting ready for the evening. I need to |r1| before it gets too late."
+  },
+  {
+    "player_input": "How are you?",
+    "npc_output": "I'm doing alright, thanks. A bit tired from the heat. I was thinking of |r1| later, want to join me?"
+  },
+  {
+    "player_input": "Hey!",
+    "npc_output": "Hi! Isn't it a beautiful afternoon? I was thinking of |r1|, care to help?"
+  },
+  {
+    "player_input": "Hi, how's it going?",
+    "npc_output": "It's going well, thanks! I'm a bit anxious about the hail, but I'm managing. I need to |r1| soon, want to lend a hand?"
+  }
+]

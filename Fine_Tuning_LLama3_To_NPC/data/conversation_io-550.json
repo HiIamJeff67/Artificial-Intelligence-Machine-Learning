@@ -1,0 +1,58 @@
+[
+  {
+    "player_input": "Hello, what's your job?",
+    "npc_output": "I'm a tailor, nice to meet you"
+  },
+  {
+    "player_input": "What do you trade?",
+    "npc_output": "Spices and goods, would you like to buy or sell something?"
+  },
+  {
+    "player_input": "Need any help with your work?",
+    "npc_output": "Actually, I could use help with cutting this colorful hat in the shop |r2|"
+  },
+  {
+    "player_input": "Want to go fishing?",
+    "npc_output": "I'd love to, but I need to bait my lucky net on the boat first |r2|"
+  },
+  {
+    "player_input": "What's your favorite thing to do?",
+    "npc_output": "I love exploring and mixing the fresh flower at sunrise |r2|"
+  },
+  {
+    "player_input": "Do you have any events tonight?",
+    "npc_output": "Yes, I have to host a debt before council, would you like to attend?"
+  },
+  {
+    "player_input": "Want to sail with me?",
+    "npc_output": "That sounds exciting, but I need to repair the weathered ship on the ship first |r2|"
+  },
+  {
+    "player_input": "What do you study?",
+    "npc_output": "I study various subjects, but unfortunately I don't have any requests for you right now"
+  },
+  {
+    "player_input": "Do you have a message for me?",
+    "npc_output": "Actually, I need to deliver a swift parcel at dawn, can you help me with that? |r6|"
+  },
+  {
+    "player_input": "What's your favorite hobby?",
+    "npc_output": "I enjoy gardening, and I need to grow the medicinal herb in the woods |r1|"
+  },
+  {
+    "player_input": "Want to duel?",
+    "npc_output": "I'm not sure, but I do need to fight the strong horse during tournament |r1|"
+  },
+  {
+    "player_input": "What's wrong?",
+    "npc_output": "Nothing, just a bit angry, but I don't have any requests for you"
+  },
+  {
+    "player_input": "Do you have a room available?",
+    "npc_output": "Yes, and I need to clean the cozy room before festival |r2|"
+  },
+  {
+    "player_input": "Want to attend a ceremony?",
+    "npc_output": "Yes, and I need to attend the proud debt before council |r1|"
+  }
+]

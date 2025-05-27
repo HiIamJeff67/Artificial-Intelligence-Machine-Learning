@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "What's your favorite fish to catch?",
+    "npc_output": "I love catching the salty fish on the boat, it's so exhilarating! |r1|"
+  },
+  {
+    "player_input": "Do you have any performances planned?",
+    "npc_output": "I'm planning to entertain the lively lyre on stage, I hope you can make it! |r1|"
+  },
+  {
+    "player_input": "Any new messages to deliver?",
+    "npc_output": "I need to report the punctual scroll before sunset, wish me luck! |r1|"
+  },
+  {
+    "player_input": "Can you heal my wounds?",
+    "npc_output": "I can heal the holy faith during ceremony, let's head to the temple |r1|"
+  },
+  {
+    "player_input": "What's your favorite spell to cast?",
+    "npc_output": "I love casting the strange curse after storm, it's so powerful! |r2|"
+  },
+  {
+    "player_input": "Need any help at the forge?",
+    "npc_output": "Actually, I need to temper the strong anvil at the market, want to lend a hand? |r1|"
+  },
+  {
+    "player_input": "What goods do you have for sale?",
+    "npc_output": "I have some expensive market goods, but I'm only selling them during the festival |r1|"
+  },
+  {
+    "player_input": "Want to dance together?",
+    "npc_output": "I'd love to, but first I need to escape the cunning loot before dawn |r1|"
+  },
+  {
+    "player_input": "Need any help with sewing?",
+    "npc_output": "I'm working on embroidering the elegant hat in the shop, maybe you can assist me? |r1|"
+  },
+  {
+    "player_input": "Can I get a room for the night?",
+    "npc_output": "Of course, let me clean the busy room before the festival, make yourself at home |r1|"
+  }
+]

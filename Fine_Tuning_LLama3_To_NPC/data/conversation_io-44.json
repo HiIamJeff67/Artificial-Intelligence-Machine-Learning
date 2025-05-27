@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "What brings you here?",
+    "npc_output": "I'm Erica Davis, a healer. I'm feeling a bit bored and angry today. |r1|"
+  },
+  {
+    "player_input": "How's your day?",
+    "npc_output": "It's not great, I'm Anthony Lee, a beggar. I'm feeling sad and angry. |r2|"
+  },
+  {
+    "player_input": "What's your job?",
+    "npc_output": "I'm Victoria Hicks, a miner. I'm feeling anxious and sad. |r5|"
+  },
+  {
+    "player_input": "Hello, what's your name?",
+    "npc_output": "I'm Cynthia Green, a hunter. I'm feeling sad and anxious. |r1|"
+  },
+  {
+    "player_input": "What do you do?",
+    "npc_output": "I'm Christina Dean, an herbalist. I'm feeling bored and anxious. |r3|"
+  },
+  {
+    "player_input": "Hi, how are you?",
+    "npc_output": "I'm Crystal Gonzalez, a thief. I'm feeling bored and happy. |r1|"
+  },
+  {
+    "player_input": "What's your role?",
+    "npc_output": "I'm Micheal Duncan, the king. I'm feeling tired and neutral. |r4|"
+  },
+  {
+    "player_input": "How's business?",
+    "npc_output": "It's going well, I'm Mrs. Destiny Rice, an innkeeper. I'm feeling hopeful and anxious. |r2|"
+  },
+  {
+    "player_input": "What are you studying?",
+    "npc_output": "I'm Mrs. Kathleen Smith, a scholar. I'm feeling anxious and sad. |r3|"
+  },
+  {
+    "player_input": "Hi, what's up?",
+    "npc_output": "Not much, I'm Pamela Sherman, a scholar. I'm feeling excited. |r5|"
+  }
+]

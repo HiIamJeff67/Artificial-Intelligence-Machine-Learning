@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "What's the hurry?",
+    "npc_output": "I need to deliver this urgent scroll, |r1|."
+  },
+  {
+    "player_input": "What are you doing?",
+    "npc_output": "I'm trying to net the salty fish on the boat, |r1|."
+  },
+  {
+    "player_input": "Need any help?",
+    "npc_output": "Actually, could you help me serve the busy room after cleaning, |r2|?"
+  },
+  {
+    "player_input": "How's business?",
+    "npc_output": "It's been good, but I need to pour the generous feast at the inn, |r3|."
+  },
+  {
+    "player_input": "What's wrong?",
+    "npc_output": "I'm just tired, but I have to fetch the loyal errand before dinner, |r1|."
+  },
+  {
+    "player_input": "What's that?",
+    "npc_output": "Just my dark broom, I need to predict the dark broom before dawn, |r1|."
+  },
+  {
+    "player_input": "How's the farm?",
+    "npc_output": "It's going well, but I need to sow the bountiful soil after sunrise, |r1|."
+  },
+  {
+    "player_input": "What's your favorite song?",
+    "npc_output": "I like them all, but I should recite the colorful instrument after dinner, |r1|."
+  },
+  {
+    "player_input": "What's so funny?",
+    "npc_output": "Just a joke, but I have to tease the silly mask at the festival, |r1|."
+  },
+  {
+    "player_input": "What's new?",
+    "npc_output": "Not much, just trying to build something."
+  }
+]

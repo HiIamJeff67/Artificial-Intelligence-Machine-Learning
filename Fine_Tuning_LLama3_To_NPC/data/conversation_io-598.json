@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "What's with the hail?",
+    "npc_output": "I know, it's really coming down. |r1| could be fun, though."
+  },
+  {
+    "player_input": "Need any help with your herbs?",
+    "npc_output": "Actually, I could use someone to help me Gather the dried plant at sunrise, |r1|."
+  },
+  {
+    "player_input": "Want to grab a hat?",
+    "npc_output": "I'd love to help you Design the fine hat after delivery, |r1|."
+  },
+  {
+    "player_input": "Hunt with me?",
+    "npc_output": "I'd rather Track the rugged arrow before sunset, |r3|."
+  },
+  {
+    "player_input": "Going fishing?",
+    "npc_output": "Yes, I'm going to Reel the skilled river in the morning, |r1|."
+  },
+  {
+    "player_input": "What's brewing?",
+    "npc_output": "Just mixing some potions. Nothing too exciting."
+  },
+  {
+    "player_input": "Want to sail?",
+    "npc_output": "I'd love to Row the rowdy ship after docking, |r1|."
+  },
+  {
+    "player_input": "Catch anything?",
+    "npc_output": "Not yet, but I'm hoping to Catch the wet sea at the river, |r1|."
+  },
+  {
+    "player_input": "Need any carpentry help?",
+    "npc_output": "Actually, I could use someone to help me Repair the smooth house during construction, |r1|."
+  },
+  {
+    "player_input": "Want to go sailing?",
+    "npc_output": "I'd rather Row the rowdy ship after docking, |r1|."
+  }
+]

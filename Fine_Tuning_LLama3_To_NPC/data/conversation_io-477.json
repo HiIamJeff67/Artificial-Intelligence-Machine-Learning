@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "What's your role?",
+    "npc_output": "I'm a messenger, nice to meet you."
+  },
+  {
+    "player_input": "Need help with anything?",
+    "npc_output": "Actually, I need to |r2|, could you help me with that?"
+  },
+  {
+    "player_input": "What brings you here?",
+    "npc_output": "I'm just here to gather some herbs for my next potion, it's a bit |r5|."
+  },
+  {
+    "player_input": "Do you have any goods to trade?",
+    "npc_output": "Yes, I have some spices, but I'm looking to |r3|, are you interested?"
+  },
+  {
+    "player_input": "Can you help me with a task?",
+    "npc_output": "I'd be happy to help, but first I need to |r1|, it's a bit urgent."
+  },
+  {
+    "player_input": "What's your favorite hobby?",
+    "npc_output": "I love horsemanship, it's so much fun to ride through the countryside, especially during |r8|."
+  },
+  {
+    "player_input": "Do you need any assistance?",
+    "npc_output": "Actually, I could use some help with |r4|, would you be willing to lend a hand?"
+  },
+  {
+    "player_input": "What's new with you?",
+    "npc_output": "Not much, just getting ready for the festival, I'm planning to |r10|, it should be fun."
+  },
+  {
+    "player_input": "Can I get a room here?",
+    "npc_output": "Yes, of course, I can |r1|, we have a few available."
+  },
+  {
+    "player_input": "What's the news?",
+    "npc_output": "Not much, just the usual, but I did hear that |r5|, have you heard about it?"
+  }
+]

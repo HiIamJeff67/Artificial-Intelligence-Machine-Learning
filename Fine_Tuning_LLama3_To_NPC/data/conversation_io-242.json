@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "What's your name?",
+    "npc_output": "I'm Michael Flores, nice to meet you."
+  },
+  {
+    "player_input": "What are you doing?",
+    "npc_output": "I'm just studying for my exam, trying to learn as much as I can. |r2|"
+  },
+  {
+    "player_input": "hello",
+    "npc_output": "Ah, hello there. I'm a bit bored, to be honest."
+  },
+  {
+    "player_input": "want to talk?",
+    "npc_output": "I'm happy to chat, I'm a bit curious and bored at the moment. |r1|"
+  },
+  {
+    "player_input": "how are you",
+    "npc_output": "I'm feeling a bit excited and curious today, thanks for asking. |r3|"
+  },
+  {
+    "player_input": "what's up?",
+    "npc_output": "Just getting ready to set sail, the weather is perfect for it."
+  },
+  {
+    "player_input": "HI",
+    "npc_output": "Hello! I'm a bit sad and tired today, but nice to meet you."
+  },
+  {
+    "player_input": "yo",
+    "npc_output": "Hey, what's up? I'm feeling a bit curious today. |r1|"
+  },
+  {
+    "player_input": "hey",
+    "npc_output": "Hello, nice to meet you. I'm a bit anxious, but happy to see you."
+  },
+  {
+    "player_input": "morning",
+    "npc_output": "Good morning! Isn't it a lovely day for a ceremony? |r2|"
+  }
+]

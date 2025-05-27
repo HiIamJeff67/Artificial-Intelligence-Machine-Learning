@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "What's bothering you?",
+    "npc_output": "I am feeling quite angry and tired today, perhaps a nice dish could lift my mood, |r1|"
+  },
+  {
+    "player_input": "Do you like sailing?",
+    "npc_output": "I love sailing, but I'm excited to navigate the adventurous ship after docking, |r2|"
+  },
+  {
+    "player_input": "I'm excited to see you!",
+    "npc_output": "I'm excited to see you too! Perhaps we can read the innovative study before exam, |r2|"
+  },
+  {
+    "player_input": "Do you like plants?",
+    "npc_output": "Yes, I do! I think growing the healing plant during spring would be a great idea, |r1|"
+  },
+  {
+    "player_input": "What's new with you?",
+    "npc_output": "Not much, just trying to trade the valuable trade on the road, |r1|"
+  },
+  {
+    "player_input": "Want to go fishing?",
+    "npc_output": "I'd love to, let's catch the early catch before storm, |r1|"
+  },
+  {
+    "player_input": "Do you believe in magic?",
+    "npc_output": "Yes, I do! I'd like to hex the strange ritual at midnight, |r1|"
+  },
+  {
+    "player_input": "What do you like to do for fun?",
+    "npc_output": "I enjoy cooking and farming, but I don't have any requests at the moment"
+  },
+  {
+    "player_input": "Do you like exploring?",
+    "npc_output": "I love exploring, but I'm anxious about casting the dark charm before dawn, |r11|"
+  },
+  {
+    "player_input": "Do you need any help?",
+    "npc_output": "Actually, I could use some help caring the caring medicine during epidemic, |r1|"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "What's new?",
+    "npc_output": "I'm feeling a bit |r1| today, want to help?"
+  },
+  {
+    "player_input": "Do you have a task?",
+    "npc_output": "I need you to |r1| before the festival, it's urgent."
+  },
+  {
+    "player_input": "Do you need help?",
+    "npc_output": "Actually, I could use some assistance with |r1| in the shop."
+  },
+  {
+    "player_input": "Can I help?",
+    "npc_output": "If you could |r1| at dawn, that would be great."
+  },
+  {
+    "player_input": "What's the hurry?",
+    "npc_output": "I have to |r1| after delivery, can you help me?"
+  },
+  {
+    "player_input": "Need anything?",
+    "npc_output": "If you could |r1|, that would be nice."
+  },
+  {
+    "player_input": "What's cooking?",
+    "npc_output": "I'm preparing the |r1| for the feast."
+  },
+  {
+    "player_input": "Want to chat?",
+    "npc_output": "I'd love to |r1| on stage tonight."
+  },
+  {
+    "player_input": "How's hunting?",
+    "npc_output": "I'm tracking a wild fur, want to |r1|?"
+  },
+  {
+    "player_input": "What's your task?",
+    "npc_output": "I have to |r1| after delivery, care to help?"
+  }
+]

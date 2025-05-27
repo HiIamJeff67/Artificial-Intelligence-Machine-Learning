@@ -1,0 +1,62 @@
+[
+  {
+    "player_input": "What's new?",
+    "npc_output": "Not much, just trying to stay dry in this drizzle. By the way, I need to |r1| soon."
+  },
+  {
+    "player_input": "How's business?",
+    "npc_output": "It's been good, but I wish it was daytime so I could trade more. Perhaps you can help me with |r1|?"
+  },
+  {
+    "player_input": "Hello!",
+    "npc_output": "Hi there! I'm excited to be working on some new herbalism projects. I need to |r2| later, if you're interested in helping."
+  },
+  {
+    "player_input": "What are you studying?",
+    "npc_output": "Just going over some notes before my exam. I'd love some help with |r3| if you have time."
+  },
+  {
+    "player_input": "Good morning!",
+    "npc_output": "Good morning! It's a bit foggy today, but I need to |r1| anyway. Want to join me?"
+  },
+  {
+    "player_input": "Want to go fishing?",
+    "npc_output": "I'd love to, but it's getting dark. How about we |r5| instead?"
+  },
+  {
+    "player_input": "Need help with anything?",
+    "npc_output": "Actually, I could use some assistance with |r1|. This windy weather is making it difficult to work."
+  },
+  {
+    "player_input": "How's the hunt?",
+    "npc_output": "It's going well, thanks for asking. I'm hoping to |r1| soon, if the weather clears up."
+  },
+  {
+    "player_input": "Want to fish tonight?",
+    "npc_output": "I'd rather |r2|, to be honest. This stormy weather is not ideal for fishing."
+  },
+  {
+    "player_input": "What's your story?",
+    "npc_output": "Well, I've been feeling a bit sad lately. But I'd love to |r1| for you, if you'd like to hear it."
+  },
+  {
+    "player_input": "Want to steal something?",
+    "npc_output": "Ha! Maybe later, but for now, let's just enjoy the evening. Oh, and I need to |r1| soon."
+  },
+  {
+    "player_input": "Need any measurements?",
+    "npc_output": "Actually, I do need to |r5| for this dress. Can you help me with that?"
+  },
+  {
+    "player_input": "What's for dinner?",
+    "npc_output": "I'm not sure yet, but I need to |r1| before I can decide. This stormy weather is making it hard to cook."
+  },
+  {
+    "player_input": "Ready to set sail?",
+    "npc_output": "Almost! I just need to |r1| and we'll be on our way."
+  },
+  {
+    "player_input": "How's the farm?",
+    "npc_output": "It's been tough with this hot weather. I need to |r1| to make sure everything stays healthy."
+  }
+]

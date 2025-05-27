@@ -1,0 +1,586 @@
+[
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "64",
+      "name": "Gary Payne",
+      "role": "fool",
+      "moods": [
+        "tired"
+      ],
+      "interests": [
+        "collecting"
+      ],
+      "playerRelationship": "62",
+      "gender": "male",
+      "personalities": [
+        "protective",
+        "compassionate"
+      ],
+      "requests": [
+        "Tease the silly mask at the festival",
+        "Entertain the cheerful prank after joke",
+        "Amuse the clumsy mask during parade",
+        "Joke the witty mask after joke",
+        "Joke the funny prank in the square",
+        "Dance the funny joke after joke",
+        "Jest the witty trick after joke",
+        "Tease the cheerful mask during parade",
+        "Prank the cheerful jest before sunset",
+        "Dance the cheerful trick at the festival",
+        "Amuse the funny prank after joke",
+        "Amuse the clumsy festival during parade",
+        "Prank the silly jest in the square",
+        "Mock the colorful joke after joke",
+        "Dance the playful joke at the festival"
+      ]
+    },
+    "environment_informations": {
+      "weather": "drizzle",
+      "time": "in the afternoon"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "84",
+      "name": "Katherine Morrison",
+      "role": "cook",
+      "moods": [
+        "tired"
+      ],
+      "interests": [
+        "sports",
+        "dancing",
+        "music",
+        "hunting"
+      ],
+      "playerRelationship": "18",
+      "gender": "female",
+      "personalities": [
+        "authoritative",
+        "pragmatic",
+        "vengeful",
+        "impatient"
+      ],
+      "requests": [
+        "Season the spicy meal at noon",
+        "Mix the fresh ingredient during festival",
+        "Serve the fresh bread after market",
+        "Serve the spicy dessert before feast",
+        "Prepare the tasty kitchen at noon"
+      ]
+    },
+    "environment_informations": {
+      "weather": "rainy",
+      "time": "in the morning"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "12",
+      "name": "Tyler Atkinson",
+      "role": "herbalist",
+      "moods": [
+        "curious"
+      ],
+      "interests": [
+        "gardening",
+        "alchemy"
+      ],
+      "playerRelationship": "50",
+      "gender": "female",
+      "personalities": [
+        "meticulous",
+        "strict",
+        "sarcastic"
+      ],
+      "requests": [
+        "Grow the medicinal herb in the woods",
+        "Crush the rare herb at sunrise",
+        "Gather the fresh flower during spring",
+        "Crush the fragrant remedy in the garden",
+        "Identify the dried potion at sunrise",
+        "Identify the wild balm during spring",
+        "Gather the fragrant tincture in the garden"
+      ]
+    },
+    "environment_informations": {
+      "weather": "rainy",
+      "time": "in the morning"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "26",
+      "name": "Miss Megan Dyer",
+      "role": "apprentice",
+      "moods": [
+        "angry",
+        "tired"
+      ],
+      "interests": [
+        "fishing",
+        "cooking",
+        "painting",
+        "gambling"
+      ],
+      "playerRelationship": "16",
+      "gender": "male",
+      "personalities": [
+        "romantic",
+        "vengeful",
+        "pessimistic"
+      ],
+      "requests": [
+        "Observe the inexperienced test during lesson",
+        "Learn the nervous training in the morning"
+      ]
+    },
+    "environment_informations": {
+      "weather": "stormy",
+      "time": "in the morning"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "91",
+      "name": "Noah Mann",
+      "role": "innkeeper",
+      "moods": [
+        "tired",
+        "angry"
+      ],
+      "interests": [
+        "crafting",
+        "trading"
+      ],
+      "playerRelationship": "98",
+      "gender": "female",
+      "personalities": [
+        "stubborn",
+        "faithful",
+        "sarcastic",
+        "eccentric"
+      ],
+      "requests": [
+        "Prepare the festive banquet after sunset",
+        "Host the cozy music after sunset",
+        "Cook the clean parade before festival"
+      ]
+    },
+    "environment_informations": {
+      "weather": "cloudy",
+      "time": "at midnight"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "26",
+      "name": "Miss Megan Dyer",
+      "role": "apprentice",
+      "moods": [
+        "angry",
+        "tired"
+      ],
+      "interests": [
+        "fishing",
+        "cooking",
+        "painting",
+        "gambling"
+      ],
+      "playerRelationship": "16",
+      "gender": "male",
+      "personalities": [
+        "romantic",
+        "vengeful",
+        "pessimistic"
+      ],
+      "requests": [
+        "Observe the inexperienced test during lesson",
+        "Learn the nervous training in the morning"
+      ]
+    },
+    "environment_informations": {
+      "weather": "snowy",
+      "time": "in the evening"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "54",
+      "name": "Mandy Silva",
+      "role": "witch",
+      "moods": [
+        "curious"
+      ],
+      "interests": [
+        "meditation"
+      ],
+      "playerRelationship": "90",
+      "gender": "female",
+      "personalities": [
+        "compassionate",
+        "forgiving"
+      ],
+      "requests": [
+        "Hex the strange ritual at midnight",
+        "Cast the strange curse after storm",
+        "Brew the cunning herb in the woods",
+        "Summon the powerful ritual at midnight",
+        "Curse the powerful curse during ritual",
+        "Predict the strange broom after storm",
+        "Predict the strange spell before dawn",
+        "Mix the strange charm during ritual",
+        "Mix the cunning ritual in the woods",
+        "Curse the ancient herb after storm"
+      ]
+    },
+    "environment_informations": {
+      "weather": "windy",
+      "time": "at midnight"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "54",
+      "name": "Mandy Silva",
+      "role": "witch",
+      "moods": [
+        "curious"
+      ],
+      "interests": [
+        "meditation"
+      ],
+      "playerRelationship": "90",
+      "gender": "female",
+      "personalities": [
+        "compassionate",
+        "forgiving"
+      ],
+      "requests": [
+        "Hex the strange ritual at midnight",
+        "Cast the strange curse after storm",
+        "Brew the cunning herb in the woods",
+        "Summon the powerful ritual at midnight",
+        "Curse the powerful curse during ritual",
+        "Predict the strange broom after storm",
+        "Predict the strange spell before dawn",
+        "Mix the strange charm during ritual",
+        "Mix the cunning ritual in the woods",
+        "Curse the ancient herb after storm"
+      ]
+    },
+    "environment_informations": {
+      "weather": "foggy",
+      "time": "at noon"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "69",
+      "name": "Michael Flores",
+      "role": "knight",
+      "moods": [
+        "neutral",
+        "tired"
+      ],
+      "interests": [
+        "farming",
+        "cooking",
+        "horsemanship",
+        "sports",
+        "fishing"
+      ],
+      "playerRelationship": "60",
+      "gender": "male",
+      "personalities": [
+        "dreamy",
+        "arrogant",
+        "vengeful"
+      ],
+      "requests": [
+        "Train the fearless horse during tournament",
+        "Fight the strong horse during tournament",
+        "Train the valiant joust during tournament",
+        "Escort the brave horse during tournament",
+        "Train the valiant sword after battle",
+        "Challenge the noble duty during tournament",
+        "Challenge the loyal duty after battle",
+        "Ride the honorable tournament during tournament",
+        "Swear the loyal tournament after battle",
+        "Fight the brave shield at the castle",
+        "Train the honorable armor after battle",
+        "Train the loyal horse after battle",
+        "Compete the brave joust at the castle",
+        "Swear the noble joust before dawn"
+      ]
+    },
+    "environment_informations": {
+      "weather": "hail",
+      "time": "before sunrise"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "16",
+      "name": "Marisa Rhodes",
+      "role": "noble",
+      "moods": [
+        "angry",
+        "tired",
+        "bored"
+      ],
+      "interests": [
+        "cooking",
+        "magic",
+        "dancing"
+      ],
+      "playerRelationship": "35",
+      "gender": "male",
+      "personalities": [
+        "curious"
+      ],
+      "requests": [
+        "Host the generous estate before council",
+        "Invest the refined invitation during banquet",
+        "Inherit the dignified jewel in the city",
+        "Invite the wealthy invitation during banquet",
+        "Invest the powerful title at the estate",
+        "Invite the generous debt after ceremony",
+        "Donate the generous servant before council",
+        "Invite the influential invitation after ceremony",
+        "Invest the dignified jewel after ceremony",
+        "Rule the refined title after ceremony"
+      ]
+    },
+    "environment_informations": {
+      "weather": "hot",
+      "time": "at midnight"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "4",
+      "name": "Jillian Stokes",
+      "role": "bard",
+      "moods": [
+        "sad"
+      ],
+      "interests": [
+        "storytelling"
+      ],
+      "playerRelationship": "41",
+      "gender": "female",
+      "personalities": [
+        "faithful",
+        "indecisive",
+        "patient"
+      ],
+      "requests": [
+        "Sing the colorful performance during festival",
+        "Entertain the melodic song in the evening",
+        "Compose the talented story in the evening",
+        "Tell the charming instrument in the evening",
+        "Play the charming story during festival",
+        "Compose the inspiring poetry on stage",
+        "Perform the witty song after dinner",
+        "Entertain the lively lyre at the tavern",
+        "Perform the witty dance on stage",
+        "Compose the inspiring dance on stage"
+      ]
+    },
+    "environment_informations": {
+      "weather": "foggy",
+      "time": "after sunset"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "50",
+      "name": "Melissa Burns",
+      "role": "miner",
+      "moods": [
+        "curious"
+      ],
+      "interests": [
+        "hunting",
+        "cooking"
+      ],
+      "playerRelationship": "32",
+      "gender": "female",
+      "personalities": [
+        "submissive"
+      ],
+      "requests": [
+        "Descend the deep helmet during shift",
+        "Explore the dangerous helmet during shift",
+        "Search the dark mine during shift",
+        "Mine the rocky mine at dawn",
+        "Extract the dusty cart in the mine",
+        "Dig the dark helmet at dawn"
+      ]
+    },
+    "environment_informations": {
+      "weather": "foggy",
+      "time": "in the evening"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "95",
+      "name": "Veronica Austin",
+      "role": "stable master",
+      "moods": [
+        "curious",
+        "bored",
+        "excited"
+      ],
+      "interests": [
+        "reading",
+        "horsemanship"
+      ],
+      "playerRelationship": "61",
+      "gender": "female",
+      "personalities": [
+        "shy",
+        "romantic",
+        "humble",
+        "calculating"
+      ],
+      "requests": [
+        "Stable the tidy bridle at dawn",
+        "Feed the tidy saddle after feeding",
+        "Stable the strong hay in the stable",
+        "Groom the patient hay during rain",
+        "Lead the reliable horse before race",
+        "Train the experienced groom before race",
+        "Clean the tidy stable in the stable",
+        "Groom the strong stall in the stable",
+        "Saddle the tidy saddle in the stable",
+        "Clean the patient hay during rain",
+        "Lead the reliable hoof in the stable",
+        "Saddle the reliable groom at dawn",
+        "Train the reliable stall before race",
+        "Clean the skilled hoof after feeding",
+        "Stable the tidy groom before race"
+      ]
+    },
+    "environment_informations": {
+      "weather": "snowy",
+      "time": "in the morning"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "24",
+      "name": "Robert Thomas",
+      "role": "witch",
+      "moods": [
+        "anxious"
+      ],
+      "interests": [
+        "gambling",
+        "meditation",
+        "storytelling",
+        "exploring",
+        "sports"
+      ],
+      "playerRelationship": "43",
+      "gender": "female",
+      "personalities": [
+        "compassionate"
+      ],
+      "requests": [
+        "Curse the dark broom in the woods",
+        "Summon the strange charm before dawn",
+        "Mix the secretive curse in the woods",
+        "Enchant the secretive spell at midnight",
+        "Cast the secretive ritual during ritual",
+        "Predict the dark herb after storm",
+        "Hex the wise broom at midnight",
+        "Brew the wise ritual in the woods",
+        "Summon the cunning broom during ritual",
+        "Predict the secretive spell before dawn",
+        "Predict the strange spell in the woods",
+        "Cast the dark charm before dawn",
+        "Mix the mysterious broom in the woods",
+        "Brew the strange herb during ritual"
+      ]
+    },
+    "environment_informations": {
+      "weather": "snowy",
+      "time": "at noon"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "24",
+      "name": "Robert Thomas",
+      "role": "witch",
+      "moods": [
+        "anxious"
+      ],
+      "interests": [
+        "gambling",
+        "meditation",
+        "storytelling",
+        "exploring",
+        "sports"
+      ],
+      "playerRelationship": "43",
+      "gender": "female",
+      "personalities": [
+        "compassionate"
+      ],
+      "requests": [
+        "Curse the dark broom in the woods",
+        "Summon the strange charm before dawn",
+        "Mix the secretive curse in the woods",
+        "Enchant the secretive spell at midnight",
+        "Cast the secretive ritual during ritual",
+        "Predict the dark herb after storm",
+        "Hex the wise broom at midnight",
+        "Brew the wise ritual in the woods",
+        "Summon the cunning broom during ritual",
+        "Predict the secretive spell before dawn",
+        "Predict the strange spell in the woods",
+        "Cast the dark charm before dawn",
+        "Mix the mysterious broom in the woods",
+        "Brew the strange herb during ritual"
+      ]
+    },
+    "environment_informations": {
+      "weather": "windy",
+      "time": "in the evening"
+    },
+    "npc_output": ""
+  }
+]

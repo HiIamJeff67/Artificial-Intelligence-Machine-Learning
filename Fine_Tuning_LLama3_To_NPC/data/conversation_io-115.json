@@ -1,0 +1,62 @@
+[
+  {
+    "player_input": "What's the catch today?",
+    "npc_output": "Not much, just a few fish. The drizzle is making it hard to catch anything. |r1|"
+  },
+  {
+    "player_input": "How's the festival?",
+    "npc_output": "It's going great, despite the fog. I'm doing a great job keeping everyone safe. |r2|"
+  },
+  {
+    "player_input": "Nice day, isn't it?",
+    "npc_output": "Yes, it's beautiful! The sunny weather is perfect for fishing. |r3|"
+  },
+  {
+    "player_input": "Need any help?",
+    "npc_output": "Actually, yes. I could use some company during this snowy festival. |r1|"
+  },
+  {
+    "player_input": "What's for breakfast?",
+    "npc_output": "I'm making a feast! Come join us and I'll pour you a plate. |r1|"
+  },
+  {
+    "player_input": "Be careful out there",
+    "npc_output": "Don't worry, I've got my helmet and I know these mines. |r2|"
+  },
+  {
+    "player_input": "Play something for me",
+    "npc_output": "I'd be happy to! Let me compose a song just for you. |r2|"
+  },
+  {
+    "player_input": "What are you reading?",
+    "npc_output": "Just some research for my next study. Care to join me? |r1|"
+  },
+  {
+    "player_input": "Want to go hunting?",
+    "npc_output": "Not now, I'm a bit bored with hunting. Maybe later. |r1|"
+  },
+  {
+    "player_input": "What's brewing?",
+    "npc_output": "Just a little something for the ritual tonight. Care to join me? |r2|"
+  },
+  {
+    "player_input": "Catching anything?",
+    "npc_output": "A few fish, but the rainy weather is making it tough. |r3|"
+  },
+  {
+    "player_input": "Need any food?",
+    "npc_output": "Actually, yes. I could use a meal. |r1|"
+  },
+  {
+    "player_input": "How's farming?",
+    "npc_output": "It's going well! The cloudy weather is helping the crops grow. |r1|"
+  },
+  {
+    "player_input": "What do you need?",
+    "npc_output": "Just some company and a warm blanket. |r1|"
+  },
+  {
+    "player_input": "Where are you headed?",
+    "npc_output": "Out to sea! The sunny weather is perfect for sailing. |r2|"
+  }
+]

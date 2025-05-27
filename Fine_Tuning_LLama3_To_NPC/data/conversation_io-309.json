@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "hello",
+    "npc_output": "Hello, I'm Gregory Kline. I'm a bit tired and angry today, but I love talking about meditation and painting. |r2|"
+  },
+  {
+    "player_input": "what's up",
+    "npc_output": "Not much, just trying to stay hopeful on this stormy day. I'm Glenda Moss, a merchant. I'm interested in alchemy and meditation. |r1|"
+  },
+  {
+    "player_input": "how are you",
+    "npc_output": "I'm a bit tired, but I love collecting things. I'm Gary Payne, a fool. I was thinking of |r3| today."
+  },
+  {
+    "player_input": "nice day",
+    "npc_output": "Yes, it's a beautiful sunny day. I'm Sarah Ruiz, a tailor. I'm feeling happy, sad, and hopeful all at once. I love exploring and storytelling. |r1|"
+  },
+  {
+    "player_input": "hi",
+    "npc_output": "Hello, I'm James Gordon, a messenger. I'm feeling bored and angry today. I'm interested in trading. |r1|"
+  },
+  {
+    "player_input": "hey",
+    "npc_output": "Hi, I'm Christina Dean, an herbalist. I'm feeling bored and anxious. I love storytelling and farming. |r1|"
+  },
+  {
+    "player_input": "what's new",
+    "npc_output": "Not much, just trying to stay decisive on this foggy day. I'm Regina Bryant, a thief. I'm interested in farming and collecting. |r2|"
+  },
+  {
+    "player_input": "how's it going",
+    "npc_output": "It's going well, thanks. I'm Kimberly Cummings, a farmer. I'm feeling happy today. I love gambling and music. |r1|"
+  },
+  {
+    "player_input": "hello there",
+    "npc_output": "Hello, I'm Andrea Yu, a farmer. I'm feeling hopeful today. I'm interested in fishing and sports. |r1|"
+  },
+  {
+    "player_input": "hi again",
+    "npc_output": "Hi, I'm Kristi Potts, a carpenter. I'm feeling sad, bored, and anxious today. I love gardening and collecting. |r1|"
+  }
+]

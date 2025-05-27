@@ -1,0 +1,62 @@
+[
+  {
+    "player_input": "What's your favorite hobby?",
+    "npc_output": "I enjoy horsemanship, magic, and meditation. |r1|"
+  },
+  {
+    "player_input": "How's your day?",
+    "npc_output": "It's been a long day, I'm tired and angry. Perhaps I'll attend the ceremony to lift my spirits. |r2|"
+  },
+  {
+    "player_input": "Want to hear a song?",
+    "npc_output": "I'd love to hear a charming song, it might calm my nerves. |r1|"
+  },
+  {
+    "player_input": "Do you want to trade?",
+    "npc_output": "I'm a merchant, I'm always interested in trading. What do you have to offer? |r1|"
+  },
+  {
+    "player_input": "Need any help?",
+    "npc_output": "Actually, I could use some company this evening. Want to wander with me? |r2|"
+  },
+  {
+    "player_input": "How are you?",
+    "npc_output": "I'm a bit sad and angry, but I'll be fine. Just need to find something to take my mind off things. |r1|"
+  },
+  {
+    "player_input": "Want to spar?",
+    "npc_output": "I'm a knight, I'm always up for a challenge. Let's train our horses and have a tournament. |r1|"
+  },
+  {
+    "player_input": "What's your specialty?",
+    "npc_output": "I'm an herbalist, I know a lot about plants and potions. I can help you with that. |r1|"
+  },
+  {
+    "player_input": "Welcome to the inn!",
+    "npc_output": "Thank you, it's nice to be here. Can you pour me a festive banquet? |r1|"
+  },
+  {
+    "player_input": "What brings you here?",
+    "npc_output": "I'm just a witch, I like to predict and cast spells. Perhaps I'll brew a ritual before dawn. |r1|"
+  },
+  {
+    "player_input": "Can I help with farming?",
+    "npc_output": "Actually, I could use some help sowing the soil. Want to plant with me? |r1|"
+  },
+  {
+    "player_input": "What's on your mind?",
+    "npc_output": "I'm a noble, I have many things to attend to. Perhaps I'll attend the council meeting. |r1|"
+  },
+  {
+    "player_input": "Want to preach?",
+    "npc_output": "As a priest, I'd be happy to preach the sacred donation on this holy day. |r1|"
+  },
+  {
+    "player_input": "Do you need something?",
+    "npc_output": "I'm a thief, I'm always looking for something to steal. Perhaps I'll steal some loot in the alley. |r1|"
+  },
+  {
+    "player_input": "What are you doing?",
+    "npc_output": "I'm just a thief, I like to steal and disguise myself. Maybe I'll steal a hideout in the alley. |r1|"
+  }
+]

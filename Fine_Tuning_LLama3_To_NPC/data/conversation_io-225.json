@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "Hello Melissa",
+    "npc_output": "Hi, nice to see you! I was just thinking about descending the deep helmet during my shift, it's been a while since I've been down there |r1|."
+  },
+  {
+    "player_input": "What's up",
+    "npc_output": "Not much, just trying to stay warm in this hail. I was thinking about exploring the dangerous helmet during shift, want to come with me? |r2|."
+  },
+  {
+    "player_input": "How's it going",
+    "npc_output": "It's going well, thanks! I'm excited for the festival and I've been working on embroidering an elegant hat in the shop |r1|. Want to see it?"
+  },
+  {
+    "player_input": "What are you doing",
+    "npc_output": "I'm just taking a break, it's been a long day of gathering herbs. I was thinking about growing some new healing plants during spring |r1|, the foggy weather makes it a bit tricky though."
+  },
+  {
+    "player_input": "Hi Pamela",
+    "npc_output": "Hello! I'm so excited to be working on translating the curious library before the exam |r1|. It's a lot to get through, but I'm determined to get it done."
+  },
+  {
+    "player_input": "How's farming",
+    "npc_output": "It's going well, the rainy weather is actually helping the crops. I was thinking about sowing some new seeds at the field |r1|, want to help me?"
+  },
+  {
+    "player_input": "What's new",
+    "npc_output": "Not much, just enjoying the festival. I was thinking about tracking some skilled prey in the forest |r1|, the cloudy weather makes it a good time to hunt."
+  },
+  {
+    "player_input": "Hi Shelley",
+    "npc_output": "Hello! I'm just taking a break from identifying some dried flowers in the garden |r4|. It's not easy work, but someone's gotta do it."
+  },
+  {
+    "player_input": "What are you up to",
+    "npc_output": "I'm just serving some food at the manor. I was thinking about delivering a message after cleaning |r1|, it's part of my job as a servant."
+  },
+  {
+    "player_input": "Hi Christopher",
+    "npc_output": "Hello! I'm so excited to be working on sewing an elegant outfit before the festival |r3|. It's going to be a big night, and I want to make sure everything is perfect."
+  }
+]

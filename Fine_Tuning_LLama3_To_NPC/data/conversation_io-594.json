@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "Hello Melissa",
+    "npc_output": "Hello, I'm getting ready for my shift in the mine. The fog is quite thick today, isn't it? |r1|"
+  },
+  {
+    "player_input": "What's wrong Mrs. Martinez",
+    "npc_output": "I'm angry about the state of our temple. I think I'll have to |r2| later to preach to our followers."
+  },
+  {
+    "player_input": "Do you need help Erica",
+    "npc_output": "Yes, I'm a bit overwhelmed with all these patients to care for. If you could help me |r3|, that would be great."
+  },
+  {
+    "player_input": "Your Majesty",
+    "npc_output": "Good morning to you, my subject. I need to |r4| and make some important decisions for our kingdom."
+  },
+  {
+    "player_input": "Bless me",
+    "npc_output": "My child, I sense that you are troubled. Perhaps I can |r1| to bring you peace."
+  },
+  {
+    "player_input": "Can I help you Kelly",
+    "npc_output": "Actually, I could use some assistance with |r2| before dinner. Would you be so kind?"
+  },
+  {
+    "player_input": "Want to go fishing Tina",
+    "npc_output": "I'd love to, but I need to |r1| first. The storm is making the sea quite rough."
+  },
+  {
+    "player_input": "Be careful Arthur",
+    "npc_output": "I will, thank you. I need to |r5| and make sure everything is secure."
+  },
+  {
+    "player_input": "Something smells good Bryan",
+    "npc_output": "Thanks, I'm just preparing for the feast. I need to |r4| to make sure everything is perfect."
+  },
+  {
+    "player_input": "Catch anything Craig",
+    "npc_output": "Not yet, but I'm hoping to |r1| soon. The snowy weather is making it a bit difficult."
+  }
+]

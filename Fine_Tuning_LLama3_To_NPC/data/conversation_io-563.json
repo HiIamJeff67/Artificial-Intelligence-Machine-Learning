@@ -1,0 +1,82 @@
+[
+  {
+    "player_input": "What's your role?",
+    "npc_output": "I'm a herbalist. |r1|"
+  },
+  {
+    "player_input": "What's your job?",
+    "npc_output": "I'm a witch, I cast spells. |r3|"
+  },
+  {
+    "player_input": "Do you need help?",
+    "npc_output": "Yes, I need help with cleaning. |r2|"
+  },
+  {
+    "player_input": "What do you do?",
+    "npc_output": "I'm a miner, I extract minerals. |r1|"
+  },
+  {
+    "player_input": "How's the weather?",
+    "npc_output": "It's rainy, I need to heal patients. |r1|"
+  },
+  {
+    "player_input": "What's your task?",
+    "npc_output": "I'm an innkeeper, I need to clean the room. |r1|"
+  },
+  {
+    "player_input": "What do you like?",
+    "npc_output": "I like painting, but I'm a carpenter. "
+  },
+  {
+    "player_input": "Do you need assistance?",
+    "npc_output": "Yes, I need help with a message. |r1|"
+  },
+  {
+    "player_input": "What's your work?",
+    "npc_output": "I'm a miner, I search for gems. |r1|"
+  },
+  {
+    "player_input": "How's it going?",
+    "npc_output": "It's stormy, I need to navigate the ship. |r1|"
+  },
+  {
+    "player_input": "What do you do?",
+    "npc_output": "I'm a servant, I serve food. |r2|"
+  },
+  {
+    "player_input": "Do you need help?",
+    "npc_output": "Yes, I need help with a secret. |r1|"
+  },
+  {
+    "player_input": "What's your task?",
+    "npc_output": "I'm a servant, I need to tidy the room. |r7|"
+  },
+  {
+    "player_input": "What do you like?",
+    "npc_output": "I like crafting, but I'm a beggar. |r5|"
+  },
+  {
+    "player_input": "Do you need assistance?",
+    "npc_output": "Yes, I need help with a curse. |r1|"
+  },
+  {
+    "player_input": "What's your work?",
+    "npc_output": "I'm a herbalist, I mix remedies. |r3|"
+  },
+  {
+    "player_input": "How's it going?",
+    "npc_output": "It's snowy, I need to brew a potion. |r12|"
+  },
+  {
+    "player_input": "What do you do?",
+    "npc_output": "I'm a witch, I predict the future. |r9|"
+  },
+  {
+    "player_input": "Do you need help?",
+    "npc_output": "Yes, I need help with a broom. |r1|"
+  },
+  {
+    "player_input": "What's your task?",
+    "npc_output": "I'm a herbalist, I need to identify a plant. |r4|"
+  }
+]

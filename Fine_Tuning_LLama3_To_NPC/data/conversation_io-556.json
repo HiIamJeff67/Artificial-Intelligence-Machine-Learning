@@ -1,0 +1,58 @@
+[
+  {
+    "player_input": "What's for breakfast?",
+    "npc_output": "Good morning, I'm preparing some food for the guests, would you like to help me with the festive banquet? |r1|"
+  },
+  {
+    "player_input": "Need any help?",
+    "npc_output": "Actually, I could use a hand with fitting this embroidered needle at noon, it's been a stormy night"
+  },
+  {
+    "player_input": "How's it going?",
+    "npc_output": "Not great, I was supposed to recite the colorful instrument after dinner, but I'm feeling anxious, maybe you can help me practice?"
+  },
+  {
+    "player_input": "What's the plan?",
+    "npc_output": "We should heal the holy altar on holy day, it's a big ceremony, and I need someone to assist me"
+  },
+  {
+    "player_input": "What are you doing?",
+    "npc_output": "Just brewing some herbs, but I need to hex the strange ritual at midnight, want to join me?"
+  },
+  {
+    "player_input": "Hi, what's up?",
+    "npc_output": "Not much, just enjoying the sunshine, I might unlock the shadowy escape after curfew later, care to join me?"
+  },
+  {
+    "player_input": "Tough day?",
+    "npc_output": "You have no idea, I've been fishing all night, and I still need to catch the wet sea at the river"
+  },
+  {
+    "player_input": "How can I assist?",
+    "npc_output": "Actually, I need help planting the healthy vegetable during harvest, it's a lot of work, and the stormy weather isn't helping"
+  },
+  {
+    "player_input": "What are you studying?",
+    "npc_output": "Just researching some new recipes, I'm trying to come up with something new, and I need to focus"
+  },
+  {
+    "player_input": "What's new?",
+    "npc_output": "Not much, just got back from a job, and now I need to steal the cunning hideout in the alley, want to help me?"
+  },
+  {
+    "player_input": "Hi, I'm looking for a message.",
+    "npc_output": "I'm the messenger, and I need to report the punctual scroll before sunset, can I help you with something?"
+  },
+  {
+    "player_input": "What are you selling?",
+    "npc_output": "Just some spices and goods, I'm trying to bargain the foreign spice during festival, but it's tough"
+  },
+  {
+    "player_input": "Need any company?",
+    "npc_output": "Actually, I could use someone to attend the proud land after ceremony with me, it's a big event"
+  },
+  {
+    "player_input": "What's going on?",
+    "npc_output": "Just got a new job, and now I need to steal the shadowy loot in the alley, wish me luck"
+  }
+]

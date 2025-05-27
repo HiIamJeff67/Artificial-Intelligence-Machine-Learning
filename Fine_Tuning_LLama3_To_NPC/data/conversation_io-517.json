@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "What's your job?",
+    "npc_output": "I'm a messenger, nice to meet you."
+  },
+  {
+    "player_input": "How's the day going?",
+    "npc_output": "It's quite hail-y, but I'm hopeful. By the way, could you |r3|?"
+  },
+  {
+    "player_input": "What are you researching?",
+    "npc_output": "Alchemy, it's fascinating. |r1|, would you like to help?"
+  },
+  {
+    "player_input": "Do you need help with your estate?",
+    "npc_output": "Actually, I'm preparing for a council meeting, but thank you for offering. |r1|, perhaps?"
+  },
+  {
+    "player_input": "Want to go fishing?",
+    "npc_output": "Not now, I'm tired from fishing earlier. Maybe |r2|?"
+  },
+  {
+    "player_input": "Do you have a performance tonight?",
+    "npc_output": "Yes, I do. |r1|, wish me luck! Or actually, |r4| would be great."
+  },
+  {
+    "player_input": "Any interesting goods to sell?",
+    "npc_output": "Not yet, but |r1| might bring in some expensive items."
+  },
+  {
+    "player_input": "What's for dessert?",
+    "npc_output": "I'm preparing a crispy dessert, |r1| if you'd like to help."
+  },
+  {
+    "player_input": "Need help with your research?",
+    "npc_output": "Always, but |r2| is my priority now."
+  },
+  {
+    "player_input": "How's the temple?",
+    "npc_output": "It's windy, but serene. |r1|, if you're willing."
+  }
+]

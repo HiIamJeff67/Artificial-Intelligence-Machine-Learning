@@ -1,0 +1,586 @@
+[
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "27",
+      "name": "Sherry Coffey",
+      "role": "priest",
+      "moods": [
+        "neutral"
+      ],
+      "interests": [
+        "cooking",
+        "storytelling",
+        "dancing",
+        "fishing"
+      ],
+      "playerRelationship": "0",
+      "gender": "female",
+      "personalities": [
+        "stubborn",
+        "moody",
+        "innovative",
+        "sarcastic"
+      ],
+      "requests": [
+        "Preach the sacred donation on holy day",
+        "Preach the wise blessing on holy day",
+        "Preach the devout ceremony at dawn",
+        "Forgive the sacred wedding in the temple",
+        "Bless the merciful altar at dawn",
+        "Bless the wise altar during ceremony",
+        "Forgive the pure blessing during ceremony",
+        "Conduct the pure ceremony on holy day",
+        "Chant the holy wedding on holy day",
+        "Heal the blessed prayer on holy day",
+        "Guide the devout faith during ceremony"
+      ]
+    },
+    "environment_informations": {
+      "weather": "stormy",
+      "time": "in the afternoon"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "94",
+      "name": "John Brooks",
+      "role": "hunter",
+      "moods": [
+        "sad",
+        "happy",
+        "hopeful"
+      ],
+      "interests": [
+        "collecting"
+      ],
+      "playerRelationship": "23",
+      "gender": "female",
+      "personalities": [
+        "wise",
+        "reckless",
+        "pragmatic"
+      ],
+      "requests": [
+        "Track the skilled prey in the forest",
+        "Camp the patient fur before sunset",
+        "Ambush the stealthy fur at dawn",
+        "Shoot the sharp-eyed trap in the forest",
+        "Track the wild bow in the forest",
+        "Hunt the sharp-eyed camp before sunset",
+        "Skin the skilled bow at dawn",
+        "Track the rugged arrow before sunset",
+        "Camp the skilled prey in the forest",
+        "Trap the silent animal after rain",
+        "Stalk the sharp-eyed camp after rain",
+        "Ambush the patient fur at dawn",
+        "Camp the quick arrow before sunset",
+        "Skin the skilled arrow at dawn"
+      ]
+    },
+    "environment_informations": {
+      "weather": "snowy",
+      "time": "during the festival"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "34",
+      "name": "Alyssa Kemp",
+      "role": "scholar",
+      "moods": [
+        "bored",
+        "curious"
+      ],
+      "interests": [
+        "horsemanship"
+      ],
+      "playerRelationship": "46",
+      "gender": "female",
+      "personalities": [
+        "greedy"
+      ],
+      "requests": []
+    },
+    "environment_informations": {
+      "weather": "windy",
+      "time": "at dawn"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "59",
+      "name": "Ariana Hardin",
+      "role": "scholar",
+      "moods": [
+        "excited"
+      ],
+      "interests": [
+        "cooking",
+        "farming"
+      ],
+      "playerRelationship": "71",
+      "gender": "male",
+      "personalities": [
+        "romantic",
+        "ambitious",
+        "forgiving",
+        "greedy",
+        "reserved"
+      ],
+      "requests": []
+    },
+    "environment_informations": {
+      "weather": "snowy",
+      "time": "at dusk"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "97",
+      "name": "Michelle Adams",
+      "role": "thief",
+      "moods": [
+        "happy"
+      ],
+      "interests": [
+        "cooking",
+        "dancing",
+        "farming"
+      ],
+      "playerRelationship": "89",
+      "gender": "female",
+      "personalities": [
+        "curious",
+        "wise",
+        "dreamy"
+      ],
+      "requests": [
+        "Unlock the shadowy escape after curfew",
+        "Hide the quick secret before dawn",
+        "Unlock the cunning lock after curfew",
+        "Spy the shadowy hideout in the alley",
+        "Hide the silent hideout after curfew"
+      ]
+    },
+    "environment_informations": {
+      "weather": "windy",
+      "time": "in the morning"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "72",
+      "name": "Scott Griffith",
+      "role": "farmer",
+      "moods": [
+        "tired",
+        "excited"
+      ],
+      "interests": [
+        "storytelling",
+        "crafting",
+        "exploring",
+        "farming"
+      ],
+      "playerRelationship": "76",
+      "gender": "female",
+      "personalities": [
+        "reserved",
+        "outgoing",
+        "reckless",
+        "pragmatic"
+      ],
+      "requests": [
+        "Sow the bountiful soil after sunrise",
+        "Sow the muddy seed at the field",
+        "Water the ripe seed during harvest",
+        "Plant the muddy crop at the field",
+        "Sow the abundant plow in the morning",
+        "Water the fertile soil at the field",
+        "Plant the muddy barn at the field",
+        "Plant the fresh field in the morning",
+        "Tend the abundant harvest at the field",
+        "Weed the ripe seed at the field",
+        "Water the healthy seed in the morning",
+        "Water the fresh barn after sunrise",
+        "Water the bountiful seed after sunrise"
+      ]
+    },
+    "environment_informations": {
+      "weather": "hot",
+      "time": "in the evening"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "70",
+      "name": "Shawn Nelson",
+      "role": "blacksmith",
+      "moods": [
+        "curious",
+        "excited",
+        "neutral"
+      ],
+      "interests": [
+        "storytelling",
+        "sports",
+        "alchemy"
+      ],
+      "playerRelationship": "31",
+      "gender": "male",
+      "personalities": [
+        "friendly",
+        "generous",
+        "compassionate"
+      ],
+      "requests": [
+        "Temper the strong anvil at the market",
+        "Sharpen the sharp anvil at the market",
+        "Forge the hot shield after battle",
+        "Melt the hot armor at the market",
+        "Hammer the heavy anvil in the forge",
+        "Forge the strong armor during festival",
+        "Forge the rusty weapon during festival",
+        "Hammer the hot forge during festival",
+        "Hammer the sharp forge at the market"
+      ]
+    },
+    "environment_informations": {
+      "weather": "windy",
+      "time": "at dusk"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "45",
+      "name": "Christina Dean",
+      "role": "herbalist",
+      "moods": [
+        "bored",
+        "anxious"
+      ],
+      "interests": [
+        "storytelling",
+        "farming"
+      ],
+      "playerRelationship": "8",
+      "gender": "male",
+      "personalities": [
+        "diligent",
+        "humble",
+        "pessimistic"
+      ],
+      "requests": [
+        "Gather the dried plant at sunrise",
+        "Crush the fragrant remedy in the garden",
+        "Dry the medicinal plant at sunrise",
+        "Brew the medicinal flower in the woods",
+        "Identify the bitter herb in the garden",
+        "Grow the rare tincture in the woods",
+        "Grow the healing potion during spring",
+        "Mix the medicinal remedy during spring",
+        "Identify the fresh plant in the woods",
+        "Brew the rare potion during spring"
+      ]
+    },
+    "environment_informations": {
+      "weather": "rainy",
+      "time": "after sunset"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "25",
+      "name": "Karen Garcia",
+      "role": "messenger",
+      "moods": [
+        "sad",
+        "happy",
+        "excited"
+      ],
+      "interests": [
+        "sports"
+      ],
+      "playerRelationship": "76",
+      "gender": "female",
+      "personalities": [
+        "impatient",
+        "meticulous"
+      ],
+      "requests": [
+        "Report the punctual scroll before sunset",
+        "Announce the quick delivery before sunset",
+        "Notify the trusted route during rain",
+        "Travel the urgent scroll after delivery",
+        "Announce the swift scroll before sunset",
+        "Deliver the swift parcel at dawn",
+        "Deliver the swift errand at dawn",
+        "Deliver the reliable message before sunset",
+        "Report the discreet route after delivery",
+        "Announce the urgent letter on the road",
+        "Report the swift route during rain"
+      ]
+    },
+    "environment_informations": {
+      "weather": "windy",
+      "time": "before sunrise"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "21",
+      "name": "Bryan Richard",
+      "role": "cook",
+      "moods": [
+        "angry",
+        "anxious",
+        "sad"
+      ],
+      "interests": [
+        "trading",
+        "horsemanship",
+        "sports"
+      ],
+      "playerRelationship": "78",
+      "gender": "female",
+      "personalities": [
+        "cheerful",
+        "innovative",
+        "sarcastic",
+        "outgoing",
+        "jealous"
+      ],
+      "requests": [
+        "Taste the fresh oven after market",
+        "Mix the fresh meal in the kitchen",
+        "Bake the fresh bread before feast",
+        "Bake the sweet oven after market",
+        "Mix the delicious kitchen before feast",
+        "Prepare the spicy ingredient before feast",
+        "Chop the delicious oven before feast"
+      ]
+    },
+    "environment_informations": {
+      "weather": "cloudy",
+      "time": "at noon"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "54",
+      "name": "Mandy Silva",
+      "role": "witch",
+      "moods": [
+        "curious"
+      ],
+      "interests": [
+        "meditation"
+      ],
+      "playerRelationship": "90",
+      "gender": "female",
+      "personalities": [
+        "compassionate",
+        "forgiving"
+      ],
+      "requests": [
+        "Hex the strange ritual at midnight",
+        "Cast the strange curse after storm",
+        "Brew the cunning herb in the woods",
+        "Summon the powerful ritual at midnight",
+        "Curse the powerful curse during ritual",
+        "Predict the strange broom after storm",
+        "Predict the strange spell before dawn",
+        "Mix the strange charm during ritual",
+        "Mix the cunning ritual in the woods",
+        "Curse the ancient herb after storm"
+      ]
+    },
+    "environment_informations": {
+      "weather": "cloudy",
+      "time": "at midnight"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "42",
+      "name": "Linda Carter",
+      "role": "hunter",
+      "moods": [
+        "neutral",
+        "bored"
+      ],
+      "interests": [
+        "cooking",
+        "crafting",
+        "fishing",
+        "storytelling"
+      ],
+      "playerRelationship": "39",
+      "gender": "male",
+      "personalities": [
+        "sarcastic",
+        "reserved"
+      ],
+      "requests": [
+        "Shoot the sharp-eyed trap in the forest",
+        "Trap the silent camp during hunt",
+        "Track the rugged arrow before sunset",
+        "Trap the patient camp before sunset",
+        "Skin the wild fur in the forest",
+        "Shoot the sharp-eyed forest after rain",
+        "Trap the quick forest at dawn",
+        "Skin the rugged fur at dawn",
+        "Ambush the stealthy arrow before sunset",
+        "Hunt the skilled camp after rain",
+        "Camp the wild arrow in the forest",
+        "Stalk the wild arrow at dawn",
+        "Trap the stealthy forest before sunset",
+        "Shoot the silent animal after rain",
+        "Camp the rugged bow after rain"
+      ]
+    },
+    "environment_informations": {
+      "weather": "stormy",
+      "time": "before sunrise"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "48",
+      "name": "Jeanette Grant",
+      "role": "merchant",
+      "moods": [
+        "neutral",
+        "happy",
+        "tired"
+      ],
+      "interests": [
+        "hunting",
+        "farming",
+        "horsemanship"
+      ],
+      "playerRelationship": "25",
+      "gender": "female",
+      "personalities": [
+        "friendly",
+        "skeptical",
+        "pragmatic",
+        "dreamy"
+      ],
+      "requests": [
+        "Trade the valuable trade on the road",
+        "Buy the foreign spice during festival",
+        "Haggle the exotic spice in the city",
+        "Bargain the rare market on the road",
+        "Trade the exotic caravan during festival",
+        "Sell the expensive market during festival",
+        "Trade the cheap goods during festival"
+      ]
+    },
+    "environment_informations": {
+      "weather": "foggy",
+      "time": "at dawn"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "20",
+      "name": "Hannah Cruz",
+      "role": "sailor",
+      "moods": [
+        "curious",
+        "neutral"
+      ],
+      "interests": [
+        "music",
+        "alchemy",
+        "painting",
+        "reading"
+      ],
+      "playerRelationship": "40",
+      "gender": "male",
+      "personalities": [
+        "indecisive",
+        "jealous",
+        "humble",
+        "greedy",
+        "forgiving"
+      ],
+      "requests": [
+        "Repair the rowdy storm during storm",
+        "Unload the strong rope on the ship",
+        "Navigate the strong map after docking",
+        "Load the restless map at the harbor",
+        "Load the strong storm before voyage"
+      ]
+    },
+    "environment_informations": {
+      "weather": "foggy",
+      "time": "in the morning"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "93",
+      "name": "Matthew Hampton",
+      "role": "tailor",
+      "moods": [
+        "angry",
+        "excited"
+      ],
+      "interests": [
+        "collecting"
+      ],
+      "playerRelationship": "22",
+      "gender": "male",
+      "personalities": [
+        "submissive",
+        "protective",
+        "optimistic",
+        "dreamy",
+        "lazy"
+      ],
+      "requests": [
+        "Design the fine hat after delivery",
+        "Cut the colorful hat in the shop",
+        "Embroider the stylish pattern in the shop",
+        "Sew the colorful fashion in the shop",
+        "Fit the soft cloak during fitting"
+      ]
+    },
+    "environment_informations": {
+      "weather": "foggy",
+      "time": "at dawn"
+    },
+    "npc_output": ""
+  }
+]

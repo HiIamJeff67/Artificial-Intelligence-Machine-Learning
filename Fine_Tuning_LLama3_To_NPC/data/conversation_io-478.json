@@ -1,0 +1,58 @@
+[
+  {
+    "player_input": "What's wrong?",
+    "npc_output": "I'm just feeling a bit sad and tired, it's been a long day of fishing in this snowy weather."
+  },
+  {
+    "player_input": "Need help?",
+    "npc_output": "Actually, I could use someone to talk to, this stormy weather is really getting to me."
+  },
+  {
+    "player_input": "Morning!",
+    "npc_output": "Good morning! Isn't it lovely to see the clouds clearing up? |r1|"
+  },
+  {
+    "player_input": "You look bored",
+    "npc_output": "Yeah, I'm just waiting for something exciting to happen, but it's hard to find anything interesting on a stormy day like today."
+  },
+  {
+    "player_input": "What are you doing?",
+    "npc_output": "Just mixing some potions, trying to create something new and exciting, but it's not easy in this drizzle."
+  },
+  {
+    "player_input": "Cheer up",
+    "npc_output": "Thanks for trying to cheer me up, but I'm just feeling a bit down, maybe some music or dance could lift my spirits."
+  },
+  {
+    "player_input": "Business?",
+    "npc_output": "Actually, I'm looking to sell some goods, but it's not easy in this drizzle, maybe you could help me find some buyers?"
+  },
+  {
+    "player_input": "You look anxious",
+    "npc_output": "Yes, I'm just worried about something, maybe you could help me calm down and focus on my meditation?"
+  },
+  {
+    "player_input": "Deliver something?",
+    "npc_output": "As a matter of fact, I do have a message to deliver, |r1|, would you be able to help me with that?"
+  },
+  {
+    "player_input": "What's wrong?",
+    "npc_output": "I'm just feeling a bit sad and overwhelmed with work, this hail is not helping my mood."
+  },
+  {
+    "player_input": "Go hunting?",
+    "npc_output": "Actually, I was thinking of going hunting, the festival is a great time to catch some prey, want to join me?"
+  },
+  {
+    "player_input": "Catch anything?",
+    "npc_output": "Not yet, but I'm hoping to catch something soon, the hail is making it a bit difficult though."
+  },
+  {
+    "player_input": "Preach something",
+    "npc_output": "Yes, I was thinking of preaching about the importance of faith, |r1|, would you like to listen?"
+  },
+  {
+    "player_input": "Help with cleaning?",
+    "npc_output": "Actually, I could use some help with cleaning, it's a big task and an extra pair of hands would be great, |r1|."
+  }
+]

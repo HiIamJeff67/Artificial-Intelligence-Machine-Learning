@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "What's up",
+    "npc_output": "I'm bored, want to hear a story?"
+  },
+  {
+    "player_input": "Hello",
+    "npc_output": "Good morning, I'm happy to see you, |r1| maybe?"
+  },
+  {
+    "player_input": "Hi",
+    "npc_output": "Nice day for sailing, isn't it?"
+  },
+  {
+    "player_input": "How are you",
+    "npc_output": "I'm a bit sad, but I love storytelling, want to chat?"
+  },
+  {
+    "player_input": "What's new",
+    "npc_output": "Not much, just waiting for the storm to pass, maybe go fishing later?"
+  },
+  {
+    "player_input": "Hi again",
+    "npc_output": "Still a bit bored, wish I could steal something exciting, like |r1|."
+  },
+  {
+    "player_input": "Hey",
+    "npc_output": "I'm feeling a bit curious, want to joke around and |r1|?"
+  },
+  {
+    "player_input": "Hello there",
+    "npc_output": "Good to see you, I'm excited to perform on stage, maybe |r1|?"
+  },
+  {
+    "player_input": "What's going on",
+    "npc_output": "Getting ready for the tournament, need to train my horse, |r1| perhaps?"
+  },
+  {
+    "player_input": "Hi friend",
+    "npc_output": "Just relaxing, enjoying the stormy weather, want to collect something?"
+  }
+]

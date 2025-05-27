@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "What's your role?",
+    "npc_output": "I'm a thief, nice to meet you."
+  },
+  {
+    "player_input": "How's the fishing?",
+    "npc_output": "It's tough in this stormy weather, but I'll manage."
+  },
+  {
+    "player_input": "What's the message?",
+    "npc_output": "I need to report the punctual scroll before sunset, it's urgent."
+  },
+  {
+    "player_input": "Want to joke around?",
+    "npc_output": "Let's jest the playful trick after joke, sounds like fun."
+  },
+  {
+    "player_input": "Need help with the inn?",
+    "npc_output": "Actually, I need to pour the festive banquet before festival, can you assist me?"
+  },
+  {
+    "player_input": "Want to perform?",
+    "npc_output": "I'd love to entertain the lively lyre on stage, wish me luck."
+  },
+  {
+    "player_input": "How's sailing?",
+    "npc_output": "It's been a tough voyage, but I need to anchor the restless harbor on the ship."
+  },
+  {
+    "player_input": "What's your craft?",
+    "npc_output": "I'm a witch, and I'm currently not taking requests."
+  },
+  {
+    "player_input": "Want to ride horses?",
+    "npc_output": "I'm a scholar, but I do enjoy horsemanship, let's talk about it."
+  },
+  {
+    "player_input": "What's the ceremony?",
+    "npc_output": "I need to preach the sacred donation on holy day, will you attend?"
+  }
+]

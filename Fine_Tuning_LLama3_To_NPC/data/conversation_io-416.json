@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "Hello, what's wrong?",
+    "npc_output": "I'm feeling sad and hopeful, |r1|"
+  },
+  {
+    "player_input": "How's it going?",
+    "npc_output": "I'm tired and sad, just need to |r1|"
+  },
+  {
+    "player_input": "What's up?",
+    "npc_output": "I'm happy and excited, want to talk about alchemy"
+  },
+  {
+    "player_input": "Hi, King.",
+    "npc_output": "Hello, I'm tired, |r1|"
+  },
+  {
+    "player_input": "Hello, messenger.",
+    "npc_output": "Hi, I'm tired and anxious, need to |r1|"
+  },
+  {
+    "player_input": "What's new?",
+    "npc_output": "Not much, just hope to |r1|"
+  },
+  {
+    "player_input": "Hi, guard.",
+    "npc_output": "Hi, patrol is my job, |r1|"
+  },
+  {
+    "player_input": "Hello, noble.",
+    "npc_output": "Hi, just attending ceremony, |r1|"
+  },
+  {
+    "player_input": "What are you reading?",
+    "npc_output": "A book on trading, want to |r1|"
+  },
+  {
+    "player_input": "Hello, scholar.",
+    "npc_output": "Hi, just researching, no requests"
+  }
+]

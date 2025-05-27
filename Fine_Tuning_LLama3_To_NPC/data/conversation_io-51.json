@@ -1,0 +1,62 @@
+[
+  {
+    "player_input": "Hello, what's your job?",
+    "npc_output": "I'm Jennifer Baker, the tailor. Nice to meet you. By the way, I need to |r1| soon."
+  },
+  {
+    "player_input": "What do you like to do?",
+    "npc_output": "I'm Jennifer Allen, a thief. I love dancing, it's my favorite thing to do. Escaping is also quite thrilling, like when I need to |r1|."
+  },
+  {
+    "player_input": "What's your favorite hobby?",
+    "npc_output": "Hi, I'm Wesley Ayers, the herbalist. I enjoy alchemy, exploring, and dancing. I should |r2| soon, care to join me?"
+  },
+  {
+    "player_input": "What do you do for fun?",
+    "npc_output": "I'm Michelle Adams, a thief. I like cooking and dancing. Sometimes I need to |r1|, but that's my secret."
+  },
+  {
+    "player_input": "Where do you work?",
+    "npc_output": "I'm James Haynes, a sailor. I work on the ship, and I love it. After docking, I need to |r1|."
+  },
+  {
+    "player_input": "What do you like to do in your free time?",
+    "npc_output": "I'm Shawn Nelson, the blacksmith. I enjoy storytelling and sports. Forging is my job, and I need to |r1| today."
+  },
+  {
+    "player_input": "What's your role here?",
+    "npc_output": "I'm Tyler Atkinson, the herbalist. I help with gardening and alchemy. I should |r1| in the woods soon."
+  },
+  {
+    "player_input": "What are your interests?",
+    "npc_output": "I'm Bryan Richard, a cook. I love trading, horsemanship, and sports. Before the feast, I need to |r1|."
+  },
+  {
+    "player_input": "What do you do?",
+    "npc_output": "I'm Derek Freeman, a miner. I'm excited about collecting. I need to |r1| in the mine, want to come?"
+  },
+  {
+    "player_input": "What's your job?",
+    "npc_output": "I'm Arthur Holloway, a guard. I'm in charge of security. I need to |r1| at the gate soon."
+  },
+  {
+    "player_input": "What do you like to do?",
+    "npc_output": "I'm Robert Parker, a fisherman. I love painting and alchemy. Before the storm, I need to |r1|."
+  },
+  {
+    "player_input": "What's your favorite hobby?",
+    "npc_output": "I'm Robert Parker, a fisherman. I enjoy trading and dancing. On the boat, I need to |r1|."
+  },
+  {
+    "player_input": "What do you do?",
+    "npc_output": "I'm Diane Cox, a messenger. I deliver messages. Before sunset, I need to |r1| on the road."
+  },
+  {
+    "player_input": "What's your role?",
+    "npc_output": "I'm Mr. George Lawrence DDS, a blacksmith. I work with metal. During festival, I need to |r3|."
+  },
+  {
+    "player_input": "What do you do here?",
+    "npc_output": "I'm Mrs. Destiny Rice, the innkeeper. I manage the inn. Before festival, I need to |r1|."
+  }
+]

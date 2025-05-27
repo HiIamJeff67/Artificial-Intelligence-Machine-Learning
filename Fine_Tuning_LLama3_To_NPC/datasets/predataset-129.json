@@ -1,0 +1,567 @@
+[
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "51",
+      "name": "Gary Johnson",
+      "role": "scholar",
+      "moods": [
+        "hopeful",
+        "neutral",
+        "tired"
+      ],
+      "interests": [
+        "trading",
+        "fishing",
+        "farming",
+        "gardening",
+        "horsemanship"
+      ],
+      "playerRelationship": "73",
+      "gender": "male",
+      "personalities": [
+        "outgoing",
+        "moody"
+      ],
+      "requests": [
+        "Teach the learned study at night",
+        "Research the diligent manuscript at night",
+        "Record the diligent library in the library",
+        "Write the innovative library after lecture",
+        "Read the thoughtful research at night",
+        "Debate the diligent knowledge before exam",
+        "Read the reserved manuscript during study",
+        "Record the diligent knowledge before exam"
+      ]
+    },
+    "environment_informations": {
+      "weather": "sunny",
+      "time": "at dusk"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "25",
+      "name": "Karen Garcia",
+      "role": "messenger",
+      "moods": [
+        "sad",
+        "happy",
+        "excited"
+      ],
+      "interests": [
+        "sports"
+      ],
+      "playerRelationship": "76",
+      "gender": "female",
+      "personalities": [
+        "impatient",
+        "meticulous"
+      ],
+      "requests": [
+        "Report the punctual scroll before sunset",
+        "Announce the quick delivery before sunset",
+        "Notify the trusted route during rain",
+        "Travel the urgent scroll after delivery",
+        "Announce the swift scroll before sunset",
+        "Deliver the swift parcel at dawn",
+        "Deliver the swift errand at dawn",
+        "Deliver the reliable message before sunset",
+        "Report the discreet route after delivery",
+        "Announce the urgent letter on the road",
+        "Report the swift route during rain"
+      ]
+    },
+    "environment_informations": {
+      "weather": "foggy",
+      "time": "at dawn"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "48",
+      "name": "Jeanette Grant",
+      "role": "merchant",
+      "moods": [
+        "neutral",
+        "happy",
+        "tired"
+      ],
+      "interests": [
+        "hunting",
+        "farming",
+        "horsemanship"
+      ],
+      "playerRelationship": "25",
+      "gender": "female",
+      "personalities": [
+        "friendly",
+        "skeptical",
+        "pragmatic",
+        "dreamy"
+      ],
+      "requests": [
+        "Trade the valuable trade on the road",
+        "Buy the foreign spice during festival",
+        "Haggle the exotic spice in the city",
+        "Bargain the rare market on the road",
+        "Trade the exotic caravan during festival",
+        "Sell the expensive market during festival",
+        "Trade the cheap goods during festival"
+      ]
+    },
+    "environment_informations": {
+      "weather": "cloudy",
+      "time": "at dawn"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "15",
+      "name": "Cynthia Green",
+      "role": "hunter",
+      "moods": [
+        "sad",
+        "anxious"
+      ],
+      "interests": [
+        "meditation",
+        "music"
+      ],
+      "playerRelationship": "65",
+      "gender": "male",
+      "personalities": [
+        "faithful",
+        "materialistic"
+      ],
+      "requests": [
+        "Trap the silent animal after rain",
+        "Track the rugged arrow before sunset",
+        "Shoot the rugged bow after rain",
+        "Track the sharp-eyed trap at dawn"
+      ]
+    },
+    "environment_informations": {
+      "weather": "drizzle",
+      "time": "at midnight"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "41",
+      "name": "Andrea Yu",
+      "role": "farmer",
+      "moods": [
+        "hopeful"
+      ],
+      "interests": [
+        "fishing",
+        "sports"
+      ],
+      "playerRelationship": "42",
+      "gender": "male",
+      "personalities": [
+        "pessimistic"
+      ],
+      "requests": [
+        "Sow the fresh soil at the field",
+        "Sow the bountiful soil after sunrise",
+        "Plant the abundant soil after sunrise",
+        "Plant the ripe barn after sunrise",
+        "Weed the green barn in the morning",
+        "Tend the healthy plow during harvest",
+        "Plant the healthy plow after sunrise",
+        "Plant the muddy crop at the field"
+      ]
+    },
+    "environment_informations": {
+      "weather": "cloudy",
+      "time": "at dusk"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "72",
+      "name": "Scott Griffith",
+      "role": "farmer",
+      "moods": [
+        "tired",
+        "excited"
+      ],
+      "interests": [
+        "storytelling",
+        "crafting",
+        "exploring",
+        "farming"
+      ],
+      "playerRelationship": "76",
+      "gender": "female",
+      "personalities": [
+        "reserved",
+        "outgoing",
+        "reckless",
+        "pragmatic"
+      ],
+      "requests": [
+        "Sow the bountiful soil after sunrise",
+        "Sow the muddy seed at the field",
+        "Water the ripe seed during harvest",
+        "Plant the muddy crop at the field",
+        "Sow the abundant plow in the morning",
+        "Water the fertile soil at the field",
+        "Plant the muddy barn at the field",
+        "Plant the fresh field in the morning",
+        "Tend the abundant harvest at the field",
+        "Weed the ripe seed at the field",
+        "Water the healthy seed in the morning",
+        "Water the fresh barn after sunrise",
+        "Water the bountiful seed after sunrise"
+      ]
+    },
+    "environment_informations": {
+      "weather": "drizzle",
+      "time": "before sunrise"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "40",
+      "name": "Melanie Fisher",
+      "role": "beggar",
+      "moods": [
+        "neutral"
+      ],
+      "interests": [
+        "meditation",
+        "cooking",
+        "alchemy",
+        "horsemanship"
+      ],
+      "playerRelationship": "88",
+      "gender": "male",
+      "personalities": [
+        "faithful"
+      ],
+      "requests": []
+    },
+    "environment_informations": {
+      "weather": "windy",
+      "time": "after sunset"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "95",
+      "name": "Veronica Austin",
+      "role": "stable master",
+      "moods": [
+        "curious",
+        "bored",
+        "excited"
+      ],
+      "interests": [
+        "reading",
+        "horsemanship"
+      ],
+      "playerRelationship": "61",
+      "gender": "female",
+      "personalities": [
+        "shy",
+        "romantic",
+        "humble",
+        "calculating"
+      ],
+      "requests": [
+        "Stable the tidy bridle at dawn",
+        "Feed the tidy saddle after feeding",
+        "Stable the strong hay in the stable",
+        "Groom the patient hay during rain",
+        "Lead the reliable horse before race",
+        "Train the experienced groom before race",
+        "Clean the tidy stable in the stable",
+        "Groom the strong stall in the stable",
+        "Saddle the tidy saddle in the stable",
+        "Clean the patient hay during rain",
+        "Lead the reliable hoof in the stable",
+        "Saddle the reliable groom at dawn",
+        "Train the reliable stall before race",
+        "Clean the skilled hoof after feeding",
+        "Stable the tidy groom before race"
+      ]
+    },
+    "environment_informations": {
+      "weather": "foggy",
+      "time": "during the festival"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "78",
+      "name": "Mitchell Fernandez",
+      "role": "carpenter",
+      "moods": [
+        "anxious",
+        "happy"
+      ],
+      "interests": [
+        "painting"
+      ],
+      "playerRelationship": "1",
+      "gender": "male",
+      "personalities": [
+        "arrogant",
+        "stubborn"
+      ],
+      "requests": []
+    },
+    "environment_informations": {
+      "weather": "sunny",
+      "time": "after sunset"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "3",
+      "name": "Edward Lee DVM",
+      "role": "sailor",
+      "moods": [
+        "curious",
+        "excited",
+        "hopeful"
+      ],
+      "interests": [
+        "gardening",
+        "hunting",
+        "music",
+        "painting",
+        "dancing"
+      ],
+      "playerRelationship": "34",
+      "gender": "male",
+      "personalities": [
+        "protective",
+        "playful",
+        "meticulous"
+      ],
+      "requests": [
+        "Anchor the restless harbor on the ship",
+        "Repair the weathered ship on the ship"
+      ]
+    },
+    "environment_informations": {
+      "weather": "rainy",
+      "time": "at dusk"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "51",
+      "name": "Gary Johnson",
+      "role": "scholar",
+      "moods": [
+        "hopeful",
+        "neutral",
+        "tired"
+      ],
+      "interests": [
+        "trading",
+        "fishing",
+        "farming",
+        "gardening",
+        "horsemanship"
+      ],
+      "playerRelationship": "73",
+      "gender": "male",
+      "personalities": [
+        "outgoing",
+        "moody"
+      ],
+      "requests": [
+        "Teach the learned study at night",
+        "Research the diligent manuscript at night",
+        "Record the diligent library in the library",
+        "Write the innovative library after lecture",
+        "Read the thoughtful research at night",
+        "Debate the diligent knowledge before exam",
+        "Read the reserved manuscript during study",
+        "Record the diligent knowledge before exam"
+      ]
+    },
+    "environment_informations": {
+      "weather": "hail",
+      "time": "before sunrise"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "20",
+      "name": "Hannah Cruz",
+      "role": "sailor",
+      "moods": [
+        "curious",
+        "neutral"
+      ],
+      "interests": [
+        "music",
+        "alchemy",
+        "painting",
+        "reading"
+      ],
+      "playerRelationship": "40",
+      "gender": "male",
+      "personalities": [
+        "indecisive",
+        "jealous",
+        "humble",
+        "greedy",
+        "forgiving"
+      ],
+      "requests": [
+        "Repair the rowdy storm during storm",
+        "Unload the strong rope on the ship",
+        "Navigate the strong map after docking",
+        "Load the restless map at the harbor",
+        "Load the strong storm before voyage"
+      ]
+    },
+    "environment_informations": {
+      "weather": "cloudy",
+      "time": "in the evening"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "59",
+      "name": "Ariana Hardin",
+      "role": "scholar",
+      "moods": [
+        "excited"
+      ],
+      "interests": [
+        "cooking",
+        "farming"
+      ],
+      "playerRelationship": "71",
+      "gender": "male",
+      "personalities": [
+        "romantic",
+        "ambitious",
+        "forgiving",
+        "greedy",
+        "reserved"
+      ],
+      "requests": []
+    },
+    "environment_informations": {
+      "weather": "drizzle",
+      "time": "after sunset"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "3",
+      "name": "Edward Lee DVM",
+      "role": "sailor",
+      "moods": [
+        "curious",
+        "excited",
+        "hopeful"
+      ],
+      "interests": [
+        "gardening",
+        "hunting",
+        "music",
+        "painting",
+        "dancing"
+      ],
+      "playerRelationship": "34",
+      "gender": "male",
+      "personalities": [
+        "protective",
+        "playful",
+        "meticulous"
+      ],
+      "requests": [
+        "Anchor the restless harbor on the ship",
+        "Repair the weathered ship on the ship"
+      ]
+    },
+    "environment_informations": {
+      "weather": "sunny",
+      "time": "after sunset"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "63",
+      "name": "April Gonzalez",
+      "role": "cook",
+      "moods": [
+        "angry",
+        "anxious"
+      ],
+      "interests": [
+        "dancing",
+        "crafting",
+        "gambling",
+        "music",
+        "cooking"
+      ],
+      "playerRelationship": "48",
+      "gender": "male",
+      "personalities": [
+        "faithful",
+        "timid",
+        "materialistic"
+      ],
+      "requests": [
+        "Season the crispy dessert before feast",
+        "Cook the savory dessert after market",
+        "Prepare the fresh meal during festival",
+        "Season the sweet dessert at noon",
+        "Prepare the spicy ingredient after market",
+        "Chop the crispy recipe during festival",
+        "Chop the sweet feast during festival",
+        "Bake the sweet meal before feast",
+        "Prepare the tasty kitchen at noon",
+        "Serve the hot bread in the kitchen",
+        "Prepare the crispy meal after market",
+        "Cook the spicy dessert before feast",
+        "Prepare the crispy kitchen after market"
+      ]
+    },
+    "environment_informations": {
+      "weather": "foggy",
+      "time": "during the festival"
+    },
+    "npc_output": ""
+  }
+]

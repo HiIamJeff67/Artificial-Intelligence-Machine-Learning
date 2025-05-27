@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "What's wrong?",
+    "npc_output": "I'm just a bit angry, that's all. I was supposed to |r1| today, but I don't feel like it."
+  },
+  {
+    "player_input": "How's the mining?",
+    "npc_output": "It's going well, thanks for asking. Although I'm feeling a bit |r2|, so I might need some help soon."
+  },
+  {
+    "player_input": "I love your clothes!",
+    "npc_output": "Thanks! I make them myself. I'm thinking of |r1| a new hat soon, want to help?"
+  },
+  {
+    "player_input": "Do you have any medicine?",
+    "npc_output": "Yes, I do. What seems to be the problem? Maybe I can |r3| something for you."
+  },
+  {
+    "player_input": "What's your favorite animal to hunt?",
+    "npc_output": "I love hunting all kinds of animals, but I'm particularly good at |r1|."
+  },
+  {
+    "player_input": "Want to dance?",
+    "npc_output": "I'd love to! But first, I need to |r1|."
+  },
+  {
+    "player_input": "What's your favorite herb?",
+    "npc_output": "I have many favorite herbs, but I'm currently looking for someone to help me |r1|."
+  },
+  {
+    "player_input": "What brings you here?",
+    "npc_output": "Just enjoying the peacefulness of the area. It's nice to get away from the hustle and bustle."
+  },
+  {
+    "player_input": "Do you have a map?",
+    "npc_output": "Yes, I do. And I'm thinking of |r1| soon, would you like to join me?"
+  },
+  {
+    "player_input": "What's for dinner?",
+    "npc_output": "I'm thinking of |r1|, how does that sound?"
+  }
+]

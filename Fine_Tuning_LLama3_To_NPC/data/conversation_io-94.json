@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "What's wrong?",
+    "npc_output": "I am feeling a bit tired and curious, maybe you can help me with |r1|, growing the healing plant during spring?"
+  },
+  {
+    "player_input": "How's business?",
+    "npc_output": "Hopeful, thanks for asking! I've been thinking about selling the expensive market during festival, |r1|."
+  },
+  {
+    "player_input": "Need help?",
+    "npc_output": "Angry and upset, I need someone to heal the holy faith during ceremony, will you |r1|?"
+  },
+  {
+    "player_input": "Morning!",
+    "npc_output": "It's a beautiful sunny day! As a fool, I'd love to amuse the witty prank during parade, care to join me in |r1|?"
+  },
+  {
+    "player_input": "anything new?",
+    "npc_output": "Anxious about the stormy weather, I was thinking of cursing the dark broom in the woods, |r1|, would you like to help?"
+  },
+  {
+    "player_input": "Hi, how's it going?",
+    "npc_output": "Anxious, but I have a task, to repair the smooth house during construction, can you assist me with |r1|?"
+  },
+  {
+    "player_input": "Beautiful day!",
+    "npc_output": "Isn't it? I'm feeling curious and was thinking of growing the medicinal herb in the woods, |r1|, want to lend a hand?"
+  },
+  {
+    "player_input": "How are you?",
+    "npc_output": "Curious and peaceful, I've been meditating, and I need help with hexing the strange ritual at midnight, |r1|."
+  },
+  {
+    "player_input": "What's up?",
+    "npc_output": "Happy and hopeful, just need to carry the punctual parcel at dawn, can I get your help with |r1|?"
+  },
+  {
+    "player_input": "Hi",
+    "npc_output": "Angry, but I'll get over it, no requests for now."
+  }
+]

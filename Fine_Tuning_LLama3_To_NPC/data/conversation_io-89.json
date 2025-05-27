@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "What's your profession?",
+    "npc_output": "I'm a thief, nice to meet you."
+  },
+  {
+    "player_input": "What's the weather like?",
+    "npc_output": "It's sunny, perfect for delivering messages, |r1|."
+  },
+  {
+    "player_input": "What do you like to do?",
+    "npc_output": "I enjoy storytelling, it's so much fun."
+  },
+  {
+    "player_input": "What's your job?",
+    "npc_output": "I'm a blacksmith, I melt and forge metals, |r1|."
+  },
+  {
+    "player_input": "Who are you?",
+    "npc_output": "I'm the queen, and I host beautiful courts, |r1|."
+  },
+  {
+    "player_input": "How are you?",
+    "npc_output": "I'm a bit angry, but I'll heal you if you're hurt, |r1|."
+  },
+  {
+    "player_input": "What do you do?",
+    "npc_output": "I'm a carpenter, I build and repair houses, |r1|."
+  },
+  {
+    "player_input": "What's your role?",
+    "npc_output": "I'm a priest, and I'm here to help you."
+  },
+  {
+    "player_input": "What do you like?",
+    "npc_output": "I'm a carpenter, and I love painting in my free time."
+  },
+  {
+    "player_input": "Who is this?",
+    "npc_output": "I'm the fool, and I jest and mock for fun, |r1|."
+  }
+]

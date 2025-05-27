@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "What's your job?",
+    "npc_output": "I'm a thief, nice to meet you."
+  },
+  {
+    "player_input": "How's the weather?",
+    "npc_output": "It's rainy, not the best for stealing."
+  },
+  {
+    "player_input": "Do you like your job?",
+    "npc_output": "Honestly, I'm feeling a bit anxious today."
+  },
+  {
+    "player_input": "Want to trade?",
+    "npc_output": "I'm not really in the mood for trading at midnight."
+  },
+  {
+    "player_input": "Going to the festival?",
+    "npc_output": "Yes, I'm planning to track some prey during the festival, |r1|."
+  },
+  {
+    "player_input": "Like the weather?",
+    "npc_output": "Not really, this hail is terrible."
+  },
+  {
+    "player_input": "What's your favorite thing to do?",
+    "npc_output": "I enjoy fishing and sports, but I have to sow the soil at the field soon, |r1|."
+  },
+  {
+    "player_input": "What do you like to collect?",
+    "npc_output": "I'm excited about collecting, and I might search the dusty tunnel in the mine later, |r1|."
+  },
+  {
+    "player_input": "Need anything?",
+    "npc_output": "Actually, I'd love to attend the proud debt in the city, |r1|."
+  },
+  {
+    "player_input": "How's your day?",
+    "npc_output": "It's foggy, but I have to travel the urgent scroll after delivery, |r1|."
+  }
+]

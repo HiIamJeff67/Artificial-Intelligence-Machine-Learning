@@ -1,0 +1,62 @@
+[
+  {
+    "player_input": "Hello, what's wrong?",
+    "npc_output": "Oh, I'm just worried about the storm, can you |r2|?"
+  },
+  {
+    "player_input": "What are you doing?",
+    "npc_output": "I'm trying to |r1|, but it's not going well."
+  },
+  {
+    "player_input": "Need help?",
+    "npc_output": "Yes, please |r3|."
+  },
+  {
+    "player_input": "Catch anything?",
+    "npc_output": "Not yet, but I hope to |r1| soon."
+  },
+  {
+    "player_input": "Delivering something?",
+    "npc_output": "Yes, I need to |r1| before sunset."
+  },
+  {
+    "player_input": "What's that plant?",
+    "npc_output": "It's a medicinal plant, I need to |r1|."
+  },
+  {
+    "player_input": "Your Majesty...",
+    "npc_output": "Ah, yes, I need to |r1| at the palace."
+  },
+  {
+    "player_input": "Your Majesty...",
+    "npc_output": "Yes, I must |r1| during council."
+  },
+  {
+    "player_input": "Need help with a dress?",
+    "npc_output": "Actually, I need to |r1|."
+  },
+  {
+    "player_input": "What's your latest project?",
+    "npc_output": "I'm working on a new outfit, but I need to |r1|."
+  },
+  {
+    "player_input": "How's business?",
+    "npc_output": "It's been slow, but I hope to |r1| soon."
+  },
+  {
+    "player_input": "What are you researching?",
+    "npc_output": "I'm studying alchemy, and I need to |r1|."
+  },
+  {
+    "player_input": "Find anything valuable?",
+    "npc_output": "Not yet, but I hope to |r1|."
+  },
+  {
+    "player_input": "Need help with a patient?",
+    "npc_output": "Yes, please |r1|."
+  },
+  {
+    "player_input": "What's the special tonight?",
+    "npc_output": "We have a festive banquet, and I need to |r1|."
+  }
+]

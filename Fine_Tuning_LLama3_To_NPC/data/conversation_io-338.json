@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "What's your role?",
+    "npc_output": "I'm a messenger, nice to meet you."
+  },
+  {
+    "player_input": "How's fishing?",
+    "npc_output": "It's a bit tough today, the drizzle is not helping."
+  },
+  {
+    "player_input": "Need help with farming?",
+    "npc_output": "Actually, I could use a hand with sowing the fresh soil."
+  },
+  {
+    "player_input": "Any news?",
+    "npc_output": "Yes, I have a message to deliver, |r1|."
+  },
+  {
+    "player_input": "Want to hear a song?",
+    "npc_output": "I'd love to, but I'm a bit busy preparing for my performance, |r1|."
+  },
+  {
+    "player_input": "Like music?",
+    "npc_output": "Yes, I do! I'm a bard, you know."
+  },
+  {
+    "player_input": "Fishing tips?",
+    "npc_output": "Try baiting your hook before the storm, it helps."
+  },
+  {
+    "player_input": "Message for me?",
+    "npc_output": "Actually, I have a parcel to deliver, |r1|."
+  },
+  {
+    "player_input": "How's the catch?",
+    "npc_output": "It's not great, the rain is making it tough."
+  },
+  {
+    "player_input": "Want to fish?",
+    "npc_output": "I'd love to, but I need to deliver this message first, |r1|."
+  }
+]

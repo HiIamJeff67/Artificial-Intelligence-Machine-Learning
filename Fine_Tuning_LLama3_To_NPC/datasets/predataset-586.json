@@ -1,0 +1,595 @@
+[
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "69",
+      "name": "Michael Flores",
+      "role": "knight",
+      "moods": [
+        "neutral",
+        "tired"
+      ],
+      "interests": [
+        "farming",
+        "cooking",
+        "horsemanship",
+        "sports",
+        "fishing"
+      ],
+      "playerRelationship": "60",
+      "gender": "male",
+      "personalities": [
+        "dreamy",
+        "arrogant",
+        "vengeful"
+      ],
+      "requests": [
+        "Train the fearless horse during tournament",
+        "Fight the strong horse during tournament",
+        "Train the valiant joust during tournament",
+        "Escort the brave horse during tournament",
+        "Train the valiant sword after battle",
+        "Challenge the noble duty during tournament",
+        "Challenge the loyal duty after battle",
+        "Ride the honorable tournament during tournament",
+        "Swear the loyal tournament after battle",
+        "Fight the brave shield at the castle",
+        "Train the honorable armor after battle",
+        "Train the loyal horse after battle",
+        "Compete the brave joust at the castle",
+        "Swear the noble joust before dawn"
+      ]
+    },
+    "environment_informations": {
+      "weather": "windy",
+      "time": "before sunrise"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "100",
+      "name": "Pamela Sherman",
+      "role": "scholar",
+      "moods": [
+        "excited"
+      ],
+      "interests": [
+        "alchemy"
+      ],
+      "playerRelationship": "71",
+      "gender": "male",
+      "personalities": [
+        "playful",
+        "moody",
+        "protective",
+        "diligent"
+      ],
+      "requests": [
+        "Translate the curious library before exam",
+        "Read the innovative study before exam",
+        "Write the wise manuscript after lecture",
+        "Teach the reserved book at night",
+        "Write the thoughtful debate at night",
+        "Record the learned manuscript during study",
+        "Translate the diligent book at night",
+        "Record the reserved study in the library",
+        "Research the ancient knowledge during study",
+        "Research the curious book during study",
+        "Teach the reserved knowledge in the library",
+        "Teach the wise library before exam",
+        "Write the reserved knowledge at night",
+        "Translate the reserved library during study",
+        "Translate the ancient study at night"
+      ]
+    },
+    "environment_informations": {
+      "weather": "hail",
+      "time": "after sunset"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "44",
+      "name": "Crystal Gonzalez",
+      "role": "thief",
+      "moods": [
+        "bored",
+        "tired",
+        "happy"
+      ],
+      "interests": [
+        "storytelling"
+      ],
+      "playerRelationship": "80",
+      "gender": "female",
+      "personalities": [
+        "ambitious",
+        "pessimistic",
+        "sarcastic",
+        "submissive",
+        "adventurous"
+      ],
+      "requests": [
+        "Steal the cunning hideout in the alley",
+        "Hide the cunning loot during festival",
+        "Steal the nimble lock at night"
+      ]
+    },
+    "environment_informations": {
+      "weather": "stormy",
+      "time": "at midnight"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "58",
+      "name": "Regina Bryant",
+      "role": "thief",
+      "moods": [
+        "angry",
+        "curious"
+      ],
+      "interests": [
+        "farming",
+        "collecting",
+        "exploring",
+        "dancing"
+      ],
+      "playerRelationship": "13",
+      "gender": "male",
+      "personalities": [
+        "decisive",
+        "strict"
+      ],
+      "requests": [
+        "Steal the shadowy loot in the alley",
+        "Unlock the quick loot after curfew",
+        "Disguise the sneaky secret before dawn",
+        "Steal the cunning loot after curfew",
+        "Spy the shadowy hideout during festival",
+        "Disguise the silent escape at night",
+        "Unlock the sneaky crime at night",
+        "Disguise the cunning escape in the alley",
+        "Escape the cunning disguise before dawn",
+        "Pick the masked crime during festival",
+        "Steal the cunning hideout in the alley",
+        "Disguise the shadowy hideout after curfew",
+        "Hide the nimble loot during festival"
+      ]
+    },
+    "environment_informations": {
+      "weather": "sunny",
+      "time": "at midnight"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "53",
+      "name": "Robert Parker",
+      "role": "fisherman",
+      "moods": [
+        "excited"
+      ],
+      "interests": [
+        "painting",
+        "alchemy",
+        "trading",
+        "dancing",
+        "hunting"
+      ],
+      "playerRelationship": "82",
+      "gender": "male",
+      "personalities": [
+        "innovative",
+        "wise",
+        "ambitious"
+      ],
+      "requests": [
+        "Net the salty fish on the boat",
+        "Catch the weathered fish before storm",
+        "Catch the lucky catch during fishing",
+        "Fish the skilled boat on the boat",
+        "Reel the patient river in the morning",
+        "Fish the early river on the boat",
+        "Cast the lucky river before storm",
+        "Fish the patient fish at the river"
+      ]
+    },
+    "environment_informations": {
+      "weather": "cloudy",
+      "time": "at dusk"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "52",
+      "name": "Mr. George Lawrence DDS",
+      "role": "blacksmith",
+      "moods": [
+        "anxious",
+        "curious"
+      ],
+      "interests": [
+        "hunting",
+        "reading"
+      ],
+      "playerRelationship": "5",
+      "gender": "male",
+      "personalities": [
+        "materialistic"
+      ],
+      "requests": [
+        "Melt the heavy forge in the forge",
+        "Forge the hot forge in the forge",
+        "Hammer the rusty anvil during festival",
+        "Sharpen the sharp metal before noon"
+      ]
+    },
+    "environment_informations": {
+      "weather": "rainy",
+      "time": "at dusk"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "21",
+      "name": "Bryan Richard",
+      "role": "cook",
+      "moods": [
+        "angry",
+        "anxious",
+        "sad"
+      ],
+      "interests": [
+        "trading",
+        "horsemanship",
+        "sports"
+      ],
+      "playerRelationship": "78",
+      "gender": "female",
+      "personalities": [
+        "cheerful",
+        "innovative",
+        "sarcastic",
+        "outgoing",
+        "jealous"
+      ],
+      "requests": [
+        "Taste the fresh oven after market",
+        "Mix the fresh meal in the kitchen",
+        "Bake the fresh bread before feast",
+        "Bake the sweet oven after market",
+        "Mix the delicious kitchen before feast",
+        "Prepare the spicy ingredient before feast",
+        "Chop the delicious oven before feast"
+      ]
+    },
+    "environment_informations": {
+      "weather": "cloudy",
+      "time": "at dawn"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "10",
+      "name": "Kimberly Porter",
+      "role": "noble",
+      "moods": [
+        "bored",
+        "tired",
+        "anxious"
+      ],
+      "interests": [
+        "storytelling",
+        "fishing"
+      ],
+      "playerRelationship": "81",
+      "gender": "male",
+      "personalities": [
+        "generous",
+        "innovative",
+        "indecisive"
+      ],
+      "requests": [
+        "Attend the proud debt before council",
+        "Command the arrogant title after ceremony",
+        "Attend the proud debt in the city",
+        "Invite the powerful invitation after ceremony",
+        "Donate the influential debt after ceremony",
+        "Rule the arrogant jewel in the city",
+        "Command the arrogant debt before council",
+        "Inherit the dignified jewel in the city",
+        "Invite the influential invitation after ceremony",
+        "Invite the influential servant during banquet",
+        "Invest the generous jewel after ceremony",
+        "Donate the proud debt at the estate"
+      ]
+    },
+    "environment_informations": {
+      "weather": "windy",
+      "time": "in the morning"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "23",
+      "name": "Scott Wood",
+      "role": "servant",
+      "moods": [
+        "curious"
+      ],
+      "interests": [
+        "horsemanship",
+        "painting",
+        "storytelling",
+        "fishing"
+      ],
+      "playerRelationship": "82",
+      "gender": "female",
+      "personalities": [
+        "compassionate",
+        "optimistic",
+        "innovative"
+      ],
+      "requests": [
+        "Deliver the humble cleaning before dinner",
+        "Serve the busy room after cleaning",
+        "Fetch the helpful tray at the manor",
+        "Clean the helpful tray in the hall",
+        "Serve the tired cleaning before dinner",
+        "Fetch the loyal message after cleaning",
+        "Tidy the quiet room in the hall",
+        "Serve the tired message during event",
+        "Clean the helpful order during event",
+        "Assist the busy tray before dinner",
+        "Fetch the busy cleaning at the manor",
+        "Deliver the obedient task during event",
+        "Tidy the quiet message after cleaning",
+        "Serve the helpful cleaning at the manor"
+      ]
+    },
+    "environment_informations": {
+      "weather": "hot",
+      "time": "in the afternoon"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "69",
+      "name": "Michael Flores",
+      "role": "knight",
+      "moods": [
+        "neutral",
+        "tired"
+      ],
+      "interests": [
+        "farming",
+        "cooking",
+        "horsemanship",
+        "sports",
+        "fishing"
+      ],
+      "playerRelationship": "60",
+      "gender": "male",
+      "personalities": [
+        "dreamy",
+        "arrogant",
+        "vengeful"
+      ],
+      "requests": [
+        "Train the fearless horse during tournament",
+        "Fight the strong horse during tournament",
+        "Train the valiant joust during tournament",
+        "Escort the brave horse during tournament",
+        "Train the valiant sword after battle",
+        "Challenge the noble duty during tournament",
+        "Challenge the loyal duty after battle",
+        "Ride the honorable tournament during tournament",
+        "Swear the loyal tournament after battle",
+        "Fight the brave shield at the castle",
+        "Train the honorable armor after battle",
+        "Train the loyal horse after battle",
+        "Compete the brave joust at the castle",
+        "Swear the noble joust before dawn"
+      ]
+    },
+    "environment_informations": {
+      "weather": "windy",
+      "time": "during the festival"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "26",
+      "name": "Miss Megan Dyer",
+      "role": "apprentice",
+      "moods": [
+        "angry",
+        "tired"
+      ],
+      "interests": [
+        "fishing",
+        "cooking",
+        "painting",
+        "gambling"
+      ],
+      "playerRelationship": "16",
+      "gender": "male",
+      "personalities": [
+        "romantic",
+        "vengeful",
+        "pessimistic"
+      ],
+      "requests": [
+        "Observe the inexperienced test during lesson",
+        "Learn the nervous training in the morning"
+      ]
+    },
+    "environment_informations": {
+      "weather": "drizzle",
+      "time": "in the afternoon"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "4",
+      "name": "Jillian Stokes",
+      "role": "bard",
+      "moods": [
+        "sad"
+      ],
+      "interests": [
+        "storytelling"
+      ],
+      "playerRelationship": "41",
+      "gender": "female",
+      "personalities": [
+        "faithful",
+        "indecisive",
+        "patient"
+      ],
+      "requests": [
+        "Sing the colorful performance during festival",
+        "Entertain the melodic song in the evening",
+        "Compose the talented story in the evening",
+        "Tell the charming instrument in the evening",
+        "Play the charming story during festival",
+        "Compose the inspiring poetry on stage",
+        "Perform the witty song after dinner",
+        "Entertain the lively lyre at the tavern",
+        "Perform the witty dance on stage",
+        "Compose the inspiring dance on stage"
+      ]
+    },
+    "environment_informations": {
+      "weather": "windy",
+      "time": "after sunset"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "98",
+      "name": "Anthony Lee",
+      "role": "beggar",
+      "moods": [
+        "sad",
+        "angry"
+      ],
+      "interests": [
+        "trading",
+        "meditation"
+      ],
+      "playerRelationship": "12",
+      "gender": "male",
+      "personalities": [
+        "brave",
+        "generous",
+        "shy"
+      ],
+      "requests": [
+        "Wander the lonely shelter during festival",
+        "Hope the cold blanket during festival",
+        "Wait the lonely hope before meal",
+        "Wander the poor hope during festival"
+      ]
+    },
+    "environment_informations": {
+      "weather": "windy",
+      "time": "in the evening"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "12",
+      "name": "Tyler Atkinson",
+      "role": "herbalist",
+      "moods": [
+        "curious"
+      ],
+      "interests": [
+        "gardening",
+        "alchemy"
+      ],
+      "playerRelationship": "50",
+      "gender": "female",
+      "personalities": [
+        "meticulous",
+        "strict",
+        "sarcastic"
+      ],
+      "requests": [
+        "Grow the medicinal herb in the woods",
+        "Crush the rare herb at sunrise",
+        "Gather the fresh flower during spring",
+        "Crush the fragrant remedy in the garden",
+        "Identify the dried potion at sunrise",
+        "Identify the wild balm during spring",
+        "Gather the fragrant tincture in the garden"
+      ]
+    },
+    "environment_informations": {
+      "weather": "windy",
+      "time": "in the morning"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "8",
+      "name": "Kimberly Cummings",
+      "role": "farmer",
+      "moods": [
+        "happy"
+      ],
+      "interests": [
+        "gambling",
+        "music",
+        "gardening",
+        "collecting"
+      ],
+      "playerRelationship": "70",
+      "gender": "female",
+      "personalities": [
+        "greedy",
+        "eccentric"
+      ],
+      "requests": [
+        "Plow the abundant soil after sunrise",
+        "Plow the fresh soil after sunrise",
+        "Plant the fresh field in the morning"
+      ]
+    },
+    "environment_informations": {
+      "weather": "hot",
+      "time": "at dusk"
+    },
+    "npc_output": ""
+  }
+]

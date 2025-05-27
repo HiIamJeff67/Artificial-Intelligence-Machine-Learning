@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "What's your favorite hobby?",
+    "npc_output": "I enjoy dancing, it's so much fun! |r1|"
+  },
+  {
+    "player_input": "How's the weather?",
+    "npc_output": "It's quite windy before sunrise, I need to heal the holy altar on holy day."
+  },
+  {
+    "player_input": "Want to go for a walk?",
+    "npc_output": "I'd love to, but I have to hex the strange ritual at midnight"
+  },
+  {
+    "player_input": "What do you like to do?",
+    "npc_output": "I'm interested in horsemanship, but I don't have any requests for you"
+  },
+  {
+    "player_input": "Are you excited?",
+    "npc_output": "Yes, I am! I need to net the salty fish on the boat"
+  },
+  {
+    "player_input": "What's your job?",
+    "npc_output": "I'm a blacksmith, I have to temper the strong anvil at the market"
+  },
+  {
+    "player_input": "Do you need help?",
+    "npc_output": "Please fetch the loyal errand before dinner"
+  },
+  {
+    "player_input": "How's fishing?",
+    "npc_output": "It's going well, I caught the skilled boat during fishing"
+  },
+  {
+    "player_input": "What's new?",
+    "npc_output": "Not much, I need to notify the discreet parcel on the road"
+  },
+  {
+    "player_input": "Want to trade?",
+    "npc_output": "Sure, I'd like to trade the valuable trade on the road"
+  }
+]

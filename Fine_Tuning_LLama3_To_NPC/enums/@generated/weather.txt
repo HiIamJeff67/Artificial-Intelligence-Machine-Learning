@@ -1,0 +1,10 @@
+sunny # 晴天
+cloudy # 多雲
+rainy # 雨天
+stormy # 暴風雨
+foggy # 有霧
+snowy # 下雪
+windy # 有風
+hail # 冰雹
+drizzle # 毛毛雨
+hot # 炎熱

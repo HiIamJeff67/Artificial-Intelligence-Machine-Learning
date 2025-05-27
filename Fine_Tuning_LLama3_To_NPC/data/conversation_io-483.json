@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "What's your role?",
+    "npc_output": "I'm a noble, nice to meet you."
+  },
+  {
+    "player_input": "How's it going?",
+    "npc_output": "It's going well, thanks for asking."
+  },
+  {
+    "player_input": "What do you like to do?",
+    "npc_output": "I enjoy farming, it's my passion."
+  },
+  {
+    "player_input": "What's your name?",
+    "npc_output": "My name is Kimberly Cummings, nice to meet you."
+  },
+  {
+    "player_input": "What brings you here?",
+    "npc_output": "Just attending to some noble duties, |r1|."
+  },
+  {
+    "player_input": "How's your day?",
+    "npc_output": "It's been a productive day, thanks for asking."
+  },
+  {
+    "player_input": "What are you studying?",
+    "npc_output": "I'm researching an ancient debate, |r1|."
+  },
+  {
+    "player_input": "Need any help?",
+    "npc_output": "Actually, I could use some assistance with |r2|."
+  },
+  {
+    "player_input": "What's your profession?",
+    "npc_output": "I'm a merchant, I buy and sell goods."
+  },
+  {
+    "player_input": "What's new with you?",
+    "npc_output": "Not much, just running some errands, |r1|."
+  }
+]

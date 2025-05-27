@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "What's for breakfast?",
+    "npc_output": "I was thinking of baking some fresh bread, would you like to help me? |r3|"
+  },
+  {
+    "player_input": "What's the plan for tonight?",
+    "npc_output": "I was thinking of playing a prank on the king, want to join me? |r1|"
+  },
+  {
+    "player_input": "Do you need any help?",
+    "npc_output": "Actually, I need someone to help me heal the holy faith during ceremony, will you assist me? |r1|"
+  },
+  {
+    "player_input": "What's going on?",
+    "npc_output": "Not much, just preparing for the ceremony, I need to conduct the holy prayer during ceremony, care to join me? |r3|"
+  },
+  {
+    "player_input": "Want to go fishing?",
+    "npc_output": "I'd love to, but first I need to cast the salty fish during fishing, want to help? |r1|"
+  },
+  {
+    "player_input": "What brings you here?",
+    "npc_output": "Just navigating the adventurous ship after docking, it's a lot of work, but someone's gotta do it |r2|"
+  },
+  {
+    "player_input": "Need any help with cleaning?",
+    "npc_output": "Actually, I could use someone to help me deliver the humble cleaning before dinner, would you be so kind? |r1|"
+  },
+  {
+    "player_input": "What's your favorite song?",
+    "npc_output": "I love singing the colorful performance during festival, it's always a crowd pleaser, want to hear me sing? |r1|"
+  },
+  {
+    "player_input": "Want to go fishing?",
+    "npc_output": "I was thinking of catching the early catch before storm, want to join me? |r1|"
+  },
+  {
+    "player_input": "What's the plan for tonight?",
+    "npc_output": "I was thinking of stealing the shadowy loot in the alley, but it's not safe, maybe some other time |r1|"
+  }
+]

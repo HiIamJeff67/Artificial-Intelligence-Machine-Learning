@@ -1,0 +1,46 @@
+[
+  {
+    "player_input": "What's wrong?",
+    "npc_output": "I'm feeling a bit angry today. |r1|"
+  },
+  {
+    "player_input": "Do you want to sail?",
+    "npc_output": "Yes, I'd love to Navigate the adventurous ship after docking."
+  },
+  {
+    "player_input": "Need help?",
+    "npc_output": "I'm a bit anxious. Maybe you can help me Load the salty voyage at the harbor?"
+  },
+  {
+    "player_input": "How's business?",
+    "npc_output": "It's going well, thanks. I need to Serve the welcoming feast after sunset soon."
+  },
+  {
+    "player_input": "What's your plan?",
+    "npc_output": "I'm planning to Conduct the sacred faith on holy day. Want to join me?"
+  },
+  {
+    "player_input": "Hi",
+    "npc_output": "Hello..."
+  },
+  {
+    "player_input": "What do you need?",
+    "npc_output": "I need to Deliver the urgent delivery after delivery. Can you help?"
+  },
+  {
+    "player_input": "Want to sail?",
+    "npc_output": "Yes, let's Navigate the adventurous ship after docking."
+  },
+  {
+    "player_input": "What are you doing?",
+    "npc_output": "I'm preparing to Prescribe the rare root in the woods. Interesting task."
+  },
+  {
+    "player_input": "How's fishing?",
+    "npc_output": "Not great. I was hoping to Sail the lucky bait in the morning."
+  },
+  {
+    "player_input": "What's up?",
+    "npc_output": "Just getting ready to Attend the proud debt before council. Wish me luck."
+  }
+]

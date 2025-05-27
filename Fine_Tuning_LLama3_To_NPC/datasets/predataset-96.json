@@ -1,0 +1,573 @@
+[
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "24",
+      "name": "Robert Thomas",
+      "role": "witch",
+      "moods": [
+        "anxious"
+      ],
+      "interests": [
+        "gambling",
+        "meditation",
+        "storytelling",
+        "exploring",
+        "sports"
+      ],
+      "playerRelationship": "43",
+      "gender": "female",
+      "personalities": [
+        "compassionate"
+      ],
+      "requests": [
+        "Curse the dark broom in the woods",
+        "Summon the strange charm before dawn",
+        "Mix the secretive curse in the woods",
+        "Enchant the secretive spell at midnight",
+        "Cast the secretive ritual during ritual",
+        "Predict the dark herb after storm",
+        "Hex the wise broom at midnight",
+        "Brew the wise ritual in the woods",
+        "Summon the cunning broom during ritual",
+        "Predict the secretive spell before dawn",
+        "Predict the strange spell in the woods",
+        "Cast the dark charm before dawn",
+        "Mix the mysterious broom in the woods",
+        "Brew the strange herb during ritual"
+      ]
+    },
+    "environment_informations": {
+      "weather": "windy",
+      "time": "at midnight"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "41",
+      "name": "Andrea Yu",
+      "role": "farmer",
+      "moods": [
+        "hopeful"
+      ],
+      "interests": [
+        "fishing",
+        "sports"
+      ],
+      "playerRelationship": "42",
+      "gender": "male",
+      "personalities": [
+        "pessimistic"
+      ],
+      "requests": [
+        "Sow the fresh soil at the field",
+        "Sow the bountiful soil after sunrise",
+        "Plant the abundant soil after sunrise",
+        "Plant the ripe barn after sunrise",
+        "Weed the green barn in the morning",
+        "Tend the healthy plow during harvest",
+        "Plant the healthy plow after sunrise",
+        "Plant the muddy crop at the field"
+      ]
+    },
+    "environment_informations": {
+      "weather": "hot",
+      "time": "at noon"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "49",
+      "name": "Andrew Williams",
+      "role": "tailor",
+      "moods": [
+        "angry",
+        "sad"
+      ],
+      "interests": [
+        "fishing",
+        "horsemanship"
+      ],
+      "playerRelationship": "61",
+      "gender": "male",
+      "personalities": [
+        "curious",
+        "pessimistic",
+        "tactful",
+        "protective",
+        "patient"
+      ],
+      "requests": [
+        "Embroider the stylish outfit before festival",
+        "Stitch the fitted pattern after delivery",
+        "Sew the fitted fashion during fitting",
+        "Sew the fashionable needle after delivery",
+        "Sew the fine fabric after delivery",
+        "Mend the fashionable thread during fitting",
+        "Cut the fine fabric during fitting"
+      ]
+    },
+    "environment_informations": {
+      "weather": "windy",
+      "time": "in the morning"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "9",
+      "name": "Diane Cox",
+      "role": "messenger",
+      "moods": [
+        "happy",
+        "curious",
+        "excited"
+      ],
+      "interests": [
+        "alchemy",
+        "sports",
+        "horsemanship"
+      ],
+      "playerRelationship": "53",
+      "gender": "male",
+      "personalities": [
+        "blunt",
+        "authoritative",
+        "compassionate"
+      ],
+      "requests": [
+        "Notify the discreet parcel on the road",
+        "Notify the swift parcel at dawn",
+        "Fetch the quick scroll before sunset",
+        "Notify the swift message before sunset",
+        "Carry the tireless letter during rain",
+        "Announce the urgent letter before sunset",
+        "Deliver the urgent delivery after delivery",
+        "Announce the quick parcel before sunset",
+        "Report the punctual scroll on the road",
+        "Deliver the swift errand at dawn"
+      ]
+    },
+    "environment_informations": {
+      "weather": "windy",
+      "time": "in the afternoon"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "10",
+      "name": "Kimberly Porter",
+      "role": "noble",
+      "moods": [
+        "bored",
+        "tired",
+        "anxious"
+      ],
+      "interests": [
+        "storytelling",
+        "fishing"
+      ],
+      "playerRelationship": "81",
+      "gender": "male",
+      "personalities": [
+        "generous",
+        "innovative",
+        "indecisive"
+      ],
+      "requests": [
+        "Attend the proud debt before council",
+        "Command the arrogant title after ceremony",
+        "Attend the proud debt in the city",
+        "Invite the powerful invitation after ceremony",
+        "Donate the influential debt after ceremony",
+        "Rule the arrogant jewel in the city",
+        "Command the arrogant debt before council",
+        "Inherit the dignified jewel in the city",
+        "Invite the influential invitation after ceremony",
+        "Invite the influential servant during banquet",
+        "Invest the generous jewel after ceremony",
+        "Donate the proud debt at the estate"
+      ]
+    },
+    "environment_informations": {
+      "weather": "windy",
+      "time": "at dawn"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "91",
+      "name": "Noah Mann",
+      "role": "innkeeper",
+      "moods": [
+        "tired",
+        "angry"
+      ],
+      "interests": [
+        "crafting",
+        "trading"
+      ],
+      "playerRelationship": "98",
+      "gender": "female",
+      "personalities": [
+        "stubborn",
+        "faithful",
+        "sarcastic",
+        "eccentric"
+      ],
+      "requests": [
+        "Prepare the festive banquet after sunset",
+        "Host the cozy music after sunset",
+        "Cook the clean parade before festival"
+      ]
+    },
+    "environment_informations": {
+      "weather": "hot",
+      "time": "in the morning"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "20",
+      "name": "Hannah Cruz",
+      "role": "sailor",
+      "moods": [
+        "curious",
+        "neutral"
+      ],
+      "interests": [
+        "music",
+        "alchemy",
+        "painting",
+        "reading"
+      ],
+      "playerRelationship": "40",
+      "gender": "male",
+      "personalities": [
+        "indecisive",
+        "jealous",
+        "humble",
+        "greedy",
+        "forgiving"
+      ],
+      "requests": [
+        "Repair the rowdy storm during storm",
+        "Unload the strong rope on the ship",
+        "Navigate the strong map after docking",
+        "Load the restless map at the harbor",
+        "Load the strong storm before voyage"
+      ]
+    },
+    "environment_informations": {
+      "weather": "cloudy",
+      "time": "at noon"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "59",
+      "name": "Ariana Hardin",
+      "role": "scholar",
+      "moods": [
+        "excited"
+      ],
+      "interests": [
+        "cooking",
+        "farming"
+      ],
+      "playerRelationship": "71",
+      "gender": "male",
+      "personalities": [
+        "romantic",
+        "ambitious",
+        "forgiving",
+        "greedy",
+        "reserved"
+      ],
+      "requests": []
+    },
+    "environment_informations": {
+      "weather": "hot",
+      "time": "in the morning"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "30",
+      "name": "Sarah Ruiz",
+      "role": "tailor",
+      "moods": [
+        "happy",
+        "sad",
+        "hopeful"
+      ],
+      "interests": [
+        "exploring",
+        "storytelling",
+        "farming"
+      ],
+      "playerRelationship": "16",
+      "gender": "female",
+      "personalities": [
+        "innovative",
+        "ambitious",
+        "eccentric",
+        "dreamy"
+      ],
+      "requests": [
+        "Mend the elegant outfit in the shop",
+        "Design the embroidered fashion during fitting",
+        "Embroider the fitted fabric in the shop",
+        "Fit the elegant hat at noon",
+        "Design the fashionable needle during fitting",
+        "Cut the fashionable fashion before festival",
+        "Cut the elegant thread at noon",
+        "Mend the fine needle after delivery"
+      ]
+    },
+    "environment_informations": {
+      "weather": "drizzle",
+      "time": "in the afternoon"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "95",
+      "name": "Veronica Austin",
+      "role": "stable master",
+      "moods": [
+        "curious",
+        "bored",
+        "excited"
+      ],
+      "interests": [
+        "reading",
+        "horsemanship"
+      ],
+      "playerRelationship": "61",
+      "gender": "female",
+      "personalities": [
+        "shy",
+        "romantic",
+        "humble",
+        "calculating"
+      ],
+      "requests": [
+        "Stable the tidy bridle at dawn",
+        "Feed the tidy saddle after feeding",
+        "Stable the strong hay in the stable",
+        "Groom the patient hay during rain",
+        "Lead the reliable horse before race",
+        "Train the experienced groom before race",
+        "Clean the tidy stable in the stable",
+        "Groom the strong stall in the stable",
+        "Saddle the tidy saddle in the stable",
+        "Clean the patient hay during rain",
+        "Lead the reliable hoof in the stable",
+        "Saddle the reliable groom at dawn",
+        "Train the reliable stall before race",
+        "Clean the skilled hoof after feeding",
+        "Stable the tidy groom before race"
+      ]
+    },
+    "environment_informations": {
+      "weather": "windy",
+      "time": "at dawn"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "64",
+      "name": "Gary Payne",
+      "role": "fool",
+      "moods": [
+        "tired"
+      ],
+      "interests": [
+        "collecting"
+      ],
+      "playerRelationship": "62",
+      "gender": "male",
+      "personalities": [
+        "protective",
+        "compassionate"
+      ],
+      "requests": [
+        "Tease the silly mask at the festival",
+        "Entertain the cheerful prank after joke",
+        "Amuse the clumsy mask during parade",
+        "Joke the witty mask after joke",
+        "Joke the funny prank in the square",
+        "Dance the funny joke after joke",
+        "Jest the witty trick after joke",
+        "Tease the cheerful mask during parade",
+        "Prank the cheerful jest before sunset",
+        "Dance the cheerful trick at the festival",
+        "Amuse the funny prank after joke",
+        "Amuse the clumsy festival during parade",
+        "Prank the silly jest in the square",
+        "Mock the colorful joke after joke",
+        "Dance the playful joke at the festival"
+      ]
+    },
+    "environment_informations": {
+      "weather": "snowy",
+      "time": "during the festival"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "40",
+      "name": "Melanie Fisher",
+      "role": "beggar",
+      "moods": [
+        "neutral"
+      ],
+      "interests": [
+        "meditation",
+        "cooking",
+        "alchemy",
+        "horsemanship"
+      ],
+      "playerRelationship": "88",
+      "gender": "male",
+      "personalities": [
+        "faithful"
+      ],
+      "requests": []
+    },
+    "environment_informations": {
+      "weather": "rainy",
+      "time": "in the morning"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "88",
+      "name": "Sarah Simmons",
+      "role": "farmer",
+      "moods": [
+        "sad",
+        "anxious"
+      ],
+      "interests": [
+        "magic",
+        "crafting",
+        "sports",
+        "dancing"
+      ],
+      "playerRelationship": "67",
+      "gender": "female",
+      "personalities": [
+        "timid"
+      ],
+      "requests": [
+        "Plant the healthy vegetable during harvest",
+        "Weed the healthy soil before rain",
+        "Water the bountiful barn after sunrise"
+      ]
+    },
+    "environment_informations": {
+      "weather": "snowy",
+      "time": "in the evening"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "50",
+      "name": "Melissa Burns",
+      "role": "miner",
+      "moods": [
+        "curious"
+      ],
+      "interests": [
+        "hunting",
+        "cooking"
+      ],
+      "playerRelationship": "32",
+      "gender": "female",
+      "personalities": [
+        "submissive"
+      ],
+      "requests": [
+        "Descend the deep helmet during shift",
+        "Explore the dangerous helmet during shift",
+        "Search the dark mine during shift",
+        "Mine the rocky mine at dawn",
+        "Extract the dusty cart in the mine",
+        "Dig the dark helmet at dawn"
+      ]
+    },
+    "environment_informations": {
+      "weather": "drizzle",
+      "time": "after sunset"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "19",
+      "name": "Kathryn Bradford",
+      "role": "noble",
+      "moods": [
+        "bored"
+      ],
+      "interests": [
+        "horsemanship",
+        "magic",
+        "meditation",
+        "trading",
+        "hunting"
+      ],
+      "playerRelationship": "66",
+      "gender": "female",
+      "personalities": [
+        "reckless",
+        "patient",
+        "materialistic"
+      ],
+      "requests": [
+        "Attend the proud debt in the city",
+        "Command the arrogant invitation during banquet",
+        "Command the proud servant before council",
+        "Host the refined debt before council",
+        "Invite the powerful debt at the estate",
+        "Invite the wealthy invitation during banquet",
+        "Rule the powerful invitation at the estate",
+        "Donate the generous servant before council",
+        "Donate the wealthy land before council"
+      ]
+    },
+    "environment_informations": {
+      "weather": "hot",
+      "time": "before sunrise"
+    },
+    "npc_output": ""
+  }
+]

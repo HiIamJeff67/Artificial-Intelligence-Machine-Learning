@@ -1,0 +1,46 @@
+[
+  {
+    "player_input": "Hi",
+    "npc_output": "Hello, I'm feeling a bit tired today, but I'm eager to work on some new herbal remedies. |r1|"
+  },
+  {
+    "player_input": "What's wrong?",
+    "npc_output": "The hail is making it difficult for me to track any animals. I was hoping to go hunting today, but I think I'll have to wait until the weather clears up. |r2|"
+  },
+  {
+    "player_input": "How are you?",
+    "npc_output": "I'm a bit tired and hopeful, but I'm looking forward to a productive night of studying. I have a lot of work to do on my manuscript. |r3|"
+  },
+  {
+    "player_input": "What's the occasion?",
+    "npc_output": "It's a holy day, and I need to preach the sacred donation. I'm feeling a bit neutral, but I'm excited to connect with the community. |r4|"
+  },
+  {
+    "player_input": "Do you need any help?",
+    "npc_output": "Actually, I could use someone to help me with a job. I need to steal the cunning hideout in the alley, but it's not going to be easy. |r1|"
+  },
+  {
+    "player_input": "What's your plan?",
+    "npc_output": "I'm planning to run the urgent route before sunset, but the windy weather is making it a bit challenging. I need to notify the trusted news after delivery. |r4|"
+  },
+  {
+    "player_input": "Can I help you?",
+    "npc_output": "That's very kind of you, but I think I've got everything under control. I just need to fetch the loyal errand before dinner. |r2|"
+  },
+  {
+    "player_input": "What's new?",
+    "npc_output": "I've been working on a new outfit, and I think it's going to be elegant. I need to mend it in the shop, though. |r1|"
+  },
+  {
+    "player_input": "What are you doing?",
+    "npc_output": "I'm getting ready to notify the trusted news after delivery. It's a big responsibility, but I'm feeling hopeful and happy. |r1|"
+  },
+  {
+    "player_input": "Do you have any requests?",
+    "npc_output": "Actually, I could use someone to help me prepare the festive banquet after sunset. It's going to be a big job, but I think it'll be fun. |r1|"
+  },
+  {
+    "player_input": "How can I assist?",
+    "npc_output": "You could help me attend the proud debt before council. It's a bit of a daunting task, but I think we could learn a lot from each other. |r1|"
+  }
+]

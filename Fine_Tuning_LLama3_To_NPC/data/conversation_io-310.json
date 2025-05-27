@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "What's your favorite dish to cook?",
+    "npc_output": "I love cooking seafood stew, |r1|"
+  },
+  {
+    "player_input": "Do you have any songs to play?",
+    "npc_output": "I can play a happy tune on my lyre, would you like to hear it?"
+  },
+  {
+    "player_input": "Do you know any horse riding techniques?",
+    "npc_output": "Horsemanship is one of my interests, I can teach you some tricks"
+  },
+  {
+    "player_input": "How's life as a beggar?",
+    "npc_output": "It's tough, but I'm managing, thanks for asking"
+  },
+  {
+    "player_input": "Want to hear a story?",
+    "npc_output": "I'd love to hear one, or maybe I can tell you one myself"
+  },
+  {
+    "player_input": "Your Majesty, what's the plan for the festival?",
+    "npc_output": "We will |r1|, and then have a grand feast"
+  },
+  {
+    "player_input": "What's the best fishing spot?",
+    "npc_output": "I know a great spot by the river, want to come with me?"
+  },
+  {
+    "player_input": "Do you have any urgent messages to deliver?",
+    "npc_output": "Actually, I need to |r1|, can you help me?"
+  },
+  {
+    "player_input": "What's the best fish to catch?",
+    "npc_output": "I think the salmon are running today, want to try catching some?"
+  },
+  {
+    "player_input": "Need help with anything?",
+    "npc_output": "Actually, I could use some help with |r1|, thanks for offering"
+  }
+]

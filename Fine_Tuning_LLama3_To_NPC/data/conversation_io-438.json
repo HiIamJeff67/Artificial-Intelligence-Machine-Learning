@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "What's your message?",
+    "npc_output": "I have a |r1| to deliver before sunrise, can you help me?"
+  },
+  {
+    "player_input": "What are you doing?",
+    "npc_output": "Just planning to |r1|, want to join me?"
+  },
+  {
+    "player_input": "Need help?",
+    "npc_output": "I'm just waiting for |r3|, thanks for asking."
+  },
+  {
+    "player_input": "What's the ceremony about?",
+    "npc_output": "It's for |r2|, would you like to participate?"
+  },
+  {
+    "player_input": "Play something for me",
+    "npc_output": "How about |r5|, my favorite?"
+  },
+  {
+    "player_input": "What's for lunch?",
+    "npc_output": "I was thinking of |r1|, care to learn?"
+  },
+  {
+    "player_input": "Welcome to the inn!",
+    "npc_output": "Thanks, I need to |r2| before the festival."
+  },
+  {
+    "player_input": "What's the plan?",
+    "npc_output": "I'm thinking of |r2| during the festival."
+  },
+  {
+    "player_input": "What's brewing?",
+    "npc_output": "Just |r10|, want to take a look?"
+  },
+  {
+    "player_input": "What's the festival about?",
+    "npc_output": "It's for |r9|, come join us!"
+  }
+]

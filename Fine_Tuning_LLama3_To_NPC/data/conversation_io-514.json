@@ -1,0 +1,62 @@
+[
+  {
+    "player_input": "What's the weather like today?",
+    "npc_output": "It's stormy outside, not the best time for farming, but I was thinking of |r1|, if you're willing to help."
+  },
+  {
+    "player_input": "How's work?",
+    "npc_output": "It's going well, just got back from a mining shift, and I was thinking of exploring the mine, but the storm outside is making me hesitant, maybe I'll |r2| instead."
+  },
+  {
+    "player_input": "Nice to meet you, what do you do?",
+    "npc_output": "I'm a hunter, and I'm feeling a bit down today, the rain is making it hard to track any animals, but I was planning to |r1| after the rain passes."
+  },
+  {
+    "player_input": "What are your hobbies?",
+    "npc_output": "I enjoy cooking and farming, but as a scholar, I don't have much time for them, maybe one day I'll have a garden of my own."
+  },
+  {
+    "player_input": "Do you need any help?",
+    "npc_output": "Actually, I do, as a healer, I have a lot of work to do, especially during this snowy weather, I need to |r1|, would you be able to assist me?"
+  },
+  {
+    "player_input": "How's the mine?",
+    "npc_output": "It's been good, just found a new vein of gems, but the hot weather is making it hard to work, maybe I'll |r1| before it gets too dark."
+  },
+  {
+    "player_input": "What brings you here?",
+    "npc_output": "Just enjoying the festival, it's a great time to relax and have some fun, as a carpenter, I don't get much time off, but I'm thinking of |r1| soon."
+  },
+  {
+    "player_input": "Want to perform a song?",
+    "npc_output": "I'd love to, as a bard, it's my passion, and I have a new song to share, maybe I'll |r1| on stage later tonight."
+  },
+  {
+    "player_input": "Going fishing?",
+    "npc_output": "Yes, the festival is a great time to catch some fish, and I was thinking of |r1|, but the hail is making it a bit difficult."
+  },
+  {
+    "player_input": "Do you have any messages?",
+    "npc_output": "Actually, I do, as a messenger, it's my job to deliver news, and I have an urgent message to deliver, I need to |r1| before sunrise."
+  },
+  {
+    "player_input": "How's the farm?",
+    "npc_output": "It's going well, just need to make sure the wind doesn't damage any of the crops, as a knight, I also need to make sure the castle is secure, maybe I'll |r1| later."
+  },
+  {
+    "player_input": "What are you studying?",
+    "npc_output": "I'm studying alchemy, it's fascinating, and I'm thinking of |r1|, but I need to make sure I have all the right ingredients."
+  },
+  {
+    "player_input": "Want to hunt?",
+    "npc_output": "I'd love to, but it's a bit early, and I need to make sure I have the right equipment, maybe I'll |r2| later."
+  },
+  {
+    "player_input": "Need any help begging?",
+    "npc_output": "No, I'm fine, just enjoying the festival, as a beggar, it's not easy, but I'm managing, thanks for asking."
+  },
+  {
+    "player_input": "What's your experiment?",
+    "npc_output": "I'm trying to distill a new formula, it's a bit tricky, but I think I can |r1|, if I just get the ingredients right."
+  }
+]

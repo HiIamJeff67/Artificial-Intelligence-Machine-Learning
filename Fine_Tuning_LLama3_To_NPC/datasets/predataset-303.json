@@ -1,0 +1,595 @@
+[
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "74",
+      "name": "Mrs. Madison Martinez",
+      "role": "priest",
+      "moods": [
+        "angry"
+      ],
+      "interests": [
+        "exploring",
+        "sports",
+        "crafting",
+        "fishing",
+        "collecting"
+      ],
+      "playerRelationship": "20",
+      "gender": "male",
+      "personalities": [
+        "timid",
+        "jealous"
+      ],
+      "requests": [
+        "Heal the holy faith during ceremony",
+        "Preach the faithful faith after prayer",
+        "Heal the holy faith at dawn",
+        "Conduct the holy prayer during ceremony",
+        "Forgive the faithful wedding in the temple",
+        "Conduct the faithful prayer on holy day"
+      ]
+    },
+    "environment_informations": {
+      "weather": "rainy",
+      "time": "before sunrise"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "54",
+      "name": "Mandy Silva",
+      "role": "witch",
+      "moods": [
+        "curious"
+      ],
+      "interests": [
+        "meditation"
+      ],
+      "playerRelationship": "90",
+      "gender": "female",
+      "personalities": [
+        "compassionate",
+        "forgiving"
+      ],
+      "requests": [
+        "Hex the strange ritual at midnight",
+        "Cast the strange curse after storm",
+        "Brew the cunning herb in the woods",
+        "Summon the powerful ritual at midnight",
+        "Curse the powerful curse during ritual",
+        "Predict the strange broom after storm",
+        "Predict the strange spell before dawn",
+        "Mix the strange charm during ritual",
+        "Mix the cunning ritual in the woods",
+        "Curse the ancient herb after storm"
+      ]
+    },
+    "environment_informations": {
+      "weather": "foggy",
+      "time": "at noon"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "94",
+      "name": "John Brooks",
+      "role": "hunter",
+      "moods": [
+        "sad",
+        "happy",
+        "hopeful"
+      ],
+      "interests": [
+        "collecting"
+      ],
+      "playerRelationship": "23",
+      "gender": "female",
+      "personalities": [
+        "wise",
+        "reckless",
+        "pragmatic"
+      ],
+      "requests": [
+        "Track the skilled prey in the forest",
+        "Camp the patient fur before sunset",
+        "Ambush the stealthy fur at dawn",
+        "Shoot the sharp-eyed trap in the forest",
+        "Track the wild bow in the forest",
+        "Hunt the sharp-eyed camp before sunset",
+        "Skin the skilled bow at dawn",
+        "Track the rugged arrow before sunset",
+        "Camp the skilled prey in the forest",
+        "Trap the silent animal after rain",
+        "Stalk the sharp-eyed camp after rain",
+        "Ambush the patient fur at dawn",
+        "Camp the quick arrow before sunset",
+        "Skin the skilled arrow at dawn"
+      ]
+    },
+    "environment_informations": {
+      "weather": "cloudy",
+      "time": "at noon"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "70",
+      "name": "Shawn Nelson",
+      "role": "blacksmith",
+      "moods": [
+        "curious",
+        "excited",
+        "neutral"
+      ],
+      "interests": [
+        "storytelling",
+        "sports",
+        "alchemy"
+      ],
+      "playerRelationship": "31",
+      "gender": "male",
+      "personalities": [
+        "friendly",
+        "generous",
+        "compassionate"
+      ],
+      "requests": [
+        "Temper the strong anvil at the market",
+        "Sharpen the sharp anvil at the market",
+        "Forge the hot shield after battle",
+        "Melt the hot armor at the market",
+        "Hammer the heavy anvil in the forge",
+        "Forge the strong armor during festival",
+        "Forge the rusty weapon during festival",
+        "Hammer the hot forge during festival",
+        "Hammer the sharp forge at the market"
+      ]
+    },
+    "environment_informations": {
+      "weather": "snowy",
+      "time": "after sunset"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "77",
+      "name": "John Miller",
+      "role": "bard",
+      "moods": [
+        "happy"
+      ],
+      "interests": [
+        "cooking",
+        "sports"
+      ],
+      "playerRelationship": "63",
+      "gender": "female",
+      "personalities": [
+        "materialistic",
+        "playful",
+        "cheerful"
+      ],
+      "requests": [
+        "Recite the witty instrument during festival",
+        "Play the creative dance after dinner",
+        "Tell the charming performance at the tavern",
+        "Perform the lively story at the tavern",
+        "Play the inspiring story on stage",
+        "Compose the inspiring poetry on stage",
+        "Entertain the colorful performance at the tavern",
+        "Dance the charming lyre at the tavern",
+        "Play the charming story during festival",
+        "Recite the melodic music on stage",
+        "Dance the inspiring instrument at the tavern",
+        "Play the lively instrument after dinner",
+        "Sing the talented story on stage",
+        "Perform the witty song after dinner",
+        "Play the colorful story during festival"
+      ]
+    },
+    "environment_informations": {
+      "weather": "foggy",
+      "time": "in the afternoon"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "4",
+      "name": "Jillian Stokes",
+      "role": "bard",
+      "moods": [
+        "sad"
+      ],
+      "interests": [
+        "storytelling"
+      ],
+      "playerRelationship": "41",
+      "gender": "female",
+      "personalities": [
+        "faithful",
+        "indecisive",
+        "patient"
+      ],
+      "requests": [
+        "Sing the colorful performance during festival",
+        "Entertain the melodic song in the evening",
+        "Compose the talented story in the evening",
+        "Tell the charming instrument in the evening",
+        "Play the charming story during festival",
+        "Compose the inspiring poetry on stage",
+        "Perform the witty song after dinner",
+        "Entertain the lively lyre at the tavern",
+        "Perform the witty dance on stage",
+        "Compose the inspiring dance on stage"
+      ]
+    },
+    "environment_informations": {
+      "weather": "cloudy",
+      "time": "at midnight"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "4",
+      "name": "Jillian Stokes",
+      "role": "bard",
+      "moods": [
+        "sad"
+      ],
+      "interests": [
+        "storytelling"
+      ],
+      "playerRelationship": "41",
+      "gender": "female",
+      "personalities": [
+        "faithful",
+        "indecisive",
+        "patient"
+      ],
+      "requests": [
+        "Sing the colorful performance during festival",
+        "Entertain the melodic song in the evening",
+        "Compose the talented story in the evening",
+        "Tell the charming instrument in the evening",
+        "Play the charming story during festival",
+        "Compose the inspiring poetry on stage",
+        "Perform the witty song after dinner",
+        "Entertain the lively lyre at the tavern",
+        "Perform the witty dance on stage",
+        "Compose the inspiring dance on stage"
+      ]
+    },
+    "environment_informations": {
+      "weather": "rainy",
+      "time": "at midnight"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "70",
+      "name": "Shawn Nelson",
+      "role": "blacksmith",
+      "moods": [
+        "curious",
+        "excited",
+        "neutral"
+      ],
+      "interests": [
+        "storytelling",
+        "sports",
+        "alchemy"
+      ],
+      "playerRelationship": "31",
+      "gender": "male",
+      "personalities": [
+        "friendly",
+        "generous",
+        "compassionate"
+      ],
+      "requests": [
+        "Temper the strong anvil at the market",
+        "Sharpen the sharp anvil at the market",
+        "Forge the hot shield after battle",
+        "Melt the hot armor at the market",
+        "Hammer the heavy anvil in the forge",
+        "Forge the strong armor during festival",
+        "Forge the rusty weapon during festival",
+        "Hammer the hot forge during festival",
+        "Hammer the sharp forge at the market"
+      ]
+    },
+    "environment_informations": {
+      "weather": "hail",
+      "time": "in the morning"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "9",
+      "name": "Diane Cox",
+      "role": "messenger",
+      "moods": [
+        "happy",
+        "curious",
+        "excited"
+      ],
+      "interests": [
+        "alchemy",
+        "sports",
+        "horsemanship"
+      ],
+      "playerRelationship": "53",
+      "gender": "male",
+      "personalities": [
+        "blunt",
+        "authoritative",
+        "compassionate"
+      ],
+      "requests": [
+        "Notify the discreet parcel on the road",
+        "Notify the swift parcel at dawn",
+        "Fetch the quick scroll before sunset",
+        "Notify the swift message before sunset",
+        "Carry the tireless letter during rain",
+        "Announce the urgent letter before sunset",
+        "Deliver the urgent delivery after delivery",
+        "Announce the quick parcel before sunset",
+        "Report the punctual scroll on the road",
+        "Deliver the swift errand at dawn"
+      ]
+    },
+    "environment_informations": {
+      "weather": "sunny",
+      "time": "at midnight"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "32",
+      "name": "Gregory Kline",
+      "role": "noble",
+      "moods": [
+        "angry",
+        "tired"
+      ],
+      "interests": [
+        "meditation",
+        "painting",
+        "dancing",
+        "alchemy",
+        "gambling"
+      ],
+      "playerRelationship": "68",
+      "gender": "female",
+      "personalities": [
+        "lazy",
+        "diligent",
+        "greedy",
+        "wise"
+      ],
+      "requests": [
+        "Donate the influential debt after ceremony",
+        "Attend the proud land after ceremony",
+        "Donate the wealthy land before council",
+        "Command the arrogant title after ceremony",
+        "Invite the proud estate before council",
+        "Donate the wealthy estate at the estate",
+        "Inherit the refined invitation before council"
+      ]
+    },
+    "environment_informations": {
+      "weather": "hot",
+      "time": "in the afternoon"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "13",
+      "name": "Shelly Montgomery",
+      "role": "alchemist",
+      "moods": [
+        "bored"
+      ],
+      "interests": [
+        "reading",
+        "magic"
+      ],
+      "playerRelationship": "21",
+      "gender": "female",
+      "personalities": [
+        "brave",
+        "lazy"
+      ],
+      "requests": [
+        "Distill the magical formula before sunrise",
+        "Brew the colorful potion during experiment",
+        "Transmute the potent formula after market",
+        "Experiment the potent elixir at midnight",
+        "Experiment the rare formula at midnight"
+      ]
+    },
+    "environment_informations": {
+      "weather": "windy",
+      "time": "at dawn"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "39",
+      "name": "James Haynes",
+      "role": "sailor",
+      "moods": [
+        "excited",
+        "neutral",
+        "angry"
+      ],
+      "interests": [
+        "alchemy",
+        "hunting"
+      ],
+      "playerRelationship": "22",
+      "gender": "female",
+      "personalities": [
+        "submissive",
+        "romantic",
+        "authoritative",
+        "patient"
+      ],
+      "requests": [
+        "Row the rowdy ship after docking",
+        "Navigate the adventurous ship after docking",
+        "Load the strong map at the harbor",
+        "Repair the skilled treasure during storm",
+        "Load the brave treasure at the harbor"
+      ]
+    },
+    "environment_informations": {
+      "weather": "rainy",
+      "time": "at midnight"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "23",
+      "name": "Scott Wood",
+      "role": "servant",
+      "moods": [
+        "curious"
+      ],
+      "interests": [
+        "horsemanship",
+        "painting",
+        "storytelling",
+        "fishing"
+      ],
+      "playerRelationship": "82",
+      "gender": "female",
+      "personalities": [
+        "compassionate",
+        "optimistic",
+        "innovative"
+      ],
+      "requests": [
+        "Deliver the humble cleaning before dinner",
+        "Serve the busy room after cleaning",
+        "Fetch the helpful tray at the manor",
+        "Clean the helpful tray in the hall",
+        "Serve the tired cleaning before dinner",
+        "Fetch the loyal message after cleaning",
+        "Tidy the quiet room in the hall",
+        "Serve the tired message during event",
+        "Clean the helpful order during event",
+        "Assist the busy tray before dinner",
+        "Fetch the busy cleaning at the manor",
+        "Deliver the obedient task during event",
+        "Tidy the quiet message after cleaning",
+        "Serve the helpful cleaning at the manor"
+      ]
+    },
+    "environment_informations": {
+      "weather": "cloudy",
+      "time": "at midnight"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "53",
+      "name": "Robert Parker",
+      "role": "fisherman",
+      "moods": [
+        "excited"
+      ],
+      "interests": [
+        "painting",
+        "alchemy",
+        "trading",
+        "dancing",
+        "hunting"
+      ],
+      "playerRelationship": "82",
+      "gender": "male",
+      "personalities": [
+        "innovative",
+        "wise",
+        "ambitious"
+      ],
+      "requests": [
+        "Net the salty fish on the boat",
+        "Catch the weathered fish before storm",
+        "Catch the lucky catch during fishing",
+        "Fish the skilled boat on the boat",
+        "Reel the patient river in the morning",
+        "Fish the early river on the boat",
+        "Cast the lucky river before storm",
+        "Fish the patient fish at the river"
+      ]
+    },
+    "environment_informations": {
+      "weather": "hail",
+      "time": "in the afternoon"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "41",
+      "name": "Andrea Yu",
+      "role": "farmer",
+      "moods": [
+        "hopeful"
+      ],
+      "interests": [
+        "fishing",
+        "sports"
+      ],
+      "playerRelationship": "42",
+      "gender": "male",
+      "personalities": [
+        "pessimistic"
+      ],
+      "requests": [
+        "Sow the fresh soil at the field",
+        "Sow the bountiful soil after sunrise",
+        "Plant the abundant soil after sunrise",
+        "Plant the ripe barn after sunrise",
+        "Weed the green barn in the morning",
+        "Tend the healthy plow during harvest",
+        "Plant the healthy plow after sunrise",
+        "Plant the muddy crop at the field"
+      ]
+    },
+    "environment_informations": {
+      "weather": "drizzle",
+      "time": "at dusk"
+    },
+    "npc_output": ""
+  }
+]

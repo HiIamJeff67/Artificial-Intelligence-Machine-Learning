@@ -1,0 +1,595 @@
+[
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "18",
+      "name": "Donald Cooper",
+      "role": "fisherman",
+      "moods": [
+        "tired"
+      ],
+      "interests": [
+        "fishing",
+        "gardening",
+        "reading",
+        "painting"
+      ],
+      "playerRelationship": "18",
+      "gender": "male",
+      "personalities": [
+        "curious",
+        "reckless",
+        "decisive",
+        "stubborn",
+        "generous"
+      ],
+      "requests": [
+        "Cast the salty fish during fishing",
+        "Catch the skilled boat during fishing",
+        "Bait the skilled bait at the river",
+        "Catch the lucky sea before storm"
+      ]
+    },
+    "environment_informations": {
+      "weather": "windy",
+      "time": "in the evening"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "4",
+      "name": "Jillian Stokes",
+      "role": "bard",
+      "moods": [
+        "sad"
+      ],
+      "interests": [
+        "storytelling"
+      ],
+      "playerRelationship": "41",
+      "gender": "female",
+      "personalities": [
+        "faithful",
+        "indecisive",
+        "patient"
+      ],
+      "requests": [
+        "Sing the colorful performance during festival",
+        "Entertain the melodic song in the evening",
+        "Compose the talented story in the evening",
+        "Tell the charming instrument in the evening",
+        "Play the charming story during festival",
+        "Compose the inspiring poetry on stage",
+        "Perform the witty song after dinner",
+        "Entertain the lively lyre at the tavern",
+        "Perform the witty dance on stage",
+        "Compose the inspiring dance on stage"
+      ]
+    },
+    "environment_informations": {
+      "weather": "hail",
+      "time": "before sunrise"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "38",
+      "name": "Cody Soto",
+      "role": "beggar",
+      "moods": [
+        "hopeful"
+      ],
+      "interests": [
+        "crafting",
+        "exploring",
+        "music"
+      ],
+      "playerRelationship": "72",
+      "gender": "female",
+      "personalities": [
+        "loyal",
+        "wise",
+        "playful",
+        "optimistic",
+        "generous"
+      ],
+      "requests": [
+        "Wait the dirty hope before meal",
+        "Wander the lonely companion in the evening",
+        "Wander the grateful companion in the evening",
+        "Ask the tired companion in the evening",
+        "Hope the dirty companion after rain",
+        "Ask the dirty corner in the evening",
+        "Wait the tired companion after rain",
+        "Wait the hungry blanket after rain",
+        "Hope the needy corner before meal",
+        "Beg the poor companion at the square",
+        "Beg the dirty food at the square",
+        "Wander the grateful shelter in the evening",
+        "Hope the poor blanket during festival",
+        "Beg the dirty blanket before meal",
+        "Hope the cold blanket during festival"
+      ]
+    },
+    "environment_informations": {
+      "weather": "snowy",
+      "time": "at dawn"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "100",
+      "name": "Pamela Sherman",
+      "role": "scholar",
+      "moods": [
+        "excited"
+      ],
+      "interests": [
+        "alchemy"
+      ],
+      "playerRelationship": "71",
+      "gender": "male",
+      "personalities": [
+        "playful",
+        "moody",
+        "protective",
+        "diligent"
+      ],
+      "requests": [
+        "Translate the curious library before exam",
+        "Read the innovative study before exam",
+        "Write the wise manuscript after lecture",
+        "Teach the reserved book at night",
+        "Write the thoughtful debate at night",
+        "Record the learned manuscript during study",
+        "Translate the diligent book at night",
+        "Record the reserved study in the library",
+        "Research the ancient knowledge during study",
+        "Research the curious book during study",
+        "Teach the reserved knowledge in the library",
+        "Teach the wise library before exam",
+        "Write the reserved knowledge at night",
+        "Translate the reserved library during study",
+        "Translate the ancient study at night"
+      ]
+    },
+    "environment_informations": {
+      "weather": "rainy",
+      "time": "at noon"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "91",
+      "name": "Noah Mann",
+      "role": "innkeeper",
+      "moods": [
+        "tired",
+        "angry"
+      ],
+      "interests": [
+        "crafting",
+        "trading"
+      ],
+      "playerRelationship": "98",
+      "gender": "female",
+      "personalities": [
+        "stubborn",
+        "faithful",
+        "sarcastic",
+        "eccentric"
+      ],
+      "requests": [
+        "Prepare the festive banquet after sunset",
+        "Host the cozy music after sunset",
+        "Cook the clean parade before festival"
+      ]
+    },
+    "environment_informations": {
+      "weather": "foggy",
+      "time": "during the festival"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "100",
+      "name": "Pamela Sherman",
+      "role": "scholar",
+      "moods": [
+        "excited"
+      ],
+      "interests": [
+        "alchemy"
+      ],
+      "playerRelationship": "71",
+      "gender": "male",
+      "personalities": [
+        "playful",
+        "moody",
+        "protective",
+        "diligent"
+      ],
+      "requests": [
+        "Translate the curious library before exam",
+        "Read the innovative study before exam",
+        "Write the wise manuscript after lecture",
+        "Teach the reserved book at night",
+        "Write the thoughtful debate at night",
+        "Record the learned manuscript during study",
+        "Translate the diligent book at night",
+        "Record the reserved study in the library",
+        "Research the ancient knowledge during study",
+        "Research the curious book during study",
+        "Teach the reserved knowledge in the library",
+        "Teach the wise library before exam",
+        "Write the reserved knowledge at night",
+        "Translate the reserved library during study",
+        "Translate the ancient study at night"
+      ]
+    },
+    "environment_informations": {
+      "weather": "drizzle",
+      "time": "after sunset"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "2",
+      "name": "Scott Vaughn",
+      "role": "witch",
+      "moods": [
+        "sad"
+      ],
+      "interests": [
+        "exploring",
+        "sports",
+        "alchemy",
+        "painting"
+      ],
+      "playerRelationship": "99",
+      "gender": "male",
+      "personalities": [
+        "materialistic",
+        "calculating",
+        "tactful"
+      ],
+      "requests": [
+        "Predict the mysterious ritual after storm",
+        "Cast the wise charm in the woods",
+        "Brew the mysterious ritual before dawn",
+        "Cast the strange curse after storm",
+        "Cast the secretive ritual during ritual",
+        "Summon the powerful spell during ritual",
+        "Predict the strange broom after storm",
+        "Predict the dark secret at midnight",
+        "Predict the strange spell in the woods",
+        "Summon the strange charm before dawn",
+        "Brew the wise ritual in the woods"
+      ]
+    },
+    "environment_informations": {
+      "weather": "hail",
+      "time": "at noon"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "44",
+      "name": "Crystal Gonzalez",
+      "role": "thief",
+      "moods": [
+        "bored",
+        "tired",
+        "happy"
+      ],
+      "interests": [
+        "storytelling"
+      ],
+      "playerRelationship": "80",
+      "gender": "female",
+      "personalities": [
+        "ambitious",
+        "pessimistic",
+        "sarcastic",
+        "submissive",
+        "adventurous"
+      ],
+      "requests": [
+        "Steal the cunning hideout in the alley",
+        "Hide the cunning loot during festival",
+        "Steal the nimble lock at night"
+      ]
+    },
+    "environment_informations": {
+      "weather": "sunny",
+      "time": "before sunrise"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "34",
+      "name": "Alyssa Kemp",
+      "role": "scholar",
+      "moods": [
+        "bored",
+        "curious"
+      ],
+      "interests": [
+        "horsemanship"
+      ],
+      "playerRelationship": "46",
+      "gender": "female",
+      "personalities": [
+        "greedy"
+      ],
+      "requests": []
+    },
+    "environment_informations": {
+      "weather": "sunny",
+      "time": "after sunset"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "5",
+      "name": "Micheal Duncan",
+      "role": "king",
+      "moods": [
+        "tired",
+        "neutral"
+      ],
+      "interests": [
+        "meditation",
+        "alchemy",
+        "hunting"
+      ],
+      "playerRelationship": "27",
+      "gender": "male",
+      "personalities": [
+        "brave",
+        "indecisive",
+        "dreamy",
+        "blunt"
+      ],
+      "requests": [
+        "Lead the powerful treasure at festival",
+        "Appoint the powerful court during council",
+        "Rule the noble kingdom during council",
+        "Rule the powerful kingdom in the morning",
+        "Summon the powerful throne in the morning",
+        "Command the just throne after victory",
+        "Rule the noble crown after victory",
+        "Decree the commanding festival in the throne room",
+        "Summon the noble law at festival",
+        "Judge the noble festival at festival",
+        "Judge the commanding court in the morning"
+      ]
+    },
+    "environment_informations": {
+      "weather": "foggy",
+      "time": "in the evening"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "3",
+      "name": "Edward Lee DVM",
+      "role": "sailor",
+      "moods": [
+        "curious",
+        "excited",
+        "hopeful"
+      ],
+      "interests": [
+        "gardening",
+        "hunting",
+        "music",
+        "painting",
+        "dancing"
+      ],
+      "playerRelationship": "34",
+      "gender": "male",
+      "personalities": [
+        "protective",
+        "playful",
+        "meticulous"
+      ],
+      "requests": [
+        "Anchor the restless harbor on the ship",
+        "Repair the weathered ship on the ship"
+      ]
+    },
+    "environment_informations": {
+      "weather": "snowy",
+      "time": "at dusk"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "67",
+      "name": "Erica Whitehead",
+      "role": "sailor",
+      "moods": [
+        "anxious"
+      ],
+      "interests": [
+        "painting",
+        "horsemanship",
+        "farming",
+        "sports"
+      ],
+      "playerRelationship": "61",
+      "gender": "female",
+      "personalities": [
+        "adventurous",
+        "submissive",
+        "moody",
+        "generous",
+        "meticulous"
+      ],
+      "requests": [
+        "Load the salty voyage at the harbor",
+        "Anchor the skilled voyage before voyage",
+        "Row the adventurous voyage before voyage",
+        "Repair the salty rope before voyage",
+        "Explore the strong storm at the harbor",
+        "Navigate the rowdy map during storm",
+        "Explore the adventurous map during storm",
+        "Anchor the weathered voyage during storm",
+        "Anchor the strong voyage at the harbor",
+        "Anchor the skilled sea after docking",
+        "Navigate the adventurous ship after docking"
+      ]
+    },
+    "environment_informations": {
+      "weather": "snowy",
+      "time": "in the morning"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "26",
+      "name": "Miss Megan Dyer",
+      "role": "apprentice",
+      "moods": [
+        "angry",
+        "tired"
+      ],
+      "interests": [
+        "fishing",
+        "cooking",
+        "painting",
+        "gambling"
+      ],
+      "playerRelationship": "16",
+      "gender": "male",
+      "personalities": [
+        "romantic",
+        "vengeful",
+        "pessimistic"
+      ],
+      "requests": [
+        "Observe the inexperienced test during lesson",
+        "Learn the nervous training in the morning"
+      ]
+    },
+    "environment_informations": {
+      "weather": "windy",
+      "time": "at noon"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "87",
+      "name": "Alexis Hess",
+      "role": "messenger",
+      "moods": [
+        "angry",
+        "hopeful",
+        "bored"
+      ],
+      "interests": [
+        "dancing",
+        "sports",
+        "collecting",
+        "gambling",
+        "gardening"
+      ],
+      "playerRelationship": "53",
+      "gender": "female",
+      "personalities": [
+        "submissive",
+        "pessimistic",
+        "vengeful",
+        "ambitious",
+        "humble"
+      ],
+      "requests": [
+        "Travel the urgent scroll after delivery",
+        "Report the discreet route after delivery",
+        "Announce the swift scroll before sunset",
+        "Deliver the punctual message after delivery",
+        "Announce the quick news at dawn",
+        "Notify the urgent scroll on the road",
+        "Run the trusted scroll at dawn",
+        "Report the punctual scroll before sunset",
+        "Report the urgent errand after delivery",
+        "Announce the tireless letter before sunset",
+        "Deliver the urgent delivery after delivery",
+        "Run the quick errand at dawn"
+      ]
+    },
+    "environment_informations": {
+      "weather": "foggy",
+      "time": "in the afternoon"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "21",
+      "name": "Bryan Richard",
+      "role": "cook",
+      "moods": [
+        "angry",
+        "anxious",
+        "sad"
+      ],
+      "interests": [
+        "trading",
+        "horsemanship",
+        "sports"
+      ],
+      "playerRelationship": "78",
+      "gender": "female",
+      "personalities": [
+        "cheerful",
+        "innovative",
+        "sarcastic",
+        "outgoing",
+        "jealous"
+      ],
+      "requests": [
+        "Taste the fresh oven after market",
+        "Mix the fresh meal in the kitchen",
+        "Bake the fresh bread before feast",
+        "Bake the sweet oven after market",
+        "Mix the delicious kitchen before feast",
+        "Prepare the spicy ingredient before feast",
+        "Chop the delicious oven before feast"
+      ]
+    },
+    "environment_informations": {
+      "weather": "foggy",
+      "time": "in the afternoon"
+    },
+    "npc_output": ""
+  }
+]

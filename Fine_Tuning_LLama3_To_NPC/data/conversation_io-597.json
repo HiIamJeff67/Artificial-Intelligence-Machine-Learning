@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "Hello, what's wrong?",
+    "npc_output": "I'm tired, |r1| is a priority now."
+  },
+  {
+    "player_input": "What news?",
+    "npc_output": "Nothing new, just delivered |r1|."
+  },
+  {
+    "player_input": "What are you researching?",
+    "npc_output": "The ancient books, need to finish |r1|."
+  },
+  {
+    "player_input": "Can you cook something?",
+    "npc_output": "I can bake some bread, but first |r1|."
+  },
+  {
+    "player_input": "What are you stealing?",
+    "npc_output": "Just some loot, for |r1|."
+  },
+  {
+    "player_input": "Can you predict something?",
+    "npc_output": "The storm will pass, after |r1|."
+  },
+  {
+    "player_input": "Want to sail?",
+    "npc_output": "Not now, I need to |r1|."
+  },
+  {
+    "player_input": "Hello, priest.",
+    "npc_output": "Hello, nothing much."
+  },
+  {
+    "player_input": "Need help with farming?",
+    "npc_output": "Yes, I need to |r1|."
+  },
+  {
+    "player_input": "Can you make a hat?",
+    "npc_output": "Yes, I'm working on |r1|."
+  }
+]

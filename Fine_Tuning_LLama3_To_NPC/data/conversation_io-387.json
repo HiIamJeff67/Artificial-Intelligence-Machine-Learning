@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "What's for lunch?",
+    "npc_output": "I'm preparing a spicy meal, would you like to try it? |r1|"
+  },
+  {
+    "player_input": "Do you have any new herbs?",
+    "npc_output": "I was just about to gather some dried balm after the rain, but it's not raining now"
+  },
+  {
+    "player_input": "I'm bored, what can I do?",
+    "npc_output": "You can help me with some crafting or we can go fishing, I heard the fish are biting"
+  },
+  {
+    "player_input": "Can you make me a new outfit?",
+    "npc_output": "I can embroider a stylish outfit for you before the festival, would you like that? |r1|"
+  },
+  {
+    "player_input": "Want to go hunting?",
+    "npc_output": "I'm not sure, I was thinking of tracking a rugged arrow before sunset, but it's not the best weather"
+  },
+  {
+    "player_input": "Do you have any dancing events coming up?",
+    "npc_output": "Actually, I was thinking of jesting a playful trick after a joke at the festival"
+  },
+  {
+    "player_input": "What's the weather like?",
+    "npc_output": "It's cloudy, I hope it clears up soon, I have to sell some expensive goods in the city"
+  },
+  {
+    "player_input": "Do you have any meditation tips?",
+    "npc_output": "I find that meditation helps me with my anxious mood, would you like to try it with me?"
+  },
+  {
+    "player_input": "Can you make me a new meal?",
+    "npc_output": "I can prepare a fresh meal during the festival, would you like that? |r3|"
+  },
+  {
+    "player_input": "Do you have any new designs?",
+    "npc_output": "I was just about to mend an elegant outfit in the shop, would you like to take a look?"
+  }
+]

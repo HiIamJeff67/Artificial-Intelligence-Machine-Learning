@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "What's the weather like today?",
+    "npc_output": "It's a stormy night, not very pleasant."
+  },
+  {
+    "player_input": "How are you feeling?",
+    "npc_output": "I'm feeling a bit anxious and sad, to be honest."
+  },
+  {
+    "player_input": "What are you doing at dawn?",
+    "npc_output": "I'm going to observe the inexperienced test during lesson, wish me luck! |r1|"
+  },
+  {
+    "player_input": "Do you have any work to do today?",
+    "npc_output": "Yes, I need to design the fine hat after delivery, it's a big order."
+  },
+  {
+    "player_input": "Are you enjoying the festival?",
+    "npc_output": "Yes, it's great! I'm thinking of trading the valuable trade on the road later."
+  },
+  {
+    "player_input": "What's your plan for the day?",
+    "npc_output": "I'm going to trade the exotic caravan during festival, hope I get a good deal."
+  },
+  {
+    "player_input": "Do you like music?",
+    "npc_output": "I love music! I'm planning to play the charming performance during festival, come watch me! |r1|"
+  },
+  {
+    "player_input": "What are you doing at the field?",
+    "npc_output": "I'm sowing the bountiful soil after sunrise, it's a lot of work."
+  },
+  {
+    "player_input": "Want to go fishing?",
+    "npc_output": "I'd love to! But first, I need to catch the wet sea at the river, wish me luck! |r1|"
+  },
+  {
+    "player_input": "What's the king's plan?",
+    "npc_output": "The king is going to lead the powerful treasure at festival, it's going to be a big event."
+  }
+]

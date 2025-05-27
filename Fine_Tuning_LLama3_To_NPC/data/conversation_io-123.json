@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "What's your role?",
+    "npc_output": "I am a bard, my music and poetry can entertain and inspire."
+  },
+  {
+    "player_input": "Do you have any requests?",
+    "npc_output": "Yes, I need you to |r2|, it's for the upcoming festival."
+  },
+  {
+    "player_input": "What's your job?",
+    "npc_output": "I'm an herbalist, I gather and prepare medicinal plants."
+  },
+  {
+    "player_input": "How's your day?",
+    "npc_output": "It's been quiet, just patrolling the gate, |r1| is my main task."
+  },
+  {
+    "player_input": "What do you do?",
+    "npc_output": "I'm a noble, I attend council meetings and manage the estate, perhaps you can help me with |r2|."
+  },
+  {
+    "player_input": "What's your role in the city?",
+    "npc_output": "I'm a messenger, I deliver important messages, like |r3|, all around the city."
+  },
+  {
+    "player_input": "What's your work?",
+    "npc_output": "I'm a fisherman, I sail and catch fish, the weather is quite bad today, |r1| might be difficult."
+  },
+  {
+    "player_input": "What do you do here?",
+    "npc_output": "I'm the stable master, I take care of the horses, |r5| is one of my responsibilities."
+  },
+  {
+    "player_input": "What's your specialty?",
+    "npc_output": "I'm an herbalist, I mix and brew potions, |r9| is one of my favorite tasks."
+  },
+  {
+    "player_input": "What's your work?",
+    "npc_output": "I'm an innkeeper, I manage the inn and prepare feasts, |r1| is what I'm doing now."
+  }
+]

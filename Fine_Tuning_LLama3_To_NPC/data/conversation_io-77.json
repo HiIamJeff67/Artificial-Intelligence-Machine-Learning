@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "Hello, what brings you here?",
+    "npc_output": "Nice to see you. I was just about to |r1|. Care to join me?"
+  },
+  {
+    "player_input": "What's the weather like today?",
+    "npc_output": "It's quite |r2|, don't you think? Perfect day for |r1|."
+  },
+  {
+    "player_input": "How's business?",
+    "npc_output": "It's been |r3|. Perhaps you'd like to |r4|?"
+  },
+  {
+    "player_input": "What do you like to do for fun?",
+    "npc_output": "In my free time, I enjoy |r5|. The |r6| is particularly lovely this time of year."
+  },
+  {
+    "player_input": "Do you like your job?",
+    "npc_output": "Yes, I do. |r7| is one of my favorite tasks. It can be quite |r8| at times, though."
+  },
+  {
+    "player_input": "How's the fishing?",
+    "npc_output": "The fish are biting well today. I was just about to |r9|. Want to come along?"
+  },
+  {
+    "player_input": "What's the mine like?",
+    "npc_output": "The mine can be |r10|. But I love |r11| and discovering new gems."
+  },
+  {
+    "player_input": "What do you trade?",
+    "npc_output": "I trade in all sorts of goods. Perhaps you're interested in |r12|?"
+  },
+  {
+    "player_input": "Do you have any medical experience?",
+    "npc_output": "Yes, I do. I'm happy to |r13| if you're feeling unwell."
+  },
+  {
+    "player_input": "Do you like your role as a messenger?",
+    "npc_output": "I love it. I get to |r14| and meet new people all the time."
+  }
+]

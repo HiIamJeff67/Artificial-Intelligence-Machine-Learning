@@ -1,0 +1,607 @@
+[
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "63",
+      "name": "April Gonzalez",
+      "role": "cook",
+      "moods": [
+        "angry",
+        "anxious"
+      ],
+      "interests": [
+        "dancing",
+        "crafting",
+        "gambling",
+        "music",
+        "cooking"
+      ],
+      "playerRelationship": "48",
+      "gender": "male",
+      "personalities": [
+        "faithful",
+        "timid",
+        "materialistic"
+      ],
+      "requests": [
+        "Season the crispy dessert before feast",
+        "Cook the savory dessert after market",
+        "Prepare the fresh meal during festival",
+        "Season the sweet dessert at noon",
+        "Prepare the spicy ingredient after market",
+        "Chop the crispy recipe during festival",
+        "Chop the sweet feast during festival",
+        "Bake the sweet meal before feast",
+        "Prepare the tasty kitchen at noon",
+        "Serve the hot bread in the kitchen",
+        "Prepare the crispy meal after market",
+        "Cook the spicy dessert before feast",
+        "Prepare the crispy kitchen after market"
+      ]
+    },
+    "environment_informations": {
+      "weather": "foggy",
+      "time": "during the festival"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "15",
+      "name": "Cynthia Green",
+      "role": "hunter",
+      "moods": [
+        "sad",
+        "anxious"
+      ],
+      "interests": [
+        "meditation",
+        "music"
+      ],
+      "playerRelationship": "65",
+      "gender": "male",
+      "personalities": [
+        "faithful",
+        "materialistic"
+      ],
+      "requests": [
+        "Trap the silent animal after rain",
+        "Track the rugged arrow before sunset",
+        "Shoot the rugged bow after rain",
+        "Track the sharp-eyed trap at dawn"
+      ]
+    },
+    "environment_informations": {
+      "weather": "hail",
+      "time": "at midnight"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "80",
+      "name": "Thomas Dixon",
+      "role": "bard",
+      "moods": [
+        "anxious",
+        "happy"
+      ],
+      "interests": [
+        "alchemy",
+        "collecting",
+        "hunting",
+        "cooking",
+        "meditation"
+      ],
+      "playerRelationship": "97",
+      "gender": "male",
+      "personalities": [
+        "blunt",
+        "cheerful",
+        "tactful",
+        "impatient",
+        "lazy"
+      ],
+      "requests": [
+        "Entertain the lively lyre on stage",
+        "Tell the lively lyre at the tavern",
+        "Perform the witty dance on stage",
+        "Tell the charming performance at the tavern",
+        "Tell the colorful lyre in the evening",
+        "Dance the colorful lyre on stage"
+      ]
+    },
+    "environment_informations": {
+      "weather": "snowy",
+      "time": "in the morning"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "32",
+      "name": "Gregory Kline",
+      "role": "noble",
+      "moods": [
+        "angry",
+        "tired"
+      ],
+      "interests": [
+        "meditation",
+        "painting",
+        "dancing",
+        "alchemy",
+        "gambling"
+      ],
+      "playerRelationship": "68",
+      "gender": "female",
+      "personalities": [
+        "lazy",
+        "diligent",
+        "greedy",
+        "wise"
+      ],
+      "requests": [
+        "Donate the influential debt after ceremony",
+        "Attend the proud land after ceremony",
+        "Donate the wealthy land before council",
+        "Command the arrogant title after ceremony",
+        "Invite the proud estate before council",
+        "Donate the wealthy estate at the estate",
+        "Inherit the refined invitation before council"
+      ]
+    },
+    "environment_informations": {
+      "weather": "snowy",
+      "time": "in the evening"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "72",
+      "name": "Scott Griffith",
+      "role": "farmer",
+      "moods": [
+        "tired",
+        "excited"
+      ],
+      "interests": [
+        "storytelling",
+        "crafting",
+        "exploring",
+        "farming"
+      ],
+      "playerRelationship": "76",
+      "gender": "female",
+      "personalities": [
+        "reserved",
+        "outgoing",
+        "reckless",
+        "pragmatic"
+      ],
+      "requests": [
+        "Sow the bountiful soil after sunrise",
+        "Sow the muddy seed at the field",
+        "Water the ripe seed during harvest",
+        "Plant the muddy crop at the field",
+        "Sow the abundant plow in the morning",
+        "Water the fertile soil at the field",
+        "Plant the muddy barn at the field",
+        "Plant the fresh field in the morning",
+        "Tend the abundant harvest at the field",
+        "Weed the ripe seed at the field",
+        "Water the healthy seed in the morning",
+        "Water the fresh barn after sunrise",
+        "Water the bountiful seed after sunrise"
+      ]
+    },
+    "environment_informations": {
+      "weather": "stormy",
+      "time": "in the morning"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "20",
+      "name": "Hannah Cruz",
+      "role": "sailor",
+      "moods": [
+        "curious",
+        "neutral"
+      ],
+      "interests": [
+        "music",
+        "alchemy",
+        "painting",
+        "reading"
+      ],
+      "playerRelationship": "40",
+      "gender": "male",
+      "personalities": [
+        "indecisive",
+        "jealous",
+        "humble",
+        "greedy",
+        "forgiving"
+      ],
+      "requests": [
+        "Repair the rowdy storm during storm",
+        "Unload the strong rope on the ship",
+        "Navigate the strong map after docking",
+        "Load the restless map at the harbor",
+        "Load the strong storm before voyage"
+      ]
+    },
+    "environment_informations": {
+      "weather": "windy",
+      "time": "in the evening"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "24",
+      "name": "Robert Thomas",
+      "role": "witch",
+      "moods": [
+        "anxious"
+      ],
+      "interests": [
+        "gambling",
+        "meditation",
+        "storytelling",
+        "exploring",
+        "sports"
+      ],
+      "playerRelationship": "43",
+      "gender": "female",
+      "personalities": [
+        "compassionate"
+      ],
+      "requests": [
+        "Curse the dark broom in the woods",
+        "Summon the strange charm before dawn",
+        "Mix the secretive curse in the woods",
+        "Enchant the secretive spell at midnight",
+        "Cast the secretive ritual during ritual",
+        "Predict the dark herb after storm",
+        "Hex the wise broom at midnight",
+        "Brew the wise ritual in the woods",
+        "Summon the cunning broom during ritual",
+        "Predict the secretive spell before dawn",
+        "Predict the strange spell in the woods",
+        "Cast the dark charm before dawn",
+        "Mix the mysterious broom in the woods",
+        "Brew the strange herb during ritual"
+      ]
+    },
+    "environment_informations": {
+      "weather": "cloudy",
+      "time": "in the afternoon"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "55",
+      "name": "Thomas Riley",
+      "role": "thief",
+      "moods": [
+        "curious",
+        "bored",
+        "sad"
+      ],
+      "interests": [
+        "storytelling",
+        "trading",
+        "collecting",
+        "meditation"
+      ],
+      "playerRelationship": "34",
+      "gender": "female",
+      "personalities": [
+        "optimistic",
+        "meticulous",
+        "decisive"
+      ],
+      "requests": [
+        "Steal the nimble lock at night",
+        "Steal the nimble mask in the alley",
+        "Pick the silent crime before dawn",
+        "Escape the quick disguise during festival",
+        "Escape the shadowy crime before dawn",
+        "Disguise the nimble hideout at night"
+      ]
+    },
+    "environment_informations": {
+      "weather": "hail",
+      "time": "before sunrise"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "57",
+      "name": "Shaun Gibson",
+      "role": "herbalist",
+      "moods": [
+        "neutral",
+        "anxious"
+      ],
+      "interests": [
+        "gambling",
+        "reading",
+        "crafting",
+        "trading",
+        "alchemy"
+      ],
+      "playerRelationship": "14",
+      "gender": "male",
+      "personalities": [
+        "adventurous",
+        "tactful",
+        "innovative",
+        "moody",
+        "blunt"
+      ],
+      "requests": [
+        "Crush the fresh herb in the woods",
+        "Dry the dried balm in the garden",
+        "Mix the bitter remedy during spring",
+        "Identify the dried plant in the woods",
+        "Identify the fresh plant in the woods",
+        "Brew the fragrant plant in the woods",
+        "Mix the medicinal herb at sunrise",
+        "Gather the wild herb after rain",
+        "Mix the fresh tincture in the garden",
+        "Grow the healing plant during spring",
+        "Crush the bitter root after rain",
+        "Mix the dried potion at sunrise",
+        "Brew the rare potion during spring",
+        "Dry the fresh remedy in the woods",
+        "Dry the medicinal plant at sunrise"
+      ]
+    },
+    "environment_informations": {
+      "weather": "drizzle",
+      "time": "after sunset"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "39",
+      "name": "James Haynes",
+      "role": "sailor",
+      "moods": [
+        "excited",
+        "neutral",
+        "angry"
+      ],
+      "interests": [
+        "alchemy",
+        "hunting"
+      ],
+      "playerRelationship": "22",
+      "gender": "female",
+      "personalities": [
+        "submissive",
+        "romantic",
+        "authoritative",
+        "patient"
+      ],
+      "requests": [
+        "Row the rowdy ship after docking",
+        "Navigate the adventurous ship after docking",
+        "Load the strong map at the harbor",
+        "Repair the skilled treasure during storm",
+        "Load the brave treasure at the harbor"
+      ]
+    },
+    "environment_informations": {
+      "weather": "hail",
+      "time": "in the morning"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "37",
+      "name": "David Weeks",
+      "role": "bard",
+      "moods": [
+        "angry",
+        "anxious"
+      ],
+      "interests": [
+        "music",
+        "dancing",
+        "reading"
+      ],
+      "playerRelationship": "62",
+      "gender": "female",
+      "personalities": [
+        "submissive",
+        "jealous"
+      ],
+      "requests": [
+        "Recite the colorful instrument after dinner",
+        "Play the charming poetry during festival",
+        "Recite the talented lyre in the evening",
+        "Recite the talented poetry after dinner",
+        "Entertain the charming song during festival",
+        "Compose the talented song on stage",
+        "Dance the witty performance on stage"
+      ]
+    },
+    "environment_informations": {
+      "weather": "rainy",
+      "time": "at midnight"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "95",
+      "name": "Veronica Austin",
+      "role": "stable master",
+      "moods": [
+        "curious",
+        "bored",
+        "excited"
+      ],
+      "interests": [
+        "reading",
+        "horsemanship"
+      ],
+      "playerRelationship": "61",
+      "gender": "female",
+      "personalities": [
+        "shy",
+        "romantic",
+        "humble",
+        "calculating"
+      ],
+      "requests": [
+        "Stable the tidy bridle at dawn",
+        "Feed the tidy saddle after feeding",
+        "Stable the strong hay in the stable",
+        "Groom the patient hay during rain",
+        "Lead the reliable horse before race",
+        "Train the experienced groom before race",
+        "Clean the tidy stable in the stable",
+        "Groom the strong stall in the stable",
+        "Saddle the tidy saddle in the stable",
+        "Clean the patient hay during rain",
+        "Lead the reliable hoof in the stable",
+        "Saddle the reliable groom at dawn",
+        "Train the reliable stall before race",
+        "Clean the skilled hoof after feeding",
+        "Stable the tidy groom before race"
+      ]
+    },
+    "environment_informations": {
+      "weather": "snowy",
+      "time": "at dusk"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "37",
+      "name": "David Weeks",
+      "role": "bard",
+      "moods": [
+        "angry",
+        "anxious"
+      ],
+      "interests": [
+        "music",
+        "dancing",
+        "reading"
+      ],
+      "playerRelationship": "62",
+      "gender": "female",
+      "personalities": [
+        "submissive",
+        "jealous"
+      ],
+      "requests": [
+        "Recite the colorful instrument after dinner",
+        "Play the charming poetry during festival",
+        "Recite the talented lyre in the evening",
+        "Recite the talented poetry after dinner",
+        "Entertain the charming song during festival",
+        "Compose the talented song on stage",
+        "Dance the witty performance on stage"
+      ]
+    },
+    "environment_informations": {
+      "weather": "hail",
+      "time": "in the morning"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "15",
+      "name": "Cynthia Green",
+      "role": "hunter",
+      "moods": [
+        "sad",
+        "anxious"
+      ],
+      "interests": [
+        "meditation",
+        "music"
+      ],
+      "playerRelationship": "65",
+      "gender": "male",
+      "personalities": [
+        "faithful",
+        "materialistic"
+      ],
+      "requests": [
+        "Trap the silent animal after rain",
+        "Track the rugged arrow before sunset",
+        "Shoot the rugged bow after rain",
+        "Track the sharp-eyed trap at dawn"
+      ]
+    },
+    "environment_informations": {
+      "weather": "drizzle",
+      "time": "at dusk"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "97",
+      "name": "Michelle Adams",
+      "role": "thief",
+      "moods": [
+        "happy"
+      ],
+      "interests": [
+        "cooking",
+        "dancing",
+        "farming"
+      ],
+      "playerRelationship": "89",
+      "gender": "female",
+      "personalities": [
+        "curious",
+        "wise",
+        "dreamy"
+      ],
+      "requests": [
+        "Unlock the shadowy escape after curfew",
+        "Hide the quick secret before dawn",
+        "Unlock the cunning lock after curfew",
+        "Spy the shadowy hideout in the alley",
+        "Hide the silent hideout after curfew"
+      ]
+    },
+    "environment_informations": {
+      "weather": "windy",
+      "time": "at midnight"
+    },
+    "npc_output": ""
+  }
+]

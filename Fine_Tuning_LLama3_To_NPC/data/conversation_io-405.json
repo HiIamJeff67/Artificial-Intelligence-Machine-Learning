@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "Hello Jennifer",
+    "npc_output": "Welcome to my tailor shop, I'm busy with a fitting, perhaps you can help me with |r1|?"
+  },
+  {
+    "player_input": "What's up Tina?",
+    "npc_output": "Just getting ready to sail, want to join me and try the |r2|?"
+  },
+  {
+    "player_input": "Good morning Kimberly",
+    "npc_output": "I have a meeting at the council, would you like to attend the |r1| with me?"
+  },
+  {
+    "player_input": "What are you working on David?",
+    "npc_output": "I need to repair this house, can you help me with the |r1|?"
+  },
+  {
+    "player_input": "James, what's new?",
+    "npc_output": "Just received an urgent message, need to |r1| as soon as possible."
+  },
+  {
+    "player_input": "Hi Crystal",
+    "npc_output": "Just planning a heist, want to help me steal the |r1|?"
+  },
+  {
+    "player_input": "Diane, what's your plan?",
+    "npc_output": "I have a parcel to notify, care to join me on the |r1|?"
+  },
+  {
+    "player_input": "Hi Jeremy, how's business?",
+    "npc_output": "It's been good, but I need to clean the room before the festival, can you help with the |r2|?"
+  },
+  {
+    "player_input": "Good morning Andrea",
+    "npc_output": "Time to sow the soil, want to help me with the |r1|?"
+  },
+  {
+    "player_input": "Hi Alexis",
+    "npc_output": "I have an urgent scroll to deliver, can you help me with the |r1|?"
+  }
+]

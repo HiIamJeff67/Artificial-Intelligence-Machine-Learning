@@ -1,0 +1,62 @@
+[
+  {
+    "player_input": "What's your job?",
+    "npc_output": "I'm a tailor, nice to meet you."
+  },
+  {
+    "player_input": "How's it going?",
+    "npc_output": "It's going great, thanks for asking, I have a lot of potions to brew tonight.|r1|"
+  },
+  {
+    "player_input": "I'm bored.",
+    "npc_output": "Maybe I can help you with that, I need someone to escort me.|r2|"
+  },
+  {
+    "player_input": "Nice day, isn't it?",
+    "npc_output": "Not really, it's hailing and I have to rule the kingdom.|r1|"
+  },
+  {
+    "player_input": "What do you do?",
+    "npc_output": "I'm a carpenter, I can saw some planks for you if you'd like.|r1|"
+  },
+  {
+    "player_input": "I love music.",
+    "npc_output": "Me too, I can play the instrument for you during festival.|r1|"
+  },
+  {
+    "player_input": "What's new?",
+    "npc_output": "Not much, just embroidering this hat, it's a meticulous task.|r1|"
+  },
+  {
+    "player_input": "I need help.",
+    "npc_output": "Don't worry, I can hex this ritual for you, but it's a bit strange.|r1|"
+  },
+  {
+    "player_input": "I'm cold.",
+    "npc_output": "Maybe I can help you with that, I can melt some metal to make a warm tool.|r1|"
+  },
+  {
+    "player_input": "It's late.",
+    "npc_output": "I know, I have to track some prey in the forest, want to join me?|r1|"
+  },
+  {
+    "player_input": "What's up?",
+    "npc_output": "Not much, just running some errands, I have to deliver this parcel.|r1|"
+  },
+  {
+    "player_input": "Nice shop.",
+    "npc_output": "Thanks, I sell expensive goods here, maybe you'll find something you like.|r1|"
+  },
+  {
+    "player_input": "I'm tired.",
+    "npc_output": "You can rest here, I have to prepare a banquet for the festival.|r1|"
+  },
+  {
+    "player_input": "I love farming.",
+    "npc_output": "Me too, I can show you how to plant some vegetables during harvest.|r1|"
+  },
+  {
+    "player_input": "How was your day?",
+    "npc_output": "It was good, I had to notify some people about a parcel, it was a bit urgent.|r1|"
+  }
+]

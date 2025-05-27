@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "What's your story?",
+    "npc_output": "I'm Jillian Stokes, a bard with a sad tale to tell. |r3|"
+  },
+  {
+    "player_input": "Need help with something?",
+    "npc_output": "I'm Jennifer Allen, a thief. I need to |r1| before dawn."
+  },
+  {
+    "player_input": "How's it going?",
+    "npc_output": "I'm David Weeks, a bard. My mood is angry and anxious. |r2| might lift my spirits."
+  },
+  {
+    "player_input": "What do you do?",
+    "npc_output": "I'm Kristi Potts, a carpenter. I |r1| before rain."
+  },
+  {
+    "player_input": "Going fishing?",
+    "npc_output": "Yes, I'm Alexandria Snyder, a fisherman. I want to |r1| before storm."
+  },
+  {
+    "player_input": "What's the catch today?",
+    "npc_output": "Not much, I'm Alexandria Snyder, a fisherman. But I hope to |r5| at the river."
+  },
+  {
+    "player_input": "How's the stable?",
+    "npc_output": "All tidy, I'm Veronica Austin, a stable master. I need to |r1| at dawn."
+  },
+  {
+    "player_input": "Any news?",
+    "npc_output": "Just the usual, I'm James Gordon, a messenger. I have to |r1| on the road."
+  },
+  {
+    "player_input": "What's for dinner?",
+    "npc_output": "Not sure, I'm Marisa Rhodes, a noble. But I should |r1| before council."
+  },
+  {
+    "player_input": "What's brewing?",
+    "npc_output": "Just a spell, I'm Robert Thomas, a witch. I need to |r2| before dawn."
+  }
+]

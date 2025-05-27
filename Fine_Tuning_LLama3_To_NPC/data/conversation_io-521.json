@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "What's your role?",
+    "npc_output": "I'm an herbalist, nice to meet you."
+  },
+  {
+    "player_input": "Do you know any songs?",
+    "npc_output": "Yes, I can play the lyre, would you like to hear one?"
+  },
+  {
+    "player_input": "Need help with mining?",
+    "npc_output": "Actually, I could use someone to explore the dusty tunnel with me, it's not safe alone."
+  },
+  {
+    "player_input": "Want to trade?",
+    "npc_output": "I'm not interested in trading right now, but I do have some information about a potential mark, if you're interested."
+  },
+  {
+    "player_input": "How's it going?",
+    "npc_output": "A bit anxious, to be honest, I have a lot of work to do in the workshop and not a lot of time."
+  },
+  {
+    "player_input": "Any messages to deliver?",
+    "npc_output": "Actually, I need to announce some urgent news, can I ask for your help with that?"
+  },
+  {
+    "player_input": "Like clothes?",
+    "npc_output": "Yes, I love clothes, and I'm a tailor, I can make you something nice if you'd like."
+  },
+  {
+    "player_input": "Want to explore the mine?",
+    "npc_output": "That sounds like fun, I know these mines like the back of my hand, let's go explore and see what we can find, maybe we'll even find a dusty tunnel to search."
+  },
+  {
+    "player_input": "What are you researching?",
+    "npc_output": "Just going over some notes, nothing too exciting, but I did come across something interesting about farming."
+  },
+  {
+    "player_input": "Delivering anything?",
+    "npc_output": "Yes, I have a package to deliver, and I need to be careful, it's a discreet parcel."
+  }
+]

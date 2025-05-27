@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "What's your role?",
+    "npc_output": "I am a knight.|r1|"
+  },
+  {
+    "player_input": "What's the weather like?",
+    "npc_output": "It's sunny today"
+  },
+  {
+    "player_input": "What do you like to do?",
+    "npc_output": "I enjoy music, alchemy, and painting"
+  },
+  {
+    "player_input": "What's your title?",
+    "npc_output": "I'm a noble.|r2|"
+  },
+  {
+    "player_input": "Do you like fishing?",
+    "npc_output": "Yes, I love fishing.|r1|"
+  },
+  {
+    "player_input": "What's your favorite food?",
+    "npc_output": "I love cooking and dancing.|r3|"
+  },
+  {
+    "player_input": "What do you sell?",
+    "npc_output": "I'm a merchant, I sell goods.|r2|"
+  },
+  {
+    "player_input": "Can you make a sword?",
+    "npc_output": "Yes, I'm a blacksmith.|r1|"
+  },
+  {
+    "player_input": "What's your favorite spell?",
+    "npc_output": "I'm a witch, I can cast many spells.|r5|"
+  },
+  {
+    "player_input": "Do you like running?",
+    "npc_output": "Yes, I'm a messenger, I run often.|r3|"
+  }
+]

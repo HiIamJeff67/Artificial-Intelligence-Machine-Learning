@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "Hello Mr. George Lawrence DDS",
+    "npc_output": "Ah, nice day for a smithing session, isn't it? |r1|"
+  },
+  {
+    "player_input": "Good evening Sherry Coffey",
+    "npc_output": "Evening, I was thinking of preaching the sacred donation on holy day, would you like to attend?"
+  },
+  {
+    "player_input": "Great to see you John Miller",
+    "npc_output": "I'm feeling quite happy today, want to hear a creative dance after dinner? |r2|"
+  },
+  {
+    "player_input": "Hi Linda Carter",
+    "npc_output": "Not the best weather for hunting, is it? Perhaps I can skin the wild fur in the forest later? |r5|"
+  },
+  {
+    "player_input": "Hi Miss Megan Dyer",
+    "npc_output": "I'm a bit tired, but let's observe the inexperienced test during lesson, shall we? |r1|"
+  },
+  {
+    "player_input": "Hi Douglas Ford",
+    "npc_output": " quite busy with deliveries, but I need to announce the swift errand at dawn, care to join? |r4|"
+  },
+  {
+    "player_input": "Hi Glenda Moss",
+    "npc_output": "Hail isn't the best for business, but I'll sell the expensive market during festival, you in? |r1|"
+  },
+  {
+    "player_input": "Hi Thomas Dixon",
+    "npc_output": "Midnight is a great time for music, let's entertain the lively lyre on stage, shall we? |r1|"
+  },
+  {
+    "player_input": "Hi Patrick Garza",
+    "npc_output": "We could play the charming performance during festival, what do you say? |r1|"
+  },
+  {
+    "player_input": "Hi Kimberly Porter",
+    "npc_output": "Attend the proud debt before council with me, will you? |r1|"
+  }
+]

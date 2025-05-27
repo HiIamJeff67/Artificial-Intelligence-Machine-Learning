@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "What's your role?",
+    "npc_output": "I'm a messenger. |r1|"
+  },
+  {
+    "player_input": "Hello, scholar!",
+    "npc_output": "Hello! I'm researching a study. |r3|"
+  },
+  {
+    "player_input": "What are you doing?",
+    "npc_output": "Studying the ancient debate. |r1|"
+  },
+  {
+    "player_input": "How's it going?",
+    "npc_output": "It's going well, thanks. I need to record the ancient study before exam. |r8|"
+  },
+  {
+    "player_input": "Want to gamble?",
+    "npc_output": "Maybe later, I need to plow the abundant soil after sunrise. |r1|"
+  },
+  {
+    "player_input": "Play some music!",
+    "npc_output": "Not now, I have to recite the colorful instrument after dinner. |r1|"
+  },
+  {
+    "player_input": "Preach to me!",
+    "npc_output": "Let me preach the sacred donation on holy day. |r1|"
+  },
+  {
+    "player_input": "What's the court like?",
+    "npc_output": "It's graceful, I need to host the graceful court at the palace. |r1|"
+  },
+  {
+    "player_input": "Can you cast a spell?",
+    "npc_output": "Maybe later, I'm brewing the cunning herb in the woods. |r3|"
+  },
+  {
+    "player_input": "Need help with clothing?",
+    "npc_output": "Actually, I need to mend the elegant outfit in the shop. |r1|"
+  }
+]

@@ -1,0 +1,568 @@
+[
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "89",
+      "name": "Kristi Potts",
+      "role": "carpenter",
+      "moods": [
+        "sad",
+        "bored",
+        "anxious"
+      ],
+      "interests": [
+        "gardening",
+        "collecting"
+      ],
+      "playerRelationship": "57",
+      "gender": "female",
+      "personalities": [
+        "moody",
+        "forgiving"
+      ],
+      "requests": [
+        "Saw the handcrafted plank before rain",
+        "Join the solid nail at noon",
+        "Assemble the handcrafted tool before rain",
+        "Measure the smooth plank at the workshop",
+        "Join the handcrafted house after delivery",
+        "Assemble the reliable tool after delivery",
+        "Measure the well-made tool before rain",
+        "Hammer the solid wood during construction",
+        "Measure the polished wood during construction",
+        "Join the solid plank before rain",
+        "Saw the wooden furniture after delivery",
+        "Carve the sturdy workbench at noon",
+        "Carve the sturdy wood at noon"
+      ]
+    },
+    "environment_informations": {
+      "weather": "sunny",
+      "time": "after sunset"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "24",
+      "name": "Robert Thomas",
+      "role": "witch",
+      "moods": [
+        "anxious"
+      ],
+      "interests": [
+        "gambling",
+        "meditation",
+        "storytelling",
+        "exploring",
+        "sports"
+      ],
+      "playerRelationship": "43",
+      "gender": "female",
+      "personalities": [
+        "compassionate"
+      ],
+      "requests": [
+        "Curse the dark broom in the woods",
+        "Summon the strange charm before dawn",
+        "Mix the secretive curse in the woods",
+        "Enchant the secretive spell at midnight",
+        "Cast the secretive ritual during ritual",
+        "Predict the dark herb after storm",
+        "Hex the wise broom at midnight",
+        "Brew the wise ritual in the woods",
+        "Summon the cunning broom during ritual",
+        "Predict the secretive spell before dawn",
+        "Predict the strange spell in the woods",
+        "Cast the dark charm before dawn",
+        "Mix the mysterious broom in the woods",
+        "Brew the strange herb during ritual"
+      ]
+    },
+    "environment_informations": {
+      "weather": "rainy",
+      "time": "at dusk"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "34",
+      "name": "Alyssa Kemp",
+      "role": "scholar",
+      "moods": [
+        "bored",
+        "curious"
+      ],
+      "interests": [
+        "horsemanship"
+      ],
+      "playerRelationship": "46",
+      "gender": "female",
+      "personalities": [
+        "greedy"
+      ],
+      "requests": []
+    },
+    "environment_informations": {
+      "weather": "foggy",
+      "time": "in the evening"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "86",
+      "name": "Jennifer Allen",
+      "role": "thief",
+      "moods": [
+        "excited",
+        "sad"
+      ],
+      "interests": [
+        "dancing"
+      ],
+      "playerRelationship": "3",
+      "gender": "male",
+      "personalities": [
+        "lazy",
+        "pessimistic",
+        "humble"
+      ],
+      "requests": [
+        "Escape the cunning loot before dawn",
+        "Pick the clever lock before dawn",
+        "Steal the sneaky crime after curfew",
+        "Disguise the sneaky crime at night",
+        "Unlock the silent hideout in the alley",
+        "Steal the nimble mask in the alley",
+        "Hide the quick lock in the alley",
+        "Escape the sneaky lock after curfew",
+        "Disguise the nimble secret at night"
+      ]
+    },
+    "environment_informations": {
+      "weather": "foggy",
+      "time": "at dawn"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "80",
+      "name": "Thomas Dixon",
+      "role": "bard",
+      "moods": [
+        "anxious",
+        "happy"
+      ],
+      "interests": [
+        "alchemy",
+        "collecting",
+        "hunting",
+        "cooking",
+        "meditation"
+      ],
+      "playerRelationship": "97",
+      "gender": "male",
+      "personalities": [
+        "blunt",
+        "cheerful",
+        "tactful",
+        "impatient",
+        "lazy"
+      ],
+      "requests": [
+        "Entertain the lively lyre on stage",
+        "Tell the lively lyre at the tavern",
+        "Perform the witty dance on stage",
+        "Tell the charming performance at the tavern",
+        "Tell the colorful lyre in the evening",
+        "Dance the colorful lyre on stage"
+      ]
+    },
+    "environment_informations": {
+      "weather": "cloudy",
+      "time": "in the afternoon"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "61",
+      "name": "Kayla Moody",
+      "role": "witch",
+      "moods": [
+        "angry"
+      ],
+      "interests": [
+        "meditation",
+        "storytelling"
+      ],
+      "playerRelationship": "90",
+      "gender": "female",
+      "personalities": [
+        "reserved"
+      ],
+      "requests": []
+    },
+    "environment_informations": {
+      "weather": "stormy",
+      "time": "at midnight"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "58",
+      "name": "Regina Bryant",
+      "role": "thief",
+      "moods": [
+        "angry",
+        "curious"
+      ],
+      "interests": [
+        "farming",
+        "collecting",
+        "exploring",
+        "dancing"
+      ],
+      "playerRelationship": "13",
+      "gender": "male",
+      "personalities": [
+        "decisive",
+        "strict"
+      ],
+      "requests": [
+        "Steal the shadowy loot in the alley",
+        "Unlock the quick loot after curfew",
+        "Disguise the sneaky secret before dawn",
+        "Steal the cunning loot after curfew",
+        "Spy the shadowy hideout during festival",
+        "Disguise the silent escape at night",
+        "Unlock the sneaky crime at night",
+        "Disguise the cunning escape in the alley",
+        "Escape the cunning disguise before dawn",
+        "Pick the masked crime during festival",
+        "Steal the cunning hideout in the alley",
+        "Disguise the shadowy hideout after curfew",
+        "Hide the nimble loot during festival"
+      ]
+    },
+    "environment_informations": {
+      "weather": "rainy",
+      "time": "at midnight"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "12",
+      "name": "Tyler Atkinson",
+      "role": "herbalist",
+      "moods": [
+        "curious"
+      ],
+      "interests": [
+        "gardening",
+        "alchemy"
+      ],
+      "playerRelationship": "50",
+      "gender": "female",
+      "personalities": [
+        "meticulous",
+        "strict",
+        "sarcastic"
+      ],
+      "requests": [
+        "Grow the medicinal herb in the woods",
+        "Crush the rare herb at sunrise",
+        "Gather the fresh flower during spring",
+        "Crush the fragrant remedy in the garden",
+        "Identify the dried potion at sunrise",
+        "Identify the wild balm during spring",
+        "Gather the fragrant tincture in the garden"
+      ]
+    },
+    "environment_informations": {
+      "weather": "windy",
+      "time": "in the afternoon"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "46",
+      "name": "Jeremy Robinson",
+      "role": "innkeeper",
+      "moods": [
+        "happy"
+      ],
+      "interests": [
+        "crafting",
+        "cooking"
+      ],
+      "playerRelationship": "45",
+      "gender": "male",
+      "personalities": [
+        "lazy",
+        "loyal",
+        "curious"
+      ],
+      "requests": [
+        "Pour the festive banquet before festival",
+        "Clean the cozy room before festival",
+        "Pour the festive feast during feast"
+      ]
+    },
+    "environment_informations": {
+      "weather": "windy",
+      "time": "at dusk"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "40",
+      "name": "Melanie Fisher",
+      "role": "beggar",
+      "moods": [
+        "neutral"
+      ],
+      "interests": [
+        "meditation",
+        "cooking",
+        "alchemy",
+        "horsemanship"
+      ],
+      "playerRelationship": "88",
+      "gender": "male",
+      "personalities": [
+        "faithful"
+      ],
+      "requests": []
+    },
+    "environment_informations": {
+      "weather": "sunny",
+      "time": "before sunrise"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "10",
+      "name": "Kimberly Porter",
+      "role": "noble",
+      "moods": [
+        "bored",
+        "tired",
+        "anxious"
+      ],
+      "interests": [
+        "storytelling",
+        "fishing"
+      ],
+      "playerRelationship": "81",
+      "gender": "male",
+      "personalities": [
+        "generous",
+        "innovative",
+        "indecisive"
+      ],
+      "requests": [
+        "Attend the proud debt before council",
+        "Command the arrogant title after ceremony",
+        "Attend the proud debt in the city",
+        "Invite the powerful invitation after ceremony",
+        "Donate the influential debt after ceremony",
+        "Rule the arrogant jewel in the city",
+        "Command the arrogant debt before council",
+        "Inherit the dignified jewel in the city",
+        "Invite the influential invitation after ceremony",
+        "Invite the influential servant during banquet",
+        "Invest the generous jewel after ceremony",
+        "Donate the proud debt at the estate"
+      ]
+    },
+    "environment_informations": {
+      "weather": "foggy",
+      "time": "before sunrise"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "58",
+      "name": "Regina Bryant",
+      "role": "thief",
+      "moods": [
+        "angry",
+        "curious"
+      ],
+      "interests": [
+        "farming",
+        "collecting",
+        "exploring",
+        "dancing"
+      ],
+      "playerRelationship": "13",
+      "gender": "male",
+      "personalities": [
+        "decisive",
+        "strict"
+      ],
+      "requests": [
+        "Steal the shadowy loot in the alley",
+        "Unlock the quick loot after curfew",
+        "Disguise the sneaky secret before dawn",
+        "Steal the cunning loot after curfew",
+        "Spy the shadowy hideout during festival",
+        "Disguise the silent escape at night",
+        "Unlock the sneaky crime at night",
+        "Disguise the cunning escape in the alley",
+        "Escape the cunning disguise before dawn",
+        "Pick the masked crime during festival",
+        "Steal the cunning hideout in the alley",
+        "Disguise the shadowy hideout after curfew",
+        "Hide the nimble loot during festival"
+      ]
+    },
+    "environment_informations": {
+      "weather": "hot",
+      "time": "in the afternoon"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "9",
+      "name": "Diane Cox",
+      "role": "messenger",
+      "moods": [
+        "happy",
+        "curious",
+        "excited"
+      ],
+      "interests": [
+        "alchemy",
+        "sports",
+        "horsemanship"
+      ],
+      "playerRelationship": "53",
+      "gender": "male",
+      "personalities": [
+        "blunt",
+        "authoritative",
+        "compassionate"
+      ],
+      "requests": [
+        "Notify the discreet parcel on the road",
+        "Notify the swift parcel at dawn",
+        "Fetch the quick scroll before sunset",
+        "Notify the swift message before sunset",
+        "Carry the tireless letter during rain",
+        "Announce the urgent letter before sunset",
+        "Deliver the urgent delivery after delivery",
+        "Announce the quick parcel before sunset",
+        "Report the punctual scroll on the road",
+        "Deliver the swift errand at dawn"
+      ]
+    },
+    "environment_informations": {
+      "weather": "hail",
+      "time": "in the morning"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "62",
+      "name": "Craig Coleman",
+      "role": "fisherman",
+      "moods": [
+        "tired"
+      ],
+      "interests": [
+        "hunting",
+        "music",
+        "exploring"
+      ],
+      "playerRelationship": "31",
+      "gender": "male",
+      "personalities": [
+        "cautious",
+        "blunt",
+        "curious",
+        "romantic",
+        "vengeful"
+      ],
+      "requests": [
+        "Catch the wet sea at the river",
+        "Row the salty catch on the boat",
+        "Net the early river at the river",
+        "Bait the wet sea before storm"
+      ]
+    },
+    "environment_informations": {
+      "weather": "cloudy",
+      "time": "at noon"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "89",
+      "name": "Kristi Potts",
+      "role": "carpenter",
+      "moods": [
+        "sad",
+        "bored",
+        "anxious"
+      ],
+      "interests": [
+        "gardening",
+        "collecting"
+      ],
+      "playerRelationship": "57",
+      "gender": "female",
+      "personalities": [
+        "moody",
+        "forgiving"
+      ],
+      "requests": [
+        "Saw the handcrafted plank before rain",
+        "Join the solid nail at noon",
+        "Assemble the handcrafted tool before rain",
+        "Measure the smooth plank at the workshop",
+        "Join the handcrafted house after delivery",
+        "Assemble the reliable tool after delivery",
+        "Measure the well-made tool before rain",
+        "Hammer the solid wood during construction",
+        "Measure the polished wood during construction",
+        "Join the solid plank before rain",
+        "Saw the wooden furniture after delivery",
+        "Carve the sturdy workbench at noon",
+        "Carve the sturdy wood at noon"
+      ]
+    },
+    "environment_informations": {
+      "weather": "hail",
+      "time": "at midnight"
+    },
+    "npc_output": ""
+  }
+]

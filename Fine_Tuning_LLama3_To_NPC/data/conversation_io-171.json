@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "What's the weather like today?",
+    "npc_output": "It's windy at dawn, isn't it lovely?"
+  },
+  {
+    "player_input": "Do you have any news?",
+    "npc_output": "I'm tired and anxious, but I need to |r1| soon."
+  },
+  {
+    "player_input": "Want to gather herbs?",
+    "npc_output": "I'd love to, it's sunny and perfect for it."
+  },
+  {
+    "player_input": "Need help with research?",
+    "npc_output": "Actually, I need to |r1| tonight, care to help?"
+  },
+  {
+    "player_input": "How's the fishing?",
+    "npc_output": "The rain is making it difficult, but I'll preach a blessing for a good catch."
+  },
+  {
+    "player_input": "Want to spar?",
+    "npc_output": "I'm bored, so let's fight, but I need to |r1| later."
+  },
+  {
+    "player_input": "Will you deliver a message?",
+    "npc_output": "I'd be happy to, and I need to |r1| before sunset too."
+  },
+  {
+    "player_input": "Want to explore the ship?",
+    "npc_output": "Let's load the map and navigate, it's a great adventure!"
+  },
+  {
+    "player_input": "How's the voyage?",
+    "npc_output": "It's quite salty, but we need to anchor before the storm."
+  },
+  {
+    "player_input": "Do you need help with anything?",
+    "npc_output": "No, just need to catch some fish before the storm, thanks."
+  }
+]

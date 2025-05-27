@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "What brings you here?",
+    "npc_output": "Just getting some rest, |r1| is a task I need to complete after this."
+  },
+  {
+    "player_input": "How's your day?",
+    "npc_output": "It's been dull so far, but I'm thinking of |r1| soon."
+  },
+  {
+    "player_input": "Do you need help?",
+    "npc_output": "Actually, I could use assistance with |r1|, but it's getting late."
+  },
+  {
+    "player_input": "What's wrong?",
+    "npc_output": "Just feeling a bit |r1|, it's been a long day."
+  },
+  {
+    "player_input": "What are you doing?",
+    "npc_output": "Planning to |r1| later, the weather is perfect for it."
+  },
+  {
+    "player_input": "Hi, how are you?",
+    "npc_output": "I'm a bit |r1|, but |r2| will help me relax."
+  },
+  {
+    "player_input": "What's your plan?",
+    "npc_output": "I'm thinking of |r1|, the festival is a great opportunity."
+  },
+  {
+    "player_input": "Need any help?",
+    "npc_output": "Not right now, but |r1| is something I need to do soon."
+  },
+  {
+    "player_input": "What's on your mind?",
+    "npc_output": "Just |r1|, it's a big responsibility."
+  },
+  {
+    "player_input": "How's it going?",
+    "npc_output": "It's going well, thanks for asking, |r1| is next on my list."
+  }
+]

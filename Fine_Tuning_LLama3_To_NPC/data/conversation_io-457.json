@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "What's for dinner?",
+    "npc_output": "I'm making a hearty stew, would you like to try some? |r2|"
+  },
+  {
+    "player_input": "How's the weather?",
+    "npc_output": "It's a bit drizzly, isn't it? But I love the smell of wet earth"
+  },
+  {
+    "player_input": "Need any help?",
+    "npc_output": "Actually, could you help me pour the festive banquet before the festival? |r1|"
+  },
+  {
+    "player_input": "What's the hurry?",
+    "npc_output": "I have to deliver this parcel on time, it's my job as a messenger |r3|"
+  },
+  {
+    "player_input": "Want to hear a story?",
+    "npc_output": "I'd love to! But first, can you help me sing the colorful performance during the festival? |r1|"
+  },
+  {
+    "player_input": "What's cooking?",
+    "npc_output": "Just sharpening my tools, getting ready for the day |r2|"
+  },
+  {
+    "player_input": "Need a hand?",
+    "npc_output": "Actually, could you help me haul the deep mine after the cave-in? |r4|"
+  },
+  {
+    "player_input": "What's the joke?",
+    "npc_output": "Oh, just teasing the silly mask at the festival |r1|"
+  },
+  {
+    "player_input": "Any news?",
+    "npc_output": "Not much, just reporting the tireless news during the rain |r2|"
+  },
+  {
+    "player_input": "What's the plan?",
+    "npc_output": "We're going to pour the festive feast during the feast, want to join us? |r3|"
+  }
+]

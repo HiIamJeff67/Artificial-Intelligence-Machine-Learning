@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "What's your role?",
+    "npc_output": "I'm a messenger. |r1|"
+  },
+  {
+    "player_input": "How are you?",
+    "npc_output": "I'm curious, thanks for asking. I need to |r2|"
+  },
+  {
+    "player_input": "What's the weather like?",
+    "npc_output": "It's stormy. I have to |r3|"
+  },
+  {
+    "player_input": "What are you cooking?",
+    "npc_output": "I'm preparing a meal. |r1|"
+  },
+  {
+    "player_input": "Do you have any tasks?",
+    "npc_output": "I need to |r4|. It's a bit |r3|"
+  },
+  {
+    "player_input": "Can you stable my horse?",
+    "npc_output": "I'd be happy to help. |r1|"
+  },
+  {
+    "player_input": "What's a good story?",
+    "npc_output": "I know a great one, but first, |r2|"
+  },
+  {
+    "player_input": "Can you carry a message?",
+    "npc_output": "I'm a messenger, it's my job. |r5|"
+  },
+  {
+    "player_input": "How's the fishing?",
+    "npc_output": "I'm not fishing now, but |r1|"
+  },
+  {
+    "player_input": "Do you have any requests?",
+    "npc_output": "Actually, |r3|. It's quite urgent"
+  }
+]

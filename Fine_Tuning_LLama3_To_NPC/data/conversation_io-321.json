@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "What's your job?",
+    "npc_output": "I'm a sailor, nice to meet you."
+  },
+  {
+    "player_input": "Do you like music?",
+    "npc_output": "Actually, I love music, it's a great way to pass the time."
+  },
+  {
+    "player_input": "How's the weather?",
+    "npc_output": "It's quite hot today, isn't it? |r3|"
+  },
+  {
+    "player_input": "What brings you here?",
+    "npc_output": "Just delivering a message, it's my job as a messenger."
+  },
+  {
+    "player_input": "Want to go hunting?",
+    "npc_output": "I'd love to, it's one of my favorite activities."
+  },
+  {
+    "player_input": "What do you trade?",
+    "npc_output": "I trade all sorts of goods, from spices to fabrics."
+  },
+  {
+    "player_input": "Do you have a room available?",
+    "npc_output": "Yes, we have a cozy room available, would you like to see it?"
+  },
+  {
+    "player_input": "Want to go fishing?",
+    "npc_output": "I'd love to, the fish are biting today."
+  },
+  {
+    "player_input": "What's the best way to make money?",
+    "npc_output": "Well, I've found that trading can be quite profitable, |r5|."
+  },
+  {
+    "player_input": "Do you know any good stories?",
+    "npc_output": "Actually, I do, let me tell you one, |r8|."
+  }
+]

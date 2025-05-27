@@ -1,0 +1,567 @@
+[
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "5",
+      "name": "Micheal Duncan",
+      "role": "king",
+      "moods": [
+        "tired",
+        "neutral"
+      ],
+      "interests": [
+        "meditation",
+        "alchemy",
+        "hunting"
+      ],
+      "playerRelationship": "27",
+      "gender": "male",
+      "personalities": [
+        "brave",
+        "indecisive",
+        "dreamy",
+        "blunt"
+      ],
+      "requests": [
+        "Lead the powerful treasure at festival",
+        "Appoint the powerful court during council",
+        "Rule the noble kingdom during council",
+        "Rule the powerful kingdom in the morning",
+        "Summon the powerful throne in the morning",
+        "Command the just throne after victory",
+        "Rule the noble crown after victory",
+        "Decree the commanding festival in the throne room",
+        "Summon the noble law at festival",
+        "Judge the noble festival at festival",
+        "Judge the commanding court in the morning"
+      ]
+    },
+    "environment_informations": {
+      "weather": "hot",
+      "time": "in the morning"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "23",
+      "name": "Scott Wood",
+      "role": "servant",
+      "moods": [
+        "curious"
+      ],
+      "interests": [
+        "horsemanship",
+        "painting",
+        "storytelling",
+        "fishing"
+      ],
+      "playerRelationship": "82",
+      "gender": "female",
+      "personalities": [
+        "compassionate",
+        "optimistic",
+        "innovative"
+      ],
+      "requests": [
+        "Deliver the humble cleaning before dinner",
+        "Serve the busy room after cleaning",
+        "Fetch the helpful tray at the manor",
+        "Clean the helpful tray in the hall",
+        "Serve the tired cleaning before dinner",
+        "Fetch the loyal message after cleaning",
+        "Tidy the quiet room in the hall",
+        "Serve the tired message during event",
+        "Clean the helpful order during event",
+        "Assist the busy tray before dinner",
+        "Fetch the busy cleaning at the manor",
+        "Deliver the obedient task during event",
+        "Tidy the quiet message after cleaning",
+        "Serve the helpful cleaning at the manor"
+      ]
+    },
+    "environment_informations": {
+      "weather": "snowy",
+      "time": "in the evening"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "60",
+      "name": "Tiffany Johnson",
+      "role": "miner",
+      "moods": [
+        "neutral"
+      ],
+      "interests": [
+        "crafting"
+      ],
+      "playerRelationship": "60",
+      "gender": "female",
+      "personalities": [
+        "materialistic",
+        "decisive",
+        "cautious",
+        "lazy"
+      ],
+      "requests": [
+        "Break the hidden gem before sunset",
+        "Descend the rocky tunnel in the mine"
+      ]
+    },
+    "environment_informations": {
+      "weather": "drizzle",
+      "time": "before sunrise"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "61",
+      "name": "Kayla Moody",
+      "role": "witch",
+      "moods": [
+        "angry"
+      ],
+      "interests": [
+        "meditation",
+        "storytelling"
+      ],
+      "playerRelationship": "90",
+      "gender": "female",
+      "personalities": [
+        "reserved"
+      ],
+      "requests": []
+    },
+    "environment_informations": {
+      "weather": "drizzle",
+      "time": "at midnight"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "30",
+      "name": "Sarah Ruiz",
+      "role": "tailor",
+      "moods": [
+        "happy",
+        "sad",
+        "hopeful"
+      ],
+      "interests": [
+        "exploring",
+        "storytelling",
+        "farming"
+      ],
+      "playerRelationship": "16",
+      "gender": "female",
+      "personalities": [
+        "innovative",
+        "ambitious",
+        "eccentric",
+        "dreamy"
+      ],
+      "requests": [
+        "Mend the elegant outfit in the shop",
+        "Design the embroidered fashion during fitting",
+        "Embroider the fitted fabric in the shop",
+        "Fit the elegant hat at noon",
+        "Design the fashionable needle during fitting",
+        "Cut the fashionable fashion before festival",
+        "Cut the elegant thread at noon",
+        "Mend the fine needle after delivery"
+      ]
+    },
+    "environment_informations": {
+      "weather": "foggy",
+      "time": "at dawn"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "39",
+      "name": "James Haynes",
+      "role": "sailor",
+      "moods": [
+        "excited",
+        "neutral",
+        "angry"
+      ],
+      "interests": [
+        "alchemy",
+        "hunting"
+      ],
+      "playerRelationship": "22",
+      "gender": "female",
+      "personalities": [
+        "submissive",
+        "romantic",
+        "authoritative",
+        "patient"
+      ],
+      "requests": [
+        "Row the rowdy ship after docking",
+        "Navigate the adventurous ship after docking",
+        "Load the strong map at the harbor",
+        "Repair the skilled treasure during storm",
+        "Load the brave treasure at the harbor"
+      ]
+    },
+    "environment_informations": {
+      "weather": "foggy",
+      "time": "during the festival"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "29",
+      "name": "David Sanders",
+      "role": "carpenter",
+      "moods": [
+        "anxious"
+      ],
+      "interests": [
+        "reading",
+        "music",
+        "crafting",
+        "hunting"
+      ],
+      "playerRelationship": "30",
+      "gender": "female",
+      "personalities": [
+        "arrogant",
+        "reckless"
+      ],
+      "requests": [
+        "Repair the smooth house during construction",
+        "Build the polished plank at the workshop",
+        "Carve the smooth nail after delivery",
+        "Build the wooden beam at noon",
+        "Assemble the reliable wood after delivery",
+        "Hammer the reliable workbench after delivery"
+      ]
+    },
+    "environment_informations": {
+      "weather": "foggy",
+      "time": "during the festival"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "56",
+      "name": "Mrs. Kathleen Smith",
+      "role": "scholar",
+      "moods": [
+        "anxious",
+        "sad",
+        "tired"
+      ],
+      "interests": [
+        "painting",
+        "magic",
+        "meditation",
+        "collecting",
+        "fishing"
+      ],
+      "playerRelationship": "63",
+      "gender": "female",
+      "personalities": [
+        "pessimistic",
+        "tactful",
+        "adventurous",
+        "strict",
+        "protective"
+      ],
+      "requests": [
+        "Research the ancient debate at night",
+        "Write the reserved manuscript before exam",
+        "Study the innovative study during study",
+        "Research the curious book during study",
+        "Research the innovative scroll during study",
+        "Translate the diligent book at night",
+        "Write the curious study in the library",
+        "Record the ancient study before exam",
+        "Teach the reserved book at night",
+        "Teach the reserved debate in the library"
+      ]
+    },
+    "environment_informations": {
+      "weather": "snowy",
+      "time": "at dawn"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "11",
+      "name": "Mrs. Destiny Rice",
+      "role": "innkeeper",
+      "moods": [
+        "hopeful",
+        "anxious",
+        "excited"
+      ],
+      "interests": [
+        "gambling",
+        "dancing",
+        "alchemy"
+      ],
+      "playerRelationship": "95",
+      "gender": "male",
+      "personalities": [
+        "pragmatic",
+        "meticulous"
+      ],
+      "requests": [
+        "Clean the busy room before festival",
+        "Serve the welcoming feast after sunset",
+        "Pour the generous feast at the inn",
+        "Serve the generous drink in the evening"
+      ]
+    },
+    "environment_informations": {
+      "weather": "stormy",
+      "time": "at dawn"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "39",
+      "name": "James Haynes",
+      "role": "sailor",
+      "moods": [
+        "excited",
+        "neutral",
+        "angry"
+      ],
+      "interests": [
+        "alchemy",
+        "hunting"
+      ],
+      "playerRelationship": "22",
+      "gender": "female",
+      "personalities": [
+        "submissive",
+        "romantic",
+        "authoritative",
+        "patient"
+      ],
+      "requests": [
+        "Row the rowdy ship after docking",
+        "Navigate the adventurous ship after docking",
+        "Load the strong map at the harbor",
+        "Repair the skilled treasure during storm",
+        "Load the brave treasure at the harbor"
+      ]
+    },
+    "environment_informations": {
+      "weather": "cloudy",
+      "time": "in the evening"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "3",
+      "name": "Edward Lee DVM",
+      "role": "sailor",
+      "moods": [
+        "curious",
+        "excited",
+        "hopeful"
+      ],
+      "interests": [
+        "gardening",
+        "hunting",
+        "music",
+        "painting",
+        "dancing"
+      ],
+      "playerRelationship": "34",
+      "gender": "male",
+      "personalities": [
+        "protective",
+        "playful",
+        "meticulous"
+      ],
+      "requests": [
+        "Anchor the restless harbor on the ship",
+        "Repair the weathered ship on the ship"
+      ]
+    },
+    "environment_informations": {
+      "weather": "drizzle",
+      "time": "at noon"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "19",
+      "name": "Kathryn Bradford",
+      "role": "noble",
+      "moods": [
+        "bored"
+      ],
+      "interests": [
+        "horsemanship",
+        "magic",
+        "meditation",
+        "trading",
+        "hunting"
+      ],
+      "playerRelationship": "66",
+      "gender": "female",
+      "personalities": [
+        "reckless",
+        "patient",
+        "materialistic"
+      ],
+      "requests": [
+        "Attend the proud debt in the city",
+        "Command the arrogant invitation during banquet",
+        "Command the proud servant before council",
+        "Host the refined debt before council",
+        "Invite the powerful debt at the estate",
+        "Invite the wealthy invitation during banquet",
+        "Rule the powerful invitation at the estate",
+        "Donate the generous servant before council",
+        "Donate the wealthy land before council"
+      ]
+    },
+    "environment_informations": {
+      "weather": "snowy",
+      "time": "at noon"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "16",
+      "name": "Marisa Rhodes",
+      "role": "noble",
+      "moods": [
+        "angry",
+        "tired",
+        "bored"
+      ],
+      "interests": [
+        "cooking",
+        "magic",
+        "dancing"
+      ],
+      "playerRelationship": "35",
+      "gender": "male",
+      "personalities": [
+        "curious"
+      ],
+      "requests": [
+        "Host the generous estate before council",
+        "Invest the refined invitation during banquet",
+        "Inherit the dignified jewel in the city",
+        "Invite the wealthy invitation during banquet",
+        "Invest the powerful title at the estate",
+        "Invite the generous debt after ceremony",
+        "Donate the generous servant before council",
+        "Invite the influential invitation after ceremony",
+        "Invest the dignified jewel after ceremony",
+        "Rule the refined title after ceremony"
+      ]
+    },
+    "environment_informations": {
+      "weather": "rainy",
+      "time": "at dusk"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "76",
+      "name": "Thomas Myers",
+      "role": "merchant",
+      "moods": [
+        "neutral"
+      ],
+      "interests": [
+        "reading",
+        "meditation"
+      ],
+      "playerRelationship": "51",
+      "gender": "male",
+      "personalities": [
+        "skeptical",
+        "pessimistic",
+        "tactful",
+        "shy",
+        "calculating"
+      ],
+      "requests": [
+        "Import the profitable spice on the road",
+        "Bargain the foreign spice during festival",
+        "Sell the luxurious permit at the market",
+        "Bargain the expensive trade in the city",
+        "Buy the expensive permit on the road",
+        "Travel the luxurious caravan at the market",
+        "Sell the luxurious goods in the city",
+        "Travel the foreign stall on the road",
+        "Export the foreign stall in the city",
+        "Bargain the profitable stall during festival",
+        "Sell the profitable goods before sunset",
+        "Buy the profitable spice on the road",
+        "Sell the expensive market during festival",
+        "Bargain the cheap permit on the road"
+      ]
+    },
+    "environment_informations": {
+      "weather": "foggy",
+      "time": "at noon"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "34",
+      "name": "Alyssa Kemp",
+      "role": "scholar",
+      "moods": [
+        "bored",
+        "curious"
+      ],
+      "interests": [
+        "horsemanship"
+      ],
+      "playerRelationship": "46",
+      "gender": "female",
+      "personalities": [
+        "greedy"
+      ],
+      "requests": []
+    },
+    "environment_informations": {
+      "weather": "rainy",
+      "time": "in the evening"
+    },
+    "npc_output": ""
+  }
+]

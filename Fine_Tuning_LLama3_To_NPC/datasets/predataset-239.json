@@ -1,0 +1,556 @@
+[
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "58",
+      "name": "Regina Bryant",
+      "role": "thief",
+      "moods": [
+        "angry",
+        "curious"
+      ],
+      "interests": [
+        "farming",
+        "collecting",
+        "exploring",
+        "dancing"
+      ],
+      "playerRelationship": "13",
+      "gender": "male",
+      "personalities": [
+        "decisive",
+        "strict"
+      ],
+      "requests": [
+        "Steal the shadowy loot in the alley",
+        "Unlock the quick loot after curfew",
+        "Disguise the sneaky secret before dawn",
+        "Steal the cunning loot after curfew",
+        "Spy the shadowy hideout during festival",
+        "Disguise the silent escape at night",
+        "Unlock the sneaky crime at night",
+        "Disguise the cunning escape in the alley",
+        "Escape the cunning disguise before dawn",
+        "Pick the masked crime during festival",
+        "Steal the cunning hideout in the alley",
+        "Disguise the shadowy hideout after curfew",
+        "Hide the nimble loot during festival"
+      ]
+    },
+    "environment_informations": {
+      "weather": "foggy",
+      "time": "in the morning"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "73",
+      "name": "Christopher Turner",
+      "role": "tailor",
+      "moods": [
+        "hopeful",
+        "excited"
+      ],
+      "interests": [
+        "meditation"
+      ],
+      "playerRelationship": "35",
+      "gender": "female",
+      "personalities": [
+        "meticulous"
+      ],
+      "requests": [
+        "Embroider the elegant hat in the shop",
+        "Mend the colorful outfit at noon",
+        "Sew the elegant outfit before festival",
+        "Embroider the fashionable needle before festival",
+        "Measure the embroidered pattern during fitting"
+      ]
+    },
+    "environment_informations": {
+      "weather": "snowy",
+      "time": "in the morning"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "20",
+      "name": "Hannah Cruz",
+      "role": "sailor",
+      "moods": [
+        "curious",
+        "neutral"
+      ],
+      "interests": [
+        "music",
+        "alchemy",
+        "painting",
+        "reading"
+      ],
+      "playerRelationship": "40",
+      "gender": "male",
+      "personalities": [
+        "indecisive",
+        "jealous",
+        "humble",
+        "greedy",
+        "forgiving"
+      ],
+      "requests": [
+        "Repair the rowdy storm during storm",
+        "Unload the strong rope on the ship",
+        "Navigate the strong map after docking",
+        "Load the restless map at the harbor",
+        "Load the strong storm before voyage"
+      ]
+    },
+    "environment_informations": {
+      "weather": "hail",
+      "time": "in the morning"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "93",
+      "name": "Matthew Hampton",
+      "role": "tailor",
+      "moods": [
+        "angry",
+        "excited"
+      ],
+      "interests": [
+        "collecting"
+      ],
+      "playerRelationship": "22",
+      "gender": "male",
+      "personalities": [
+        "submissive",
+        "protective",
+        "optimistic",
+        "dreamy",
+        "lazy"
+      ],
+      "requests": [
+        "Design the fine hat after delivery",
+        "Cut the colorful hat in the shop",
+        "Embroider the stylish pattern in the shop",
+        "Sew the colorful fashion in the shop",
+        "Fit the soft cloak during fitting"
+      ]
+    },
+    "environment_informations": {
+      "weather": "snowy",
+      "time": "at dusk"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "45",
+      "name": "Christina Dean",
+      "role": "herbalist",
+      "moods": [
+        "bored",
+        "anxious"
+      ],
+      "interests": [
+        "storytelling",
+        "farming"
+      ],
+      "playerRelationship": "8",
+      "gender": "male",
+      "personalities": [
+        "diligent",
+        "humble",
+        "pessimistic"
+      ],
+      "requests": [
+        "Gather the dried plant at sunrise",
+        "Crush the fragrant remedy in the garden",
+        "Dry the medicinal plant at sunrise",
+        "Brew the medicinal flower in the woods",
+        "Identify the bitter herb in the garden",
+        "Grow the rare tincture in the woods",
+        "Grow the healing potion during spring",
+        "Mix the medicinal remedy during spring",
+        "Identify the fresh plant in the woods",
+        "Brew the rare potion during spring"
+      ]
+    },
+    "environment_informations": {
+      "weather": "drizzle",
+      "time": "at dusk"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "97",
+      "name": "Michelle Adams",
+      "role": "thief",
+      "moods": [
+        "happy"
+      ],
+      "interests": [
+        "cooking",
+        "dancing",
+        "farming"
+      ],
+      "playerRelationship": "89",
+      "gender": "female",
+      "personalities": [
+        "curious",
+        "wise",
+        "dreamy"
+      ],
+      "requests": [
+        "Unlock the shadowy escape after curfew",
+        "Hide the quick secret before dawn",
+        "Unlock the cunning lock after curfew",
+        "Spy the shadowy hideout in the alley",
+        "Hide the silent hideout after curfew"
+      ]
+    },
+    "environment_informations": {
+      "weather": "sunny",
+      "time": "before sunrise"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "98",
+      "name": "Anthony Lee",
+      "role": "beggar",
+      "moods": [
+        "sad",
+        "angry"
+      ],
+      "interests": [
+        "trading",
+        "meditation"
+      ],
+      "playerRelationship": "12",
+      "gender": "male",
+      "personalities": [
+        "brave",
+        "generous",
+        "shy"
+      ],
+      "requests": [
+        "Wander the lonely shelter during festival",
+        "Hope the cold blanket during festival",
+        "Wait the lonely hope before meal",
+        "Wander the poor hope during festival"
+      ]
+    },
+    "environment_informations": {
+      "weather": "foggy",
+      "time": "in the evening"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "74",
+      "name": "Mrs. Madison Martinez",
+      "role": "priest",
+      "moods": [
+        "angry"
+      ],
+      "interests": [
+        "exploring",
+        "sports",
+        "crafting",
+        "fishing",
+        "collecting"
+      ],
+      "playerRelationship": "20",
+      "gender": "male",
+      "personalities": [
+        "timid",
+        "jealous"
+      ],
+      "requests": [
+        "Heal the holy faith during ceremony",
+        "Preach the faithful faith after prayer",
+        "Heal the holy faith at dawn",
+        "Conduct the holy prayer during ceremony",
+        "Forgive the faithful wedding in the temple",
+        "Conduct the faithful prayer on holy day"
+      ]
+    },
+    "environment_informations": {
+      "weather": "drizzle",
+      "time": "in the afternoon"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "29",
+      "name": "David Sanders",
+      "role": "carpenter",
+      "moods": [
+        "anxious"
+      ],
+      "interests": [
+        "reading",
+        "music",
+        "crafting",
+        "hunting"
+      ],
+      "playerRelationship": "30",
+      "gender": "female",
+      "personalities": [
+        "arrogant",
+        "reckless"
+      ],
+      "requests": [
+        "Repair the smooth house during construction",
+        "Build the polished plank at the workshop",
+        "Carve the smooth nail after delivery",
+        "Build the wooden beam at noon",
+        "Assemble the reliable wood after delivery",
+        "Hammer the reliable workbench after delivery"
+      ]
+    },
+    "environment_informations": {
+      "weather": "foggy",
+      "time": "in the afternoon"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "38",
+      "name": "Cody Soto",
+      "role": "beggar",
+      "moods": [
+        "hopeful"
+      ],
+      "interests": [
+        "crafting",
+        "exploring",
+        "music"
+      ],
+      "playerRelationship": "72",
+      "gender": "female",
+      "personalities": [
+        "loyal",
+        "wise",
+        "playful",
+        "optimistic",
+        "generous"
+      ],
+      "requests": [
+        "Wait the dirty hope before meal",
+        "Wander the lonely companion in the evening",
+        "Wander the grateful companion in the evening",
+        "Ask the tired companion in the evening",
+        "Hope the dirty companion after rain",
+        "Ask the dirty corner in the evening",
+        "Wait the tired companion after rain",
+        "Wait the hungry blanket after rain",
+        "Hope the needy corner before meal",
+        "Beg the poor companion at the square",
+        "Beg the dirty food at the square",
+        "Wander the grateful shelter in the evening",
+        "Hope the poor blanket during festival",
+        "Beg the dirty blanket before meal",
+        "Hope the cold blanket during festival"
+      ]
+    },
+    "environment_informations": {
+      "weather": "foggy",
+      "time": "in the morning"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "40",
+      "name": "Melanie Fisher",
+      "role": "beggar",
+      "moods": [
+        "neutral"
+      ],
+      "interests": [
+        "meditation",
+        "cooking",
+        "alchemy",
+        "horsemanship"
+      ],
+      "playerRelationship": "88",
+      "gender": "male",
+      "personalities": [
+        "faithful"
+      ],
+      "requests": []
+    },
+    "environment_informations": {
+      "weather": "snowy",
+      "time": "after sunset"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "17",
+      "name": "Edgar Burns",
+      "role": "knight",
+      "moods": [
+        "bored"
+      ],
+      "interests": [
+        "magic"
+      ],
+      "playerRelationship": "36",
+      "gender": "male",
+      "personalities": [
+        "forgiving",
+        "arrogant",
+        "reserved",
+        "friendly"
+      ],
+      "requests": [
+        "Fight the strong horse during tournament",
+        "Fight the fearless horse at the castle",
+        "Train the fearless sword on patrol",
+        "Challenge the noble duty during tournament"
+      ]
+    },
+    "environment_informations": {
+      "weather": "snowy",
+      "time": "in the evening"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "46",
+      "name": "Jeremy Robinson",
+      "role": "innkeeper",
+      "moods": [
+        "happy"
+      ],
+      "interests": [
+        "crafting",
+        "cooking"
+      ],
+      "playerRelationship": "45",
+      "gender": "male",
+      "personalities": [
+        "lazy",
+        "loyal",
+        "curious"
+      ],
+      "requests": [
+        "Pour the festive banquet before festival",
+        "Clean the cozy room before festival",
+        "Pour the festive feast during feast"
+      ]
+    },
+    "environment_informations": {
+      "weather": "stormy",
+      "time": "in the afternoon"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "29",
+      "name": "David Sanders",
+      "role": "carpenter",
+      "moods": [
+        "anxious"
+      ],
+      "interests": [
+        "reading",
+        "music",
+        "crafting",
+        "hunting"
+      ],
+      "playerRelationship": "30",
+      "gender": "female",
+      "personalities": [
+        "arrogant",
+        "reckless"
+      ],
+      "requests": [
+        "Repair the smooth house during construction",
+        "Build the polished plank at the workshop",
+        "Carve the smooth nail after delivery",
+        "Build the wooden beam at noon",
+        "Assemble the reliable wood after delivery",
+        "Hammer the reliable workbench after delivery"
+      ]
+    },
+    "environment_informations": {
+      "weather": "hot",
+      "time": "in the morning"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "31",
+      "name": "Derek Freeman",
+      "role": "miner",
+      "moods": [
+        "angry",
+        "excited"
+      ],
+      "interests": [
+        "collecting"
+      ],
+      "playerRelationship": "2",
+      "gender": "male",
+      "personalities": [
+        "adventurous",
+        "forgiving",
+        "curious",
+        "playful"
+      ],
+      "requests": [
+        "Search the dusty tunnel in the mine",
+        "Break the gritty gem during shift",
+        "Explore the dark stone at dawn",
+        "Haul the deep mine after cave-in",
+        "Extract the dangerous mine during shift",
+        "Search the dusty ore at dawn",
+        "Explore the deep helmet before sunset",
+        "Break the dangerous helmet during shift",
+        "Search the rocky gem at dawn",
+        "Descend the dark pickaxe before sunset",
+        "Break the rocky gem before sunset",
+        "Break the hidden gem before sunset",
+        "Dig the dark ore after cave-in",
+        "Search the gritty ore at dawn",
+        "Haul the hidden pickaxe at dawn"
+      ]
+    },
+    "environment_informations": {
+      "weather": "foggy",
+      "time": "in the morning"
+    },
+    "npc_output": ""
+  }
+]

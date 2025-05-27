@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "Hi, how's the fishing?",
+    "npc_output": "It's great, I'm excited to catch some fish! |r1|"
+  },
+  {
+    "player_input": "What's your favorite food?",
+    "npc_output": "I love food, especially when it's cooked with love."
+  },
+  {
+    "player_input": "Do you know any good sailing routes?",
+    "npc_output": "Yes, I can navigate the adventurous ship after docking |r2|."
+  },
+  {
+    "player_input": "I'm looking for a book, can you help?",
+    "npc_output": "I'd be happy to help you find a book, let me research the ancient knowledge during study |r9|."
+  },
+  {
+    "player_input": "What's the best way to farm?",
+    "npc_output": "Farming is all about patience and care, I think."
+  },
+  {
+    "player_input": "Can I help with the festival preparations?",
+    "npc_output": "That's very kind of you, I need to prepare the festive banquet after sunset |r1|."
+  },
+  {
+    "player_input": "How's your farm doing?",
+    "npc_output": "It's a bit sad to see the crops struggling, but I need to weed the healthy soil before rain |r2|."
+  },
+  {
+    "player_input": "Do you have any predictions for today?",
+    "npc_output": "I sense something dark, I must predict the dark broom before dawn |r1|."
+  },
+  {
+    "player_input": "Can I borrow some money?",
+    "npc_output": "I'm not sure, but I can donate the influential debt after ceremony |r1| if you help me."
+  },
+  {
+    "player_input": "Do you need any help with the inn?",
+    "npc_output": "Actually, I need to pour the festive banquet before festival |r1|, can you lend a hand?"
+  }
+]

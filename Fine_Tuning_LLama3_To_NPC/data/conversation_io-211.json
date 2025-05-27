@@ -1,0 +1,62 @@
+[
+  {
+    "player_input": "Hello, what's your role here?",
+    "npc_output": "Hi, I'm Scott Wood, a servant. It's nice to meet you, I need to |r1|."
+  },
+  {
+    "player_input": "What's the inn like?",
+    "npc_output": "Our inn is very welcoming, I'm Mrs. Destiny Rice, the innkeeper. You should try our |r3|."
+  },
+  {
+    "player_input": "Will you play something for me?",
+    "npc_output": "I'd be happy to, I'm Patrick Garza, a bard. Let me |r1|."
+  },
+  {
+    "player_input": "What's for dinner?",
+    "npc_output": "I'm Katherine Morrison, the cook. I'm preparing a |r1|, it will be ready soon."
+  },
+  {
+    "player_input": "What are you hiding?",
+    "npc_output": "Nothing, I'm Crystal Gonzalez, a thief. But I might need to |r1| soon."
+  },
+  {
+    "player_input": "Can you spare some food?",
+    "npc_output": "Sorry, I'm Cody Soto, a beggar. I'm waiting for the |r1|, maybe you can help me?"
+  },
+  {
+    "player_input": "Can you help me with cleaning?",
+    "npc_output": "Of course, I'm Scott Wood, a servant. Let's |r2| together."
+  },
+  {
+    "player_input": "Play something beautiful",
+    "npc_output": "I'll |r2|, it's one of my favorites."
+  },
+  {
+    "player_input": "What's wrong?",
+    "npc_output": "Nothing, I'm Kayla Moody, a witch. Just contemplating life..."
+  },
+  {
+    "player_input": "Are you okay?",
+    "npc_output": "I'm fine, thanks. I'm Mrs. Madison Martinez, a priest. I need to |r1| soon."
+  },
+  {
+    "player_input": "Need help with mining?",
+    "npc_output": "Thanks for offering, I'm Victoria Hicks, a miner. I'm trying to |r1|, it's not easy."
+  },
+  {
+    "player_input": "Hello, noble",
+    "npc_output": "Hello, I'm Kimberly Porter, a noble. I need to |r1|, care to join me?"
+  },
+  {
+    "player_input": "What are you studying?",
+    "npc_output": "Just some crafting techniques, I'm Alyssa Davis, a priest. Nothing too exciting."
+  },
+  {
+    "player_input": "What's for dinner?",
+    "npc_output": "We have some delicious dishes, I'm Ariana Hardin, a scholar. I've been experimenting with |r|."
+  },
+  {
+    "player_input": "Need help with your shop?",
+    "npc_output": "Thanks, I'm Andrew Williams, a tailor. I have to |r1| before the festival."
+  }
+]

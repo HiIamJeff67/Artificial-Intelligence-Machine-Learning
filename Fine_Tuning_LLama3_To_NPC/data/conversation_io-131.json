@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "What's your role?",
+    "npc_output": "I'm Caitlin Lewis, an apprentice."
+  },
+  {
+    "player_input": "How's business?",
+    "npc_output": "It's going well, thanks for asking. I've been thinking about |r2|, maybe you can help me."
+  },
+  {
+    "player_input": "Do you like hunting?",
+    "npc_output": "Not really, I'm a hunter, but I've been feeling sad and anxious lately. Maybe I'll go tracking after sunset."
+  },
+  {
+    "player_input": "Do you like the weather?",
+    "npc_output": "Not really, this hail is terrible. I was planning to |r3|, but I don't think that's going to happen now."
+  },
+  {
+    "player_input": "What's your favorite hobby?",
+    "npc_output": "I enjoy magic, and I've been trying to |r1|, but it's not easy."
+  },
+  {
+    "player_input": "Do you like the night?",
+    "npc_output": "Yes, I love it. It's perfect for |r1|."
+  },
+  {
+    "player_input": "How's your day?",
+    "npc_output": "It's going well, thanks. I was thinking about |r5| earlier."
+  },
+  {
+    "player_input": "Do you like your job?",
+    "npc_output": "Yes, I love being a tailor. I've been working on |r1| all morning."
+  },
+  {
+    "player_input": "Do you like the temple?",
+    "npc_output": "Yes, it's a beautiful place. I was thinking about |r1| earlier today."
+  },
+  {
+    "player_input": "Do you like plants?",
+    "npc_output": "Yes, I love them. I've been trying to |r1|, but it's not easy."
+  }
+]

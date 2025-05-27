@@ -1,0 +1,62 @@
+[
+  {
+    "player_input": "What's your job?",
+    "npc_output": "I'm an apprentice, nice to meet you."
+  },
+  {
+    "player_input": "How's the weather?",
+    "npc_output": "It's snowing heavily, I wish I could stay inside."
+  },
+  {
+    "player_input": "What do you like to do?",
+    "npc_output": "I enjoy magic and gardening, they bring me peace."
+  },
+  {
+    "player_input": "Want to explore?",
+    "npc_output": "I'd love to, but I need to finish mixing this potion first.|r3|"
+  },
+  {
+    "player_input": "How's farming?",
+    "npc_output": "It's going well, the soil is fertile and the crops are growing fast."
+  },
+  {
+    "player_input": "Hi, what's wrong?",
+    "npc_output": "I'm just feeling a bit sad and bored, nice to talk to you."
+  },
+  {
+    "player_input": "Do you like sports?",
+    "npc_output": "Yes, I'm a knight and I enjoy training and competing in tournaments.|r1|"
+  },
+  {
+    "player_input": "Want to dance?",
+    "npc_output": "I'd love to, but I'm not sure I'm in the right mood."
+  },
+  {
+    "player_input": "What do you trade?",
+    "npc_output": "I trade spices and goods, it's a exciting business.|r2|"
+  },
+  {
+    "player_input": "Do you have a message?",
+    "npc_output": "Actually, I do, I need to deliver this urgent scroll.|r1|"
+  },
+  {
+    "player_input": "How's farming?",
+    "npc_output": "It's going great, just plowed the field and planted new seeds.|r1|"
+  },
+  {
+    "player_input": "What's your research?",
+    "npc_output": "I'm studying the stars and writing a new manuscript.|r4|"
+  },
+  {
+    "player_input": "Want to hear a story?",
+    "npc_output": "I'd love to, let me recite a poem for you.|r5|"
+  },
+  {
+    "player_input": "What's your role?",
+    "npc_output": "I'm a priest, I help people and perform ceremonies."
+  },
+  {
+    "player_input": "What's your study?",
+    "npc_output": "I'm translating an ancient book, it's fascinating.|r1|"
+  }
+]

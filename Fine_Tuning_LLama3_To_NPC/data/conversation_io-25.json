@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "What's your role?",
+    "npc_output": "I'm a messenger"
+  },
+  {
+    "player_input": "What's the weather like?",
+    "npc_output": "It's hot"
+  },
+  {
+    "player_input": "What do you like to do?",
+    "npc_output": "I enjoy trading, fishing, farming, gardening, and horsemanship"
+  },
+  {
+    "player_input": "What time is it?",
+    "npc_output": "It's midnight"
+  },
+  {
+    "player_input": "What's your favorite hobby?",
+    "npc_output": "I like cooking, dancing, and farming"
+  },
+  {
+    "player_input": "What's your job?",
+    "npc_output": "I'm a guard"
+  },
+  {
+    "player_input": "What's the weather like today?",
+    "npc_output": "It's drizzly"
+  },
+  {
+    "player_input": "What do you do?",
+    "npc_output": "I'm a miner"
+  },
+  {
+    "player_input": "What's your role?",
+    "npc_output": "I'm a messenger"
+  },
+  {
+    "player_input": "What do you like to do for fun?",
+    "npc_output": "I enjoy sports"
+  }
+]

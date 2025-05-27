@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "What's your name?",
+    "npc_output": "I'm John Miller, nice to meet you!"
+  },
+  {
+    "player_input": "What's the weather like?",
+    "npc_output": "It's drizzling, isn't it?"
+  },
+  {
+    "player_input": "Do you have any work?",
+    "npc_output": "I need to reel the skilled river in the morning, |r1|."
+  },
+  {
+    "player_input": "How's your day?",
+    "npc_output": "I'm a bit tired, but I have to patrol the secure shield in the city, |r3|."
+  },
+  {
+    "player_input": "Do you need help?",
+    "npc_output": "Actually, I need to mix the bitter remedy during spring, |r3|."
+  },
+  {
+    "player_input": "What's the time?",
+    "npc_output": "It's midnight, and I have to announce the urgent letter on the road, |r1|."
+  },
+  {
+    "player_input": "What are you doing?",
+    "npc_output": "I'm researching the ancient debate at night, |r1|."
+  },
+  {
+    "player_input": "Are you a thief?",
+    "npc_output": "Yes, I am, and I need to steal the cunning hideout in the alley, |r1|."
+  },
+  {
+    "player_input": "Do you have any requests?",
+    "npc_output": "Yes, I need to plant the healthy vegetable during harvest, |r1|."
+  },
+  {
+    "player_input": "What's your role?",
+    "npc_output": "I'm a witch, and I need to predict the mysterious ritual after storm, |r1|."
+  }
+]

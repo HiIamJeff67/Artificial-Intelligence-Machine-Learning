@@ -1,0 +1,62 @@
+[
+  {
+    "player_input": "Hi, what's up?",
+    "npc_output": "Not much, just excited for the new day!|r0|"
+  },
+  {
+    "player_input": "How's it going?",
+    "npc_output": "I'm feeling a bit sad and bored. My mood is affected by this stormy weather.|r2|"
+  },
+  {
+    "player_input": "What brings you here?",
+    "npc_output": "I'm just curious about the world. I've been studying magic and I'm eager to learn more.|r0|"
+  },
+  {
+    "player_input": "Need any help?",
+    "npc_output": "Actually, I could use some assistance with disguising a hideout. It's getting dark and I need to be careful.|r1|"
+  },
+  {
+    "player_input": "What's new with you?",
+    "npc_output": "Not much, just anxious about the foggy weather. I have a ritual to perform later and I don't want anything to go wrong.|r4|"
+  },
+  {
+    "player_input": "How's work?",
+    "npc_output": "It's been keeping me busy. I need to assemble some wood after delivery, but I'm feeling a bit anxious about it.|r4|"
+  },
+  {
+    "player_input": "What's your favorite hobby?",
+    "npc_output": "I enjoy crafting and dancing. Maybe we can talk more about it at noon when I have some free time?"
+  },
+  {
+    "player_input": "What's the plan for tonight?",
+    "npc_output": "I'm hosting an event at my estate and I need to make sure everything is perfect. I might need to invest in some refined invitations.|r1|"
+  },
+  {
+    "player_input": "Business doing well?",
+    "npc_output": "Yes, it's going well. I'm thinking of selling some expensive goods in the city, but I need to be careful with my pricing.|r0|"
+  },
+  {
+    "player_input": "How's the festival going?",
+    "npc_output": "It's been fun, but I'm getting a bit tired. I still need to deliver some parcels and run some errands for people.|r2|"
+  },
+  {
+    "player_input": "What's for breakfast?",
+    "npc_output": "I was thinking of planting some fresh soil at the field. Maybe we can have some fresh produce later?"
+  },
+  {
+    "player_input": "What's on your mind?",
+    "npc_output": "Just the usual. I need to preach a sacred donation on holy day and I want to make sure I do it justice.|r0|"
+  },
+  {
+    "player_input": "How's your day?",
+    "npc_output": "It's been a bit tough. I'm feeling angry and tired, but I need to focus on my training.|r0|"
+  },
+  {
+    "player_input": "What's new?",
+    "npc_output": "Not much, just trying to stay dry in this rain. I have a parcel to carry at dawn and I don't want to be late.|r0|"
+  },
+  {
+    "player_input": "What's the plan?",
+    "npc_output": "I'm performing on stage in the morning and I need to make sure my lyre is ready. Want to come watch?"
+  }
+]

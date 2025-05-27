@@ -1,0 +1,577 @@
+[
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "3",
+      "name": "Edward Lee DVM",
+      "role": "sailor",
+      "moods": [
+        "curious",
+        "excited",
+        "hopeful"
+      ],
+      "interests": [
+        "gardening",
+        "hunting",
+        "music",
+        "painting",
+        "dancing"
+      ],
+      "playerRelationship": "34",
+      "gender": "male",
+      "personalities": [
+        "protective",
+        "playful",
+        "meticulous"
+      ],
+      "requests": [
+        "Anchor the restless harbor on the ship",
+        "Repair the weathered ship on the ship"
+      ]
+    },
+    "environment_informations": {
+      "weather": "windy",
+      "time": "in the afternoon"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "51",
+      "name": "Gary Johnson",
+      "role": "scholar",
+      "moods": [
+        "hopeful",
+        "neutral",
+        "tired"
+      ],
+      "interests": [
+        "trading",
+        "fishing",
+        "farming",
+        "gardening",
+        "horsemanship"
+      ],
+      "playerRelationship": "73",
+      "gender": "male",
+      "personalities": [
+        "outgoing",
+        "moody"
+      ],
+      "requests": [
+        "Teach the learned study at night",
+        "Research the diligent manuscript at night",
+        "Record the diligent library in the library",
+        "Write the innovative library after lecture",
+        "Read the thoughtful research at night",
+        "Debate the diligent knowledge before exam",
+        "Read the reserved manuscript during study",
+        "Record the diligent knowledge before exam"
+      ]
+    },
+    "environment_informations": {
+      "weather": "foggy",
+      "time": "at noon"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "44",
+      "name": "Crystal Gonzalez",
+      "role": "thief",
+      "moods": [
+        "bored",
+        "tired",
+        "happy"
+      ],
+      "interests": [
+        "storytelling"
+      ],
+      "playerRelationship": "80",
+      "gender": "female",
+      "personalities": [
+        "ambitious",
+        "pessimistic",
+        "sarcastic",
+        "submissive",
+        "adventurous"
+      ],
+      "requests": [
+        "Steal the cunning hideout in the alley",
+        "Hide the cunning loot during festival",
+        "Steal the nimble lock at night"
+      ]
+    },
+    "environment_informations": {
+      "weather": "hot",
+      "time": "in the morning"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "52",
+      "name": "Mr. George Lawrence DDS",
+      "role": "blacksmith",
+      "moods": [
+        "anxious",
+        "curious"
+      ],
+      "interests": [
+        "hunting",
+        "reading"
+      ],
+      "playerRelationship": "5",
+      "gender": "male",
+      "personalities": [
+        "materialistic"
+      ],
+      "requests": [
+        "Melt the heavy forge in the forge",
+        "Forge the hot forge in the forge",
+        "Hammer the rusty anvil during festival",
+        "Sharpen the sharp metal before noon"
+      ]
+    },
+    "environment_informations": {
+      "weather": "hot",
+      "time": "in the evening"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "72",
+      "name": "Scott Griffith",
+      "role": "farmer",
+      "moods": [
+        "tired",
+        "excited"
+      ],
+      "interests": [
+        "storytelling",
+        "crafting",
+        "exploring",
+        "farming"
+      ],
+      "playerRelationship": "76",
+      "gender": "female",
+      "personalities": [
+        "reserved",
+        "outgoing",
+        "reckless",
+        "pragmatic"
+      ],
+      "requests": [
+        "Sow the bountiful soil after sunrise",
+        "Sow the muddy seed at the field",
+        "Water the ripe seed during harvest",
+        "Plant the muddy crop at the field",
+        "Sow the abundant plow in the morning",
+        "Water the fertile soil at the field",
+        "Plant the muddy barn at the field",
+        "Plant the fresh field in the morning",
+        "Tend the abundant harvest at the field",
+        "Weed the ripe seed at the field",
+        "Water the healthy seed in the morning",
+        "Water the fresh barn after sunrise",
+        "Water the bountiful seed after sunrise"
+      ]
+    },
+    "environment_informations": {
+      "weather": "windy",
+      "time": "at dawn"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "73",
+      "name": "Christopher Turner",
+      "role": "tailor",
+      "moods": [
+        "hopeful",
+        "excited"
+      ],
+      "interests": [
+        "meditation"
+      ],
+      "playerRelationship": "35",
+      "gender": "female",
+      "personalities": [
+        "meticulous"
+      ],
+      "requests": [
+        "Embroider the elegant hat in the shop",
+        "Mend the colorful outfit at noon",
+        "Sew the elegant outfit before festival",
+        "Embroider the fashionable needle before festival",
+        "Measure the embroidered pattern during fitting"
+      ]
+    },
+    "environment_informations": {
+      "weather": "stormy",
+      "time": "in the evening"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "83",
+      "name": "David Lopez",
+      "role": "messenger",
+      "moods": [
+        "happy",
+        "hopeful"
+      ],
+      "interests": [
+        "magic",
+        "trading",
+        "sports",
+        "exploring"
+      ],
+      "playerRelationship": "25",
+      "gender": "female",
+      "personalities": [
+        "shy",
+        "reckless",
+        "loyal",
+        "protective"
+      ],
+      "requests": [
+        "Notify the trusted news after delivery",
+        "Announce the swift errand at dawn",
+        "Announce the quick parcel before sunset",
+        "Run the urgent route before sunset",
+        "Notify the urgent route before sunset",
+        "Report the trusted scroll after delivery",
+        "Run the trusted scroll at dawn",
+        "Announce the punctual scroll at dawn",
+        "Run the trusted route at dawn",
+        "Deliver the punctual delivery before sunset",
+        "Report the trusted parcel on the road",
+        "Notify the reliable route during rain",
+        "Report the urgent delivery after delivery",
+        "Fetch the discreet letter during rain"
+      ]
+    },
+    "environment_informations": {
+      "weather": "drizzle",
+      "time": "before sunrise"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "98",
+      "name": "Anthony Lee",
+      "role": "beggar",
+      "moods": [
+        "sad",
+        "angry"
+      ],
+      "interests": [
+        "trading",
+        "meditation"
+      ],
+      "playerRelationship": "12",
+      "gender": "male",
+      "personalities": [
+        "brave",
+        "generous",
+        "shy"
+      ],
+      "requests": [
+        "Wander the lonely shelter during festival",
+        "Hope the cold blanket during festival",
+        "Wait the lonely hope before meal",
+        "Wander the poor hope during festival"
+      ]
+    },
+    "environment_informations": {
+      "weather": "hail",
+      "time": "at noon"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "44",
+      "name": "Crystal Gonzalez",
+      "role": "thief",
+      "moods": [
+        "bored",
+        "tired",
+        "happy"
+      ],
+      "interests": [
+        "storytelling"
+      ],
+      "playerRelationship": "80",
+      "gender": "female",
+      "personalities": [
+        "ambitious",
+        "pessimistic",
+        "sarcastic",
+        "submissive",
+        "adventurous"
+      ],
+      "requests": [
+        "Steal the cunning hideout in the alley",
+        "Hide the cunning loot during festival",
+        "Steal the nimble lock at night"
+      ]
+    },
+    "environment_informations": {
+      "weather": "hot",
+      "time": "at dusk"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "58",
+      "name": "Regina Bryant",
+      "role": "thief",
+      "moods": [
+        "angry",
+        "curious"
+      ],
+      "interests": [
+        "farming",
+        "collecting",
+        "exploring",
+        "dancing"
+      ],
+      "playerRelationship": "13",
+      "gender": "male",
+      "personalities": [
+        "decisive",
+        "strict"
+      ],
+      "requests": [
+        "Steal the shadowy loot in the alley",
+        "Unlock the quick loot after curfew",
+        "Disguise the sneaky secret before dawn",
+        "Steal the cunning loot after curfew",
+        "Spy the shadowy hideout during festival",
+        "Disguise the silent escape at night",
+        "Unlock the sneaky crime at night",
+        "Disguise the cunning escape in the alley",
+        "Escape the cunning disguise before dawn",
+        "Pick the masked crime during festival",
+        "Steal the cunning hideout in the alley",
+        "Disguise the shadowy hideout after curfew",
+        "Hide the nimble loot during festival"
+      ]
+    },
+    "environment_informations": {
+      "weather": "rainy",
+      "time": "in the morning"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "8",
+      "name": "Kimberly Cummings",
+      "role": "farmer",
+      "moods": [
+        "happy"
+      ],
+      "interests": [
+        "gambling",
+        "music",
+        "gardening",
+        "collecting"
+      ],
+      "playerRelationship": "70",
+      "gender": "female",
+      "personalities": [
+        "greedy",
+        "eccentric"
+      ],
+      "requests": [
+        "Plow the abundant soil after sunrise",
+        "Plow the fresh soil after sunrise",
+        "Plant the fresh field in the morning"
+      ]
+    },
+    "environment_informations": {
+      "weather": "drizzle",
+      "time": "in the morning"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "74",
+      "name": "Mrs. Madison Martinez",
+      "role": "priest",
+      "moods": [
+        "angry"
+      ],
+      "interests": [
+        "exploring",
+        "sports",
+        "crafting",
+        "fishing",
+        "collecting"
+      ],
+      "playerRelationship": "20",
+      "gender": "male",
+      "personalities": [
+        "timid",
+        "jealous"
+      ],
+      "requests": [
+        "Heal the holy faith during ceremony",
+        "Preach the faithful faith after prayer",
+        "Heal the holy faith at dawn",
+        "Conduct the holy prayer during ceremony",
+        "Forgive the faithful wedding in the temple",
+        "Conduct the faithful prayer on holy day"
+      ]
+    },
+    "environment_informations": {
+      "weather": "stormy",
+      "time": "after sunset"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "5",
+      "name": "Micheal Duncan",
+      "role": "king",
+      "moods": [
+        "tired",
+        "neutral"
+      ],
+      "interests": [
+        "meditation",
+        "alchemy",
+        "hunting"
+      ],
+      "playerRelationship": "27",
+      "gender": "male",
+      "personalities": [
+        "brave",
+        "indecisive",
+        "dreamy",
+        "blunt"
+      ],
+      "requests": [
+        "Lead the powerful treasure at festival",
+        "Appoint the powerful court during council",
+        "Rule the noble kingdom during council",
+        "Rule the powerful kingdom in the morning",
+        "Summon the powerful throne in the morning",
+        "Command the just throne after victory",
+        "Rule the noble crown after victory",
+        "Decree the commanding festival in the throne room",
+        "Summon the noble law at festival",
+        "Judge the noble festival at festival",
+        "Judge the commanding court in the morning"
+      ]
+    },
+    "environment_informations": {
+      "weather": "drizzle",
+      "time": "before sunrise"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "89",
+      "name": "Kristi Potts",
+      "role": "carpenter",
+      "moods": [
+        "sad",
+        "bored",
+        "anxious"
+      ],
+      "interests": [
+        "gardening",
+        "collecting"
+      ],
+      "playerRelationship": "57",
+      "gender": "female",
+      "personalities": [
+        "moody",
+        "forgiving"
+      ],
+      "requests": [
+        "Saw the handcrafted plank before rain",
+        "Join the solid nail at noon",
+        "Assemble the handcrafted tool before rain",
+        "Measure the smooth plank at the workshop",
+        "Join the handcrafted house after delivery",
+        "Assemble the reliable tool after delivery",
+        "Measure the well-made tool before rain",
+        "Hammer the solid wood during construction",
+        "Measure the polished wood during construction",
+        "Join the solid plank before rain",
+        "Saw the wooden furniture after delivery",
+        "Carve the sturdy workbench at noon",
+        "Carve the sturdy wood at noon"
+      ]
+    },
+    "environment_informations": {
+      "weather": "windy",
+      "time": "at dusk"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "84",
+      "name": "Katherine Morrison",
+      "role": "cook",
+      "moods": [
+        "tired"
+      ],
+      "interests": [
+        "sports",
+        "dancing",
+        "music",
+        "hunting"
+      ],
+      "playerRelationship": "18",
+      "gender": "female",
+      "personalities": [
+        "authoritative",
+        "pragmatic",
+        "vengeful",
+        "impatient"
+      ],
+      "requests": [
+        "Season the spicy meal at noon",
+        "Mix the fresh ingredient during festival",
+        "Serve the fresh bread after market",
+        "Serve the spicy dessert before feast",
+        "Prepare the tasty kitchen at noon"
+      ]
+    },
+    "environment_informations": {
+      "weather": "hail",
+      "time": "after sunset"
+    },
+    "npc_output": ""
+  }
+]

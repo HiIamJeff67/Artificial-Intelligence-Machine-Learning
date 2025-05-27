@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "What's your favorite thing to do during the festival?",
+    "npc_output": "I love singing and performing, and I'm actually supposed to |r1| today, but I'm feeling a bit sad about it."
+  },
+  {
+    "player_input": "Do you like horsemanship?",
+    "npc_output": "Yes, I do! I find it quite fascinating, but I'm feeling a bit bored and stormy weather doesn't help."
+  },
+  {
+    "player_input": "Want to dance?",
+    "npc_output": "I'd love to, but I'm not sure I'm in the right mood for it, and it's a bit early in the morning."
+  },
+  {
+    "player_input": "Do you need help with farming?",
+    "npc_output": "Actually, I could use some help with weeding the soil before the rain starts, it's supposed to hail."
+  },
+  {
+    "player_input": "Want to go fishing?",
+    "npc_output": "I'm not sure, the hail is making it difficult to fish, but I do need to |r1| before the storm hits."
+  },
+  {
+    "player_input": "What's it like being a king?",
+    "npc_output": "It's a lot of responsibility, and I'm feeling a bit tired, but I have to |r1| today."
+  },
+  {
+    "player_input": "Do you like storytelling?",
+    "npc_output": "Yes, I do! And I'm actually supposed to |r5| after I finish my delivery."
+  },
+  {
+    "player_input": "Do you need help with healing?",
+    "npc_output": "Actually, I could use some help with treating a patient, but it's a bit hot outside and I'm feeling a bit bored."
+  },
+  {
+    "player_input": "Want to go fishing at midnight?",
+    "npc_output": "I'm not sure, it's a bit windy and I'm feeling tired, but I do love fishing at night."
+  },
+  {
+    "player_input": "What's it like being a beggar?",
+    "npc_output": "It's tough, and I'm feeling sad and angry, but I'm just trying to |r1| during the festival."
+  }
+]

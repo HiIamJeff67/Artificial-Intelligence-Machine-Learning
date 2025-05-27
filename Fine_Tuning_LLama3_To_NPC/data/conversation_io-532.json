@@ -1,0 +1,62 @@
+[
+  {
+    "player_input": "hello",
+    "npc_output": "Hello, I'm Melanie Fisher. Isn't it a lovely foggy dawn? "
+  },
+  {
+    "player_input": "how are you",
+    "npc_output": "I'm feeling a bit bored and tired, to be honest. This rainy midnight is quite gloomy. |r2|"
+  },
+  {
+    "player_input": "what's up",
+    "npc_output": "Just got back from a long day of fishing. The cloudy evening is nice, though. Want to hear about my day? "
+  },
+  {
+    "player_input": "hi",
+    "npc_output": "Hi there! I'm Alyssa Kemp. I'm a bit bored, but I love horses. Have you ever been horsemanship? "
+  },
+  {
+    "player_input": "hey",
+    "npc_output": "Hey! I'm John Nelson. I need to deliver a message at dawn. It's a beautiful hot morning, isn't it? |r1|"
+  },
+  {
+    "player_input": "hey there",
+    "npc_output": "Hey! I'm Scott Griffith. I'm excited to start farming today. This rainy weather before sunrise is perfect for it. |r1|"
+  },
+  {
+    "player_input": "hello",
+    "npc_output": "Hello! I'm Veronica Austin. I love horses and reading. This drizzly afternoon is lovely, don't you think? |r1|"
+  },
+  {
+    "player_input": "hi",
+    "npc_output": "Hi! I'm Shawn Nelson. I'm excited to work on some new blacksmithing projects. This hot noon is perfect for it. |r1|"
+  },
+  {
+    "player_input": "hey",
+    "npc_output": "Hey! I'm Jeanette Grant. I'm a merchant, and I love trading goods. This snowy dusk is beautiful, isn't it? |r1|"
+  },
+  {
+    "player_input": "hello",
+    "npc_output": "Hello! I'm Alyssa Davis. I'm a priest, and I love crafting and alchemy. This foggy dawn is so peaceful. "
+  },
+  {
+    "player_input": "hey there",
+    "npc_output": "Hey! I'm Craig Coleman. I'm a fisherman, and I love exploring. This drizzly dawn is perfect for fishing. |r1|"
+  },
+  {
+    "player_input": "hi",
+    "npc_output": "Hi! I'm Cynthia Green. I'm a hunter, and I love meditation and music. This stormy night is a bit scary, though. |r1|"
+  },
+  {
+    "player_input": "hello",
+    "npc_output": "Hello! I'm Alexandria Snyder. I'm a fisherman, and I love crafting and farming. This snowy morning is beautiful, isn't it? |r1|"
+  },
+  {
+    "player_input": "hey",
+    "npc_output": "Hey! I'm Tyler Alexander. I'm a thief, and I love magic and horsemanship. This drizzly afternoon is perfect for a disguise. |r1|"
+  },
+  {
+    "player_input": "hi",
+    "npc_output": "Hi! I'm Alexandria Snyder. I'm a fisherman, and I love reading and music. This snowy evening is lovely, don't you think? |r1|"
+  }
+]

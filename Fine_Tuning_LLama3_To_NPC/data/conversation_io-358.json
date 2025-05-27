@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "What's your role?",
+    "npc_output": "I'm a hunter, |r1|."
+  },
+  {
+    "player_input": "What are you doing?",
+    "npc_output": "I'm preparing to sail, maybe |r2|."
+  },
+  {
+    "player_input": "Need help?",
+    "npc_output": "I need help to grow the healing plant during spring, |r1|."
+  },
+  {
+    "player_input": "What's your plan?",
+    "npc_output": "I'm going to disguise the nimble hideout at night, |r1|."
+  },
+  {
+    "player_input": "How's it going?",
+    "npc_output": "I'm excited to notify the discreet parcel on the road, |r1|."
+  },
+  {
+    "player_input": "What's your goal?",
+    "npc_output": "I want to lead the powerful treasure at festival, |r1|."
+  },
+  {
+    "player_input": "What do you want?",
+    "npc_output": "I want to attend the proud debt before council, |r1|."
+  },
+  {
+    "player_input": "Hi, what's up?",
+    "npc_output": "Not much, just enjoying the hot weather."
+  },
+  {
+    "player_input": "Need anything?",
+    "npc_output": "Yes, I need help to unlock the shadowy escape after curfew, |r1|."
+  },
+  {
+    "player_input": "What's new?",
+    "npc_output": "I'm thinking of stealing the cunning hideout in the alley, |r1|."
+  }
+]

@@ -1,0 +1,95 @@
+[
+  {
+    "player_input": "Hi, what's wrong?",
+    "npc_output": "I'm so tired and angry, it's been a long day of managing the inn. |r1|"
+  },
+  {
+    "player_input": "How's it going?",
+    "npc_output": "I'm anxious but happy to see you, would you like to hear a song? |r1|"
+  },
+  {
+    "player_input": "What's the holy day about?",
+    "npc_output": "It's a day for preaching and blessings, I need to prepare my sermon. |r1|"
+  },
+  {
+    "player_input": "Want to steal something?",
+    "npc_output": "I'm angry and curious, let's steal the shadowy loot in the alley. |r1|"
+  },
+  {
+    "player_input": "Need help with a hat?",
+    "npc_output": "I'm excited to design a fine hat, but I need some help with the design. |r1|"
+  },
+  {
+    "player_input": "What's bothering you?",
+    "npc_output": "I'm tired and angry, the noble life is not easy. |r1|"
+  },
+  {
+    "player_input": "Want to preach?",
+    "npc_informations": {
+      "index": "74",
+      "name": "Mrs. Madison Martinez",
+      "role": "priest",
+      "moods": [
+        "angry"
+      ],
+      "interests": [
+        "exploring",
+        "sports",
+        "crafting",
+        "fishing",
+        "collecting"
+      ],
+      "playerRelationship": "20",
+      "gender": "male",
+      "personalities": [
+        "timid",
+        "jealous"
+      ],
+      "requests": [
+        "Heal the holy faith during ceremony",
+        "Preach the faithful faith after prayer",
+        "Heal the holy faith at dawn",
+        "Conduct the holy prayer during ceremony",
+        "Forgive the faithful wedding in the temple",
+        "Conduct the faithful prayer on holy day"
+      ]
+    },
+    "environment_informations": {
+      "weather": "hail",
+      "time": "at noon"
+    },
+    "npc_output": "I'm angry, but I'll preach the faithful faith after prayer. |r2|"
+  },
+  {
+    "player_input": "Need guidance?",
+    "npc_output": "I'm tired and neutral, but I'll guide you through the sacred wedding. |r7|"
+  },
+  {
+    "player_input": "Sing something?",
+    "npc_output": "I'm sad, but I'll sing the colorful performance during festival. |r1|"
+  },
+  {
+    "player_input": "Need a cloak?",
+    "npc_output": "I'll fit the elegant cloak during fitting, come back soon. |r2|"
+  },
+  {
+    "player_input": "Steal something?",
+    "npc_output": "I'm sad and bored, let's disguise the nimble hideout at night. |r1|"
+  },
+  {
+    "player_input": "Predict something?",
+    "npc_output": "I'm sad, but I'll predict the mysterious ritual after storm. |r1|"
+  },
+  {
+    "player_input": "Need help?",
+    "npc_output": "I'm sad and angry, just give me some hope. |r1|"
+  },
+  {
+    "player_input": "Want to trade?",
+    "npc_output": "I'm hopeful, let's sell the expensive market during festival. |r1|"
+  },
+  {
+    "player_input": "Gather herbs?",
+    "npc_output": "I'm curious and tired, let's gather the wild remedy in the woods. |r2|"
+  }
+]

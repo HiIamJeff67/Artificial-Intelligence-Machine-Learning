@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "What's the plan?",
+    "npc_output": "I'm planning to |r1|, want to join me?"
+  },
+  {
+    "player_input": "Hi, how are you?",
+    "npc_output": "I'm feeling a bit |r5|, but I need to |r3| first."
+  },
+  {
+    "player_input": "Do you need any help?",
+    "npc_output": "Actually, I could use some assistance with |r2|."
+  },
+  {
+    "player_input": "What's for dinner?",
+    "npc_output": "I was thinking of |r10|, care to join me?"
+  },
+  {
+    "player_input": "I love cooking!",
+    "npc_output": "Really? I need help with |r4|, can you lend a hand?"
+  },
+  {
+    "player_input": "Do you like the snow?",
+    "npc_output": "It's nice, but I have to |r6| soon."
+  },
+  {
+    "player_input": "Good morning!",
+    "npc_output": "Morning! I have to |r8| today, wish me luck."
+  },
+  {
+    "player_input": "I'm looking for a herbalist.",
+    "npc_output": "You've found one! I can help you with |r1|."
+  },
+  {
+    "player_input": "Do you play music?",
+    "npc_output": "Yes, I'm planning to |r11| tonight, want to come?"
+  },
+  {
+    "player_input": "I love fishing!",
+    "npc_output": "Me too! I need to |r5| before the storm hits."
+  }
+]

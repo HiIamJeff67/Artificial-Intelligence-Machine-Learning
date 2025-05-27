@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "Hi, how are you?",
+    "npc_output": "I'm feeling tired today, been fishing all morning. Now I need to |r1|."
+  },
+  {
+    "player_input": "What's your favorite sport?",
+    "npc_output": "I enjoy fishing, but also like sports. The weather is not great today, is it? Maybe I'll |r1| soon."
+  },
+  {
+    "player_input": "Do you have a performance tonight?",
+    "npc_output": "Yes, I do! I'll be entertaining the crowd with my lively lyre on stage. Wish me luck, I'll |r1| tonight."
+  },
+  {
+    "player_input": "Are you training for the tournament?",
+    "npc_output": "Yes, I am. As a knight, I must always be prepared. I plan to |r1| soon."
+  },
+  {
+    "player_input": "How's the fishing?",
+    "npc_output": "It's tough with this snowy weather, but I'll manage. I need to |r1| today."
+  },
+  {
+    "player_input": "Your Majesty, what's the plan for the council?",
+    "npc_output": "We'll be discussing the powerful treasure at festival. I must |r1| and make sure everything goes smoothly."
+  },
+  {
+    "player_input": "Do you have any rare herbs?",
+    "npc_output": "I do have some medicinal herbs. I was thinking of |r1| in the woods today."
+  },
+  {
+    "player_input": "What are you selling at the market?",
+    "npc_output": "I have some expensive goods, but I'm not sure if I'll |r1| them during festival."
+  },
+  {
+    "player_input": "Can you help me with my research?",
+    "npc_output": "Of course, I'd be happy to |r1| at night and assist you."
+  },
+  {
+    "player_input": "What's the best way to escape?",
+    "npc_output": "As a thief, I know the ways. I can |r1| at night and get us out of here."
+  }
+]

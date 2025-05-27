@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "What's your name?",
+    "npc_output": "I'm Kimberly Porter, nice to meet you."
+  },
+  {
+    "player_input": "How's the weather?",
+    "npc_output": "It's stormy outside, let's stay indoors."
+  },
+  {
+    "player_input": "Want to go for a ride?",
+    "npc_output": "I'd love to, let's ride the valiant horse during tournament, |r1|."
+  },
+  {
+    "player_input": "What are you hunting?",
+    "npc_output": "I'm tracking the skilled prey in the forest, |r1|."
+  },
+  {
+    "player_input": "Play something for me.",
+    "npc_output": "Let me play the charming performance during festival, |r1|."
+  },
+  {
+    "player_input": "Excuse me, miner.",
+    "npc_output": "What's up? I'm searching the dusty tunnel in the mine, |r1|."
+  },
+  {
+    "player_input": "Hi, I'm bored.",
+    "npc_output": "I know how you feel, I'm a bit bored too, want to go fishing?"
+  },
+  {
+    "player_input": "Do you need help?",
+    "npc_output": "Actually, I need to embroider the elegant hat in the shop, |r1|."
+  },
+  {
+    "player_input": "Tell me a story.",
+    "npc_output": "Let me sing the colorful performance during festival, |r1|."
+  },
+  {
+    "player_input": "What's that smell?",
+    "npc_output": "I'm gathering the dried plant at sunrise, |r1|."
+  }
+]

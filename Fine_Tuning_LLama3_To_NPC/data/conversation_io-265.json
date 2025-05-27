@@ -1,0 +1,58 @@
+[
+  {
+    "player_input": "What's new in the mine?",
+    "npc_output": "Not much, just found a new vein of ore. |r1|"
+  },
+  {
+    "player_input": "How's business?",
+    "npc_output": "Slow today, not many customers. The stormy weather doesn't help."
+  },
+  {
+    "player_input": "Do you have any new songs?",
+    "npc_output": "Actually, I was working on a new melody this morning. Want to hear it?"
+  },
+  {
+    "player_input": "Need any help with the horses?",
+    "npc_output": "No, thanks. Just giving them some food and water. It's a quiet night."
+  },
+  {
+    "player_input": "What are you up to?",
+    "npc_output": "Just enjoying the afternoon, maybe I'll go for a walk later. |r3|"
+  },
+  {
+    "player_input": "Do you need assistance with your armor?",
+    "npc_output": "Thanks, but I can handle it. Just preparing for the tournament."
+  },
+  {
+    "player_input": "How's the carpentry business?",
+    "npc_output": "It's going well, just made a new chair this morning."
+  },
+  {
+    "player_input": "Want to go fishing?",
+    "npc_output": "Maybe later, I need to check my nets first."
+  },
+  {
+    "player_input": "Do you need any food?",
+    "npc_output": "No, thanks. I'm waiting for someone to bring me some breakfast."
+  },
+  {
+    "player_input": "What's the plan for the day?",
+    "npc_output": "I'm hosting a court at the palace later. |r1|"
+  },
+  {
+    "player_input": "Do you have any messages to deliver?",
+    "npc_output": "Yes, I have a few letters to send out today. |r5|"
+  },
+  {
+    "player_input": "How's the knight training?",
+    "npc_output": "It's going well, just got back from a ride. |r2|"
+  },
+  {
+    "player_input": "What are you mining for?",
+    "npc_output": "Just looking for some gems and ores. |r9|"
+  },
+  {
+    "player_input": "Ready to plow the fields?",
+    "npc_output": "Yes, just need to get the horses ready. |r1|"
+  }
+]

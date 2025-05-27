@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "What are you working on tonight?",
+    "npc_output": "I am working on |r1|, can you help me?"
+  },
+  {
+    "player_input": "Do you need any help?",
+    "npc_output": "I need help with |r1|, want to assist me?"
+  },
+  {
+    "player_input": "What's the plan for today?",
+    "npc_output": "I have to |r1|, care to join me?"
+  },
+  {
+    "player_input": "What are you studying?",
+    "npc_output": "I am studying for |r1|, want to learn with me?"
+  },
+  {
+    "player_input": "Do you have any new designs?",
+    "npc_output": "I just designed |r1|, what do you think?"
+  },
+  {
+    "player_input": "What's new with your tailoring?",
+    "npc_output": "I am working on |r1|, excited to show you!"
+  },
+  {
+    "player_input": "Can I get a room?",
+    "npc_output": "I can prepare |r1| for you, would you like that?"
+  },
+  {
+    "player_input": "What are you planting today?",
+    "npc_output": "I am planting |r1|, want to lend a hand?"
+  },
+  {
+    "player_input": "Do you sense anything unusual?",
+    "npc_output": "I sense |r1|, let's investigate!"
+  },
+  {
+    "player_input": "What's your current project?",
+    "npc_output": "I am brewing |r1|, curious about the results?"
+  }
+]

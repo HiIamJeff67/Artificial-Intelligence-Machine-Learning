@@ -1,0 +1,573 @@
+[
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "90",
+      "name": "Tyler Alexander",
+      "role": "thief",
+      "moods": [
+        "sad",
+        "bored",
+        "tired"
+      ],
+      "interests": [
+        "magic",
+        "horsemanship",
+        "alchemy",
+        "collecting"
+      ],
+      "playerRelationship": "89",
+      "gender": "male",
+      "personalities": [
+        "faithful"
+      ],
+      "requests": [
+        "Disguise the nimble hideout at night",
+        "Steal the masked lock during festival",
+        "Disguise the clever secret during festival",
+        "Escape the nimble escape during festival",
+        "Pick the cunning mask during festival",
+        "Steal the nimble lock at night",
+        "Unlock the quick loot after curfew",
+        "Escape the cunning hideout in the alley",
+        "Pick the sneaky lock in the alley",
+        "Unlock the shadowy escape after curfew",
+        "Escape the quick escape at night",
+        "Escape the cunning loot before dawn",
+        "Unlock the cunning lock after curfew"
+      ]
+    },
+    "environment_informations": {
+      "weather": "drizzle",
+      "time": "in the afternoon"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "11",
+      "name": "Mrs. Destiny Rice",
+      "role": "innkeeper",
+      "moods": [
+        "hopeful",
+        "anxious",
+        "excited"
+      ],
+      "interests": [
+        "gambling",
+        "dancing",
+        "alchemy"
+      ],
+      "playerRelationship": "95",
+      "gender": "male",
+      "personalities": [
+        "pragmatic",
+        "meticulous"
+      ],
+      "requests": [
+        "Clean the busy room before festival",
+        "Serve the welcoming feast after sunset",
+        "Pour the generous feast at the inn",
+        "Serve the generous drink in the evening"
+      ]
+    },
+    "environment_informations": {
+      "weather": "hail",
+      "time": "in the morning"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "42",
+      "name": "Linda Carter",
+      "role": "hunter",
+      "moods": [
+        "neutral",
+        "bored"
+      ],
+      "interests": [
+        "cooking",
+        "crafting",
+        "fishing",
+        "storytelling"
+      ],
+      "playerRelationship": "39",
+      "gender": "male",
+      "personalities": [
+        "sarcastic",
+        "reserved"
+      ],
+      "requests": [
+        "Shoot the sharp-eyed trap in the forest",
+        "Trap the silent camp during hunt",
+        "Track the rugged arrow before sunset",
+        "Trap the patient camp before sunset",
+        "Skin the wild fur in the forest",
+        "Shoot the sharp-eyed forest after rain",
+        "Trap the quick forest at dawn",
+        "Skin the rugged fur at dawn",
+        "Ambush the stealthy arrow before sunset",
+        "Hunt the skilled camp after rain",
+        "Camp the wild arrow in the forest",
+        "Stalk the wild arrow at dawn",
+        "Trap the stealthy forest before sunset",
+        "Shoot the silent animal after rain",
+        "Camp the rugged bow after rain"
+      ]
+    },
+    "environment_informations": {
+      "weather": "rainy",
+      "time": "after sunset"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "96",
+      "name": "Frank Parker",
+      "role": "fool",
+      "moods": [
+        "curious"
+      ],
+      "interests": [
+        "sports"
+      ],
+      "playerRelationship": "68",
+      "gender": "male",
+      "personalities": [
+        "adventurous",
+        "lazy",
+        "compassionate"
+      ],
+      "requests": [
+        "Jest the playful trick after joke",
+        "Mock the silly prank before sunset",
+        "Jest the loud dance at the festival"
+      ]
+    },
+    "environment_informations": {
+      "weather": "stormy",
+      "time": "in the evening"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "100",
+      "name": "Pamela Sherman",
+      "role": "scholar",
+      "moods": [
+        "excited"
+      ],
+      "interests": [
+        "alchemy"
+      ],
+      "playerRelationship": "71",
+      "gender": "male",
+      "personalities": [
+        "playful",
+        "moody",
+        "protective",
+        "diligent"
+      ],
+      "requests": [
+        "Translate the curious library before exam",
+        "Read the innovative study before exam",
+        "Write the wise manuscript after lecture",
+        "Teach the reserved book at night",
+        "Write the thoughtful debate at night",
+        "Record the learned manuscript during study",
+        "Translate the diligent book at night",
+        "Record the reserved study in the library",
+        "Research the ancient knowledge during study",
+        "Research the curious book during study",
+        "Teach the reserved knowledge in the library",
+        "Teach the wise library before exam",
+        "Write the reserved knowledge at night",
+        "Translate the reserved library during study",
+        "Translate the ancient study at night"
+      ]
+    },
+    "environment_informations": {
+      "weather": "windy",
+      "time": "during the festival"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "44",
+      "name": "Crystal Gonzalez",
+      "role": "thief",
+      "moods": [
+        "bored",
+        "tired",
+        "happy"
+      ],
+      "interests": [
+        "storytelling"
+      ],
+      "playerRelationship": "80",
+      "gender": "female",
+      "personalities": [
+        "ambitious",
+        "pessimistic",
+        "sarcastic",
+        "submissive",
+        "adventurous"
+      ],
+      "requests": [
+        "Steal the cunning hideout in the alley",
+        "Hide the cunning loot during festival",
+        "Steal the nimble lock at night"
+      ]
+    },
+    "environment_informations": {
+      "weather": "cloudy",
+      "time": "in the evening"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "38",
+      "name": "Cody Soto",
+      "role": "beggar",
+      "moods": [
+        "hopeful"
+      ],
+      "interests": [
+        "crafting",
+        "exploring",
+        "music"
+      ],
+      "playerRelationship": "72",
+      "gender": "female",
+      "personalities": [
+        "loyal",
+        "wise",
+        "playful",
+        "optimistic",
+        "generous"
+      ],
+      "requests": [
+        "Wait the dirty hope before meal",
+        "Wander the lonely companion in the evening",
+        "Wander the grateful companion in the evening",
+        "Ask the tired companion in the evening",
+        "Hope the dirty companion after rain",
+        "Ask the dirty corner in the evening",
+        "Wait the tired companion after rain",
+        "Wait the hungry blanket after rain",
+        "Hope the needy corner before meal",
+        "Beg the poor companion at the square",
+        "Beg the dirty food at the square",
+        "Wander the grateful shelter in the evening",
+        "Hope the poor blanket during festival",
+        "Beg the dirty blanket before meal",
+        "Hope the cold blanket during festival"
+      ]
+    },
+    "environment_informations": {
+      "weather": "stormy",
+      "time": "after sunset"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "67",
+      "name": "Erica Whitehead",
+      "role": "sailor",
+      "moods": [
+        "anxious"
+      ],
+      "interests": [
+        "painting",
+        "horsemanship",
+        "farming",
+        "sports"
+      ],
+      "playerRelationship": "61",
+      "gender": "female",
+      "personalities": [
+        "adventurous",
+        "submissive",
+        "moody",
+        "generous",
+        "meticulous"
+      ],
+      "requests": [
+        "Load the salty voyage at the harbor",
+        "Anchor the skilled voyage before voyage",
+        "Row the adventurous voyage before voyage",
+        "Repair the salty rope before voyage",
+        "Explore the strong storm at the harbor",
+        "Navigate the rowdy map during storm",
+        "Explore the adventurous map during storm",
+        "Anchor the weathered voyage during storm",
+        "Anchor the strong voyage at the harbor",
+        "Anchor the skilled sea after docking",
+        "Navigate the adventurous ship after docking"
+      ]
+    },
+    "environment_informations": {
+      "weather": "cloudy",
+      "time": "before sunrise"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "46",
+      "name": "Jeremy Robinson",
+      "role": "innkeeper",
+      "moods": [
+        "happy"
+      ],
+      "interests": [
+        "crafting",
+        "cooking"
+      ],
+      "playerRelationship": "45",
+      "gender": "male",
+      "personalities": [
+        "lazy",
+        "loyal",
+        "curious"
+      ],
+      "requests": [
+        "Pour the festive banquet before festival",
+        "Clean the cozy room before festival",
+        "Pour the festive feast during feast"
+      ]
+    },
+    "environment_informations": {
+      "weather": "hot",
+      "time": "in the morning"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "26",
+      "name": "Miss Megan Dyer",
+      "role": "apprentice",
+      "moods": [
+        "angry",
+        "tired"
+      ],
+      "interests": [
+        "fishing",
+        "cooking",
+        "painting",
+        "gambling"
+      ],
+      "playerRelationship": "16",
+      "gender": "male",
+      "personalities": [
+        "romantic",
+        "vengeful",
+        "pessimistic"
+      ],
+      "requests": [
+        "Observe the inexperienced test during lesson",
+        "Learn the nervous training in the morning"
+      ]
+    },
+    "environment_informations": {
+      "weather": "snowy",
+      "time": "at midnight"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "65",
+      "name": "Alex Cook",
+      "role": "fool",
+      "moods": [
+        "sad",
+        "hopeful",
+        "neutral"
+      ],
+      "interests": [
+        "dancing",
+        "reading",
+        "music",
+        "hunting"
+      ],
+      "playerRelationship": "23",
+      "gender": "female",
+      "personalities": [
+        "reckless",
+        "pessimistic",
+        "sarcastic",
+        "blunt"
+      ],
+      "requests": [
+        "Amuse the witty prank during parade"
+      ]
+    },
+    "environment_informations": {
+      "weather": "windy",
+      "time": "before sunrise"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "60",
+      "name": "Tiffany Johnson",
+      "role": "miner",
+      "moods": [
+        "neutral"
+      ],
+      "interests": [
+        "crafting"
+      ],
+      "playerRelationship": "60",
+      "gender": "female",
+      "personalities": [
+        "materialistic",
+        "decisive",
+        "cautious",
+        "lazy"
+      ],
+      "requests": [
+        "Break the hidden gem before sunset",
+        "Descend the rocky tunnel in the mine"
+      ]
+    },
+    "environment_informations": {
+      "weather": "sunny",
+      "time": "at dawn"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "73",
+      "name": "Christopher Turner",
+      "role": "tailor",
+      "moods": [
+        "hopeful",
+        "excited"
+      ],
+      "interests": [
+        "meditation"
+      ],
+      "playerRelationship": "35",
+      "gender": "female",
+      "personalities": [
+        "meticulous"
+      ],
+      "requests": [
+        "Embroider the elegant hat in the shop",
+        "Mend the colorful outfit at noon",
+        "Sew the elegant outfit before festival",
+        "Embroider the fashionable needle before festival",
+        "Measure the embroidered pattern during fitting"
+      ]
+    },
+    "environment_informations": {
+      "weather": "sunny",
+      "time": "in the afternoon"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "9",
+      "name": "Diane Cox",
+      "role": "messenger",
+      "moods": [
+        "happy",
+        "curious",
+        "excited"
+      ],
+      "interests": [
+        "alchemy",
+        "sports",
+        "horsemanship"
+      ],
+      "playerRelationship": "53",
+      "gender": "male",
+      "personalities": [
+        "blunt",
+        "authoritative",
+        "compassionate"
+      ],
+      "requests": [
+        "Notify the discreet parcel on the road",
+        "Notify the swift parcel at dawn",
+        "Fetch the quick scroll before sunset",
+        "Notify the swift message before sunset",
+        "Carry the tireless letter during rain",
+        "Announce the urgent letter before sunset",
+        "Deliver the urgent delivery after delivery",
+        "Announce the quick parcel before sunset",
+        "Report the punctual scroll on the road",
+        "Deliver the swift errand at dawn"
+      ]
+    },
+    "environment_informations": {
+      "weather": "stormy",
+      "time": "at midnight"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "55",
+      "name": "Thomas Riley",
+      "role": "thief",
+      "moods": [
+        "curious",
+        "bored",
+        "sad"
+      ],
+      "interests": [
+        "storytelling",
+        "trading",
+        "collecting",
+        "meditation"
+      ],
+      "playerRelationship": "34",
+      "gender": "female",
+      "personalities": [
+        "optimistic",
+        "meticulous",
+        "decisive"
+      ],
+      "requests": [
+        "Steal the nimble lock at night",
+        "Steal the nimble mask in the alley",
+        "Pick the silent crime before dawn",
+        "Escape the quick disguise during festival",
+        "Escape the shadowy crime before dawn",
+        "Disguise the nimble hideout at night"
+      ]
+    },
+    "environment_informations": {
+      "weather": "snowy",
+      "time": "before sunrise"
+    },
+    "npc_output": ""
+  }
+]

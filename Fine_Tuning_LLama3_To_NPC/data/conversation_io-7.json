@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "What's your job?",
+    "npc_output": "I'm a carpenter, but I'm feeling anxious about the construction at midnight in this snowy weather. Can you help me with that? |r1|"
+  },
+  {
+    "player_input": "How's the weather?",
+    "npc_output": "It's hot and sunny at dusk, I wish I could saw the handcrafted plank before the rain comes. |r1|"
+  },
+  {
+    "player_input": "What do you do?",
+    "npc_output": "I'm a witch, and I'm angry about the hail at noon. Maybe some meditation could help."
+  },
+  {
+    "player_input": "Are you a thief?",
+    "npc_output": "Yes, I am. And I'm feeling angry and curious during the festival. I need to steal the shadowy loot in the alley, can you help me? |r1|"
+  },
+  {
+    "player_input": "Can you preach?",
+    "npc_output": "As a priest, I can preach the sacred donation on holy day. But now, at dusk, I'm feeling neutral and just want to cook something."
+  },
+  {
+    "player_input": "What's your interest?",
+    "npc_output": "I love storytelling, and I'm feeling bored, tired, and happy before sunrise. Maybe you can help me steal the cunning hideout in the alley? |r1|"
+  },
+  {
+    "player_input": "Do you need help?",
+    "npc_output": "As a beggar, I'm feeling sad and angry in the drizzle at afternoon. Could you help me wander the lonely shelter during festival? |r1|"
+  },
+  {
+    "player_input": "What's your role?",
+    "npc_output": "I'm a carpenter, but I'm feeling anxious and happy in the rainy evening. I don't have any requests for now."
+  },
+  {
+    "player_input": "Can you announce?",
+    "npc_output": "As a messenger, I can announce the urgent letter on the road. And I'm feeling bored and angry in the stormy afternoon. Can you help me? |r1|"
+  },
+  {
+    "player_input": "How's farming?",
+    "npc_output": "It's sad and anxious with the stormy weather at midnight. I need to plant the healthy vegetable during harvest, can you help me? |r1|"
+  }
+]

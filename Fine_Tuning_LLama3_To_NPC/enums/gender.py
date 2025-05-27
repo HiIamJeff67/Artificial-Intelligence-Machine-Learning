@@ -1,0 +1,4 @@
+AllGenders = [
+    "male", 
+    "female"
+]

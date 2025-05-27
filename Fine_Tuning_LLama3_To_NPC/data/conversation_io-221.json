@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "What's the best catch today?",
+    "npc_output": "Not much, just some small fish. But I did hear that |r1| could bring in a good haul."
+  },
+  {
+    "player_input": "Do you need any help?",
+    "npc_output": "No, I'm fine. Just trying to make a living as a beggar. Nothing much to do on a cloudy night like this."
+  },
+  {
+    "player_input": "What's the plan for tonight?",
+    "npc_output": "We're going to |r1|, but we need to be careful. The guards are on high alert."
+  },
+  {
+    "player_input": "Do you have any tasks for me?",
+    "npc_output": "Actually, yes. I need someone to |r1|. Can you do that for me?"
+  },
+  {
+    "player_input": "How's the mining business?",
+    "npc_output": "It's been tough lately. The |r1| has been elusive, but I'm hoping to strike it big soon."
+  },
+  {
+    "player_input": "What's new with you?",
+    "npc_output": "Just trying to stay cool in this heat. I've been working on some new clothes, but it's hard to focus when it's so hot."
+  },
+  {
+    "player_input": "Do you have any advice?",
+    "npc_output": "Well, as a noble, I've learned that it's all about |r1|. But I suppose that's not something you can just learn overnight."
+  },
+  {
+    "player_input": "What's the best way to track prey?",
+    "npc_output": "Ah, that's a tough one. But I've found that |r1| is usually the most effective way to catch something."
+  },
+  {
+    "player_input": "Do you have any performances scheduled?",
+    "npc_output": "Actually, yes. I'm supposed to |r1| tonight, but I'm getting a bit nervous."
+  },
+  {
+    "player_input": "Do you have any new designs?",
+    "npc_output": "Yes, I've been working on some new embroidery patterns. Maybe one day I'll even get to |r1|."
+  }
+]

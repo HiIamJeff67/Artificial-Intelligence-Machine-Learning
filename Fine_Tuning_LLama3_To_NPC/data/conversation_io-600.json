@@ -1,0 +1,62 @@
+[
+  {
+    "player_input": "What's new?",
+    "npc_output": "Not much, just tempering the strong anvil at the market |r1|. Care to help?"
+  },
+  {
+    "player_input": "How's your day?",
+    "npc_output": "It's going well, thanks. I need to report the punctual scroll before sunset |r1|."
+  },
+  {
+    "player_input": "Need help with anything?",
+    "npc_output": "Actually, I could use some assistance delivering the punctual letter at dawn |r1|."
+  },
+  {
+    "player_input": "What are you up to?",
+    "npc_output": "Just planning to steal the nimble lock at night |r1|. Want to join me?"
+  },
+  {
+    "player_input": "Want to craft something?",
+    "npc_output": "I'd love to break the hidden gem before sunset |r1|. Care to help?"
+  },
+  {
+    "player_input": "How's mining going?",
+    "npc_output": "It's slow going, but I need to descend the rocky tunnel in the mine |r2|."
+  },
+  {
+    "player_input": "What's your favorite hobby?",
+    "npc_output": "I love playing music. Maybe I'll recite the witty instrument during festival |r1|."
+  },
+  {
+    "player_input": "Want to go mining?",
+    "npc_output": "Not now, I'm trying to break the hidden gem before sunset |r1|."
+  },
+  {
+    "player_input": "What's your plan?",
+    "npc_output": "I'm going to steal the nimble mask in the alley |r2|. Want to come?"
+  },
+  {
+    "player_input": "How's the kingdom?",
+    "npc_output": "All is well, thanks. I need to host the graceful court at the palace |r1|."
+  },
+  {
+    "player_input": "What's new in research?",
+    "npc_output": "Just studying the innovative study during study |r3|. Want to learn more?"
+  },
+  {
+    "player_input": "Want to go hunting?",
+    "npc_output": "Not now, I need to track the skilled prey in the forest |r1|."
+  },
+  {
+    "player_input": "How's farming going?",
+    "npc_output": "It's going well, thanks. I need to sow the fresh soil at the field |r1|."
+  },
+  {
+    "player_input": "What's your next target?",
+    "npc_output": "I'm planning to disguise the nimble hideout at night |r1|. Care to help?"
+  },
+  {
+    "player_input": "Need help with farming?",
+    "npc_output": "Actually, I could use some assistance sowing the bountiful soil after sunrise |r1|."
+  }
+]

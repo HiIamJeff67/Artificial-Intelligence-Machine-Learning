@@ -1,0 +1,1 @@
+Open_Router_API_Url = "https://openrouter.ai/api/v1"

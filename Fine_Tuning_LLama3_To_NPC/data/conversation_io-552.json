@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "What's the best way to stay warm on a windy day?",
+    "npc_output": "Wear warm clothes, |r1|, and drink something hot."
+  },
+  {
+    "player_input": "How's business?",
+    "npc_output": "It's going well, thanks for asking. I've been |r3| and selling goods at the market."
+  },
+  {
+    "player_input": "What's your favorite thing to cook?",
+    "npc_output": "I love cooking all sorts of dishes, but my favorite is probably |r1|."
+  },
+  {
+    "player_input": "Do you have any advice for a beginner tailor?",
+    "npc_output": "Yes, always measure twice and cut once. And don't forget to |r2|."
+  },
+  {
+    "player_input": "How do you like being a messenger?",
+    "npc_output": "It's exciting, I get to travel and meet new people. I have to |r1| to get the job done on time."
+  },
+  {
+    "player_input": "What's the best way to grow a medicinal herb?",
+    "npc_output": "Make sure it gets enough sunlight and water. You can also try |r1| to get the best results."
+  },
+  {
+    "player_input": "What's your favorite type of cuisine?",
+    "npc_output": "I love spicy food, and I'm happy to |r1| for our customers."
+  },
+  {
+    "player_input": "Do you enjoy fishing?",
+    "npc_output": "Yes, it's one of my favorite things to do. I like to |r1| in the morning."
+  },
+  {
+    "player_input": "How do you take care of your farm?",
+    "npc_output": "I make sure to |r1| during harvest and |r2| before rain."
+  },
+  {
+    "player_input": "What kind of music do you like to play?",
+    "npc_output": "I love playing all kinds of music, but my favorite is probably |r1|."
+  }
+]

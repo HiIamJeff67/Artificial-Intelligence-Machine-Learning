@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "Hello Jeanette, how's business?",
+    "npc_output": "It's going well, thanks for asking. I've got a lot of rare goods to trade, including some exotic spices. |r2|"
+  },
+  {
+    "player_input": "Matthew, what's new with you?",
+    "npc_output": "Not much, just working on some new hat designs. I'm thinking of adding some colorful patterns. |r1|"
+  },
+  {
+    "player_input": "Hi Erica, I'm feeling a bit under the weather.",
+    "npc_output": "Let me take a look. I think I have just the thing for you - a caring remedy. |r3|"
+  },
+  {
+    "player_input": "Shelly, what's brewing in your lab?",
+    "npc_output": "Just experimenting with some new potions. I'm hoping to distill a magical formula soon. |r1|"
+  },
+  {
+    "player_input": "Wesley, I love your garden. What's your secret?",
+    "npc_output": "Thanks! I've been growing some rare flowers and herbs. I'd be happy to show you around and prescribe some remedies. |r3|"
+  },
+  {
+    "player_input": "David, I need a new house. Can you help me?",
+    "npc_output": "Of course! I'd be happy to repair or build a new one for you. Let's discuss the details. |r1|"
+  },
+  {
+    "player_input": "Craig, have you caught any big fish lately?",
+    "npc_output": "Not recently, but I'm hoping to catch something soon. The weather's not been great for fishing. |r1|"
+  },
+  {
+    "player_input": "Jeremy, your inn is always so cozy. What's your secret?",
+    "npc_output": "Thanks! I think it's the festive atmosphere and good food. I'm always happy to pour a drink or two. |r1|"
+  },
+  {
+    "player_input": "Noah, I'm looking for a place to stay. Do you have any rooms available?",
+    "npc_output": "Yes, we have a few rooms left. Let me show you around and we can discuss the details. |r1|"
+  },
+  {
+    "player_input": "Kimberly, your farm is so lush. What's your secret?",
+    "npc_output": "Thanks! I think it's the fresh soil and hard work. I'd be happy to show you around and teach you some tips. |r1|"
+  }
+]

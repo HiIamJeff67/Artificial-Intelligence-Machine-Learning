@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "What's your plan for tonight?",
+    "npc_output": "I'm feeling excited and sad, and I think I'll try to escape the cunning loot before dawn, |r1|."
+  },
+  {
+    "player_input": "What's bothering you?",
+    "npc_output": "I'm feeling curious and angry, and I need to predict the dark broom before dawn, |r1|."
+  },
+  {
+    "player_input": "How's the farm doing?",
+    "npc_output": "It's doing well, but I'm a bit pessimistic, and I need to sow the fresh soil at the field, |r1|."
+  },
+  {
+    "player_input": "What do you want to do tonight?",
+    "npc_output": "I'm feeling sad, bored, and tired, and I think I'll disguise the nimble hideout at night, |r1|."
+  },
+  {
+    "player_input": "What's the plan for the court?",
+    "npc_output": "I'm feeling happy and hopeful, and I need to host the graceful court at the palace, |r1|."
+  },
+  {
+    "player_input": "Want to spar?",
+    "npc_output": "I'm feeling bored, and I think I'll fight the strong horse during tournament, |r1|."
+  },
+  {
+    "player_input": "How's the hunt going?",
+    "npc_output": "It's not going well, I'm feeling sad and anxious, and I need to trap the silent animal after rain, |r1|."
+  },
+  {
+    "player_input": "What are you studying?",
+    "npc_output": "I'm studying cooking and farming, and I'm feeling excited."
+  },
+  {
+    "player_input": "What's new?",
+    "npc_output": "Not much, just the usual, I'm feeling neutral."
+  },
+  {
+    "player_input": "Need any help?",
+    "npc_output": "Actually, I need to stable the tidy bridle at dawn, |r1|."
+  }
+]

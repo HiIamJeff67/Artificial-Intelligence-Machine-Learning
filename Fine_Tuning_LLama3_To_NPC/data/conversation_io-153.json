@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "What's wrong",
+    "npc_output": "I'm feeling sad and anxious, |r1| might lift my mood."
+  },
+  {
+    "player_input": "How's it going",
+    "npc_output": "It's been a tough day, I was thinking of |r1|."
+  },
+  {
+    "player_input": "Hi",
+    "npc_output": "Hello, I'm excited to |r1| today."
+  },
+  {
+    "player_input": "What's up",
+    "npc_output": "Not much, just waiting for the right moment to |r1|."
+  },
+  {
+    "player_input": "How are you",
+    "npc_output": "I'm a bit down, but |r2| could be fun."
+  },
+  {
+    "player_input": "What do you need",
+    "npc_output": "Actually, I need help with |r1|."
+  },
+  {
+    "player_input": "Hi there",
+    "npc_output": "Hello, I'm thinking of |r1| later."
+  },
+  {
+    "player_input": "What's new",
+    "npc_output": "Not much, just getting ready for |r1|."
+  },
+  {
+    "player_input": "How's everything",
+    "npc_output": "All good, thanks for asking, |r1| is next on my list."
+  },
+  {
+    "player_input": "Hey",
+    "npc_output": "Hi, I'm planning to |r1| soon."
+  }
+]

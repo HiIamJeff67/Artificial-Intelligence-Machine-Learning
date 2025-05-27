@@ -1,0 +1,603 @@
+[
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "72",
+      "name": "Scott Griffith",
+      "role": "farmer",
+      "moods": [
+        "tired",
+        "excited"
+      ],
+      "interests": [
+        "storytelling",
+        "crafting",
+        "exploring",
+        "farming"
+      ],
+      "playerRelationship": "76",
+      "gender": "female",
+      "personalities": [
+        "reserved",
+        "outgoing",
+        "reckless",
+        "pragmatic"
+      ],
+      "requests": [
+        "Sow the bountiful soil after sunrise",
+        "Sow the muddy seed at the field",
+        "Water the ripe seed during harvest",
+        "Plant the muddy crop at the field",
+        "Sow the abundant plow in the morning",
+        "Water the fertile soil at the field",
+        "Plant the muddy barn at the field",
+        "Plant the fresh field in the morning",
+        "Tend the abundant harvest at the field",
+        "Weed the ripe seed at the field",
+        "Water the healthy seed in the morning",
+        "Water the fresh barn after sunrise",
+        "Water the bountiful seed after sunrise"
+      ]
+    },
+    "environment_informations": {
+      "weather": "hail",
+      "time": "before sunrise"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "56",
+      "name": "Mrs. Kathleen Smith",
+      "role": "scholar",
+      "moods": [
+        "anxious",
+        "sad",
+        "tired"
+      ],
+      "interests": [
+        "painting",
+        "magic",
+        "meditation",
+        "collecting",
+        "fishing"
+      ],
+      "playerRelationship": "63",
+      "gender": "female",
+      "personalities": [
+        "pessimistic",
+        "tactful",
+        "adventurous",
+        "strict",
+        "protective"
+      ],
+      "requests": [
+        "Research the ancient debate at night",
+        "Write the reserved manuscript before exam",
+        "Study the innovative study during study",
+        "Research the curious book during study",
+        "Research the innovative scroll during study",
+        "Translate the diligent book at night",
+        "Write the curious study in the library",
+        "Record the ancient study before exam",
+        "Teach the reserved book at night",
+        "Teach the reserved debate in the library"
+      ]
+    },
+    "environment_informations": {
+      "weather": "cloudy",
+      "time": "during the festival"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "88",
+      "name": "Sarah Simmons",
+      "role": "farmer",
+      "moods": [
+        "sad",
+        "anxious"
+      ],
+      "interests": [
+        "magic",
+        "crafting",
+        "sports",
+        "dancing"
+      ],
+      "playerRelationship": "67",
+      "gender": "female",
+      "personalities": [
+        "timid"
+      ],
+      "requests": [
+        "Plant the healthy vegetable during harvest",
+        "Weed the healthy soil before rain",
+        "Water the bountiful barn after sunrise"
+      ]
+    },
+    "environment_informations": {
+      "weather": "sunny",
+      "time": "after sunset"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "69",
+      "name": "Michael Flores",
+      "role": "knight",
+      "moods": [
+        "neutral",
+        "tired"
+      ],
+      "interests": [
+        "farming",
+        "cooking",
+        "horsemanship",
+        "sports",
+        "fishing"
+      ],
+      "playerRelationship": "60",
+      "gender": "male",
+      "personalities": [
+        "dreamy",
+        "arrogant",
+        "vengeful"
+      ],
+      "requests": [
+        "Train the fearless horse during tournament",
+        "Fight the strong horse during tournament",
+        "Train the valiant joust during tournament",
+        "Escort the brave horse during tournament",
+        "Train the valiant sword after battle",
+        "Challenge the noble duty during tournament",
+        "Challenge the loyal duty after battle",
+        "Ride the honorable tournament during tournament",
+        "Swear the loyal tournament after battle",
+        "Fight the brave shield at the castle",
+        "Train the honorable armor after battle",
+        "Train the loyal horse after battle",
+        "Compete the brave joust at the castle",
+        "Swear the noble joust before dawn"
+      ]
+    },
+    "environment_informations": {
+      "weather": "drizzle",
+      "time": "in the afternoon"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "88",
+      "name": "Sarah Simmons",
+      "role": "farmer",
+      "moods": [
+        "sad",
+        "anxious"
+      ],
+      "interests": [
+        "magic",
+        "crafting",
+        "sports",
+        "dancing"
+      ],
+      "playerRelationship": "67",
+      "gender": "female",
+      "personalities": [
+        "timid"
+      ],
+      "requests": [
+        "Plant the healthy vegetable during harvest",
+        "Weed the healthy soil before rain",
+        "Water the bountiful barn after sunrise"
+      ]
+    },
+    "environment_informations": {
+      "weather": "hot",
+      "time": "during the festival"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "63",
+      "name": "April Gonzalez",
+      "role": "cook",
+      "moods": [
+        "angry",
+        "anxious"
+      ],
+      "interests": [
+        "dancing",
+        "crafting",
+        "gambling",
+        "music",
+        "cooking"
+      ],
+      "playerRelationship": "48",
+      "gender": "male",
+      "personalities": [
+        "faithful",
+        "timid",
+        "materialistic"
+      ],
+      "requests": [
+        "Season the crispy dessert before feast",
+        "Cook the savory dessert after market",
+        "Prepare the fresh meal during festival",
+        "Season the sweet dessert at noon",
+        "Prepare the spicy ingredient after market",
+        "Chop the crispy recipe during festival",
+        "Chop the sweet feast during festival",
+        "Bake the sweet meal before feast",
+        "Prepare the tasty kitchen at noon",
+        "Serve the hot bread in the kitchen",
+        "Prepare the crispy meal after market",
+        "Cook the spicy dessert before feast",
+        "Prepare the crispy kitchen after market"
+      ]
+    },
+    "environment_informations": {
+      "weather": "drizzle",
+      "time": "before sunrise"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "15",
+      "name": "Cynthia Green",
+      "role": "hunter",
+      "moods": [
+        "sad",
+        "anxious"
+      ],
+      "interests": [
+        "meditation",
+        "music"
+      ],
+      "playerRelationship": "65",
+      "gender": "male",
+      "personalities": [
+        "faithful",
+        "materialistic"
+      ],
+      "requests": [
+        "Trap the silent animal after rain",
+        "Track the rugged arrow before sunset",
+        "Shoot the rugged bow after rain",
+        "Track the sharp-eyed trap at dawn"
+      ]
+    },
+    "environment_informations": {
+      "weather": "cloudy",
+      "time": "at midnight"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "65",
+      "name": "Alex Cook",
+      "role": "fool",
+      "moods": [
+        "sad",
+        "hopeful",
+        "neutral"
+      ],
+      "interests": [
+        "dancing",
+        "reading",
+        "music",
+        "hunting"
+      ],
+      "playerRelationship": "23",
+      "gender": "female",
+      "personalities": [
+        "reckless",
+        "pessimistic",
+        "sarcastic",
+        "blunt"
+      ],
+      "requests": [
+        "Amuse the witty prank during parade"
+      ]
+    },
+    "environment_informations": {
+      "weather": "hot",
+      "time": "in the morning"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "88",
+      "name": "Sarah Simmons",
+      "role": "farmer",
+      "moods": [
+        "sad",
+        "anxious"
+      ],
+      "interests": [
+        "magic",
+        "crafting",
+        "sports",
+        "dancing"
+      ],
+      "playerRelationship": "67",
+      "gender": "female",
+      "personalities": [
+        "timid"
+      ],
+      "requests": [
+        "Plant the healthy vegetable during harvest",
+        "Weed the healthy soil before rain",
+        "Water the bountiful barn after sunrise"
+      ]
+    },
+    "environment_informations": {
+      "weather": "foggy",
+      "time": "in the afternoon"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "81",
+      "name": "Erica Davis",
+      "role": "healer",
+      "moods": [
+        "angry",
+        "bored"
+      ],
+      "interests": [
+        "reading",
+        "magic"
+      ],
+      "playerRelationship": "78",
+      "gender": "female",
+      "personalities": [
+        "cheerful",
+        "reserved",
+        "pessimistic",
+        "blunt"
+      ],
+      "requests": [
+        "Care the caring medicine during epidemic",
+        "Prescribe the compassionate herb before sunset",
+        "Bandage the gentle patient after battle",
+        "Bandage the gentle patient during epidemic",
+        "Soothe the kind patient after battle",
+        "Treat the caring remedy during epidemic",
+        "Diagnose the patient balm at dawn",
+        "Heal the compassionate potion after battle",
+        "Care the kind remedy after battle",
+        "Diagnose the compassionate treat in the clinic",
+        "Care the compassionate patient during epidemic",
+        "Heal the dedicated bandage in the clinic",
+        "Treat the patient remedy after battle",
+        "Treat the wise medicine at dawn",
+        "Care the kind balm in the clinic"
+      ]
+    },
+    "environment_informations": {
+      "weather": "cloudy",
+      "time": "in the afternoon"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "17",
+      "name": "Edgar Burns",
+      "role": "knight",
+      "moods": [
+        "bored"
+      ],
+      "interests": [
+        "magic"
+      ],
+      "playerRelationship": "36",
+      "gender": "male",
+      "personalities": [
+        "forgiving",
+        "arrogant",
+        "reserved",
+        "friendly"
+      ],
+      "requests": [
+        "Fight the strong horse during tournament",
+        "Fight the fearless horse at the castle",
+        "Train the fearless sword on patrol",
+        "Challenge the noble duty during tournament"
+      ]
+    },
+    "environment_informations": {
+      "weather": "cloudy",
+      "time": "in the evening"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "89",
+      "name": "Kristi Potts",
+      "role": "carpenter",
+      "moods": [
+        "sad",
+        "bored",
+        "anxious"
+      ],
+      "interests": [
+        "gardening",
+        "collecting"
+      ],
+      "playerRelationship": "57",
+      "gender": "female",
+      "personalities": [
+        "moody",
+        "forgiving"
+      ],
+      "requests": [
+        "Saw the handcrafted plank before rain",
+        "Join the solid nail at noon",
+        "Assemble the handcrafted tool before rain",
+        "Measure the smooth plank at the workshop",
+        "Join the handcrafted house after delivery",
+        "Assemble the reliable tool after delivery",
+        "Measure the well-made tool before rain",
+        "Hammer the solid wood during construction",
+        "Measure the polished wood during construction",
+        "Join the solid plank before rain",
+        "Saw the wooden furniture after delivery",
+        "Carve the sturdy workbench at noon",
+        "Carve the sturdy wood at noon"
+      ]
+    },
+    "environment_informations": {
+      "weather": "foggy",
+      "time": "at noon"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "51",
+      "name": "Gary Johnson",
+      "role": "scholar",
+      "moods": [
+        "hopeful",
+        "neutral",
+        "tired"
+      ],
+      "interests": [
+        "trading",
+        "fishing",
+        "farming",
+        "gardening",
+        "horsemanship"
+      ],
+      "playerRelationship": "73",
+      "gender": "male",
+      "personalities": [
+        "outgoing",
+        "moody"
+      ],
+      "requests": [
+        "Teach the learned study at night",
+        "Research the diligent manuscript at night",
+        "Record the diligent library in the library",
+        "Write the innovative library after lecture",
+        "Read the thoughtful research at night",
+        "Debate the diligent knowledge before exam",
+        "Read the reserved manuscript during study",
+        "Record the diligent knowledge before exam"
+      ]
+    },
+    "environment_informations": {
+      "weather": "stormy",
+      "time": "during the festival"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "36",
+      "name": "Alexandria Snyder",
+      "role": "fisherman",
+      "moods": [
+        "tired"
+      ],
+      "interests": [
+        "crafting",
+        "farming",
+        "reading",
+        "music"
+      ],
+      "playerRelationship": "69",
+      "gender": "female",
+      "personalities": [
+        "authoritative",
+        "protective",
+        "jealous",
+        "humble"
+      ],
+      "requests": [
+        "Catch the early catch before storm",
+        "Bait the lucky net on the boat",
+        "Bait the salty net on the boat",
+        "Net the lucky bait before storm",
+        "Fish the patient fish at the river",
+        "Reel the steady net on the boat",
+        "Row the salty catch on the boat",
+        "Cast the weathered bait before storm",
+        "Sail the lucky fish at the river",
+        "Catch the lucky sea before storm",
+        "Fish the patient river during fishing"
+      ]
+    },
+    "environment_informations": {
+      "weather": "hot",
+      "time": "at noon"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "27",
+      "name": "Sherry Coffey",
+      "role": "priest",
+      "moods": [
+        "neutral"
+      ],
+      "interests": [
+        "cooking",
+        "storytelling",
+        "dancing",
+        "fishing"
+      ],
+      "playerRelationship": "0",
+      "gender": "female",
+      "personalities": [
+        "stubborn",
+        "moody",
+        "innovative",
+        "sarcastic"
+      ],
+      "requests": [
+        "Preach the sacred donation on holy day",
+        "Preach the wise blessing on holy day",
+        "Preach the devout ceremony at dawn",
+        "Forgive the sacred wedding in the temple",
+        "Bless the merciful altar at dawn",
+        "Bless the wise altar during ceremony",
+        "Forgive the pure blessing during ceremony",
+        "Conduct the pure ceremony on holy day",
+        "Chant the holy wedding on holy day",
+        "Heal the blessed prayer on holy day",
+        "Guide the devout faith during ceremony"
+      ]
+    },
+    "environment_informations": {
+      "weather": "windy",
+      "time": "at dusk"
+    },
+    "npc_output": ""
+  }
+]

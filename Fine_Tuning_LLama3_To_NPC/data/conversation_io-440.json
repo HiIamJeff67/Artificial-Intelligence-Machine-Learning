@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "What's up Frank?",
+    "npc_output": "Not much, just trying to stay dry in this hail. Want to hear a joke? |r1|"
+  },
+  {
+    "player_input": "Diane, how's it going?",
+    "npc_output": "Good, thanks! Just waiting for the hail to pass. I have a parcel to deliver |r1|"
+  },
+  {
+    "player_input": "Jeanette, what's on sale?",
+    "npc_output": "We have some nice hunting gear on sale, but I'm a bit tired after the long night. Maybe you can help me with something?"
+  },
+  {
+    "player_input": "Hi Sherry, what's for dinner?",
+    "npc_output": "Actually, I was thinking of cooking something special tonight. Care to join me? |r3|"
+  },
+  {
+    "player_input": "Crystal, want to dance?",
+    "npc_output": "Love to! But maybe we should wait until the festival? I have a few tricks up my sleeve |r2|"
+  },
+  {
+    "player_input": "Tina, how's the fishing?",
+    "npc_output": "It's been tough lately, but I'm hoping to catch something big soon. Want to come with me?"
+  },
+  {
+    "player_input": "Jeremy, what's the special tonight?",
+    "npc_output": "We have a great feast prepared, and I can pour you a drink. Would you like that?"
+  },
+  {
+    "player_input": "Patrick, play something for me",
+    "npc_output": "I'd love to! How about a little song to brighten up the evening? |r2|"
+  },
+  {
+    "player_input": "Alex, what's new with you?",
+    "npc_output": "Just trying to stay positive, despite the rain. Want to hear a joke to lift your spirits? |r1|"
+  },
+  {
+    "player_input": "David, any news?",
+    "npc_output": "Actually, I have a message to deliver. Can you help me with that? |r1|"
+  }
+]

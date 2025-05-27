@@ -1,0 +1,66 @@
+[
+  {
+    "player_input": "What's your profession?",
+    "npc_output": "I'm a hunter, been tracking in these woods for years, by the way, I need to |r1| soon."
+  },
+  {
+    "player_input": "How's the weather?",
+    "npc_output": "It's stormy, not the best for singing, but I was thinking of |r2| tonight."
+  },
+  {
+    "player_input": "What do you do?",
+    "npc_output": "I'm an herbalist, I |r1| every morning, and I'm feeling a bit |r2| today."
+  },
+  {
+    "player_input": "Want to hear a joke?",
+    "npc_output": "I'm a fool, I love jokes, maybe after I |r1|."
+  },
+  {
+    "player_input": "What's mining like?",
+    "npc_output": "It's tough, but someone's gotta |r1|, and I'm feeling a bit |r3| today."
+  },
+  {
+    "player_input": "Need any help?",
+    "npc_output": "Actually, I need to |r1| before it gets too late, thanks for offering."
+  },
+  {
+    "player_input": "What's new?",
+    "npc_output": "Not much, just |r1| and trying to stay warm, it's freezing in here."
+  },
+  {
+    "player_input": "Like your hat?",
+    "npc_output": "Thanks, I |r1| it myself, I'm a tailor, you know."
+  },
+  {
+    "player_input": "Want to go fishing?",
+    "npc_output": "I'd love to, but I need to |r1| first, it's been a while."
+  },
+  {
+    "player_input": "What's the plan?",
+    "npc_output": "I'm the king, I need to |r1| and make some important decisions."
+  },
+  {
+    "player_input": "How's the stable?",
+    "npc_output": "It's good, just |r1| and making sure the horses are healthy."
+  },
+  {
+    "player_input": "What are you reading?",
+    "npc_output": "Just some research, I need to |r1| for my next lecture."
+  },
+  {
+    "player_input": "Need help with gardening?",
+    "npc_output": "That would be great, I'm trying to |r1|, but it's not easy."
+  },
+  {
+    "player_input": "Want to trade?",
+    "npc_output": "Maybe later, I need to |r1| first, and then we can talk business."
+  },
+  {
+    "player_input": "What's it like being a noble?",
+    "npc_output": "It has its perks, but I need to |r1| and make sure everything runs smoothly."
+  },
+  {
+    "player_input": "What's your favorite plant?",
+    "npc_output": "I love all plants, but I need to |r1|, it's very rare and valuable."
+  }
+]

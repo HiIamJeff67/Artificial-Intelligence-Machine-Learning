@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "What's your job?",
+    "npc_output": "I'm a bard, nice to meet you!"
+  },
+  {
+    "player_input": "Do you like dancing?",
+    "npc_output": "Yes, I love dancing, let's dance together!"
+  },
+  {
+    "player_input": "Are you a noble?",
+    "npc_output": "Yes, I am a noble, and I have a meeting to attend.|r1|"
+  },
+  {
+    "player_input": "What's your role?",
+    "npc_output": "I'm a messenger, I have to deliver a message.|r1|"
+  },
+  {
+    "player_input": "Can you cast a spell?",
+    "npc_output": "Yes, I can cast a spell, but I need to be careful.|r1|"
+  },
+  {
+    "player_input": "Do you like farming?",
+    "npc_output": "Yes, I love farming, it's my favorite thing to do.|r1|"
+  },
+  {
+    "player_input": "Can you play music?",
+    "npc_output": "Yes, I can play music, let me entertain you.|r1|"
+  },
+  {
+    "player_input": "Are you good at magic?",
+    "npc_output": "Yes, I'm good at magic, and I can cast a spell for you.|r1|"
+  },
+  {
+    "player_input": "Do you like fishing?",
+    "npc_output": "Yes, I love fishing, it's so much fun.|r1|"
+  },
+  {
+    "player_input": "Can you teach me something?",
+    "npc_output": "Yes, I can teach you something, let's study together.|r1|"
+  }
+]

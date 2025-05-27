@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "What's the weather like today?",
+    "npc_output": "It's sunny, nice day to work on some new pieces, |r1|."
+  },
+  {
+    "player_input": "Do you need help with anything?",
+    "npc_output": "Actually, I need someone to |r1|, want to give it a try?"
+  },
+  {
+    "player_input": "Good morning, how's it going?",
+    "npc_output": "Morning, I'm a bit tired, been up all night preparing for the ceremony, |r2| would be great."
+  },
+  {
+    "player_input": "What are you working on?",
+    "npc_output": "Just getting some things ready for the festival, |r3| is a priority."
+  },
+  {
+    "player_input": "Do you have any new projects?",
+    "npc_output": "Yes, I'm growing a new healing plant, |r1| is the next step."
+  },
+  {
+    "player_input": "What's cooking?",
+    "npc_output": "Just preparing for the feast, |r1| is on the menu."
+  },
+  {
+    "player_input": "Do you have any deliveries?",
+    "npc_output": "Yes, I need to |r1|, want to help?"
+  },
+  {
+    "player_input": "How's your day going?",
+    "npc_output": "It's been boring so far, but I'm looking forward to |r1|."
+  },
+  {
+    "player_input": "Do you have any messages to deliver?",
+    "npc_output": "Actually, I need to |r1|, it's urgent."
+  },
+  {
+    "player_input": "What are you making?",
+    "npc_output": "Just a few things for the festival, |r1| is almost done."
+  }
+]

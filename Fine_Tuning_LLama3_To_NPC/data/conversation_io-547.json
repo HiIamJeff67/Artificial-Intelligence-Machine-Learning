@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "What's the weather like today?",
+    "npc_output": "It's drizzling this morning, not the best weather for sailing, but |r1| could be a good idea."
+  },
+  {
+    "player_input": "Do you have any plans at dawn?",
+    "npc_output": "I was thinking of |r2|, the wind might be in our favor."
+  },
+  {
+    "player_input": "What are you interested in?",
+    "npc_output": "I'm passionate about alchemy and exploring, perhaps I can |r2| later today."
+  },
+  {
+    "player_input": "What's your role?",
+    "npc_output": "I'm a noble, and I need to |r1| before the council."
+  },
+  {
+    "player_input": "How's your day going?",
+    "npc_output": "It's been neutral so far, but I need to |r1| in the woods later."
+  },
+  {
+    "player_input": "What's your favorite activity?",
+    "npc_output": "I love reading and researching, maybe I can |r1| before the exam."
+  },
+  {
+    "player_input": "Do you have any tasks for me?",
+    "npc_output": "Actually, I need help with |r2| in the garden, would you be willing to assist me?"
+  },
+  {
+    "player_input": "What's the weather like?",
+    "npc_output": "It's a bit windy this morning, but I should |r1| in the city."
+  },
+  {
+    "player_input": "What do you like to do?",
+    "npc_output": "I enjoy horsemanship, but sadly I don't have any tasks for you."
+  },
+  {
+    "player_input": "What's your profession?",
+    "npc_output": "I'm a fisherman, and I plan to |r1| in the morning."
+  }
+]

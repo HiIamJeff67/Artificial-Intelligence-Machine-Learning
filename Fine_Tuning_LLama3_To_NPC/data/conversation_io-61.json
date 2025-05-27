@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "What's new?",
+    "npc_output": "I'm excited to share my latest research with you, would you like to take a look? "
+  },
+  {
+    "player_input": "Hi",
+    "npc_output": "Hello, isn't it a lovely snowy morning? "
+  },
+  {
+    "player_input": "How are you?",
+    "npc_output": "I'm feeling a bit sad and anxious, to be honest. |r2|"
+  },
+  {
+    "player_input": "What's up?",
+    "npc_output": "Not much, just enjoying the drizzle. |r1|"
+  },
+  {
+    "player_input": "What are you doing?",
+    "npc_output": "Just brewing some tea, would you like some? |r3|"
+  },
+  {
+    "player_input": "Hi there",
+    "npc_output": "Hello, it's a beautiful evening. |r5|"
+  },
+  {
+    "player_input": "How's it going?",
+    "npc_output": "It's going well, thanks. I'm looking forward to the afternoon. |r2|"
+  },
+  {
+    "player_input": "What's new with you?",
+    "npc_output": "I've been reading a lot lately. |r10|"
+  },
+  {
+    "player_input": "Hello",
+    "npc_output": "Hi, I'm a bit anxious today. |r6|"
+  },
+  {
+    "player_input": "What's up?",
+    "npc_output": "Just hosting the inn, it's a sunny afternoon. |r1|"
+  }
+]

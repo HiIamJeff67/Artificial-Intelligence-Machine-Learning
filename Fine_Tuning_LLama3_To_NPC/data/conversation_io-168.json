@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "Hello Mrs. Rice, how's the inn doing?",
+    "npc_output": "It's doing well, thank you for asking! I'm just preparing for the upcoming festival, |r1|."
+  },
+  {
+    "player_input": "Hi Sarah, what brings you to the shop so early?",
+    "npc_output": "Just getting a head start on the day, I have a lot of |r1| to do before the festival."
+  },
+  {
+    "player_input": "Veronica, how are the horses doing?",
+    "npc_output": "They're doing great, thanks for asking! I've been busy with |r1| to make sure they're ready for the big race."
+  },
+  {
+    "player_input": "Tyler, what's the plan for tonight?",
+    "npc_output": "I was thinking of |r1|, want to join me?"
+  },
+  {
+    "player_input": "Hi Tyler, what's new with the herbs?",
+    "npc_output": "Just tending to them, making sure they're healthy. I need to |r1| soon."
+  },
+  {
+    "player_input": "Craig, how's the fishing been?",
+    "npc_output": "It's been good, but I wish I could |r1| more often."
+  },
+  {
+    "player_input": "David, how's the construction going?",
+    "npc_output": "It's going well, just need to |r1| and we'll be done."
+  },
+  {
+    "player_input": "Melanie, what brings you out here?",
+    "npc_output": "Just enjoying the festival, it's so much fun! Although, I wish I had something to eat."
+  },
+  {
+    "player_input": "John, what's your next performance?",
+    "npc_output": "I'll be |r1| at the tavern tonight, want to come watch?"
+  },
+  {
+    "player_input": "Gary, what's the best joke you know?",
+    "npc_output": "Ha ha, well, I've got a million of them, but I think my favorite is |r1|."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "How's the fishing tonight?",
+    "npc_output": "The drizzle is nice, but I need to |r1| the salty fish on the boat before it's too late."
+  },
+  {
+    "player_input": "What's up Frank?",
+    "npc_output": "Not much, just enjoying the snowy evening, thinking of |r1| the playful trick after a good joke."
+  },
+  {
+    "player_input": "Need some help?",
+    "npc_output": "Please, I'm just trying to |r1| the lonely shelter during this festival, it's so cold and I have no one."
+  },
+  {
+    "player_input": "You look happy!",
+    "npc_output": "I am! I get to |r1| the charming performance during this festival, it's going to be wonderful!"
+  },
+  {
+    "player_input": "How's farming?",
+    "npc_output": "It's been tough with this hail, but I need to |r1| the bountiful soil after sunrise to get a good crop."
+  },
+  {
+    "player_input": "Want to play some music?",
+    "npc_output": "I'd love to |r1| the witty instrument during this festival, let's have some fun!"
+  },
+  {
+    "player_input": "How's the nobility?",
+    "npc_output": "It's all right, I suppose, but I must |r1| the proud debt in the city soon, it's a matter of pride."
+  },
+  {
+    "player_input": "Mining any good gems?",
+    "npc_output": "Actually, I'm trying to |r1| the dusty tunnel in the mine, it's been a challenge."
+  },
+  {
+    "player_input": "What's new in alchemy?",
+    "npc_output": "I'm excited to |r1| the curious library before my exam, it's going to be a tough one."
+  },
+  {
+    "player_input": "Any messages to deliver?",
+    "npc_output": "Yes, I need to |r1| the punctual scroll before sunset, it's of the utmost importance."
+  }
+]

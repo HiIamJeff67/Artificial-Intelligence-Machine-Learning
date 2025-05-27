@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "What's your role?",
+    "npc_output": "I'm Jennifer Baker, the tailor. |r1|"
+  },
+  {
+    "player_input": "Tell me a story",
+    "npc_output": "As a bard, I love to tell stories. I can |r3| for you."
+  },
+  {
+    "player_input": "Let's go hunting",
+    "npc_output": "I'm John Brooks, a hunter. I can |r1| with you."
+  },
+  {
+    "player_input": "What are you doing?",
+    "npc_output": "I'm Shelly Montgomery, an alchemist. I'm about to |r1|."
+  },
+  {
+    "player_input": "Want to sing a song?",
+    "npc_output": "As a bard, I'd love to |r5| for you."
+  },
+  {
+    "player_input": "What's your favorite hobby?",
+    "npc_output": "I'm Micheal Duncan, the king. I enjoy |r3|."
+  },
+  {
+    "player_input": "Do you like magic?",
+    "npc_output": "As a knight, I have to be prepared for anything. I can |r1|."
+  },
+  {
+    "player_input": "Let's gather herbs",
+    "npc_output": "I'm Christina Dean, a herbalist. I can |r1| with you."
+  },
+  {
+    "player_input": "What's your job?",
+    "npc_output": "I'm also Christina Dean, a herbalist. I can |r3| for you."
+  },
+  {
+    "player_input": "Want to sail with me?",
+    "npc_output": "I'm Hannah Cruz, a sailor. I can |r3| with you."
+  }
+]

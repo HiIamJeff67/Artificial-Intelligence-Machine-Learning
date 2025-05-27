@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "Hello, what's your name?",
+    "npc_output": "My name is Arthur Holloway, nice to meet you."
+  },
+  {
+    "player_input": "What are you doing here?",
+    "npc_output": "I'm just fishing, trying to catch some fish for dinner."
+  },
+  {
+    "player_input": "That sounds nice, do you like fishing?",
+    "npc_output": "Yes, I love fishing, it's one of my favorite things to do."
+  },
+  {
+    "player_input": "I've never been fishing before, can you teach me?",
+    "npc_output": "Of course, I'd be happy to teach you how to fish."
+  },
+  {
+    "player_input": "What's the best type of fish to catch?",
+    "npc_output": "Well, that depends on the time of day and the location, but I think the best type of fish to catch is salmon."
+  },
+  {
+    "player_input": "I see, where can I find salmon?",
+    "npc_output": "You can find salmon in the river, just make sure to follow the |r1| to get there safely."
+  },
+  {
+    "player_input": "Okay, got it, what else can you tell me?",
+    "npc_output": "Just be careful and have fun, and don't forget to |r3| so you can find your way back."
+  },
+  {
+    "player_input": "Will do, thanks for the advice!",
+    "npc_output": "No problem, happy to help, now if you'll excuse me I need to |r2|."
+  },
+  {
+    "player_input": "One last question, what's your favorite thing about fishing?",
+    "npc_output": "My favorite thing is the peacefulness of it, it's a great way to relax and unwind, especially after a long day of |r4|."
+  },
+  {
+    "player_input": "That makes sense, I can see how it would be relaxing.",
+    "npc_output": "Yes, it's a great hobby, I'm glad I could share it with you, now I need to get back to my |r5|."
+  }
+]

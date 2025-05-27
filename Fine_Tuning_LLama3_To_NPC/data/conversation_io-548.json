@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "What's your plan for tonight?",
+    "npc_output": "I'm thinking of |r2|, want to join me?"
+  },
+  {
+    "player_input": "How's your research going?",
+    "npc_output": "It's going great, thanks for asking! I'm almost done with |r3|."
+  },
+  {
+    "player_input": "Want to dance?",
+    "npc_output": "I'd love to, but I have to |r1| first."
+  },
+  {
+    "player_input": "What's the best way to steal something?",
+    "npc_output": "Ha! Well, I'm no expert, but I think |r2| is a good start."
+  },
+  {
+    "player_input": "Do you have any predictions for me?",
+    "npc_output": "Actually, I do. I think |r1| will come true soon."
+  },
+  {
+    "player_input": "Do you have any messages for me?",
+    "npc_output": "Yes, I need to |r1| to the other side of town."
+  },
+  {
+    "player_input": "Want to steal something together?",
+    "npc_output": "I'm always up for a challenge. How about |r1|?"
+  },
+  {
+    "player_input": "What's your favorite dance move?",
+    "npc_output": "I love dancing, but I have to |r5| first."
+  },
+  {
+    "player_input": "Do you have any music to play?",
+    "npc_output": "Actually, I was thinking of |r1| later tonight."
+  },
+  {
+    "player_input": "Do you have any requests for me?",
+    "npc_output": "Yes, can you help me with |r2|?"
+  }
+]

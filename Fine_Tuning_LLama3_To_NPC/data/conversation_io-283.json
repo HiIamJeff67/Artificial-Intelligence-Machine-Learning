@@ -1,0 +1,66 @@
+[
+  {
+    "player_input": "What's the news?",
+    "npc_output": "The weather is drizzle and it's before sunrise, I need to |r1|."
+  },
+  {
+    "player_input": "Hello",
+    "npc_output": "Hi, it's cloudy and at noon, I have to |r1|."
+  },
+  {
+    "player_input": "Good morning",
+    "npc_output": "Morning, I need to |r1| this embroidered hat in the shop."
+  },
+  {
+    "player_input": "Hi",
+    "npc_output": "Hi, I'm excited to talk about farming."
+  },
+  {
+    "player_input": "What's up?",
+    "npc_output": "I'm feeling hopeful and it's snowy at dawn, I need to |r1|."
+  },
+  {
+    "player_input": "How are you?",
+    "npc_output": "I'm neutral, it's hail in the morning, I have to |r1|."
+  },
+  {
+    "player_input": "Morning",
+    "npc_output": "Morning, it's snowy before sunrise and I'm feeling angry, I need to |r1|."
+  },
+  {
+    "player_input": "What's going on?",
+    "npc_output": "I'm bored and it's sunny at midnight, I want to |r1|."
+  },
+  {
+    "player_input": "Hi",
+    "npc_output": "Hi, I have to |r1| this urgent letter on the road."
+  },
+  {
+    "player_input": "Good evening",
+    "npc_output": "Evening, it's sunny and I need to |r4|."
+  },
+  {
+    "player_input": "Hello",
+    "npc_output": "I'm feeling angry and excited, I need to |r1| this fine hat after delivery."
+  },
+  {
+    "player_input": "What's new?",
+    "npc_output": "It's drizzle at noon and I'm feeling neutral, I have to |r5|."
+  },
+  {
+    "player_input": "Hey",
+    "npc_output": "Hey, I need to |r1| this fresh herb in the woods."
+  },
+  {
+    "player_input": "Hi",
+    "npc_output": "Hi, it's drizzle in the afternoon and I have to |r1|."
+  },
+  {
+    "player_input": "What's up?",
+    "npc_output": "I'm feeling neutral and it's hail in the afternoon, I want to |r1|."
+  },
+  {
+    "player_input": "Morning",
+    "npc_output": "Morning, I'm curious and excited, I need to |r1| this strong anvil at the market."
+  }
+]

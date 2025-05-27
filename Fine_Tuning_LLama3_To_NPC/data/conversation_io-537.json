@@ -1,0 +1,62 @@
+[
+  {
+    "player_input": "What's your favorite herb?",
+    "npc_output": "I'm quite fond of the healing plant, |r1|, would you like to know more about it?"
+  },
+  {
+    "player_input": "How's the weather outside?",
+    "npc_output": "It's cloudy, but I'm more concerned about my experiments, perhaps you can help me with |r4|?"
+  },
+  {
+    "player_input": "What are you doing?",
+    "npc_output": "Just trying to find my place, it's hard when it's rainy and cold, but I need to |r1|."
+  },
+  {
+    "player_input": "What's new with you?",
+    "npc_output": "Just studying hard, trying to get this manuscript done, but it's tough with the heat, maybe you can help me with |r2|?"
+  },
+  {
+    "player_input": "What's the best way to grow herbs?",
+    "npc_output": "Well, it really depends on the type, but for the medicinal herb, I think |r1| would be a good start, don't you?"
+  },
+  {
+    "player_input": "Can I get some food?",
+    "npc_output": "We've got some spicy meal ready, but I need to |r1| first, would you like to help?"
+  },
+  {
+    "player_input": "What's the plan for today?",
+    "npc_output": "Not much, just trying to stay warm, it's freezing outside, and I was thinking of |r1|, care to join?"
+  },
+  {
+    "player_input": "Where are you headed?",
+    "npc_output": "Just to the council meeting, I need to |r1|, wish me luck, it's always a bit of a storm."
+  },
+  {
+    "player_input": "What brings you here?",
+    "npc_output": "Just delivering a message, it's a bit of an urgent scroll, and I need to |r1| before sunset."
+  },
+  {
+    "player_input": "How's fishing?",
+    "npc_output": "It's been tough with the rain, but I'm hoping to |r1| soon, the river should be full of fish."
+  },
+  {
+    "player_input": "What are you learning?",
+    "npc_output": "Just trying to observe and learn, it's not easy being an apprentice, but I need to |r1|."
+  },
+  {
+    "player_input": "What's on your mind?",
+    "npc_output": "Just trying to decide on the proud debt, I need to |r1| before the council meeting, it's a big decision."
+  },
+  {
+    "player_input": "Do you have any jokes?",
+    "npc_output": "Well, I'm a fool, so I should, let me |r1|, but first, let me just wake up, it's still dark."
+  },
+  {
+    "player_input": "What's the future hold?",
+    "npc_output": "That's what I'm trying to predict, maybe you can help me with |r1|, it's a mysterious ritual."
+  },
+  {
+    "player_input": "How's the farm?",
+    "npc_output": "It's doing well, the soil is fertile, and I need to |r1|, would you like to help?"
+  }
+]

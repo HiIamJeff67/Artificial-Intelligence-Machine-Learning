@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "What's your role?",
+    "npc_output": "I'm a messenger, |r3|."
+  },
+  {
+    "player_input": "How's business?",
+    "npc_output": "It's going well, thanks for asking. I need to |r1| soon."
+  },
+  {
+    "player_input": "What's new?",
+    "npc_output": "Not much, just got back from a mining trip. Now I need to |r4|."
+  },
+  {
+    "player_input": "Do you need help?",
+    "npc_output": "Actually, could you help me with |r6|?"
+  },
+  {
+    "player_input": "What are you studying?",
+    "npc_output": "Alchemy, it's fascinating. I'm working on |r9| right now."
+  },
+  {
+    "player_input": "How's your research?",
+    "npc_output": "Going well, but I need to |r10| soon."
+  },
+  {
+    "player_input": "What's your patrol route?",
+    "npc_output": "I'm guarding the gate, making sure it's secure. Part of my |r5|."
+  },
+  {
+    "player_input": "Want to play a game?",
+    "npc_output": "Maybe later, I need to |r12| first."
+  },
+  {
+    "player_input": "What's cooking?",
+    "npc_output": "Just preparing a meal, |r3| is on the menu."
+  },
+  {
+    "player_input": "Do you have a performance tonight?",
+    "npc_output": "Yes, I'm |r5| at the tavern later."
+  }
+]

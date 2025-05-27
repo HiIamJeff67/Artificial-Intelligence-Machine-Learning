@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "What's wrong?",
+    "npc_output": "I'm just feeling a bit angry and tired today, |r2|."
+  },
+  {
+    "player_input": "Need help?",
+    "npc_output": "I'm just patrolling the area, making sure everything is secure |r5|."
+  },
+  {
+    "player_input": "Hello!",
+    "npc_output": "I'm busy mending this outfit, but I'd love to chat about storytelling later."
+  },
+  {
+    "player_input": "How's business?",
+    "npc_output": "It's going well, thanks for asking! Maybe I'll pour you a festive banquet before the festival |r1|."
+  },
+  {
+    "player_input": "What are you doing?",
+    "npc_output": "Just experimenting with some potions, might distill a magical formula before sunrise |r1|."
+  },
+  {
+    "player_input": "Good morning!",
+    "npc_output": "Good morning! I'm hosting the graceful court at the palace today, wish me luck |r1|."
+  },
+  {
+    "player_input": "Tough day?",
+    "npc_output": "You have no idea, I'm so angry and tired. Just want to observe the inexperienced test during lesson |r1|."
+  },
+  {
+    "player_input": "Evening!",
+    "npc_output": "Evening! I'll be reciting the colorful instrument after dinner, hope you can join me |r1|."
+  },
+  {
+    "player_input": "What's up?",
+    "npc_output": "Just predicting the dark broom before dawn, careful it's windy |r1|."
+  },
+  {
+    "player_input": "Afternoon!",
+    "npc_output": "Afternoon! Time to descend the deep helmet during shift, wish me luck |r1|."
+  }
+]

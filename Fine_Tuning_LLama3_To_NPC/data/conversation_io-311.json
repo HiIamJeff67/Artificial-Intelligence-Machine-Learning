@@ -1,0 +1,66 @@
+[
+  {
+    "player_input": "What's wrong?",
+    "npc_output": "I'm feeling a bit tired and sad, to be honest. |r2|"
+  },
+  {
+    "player_input": "How's business?",
+    "npc_output": "It's been a long day, and I'm getting a bit tired and angry. I wish someone could |r1|."
+  },
+  {
+    "player_input": "Need help with anything?",
+    "npc_output": "Actually, I'm feeling anxious and I have to |r1| soon."
+  },
+  {
+    "player_input": "Want to talk?",
+    "npc_output": "I'm feeling a bit angry and anxious. Maybe we could discuss something to take my mind off things, like music or reading?"
+  },
+  {
+    "player_input": "Your Majesty, how are you?",
+    "npc_output": "I'm feeling a bit tired, but I have to |r4| soon."
+  },
+  {
+    "player_input": "What brings you out here?",
+    "npc_output": "Just enjoying the windy weather before sunrise. I need to |r1| later."
+  },
+  {
+    "player_input": "Do you need assistance?",
+    "npc_output": "I'm just a bit tired, but I should be fine. I have to |r2| soon, though."
+  },
+  {
+    "player_input": "How's the guard life?",
+    "npc_output": "It's been a long day, and I'm feeling tired and neutral. I need to |r1| tonight."
+  },
+  {
+    "player_input": "Good catch?",
+    "npc_output": "Yes, it's been a great day for fishing! I'm excited to |r1|."
+  },
+  {
+    "player_input": "Morning, what's new?",
+    "npc_output": "Not much, just the usual. I'm feeling a bit angry, tired, and bored. Maybe we could discuss something interesting, like cooking or magic?"
+  },
+  {
+    "player_input": "Rough day?",
+    "npc_output": "Yes, it's been tough. I'm tired and I need to |r4| soon."
+  },
+  {
+    "player_input": "What are you doing out here?",
+    "npc_output": "Just trying to catch some fish before the storm. I need to |r1|."
+  },
+  {
+    "player_input": " anything new?",
+    "npc_output": "Not really, just the usual. I'm feeling a bit tired and anxious. I need to |r2| soon."
+  },
+  {
+    "player_input": "Hello, how are you?",
+    "npc_output": "I'm a bit anxious and reserved. Not much to talk about, really."
+  },
+  {
+    "player_input": "Need help with the mine?",
+    "npc_output": "Actually, I'm feeling anxious and indecisive. Maybe you could help me |r1|?"
+  },
+  {
+    "player_input": "What's your performance like?",
+    "npc_output": "It's going well, thanks! I'm feeling a bit anxious, but happy to |r1| tonight."
+  }
+]

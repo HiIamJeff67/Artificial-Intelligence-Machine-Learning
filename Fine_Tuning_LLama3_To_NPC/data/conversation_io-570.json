@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "What's the weather like?",
+    "npc_output": "It's foggy at midnight, a good time to work on some metalwork, maybe |r1|."
+  },
+  {
+    "player_input": "How's business?",
+    "npc_output": "It's festival time, I have a lot of orders to fill, including |r6|, but it's exciting."
+  },
+  {
+    "player_input": "Do you need help?",
+    "npc_output": "Actually, I could use some assistance with my patients, especially with |r3|."
+  },
+  {
+    "player_input": "What's your plan for the day?",
+    "npc_output": "I need to perform a ceremony, and then I'll be |r1|, it's a big day."
+  },
+  {
+    "player_input": "Can I help with chores?",
+    "npc_output": "That would be great, I need to |r1| and |r5|, thanks for offering."
+  },
+  {
+    "player_input": "Want to go for a walk?",
+    "npc_output": "I'm not sure, I need to |r2|, but it's a nice morning for it."
+  },
+  {
+    "player_input": "Do you have a new song?",
+    "npc_output": "I've been working on a few things, but I think I'll |r1| tonight."
+  },
+  {
+    "player_input": "Want to go fishing?",
+    "npc_output": "The weather is not great, but I could try to |r5|, if you'd like to join me."
+  },
+  {
+    "player_input": "Can we talk business?",
+    "npc_output": "I'm busy preparing for a banquet, but I do need to |r1|, it's a big deal."
+  },
+  {
+    "player_input": "What's cooking?",
+    "npc_output": "I'm preparing a feast, and I need to |r3|, it's a lot of work but it'll be worth it."
+  }
+]

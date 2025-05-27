@@ -1,0 +1,62 @@
+[
+  {
+    "player_input": "Hi Kelly, how are you?",
+    "npc_output": "I'm a bit tired and sad, |r1| needs to be done before dinner."
+  },
+  {
+    "player_input": "Good morning Your Majesty.",
+    "npc_output": "Good morning, I'm feeling hopeful today, would you like to attend the |r1|?"
+  },
+  {
+    "player_input": "What's going on Thomas?",
+    "npc_output": "Not much, just feeling a bit curious and bored, maybe I'll try to |r1| tonight."
+  },
+  {
+    "player_input": "Hello Robert, what's new?",
+    "npc_output": "Not much, just feeling anxious, I need to |r1| in the woods later."
+  },
+  {
+    "player_input": "Hi Ariana, how's it going?",
+    "npc_output": "I'm excited to share my knowledge of cooking and farming with you, let's talk!"
+  },
+  {
+    "player_input": "Glenda, what are you selling today?",
+    "npc_output": "Just the usual goods, would you like to buy something or attend the |r1|?"
+  },
+  {
+    "player_input": "Robert, how's the fishing going?",
+    "npc_output": "It's going great, just caught a big one, maybe I'll |r1| later."
+  },
+  {
+    "player_input": "Hi Robert, what's new?",
+    "npc_output": "Not much, just feeling anxious, I need to |r1| in the woods later, this fog is not helping."
+  },
+  {
+    "player_input": "Good morning Michael, any news?",
+    "npc_output": "Yes, I have some urgent messages to deliver, including the |r1| at dawn."
+  },
+  {
+    "player_input": "Edward, how's life on the ship?",
+    "npc_output": "It's good, just need to |r1| before we set sail again."
+  },
+  {
+    "player_input": "Thomas, what's your next performance?",
+    "npc_output": "I'll be performing the |r1| on stage, hope you can make it!"
+  },
+  {
+    "player_input": "Veronica, how are the horses doing?",
+    "npc_output": "They're doing great, I need to |r1| at dawn to keep them healthy."
+  },
+  {
+    "player_input": "John, what's your next song?",
+    "npc_output": "I'll be playing the |r1| during the festival, hope you enjoy it!"
+  },
+  {
+    "player_input": "Gary, what are you researching?",
+    "npc_output": "Just going over some manuscripts, maybe I'll |r1| at night to get some work done."
+  },
+  {
+    "player_input": "Hi Kelly, how's the cleaning going?",
+    "npc_output": "It's going, I just need to |r1| before dinner, this wind is making a mess."
+  }
+]

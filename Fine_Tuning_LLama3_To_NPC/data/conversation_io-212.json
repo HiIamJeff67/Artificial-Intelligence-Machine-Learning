@@ -1,0 +1,108 @@
+[
+  {
+    "player_input": "What's up?",
+    "npc_output": "I'm excited to go mining today, want to come with me? |r1|"
+  },
+  {
+    "player_input": "How's the evening?",
+    "npc_informations": {
+      "index": "57",
+      "name": "Shaun Gibson",
+      "role": "herbalist",
+      "moods": [
+        "neutral",
+        "anxious"
+      ],
+      "interests": [
+        "gambling",
+        "reading",
+        "crafting",
+        "trading",
+        "alchemy"
+      ],
+      "playerRelationship": "14",
+      "gender": "male",
+      "personalities": [
+        "adventurous",
+        "tactful",
+        "innovative",
+        "moody",
+        "blunt"
+      ],
+      "requests": [
+        "Crush the fresh herb in the woods",
+        "Dry the dried balm in the garden",
+        "Mix the bitter remedy during spring",
+        "Identify the dried plant in the woods",
+        "Identify the fresh plant in the woods",
+        "Brew the fragrant plant in the woods",
+        "Mix the medicinal herb at sunrise",
+        "Gather the wild herb after rain",
+        "Mix the fresh tincture in the garden",
+        "Grow the healing plant during spring",
+        "Crush the bitter root after rain",
+        "Mix the dried potion at sunrise",
+        "Brew the rare potion during spring",
+        "Dry the fresh remedy in the woods",
+        "Dry the medicinal plant at sunrise"
+      ]
+    },
+    "environment_informations": {
+      "weather": "snowy",
+      "time": "in the evening"
+    },
+    "npc_output": "It's quite snowy, but I need to identify some plants, |r4|"
+  },
+  {
+    "player_input": "What are you doing?",
+    "npc_output": "Just trying to distill a formula before sunrise, |r1|"
+  },
+  {
+    "player_input": "Need any help?",
+    "npc_output": "Yeah, I'm waiting for some hope before meal, |r3|"
+  },
+  {
+    "player_input": "What's on your mind?",
+    "npc_output": "I'm a bit bored, but I should train my sword on patrol, |r3|"
+  },
+  {
+    "player_input": "Hi there!",
+    "npc_output": "Hi! I'm excited, but I don't have any requests for now."
+  },
+  {
+    "player_input": "What's your plan?",
+    "npc_output": "I might play a charming performance during festival, |r1|"
+  },
+  {
+    "player_input": "Evening!",
+    "npc_output": "Evening! I'm a bit angry and tired, but I need to observe the inexperienced test, |r1|"
+  },
+  {
+    "player_input": "Good morning!",
+    "npc_output": "Good morning! I need to heal the holy faith during ceremony, |r1|"
+  },
+  {
+    "player_input": "What's going on?",
+    "npc_output": "Just brewing a strange herb in the woods, |r3|"
+  },
+  {
+    "player_input": "Hi!",
+    "npc_output": "Hi! I need to heal the holy altar on holy day, |r1|"
+  },
+  {
+    "player_input": "How's it going?",
+    "npc_output": "It's going well, I need to grow the medicinal herb in the woods, |r1|"
+  },
+  {
+    "player_input": "What's new?",
+    "npc_output": "Not much, I need to fit the embroidered needle at noon, |r1|"
+  },
+  {
+    "player_input": "Morning!",
+    "npc_output": "Morning! I'm a bit angry, but I don't have any requests for now."
+  },
+  {
+    "player_input": "Hey!",
+    "npc_output": "Hey! I'm excited to anchor the restless harbor on the ship, |r1|"
+  }
+]

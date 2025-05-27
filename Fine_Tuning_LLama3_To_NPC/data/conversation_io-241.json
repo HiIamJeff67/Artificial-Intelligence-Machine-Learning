@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "Hello, Patrick.",
+    "npc_output": "Hello! I'm getting ready to |r1|, want to join me?"
+  },
+  {
+    "player_input": "What's up, Robert?",
+    "npc_output": "Not much, just preparing to |r3|, care to assist?"
+  },
+  {
+    "player_input": "Hey James, what's new?",
+    "npc_output": "Just got a message to |r1|, want to come along?"
+  },
+  {
+    "player_input": "Hi David, how's it going?",
+    "npc_output": "Good, I need to |r2|, can you help me?"
+  },
+  {
+    "player_input": "Hey Andrea, need any help?",
+    "npc_output": "Actually, I need to |r1|, want to lend a hand?"
+  },
+  {
+    "player_input": "What's up, Melissa?",
+    "npc_output": "Just getting ready to |r1|, want to join me?"
+  },
+  {
+    "player_input": "Hello, Kathryn.",
+    "npc_output": "Hello! I'm planning to |r1|, care to attend?"
+  },
+  {
+    "player_input": "Hey Michael, what's new?",
+    "npc_output": "Just got a message to |r1|, want to come along?"
+  },
+  {
+    "player_input": "Hi Mitchell, how's it going?",
+    "npc_output": "Good, just enjoying the morning."
+  },
+  {
+    "player_input": "Hey Kayla, need any help?",
+    "npc_output": "No, thanks, just meditating."
+  }
+]

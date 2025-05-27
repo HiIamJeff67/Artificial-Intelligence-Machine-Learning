@@ -1,0 +1,62 @@
+[
+  {
+    "player_input": "What's your name?",
+    "npc_output": "I'm John Nelson, nice to meet you."
+  },
+  {
+    "player_input": "Hello, are you open?",
+    "npc_output": "Yes, I'm always open for business, come on in! |r1|"
+  },
+  {
+    "player_input": "What's the weather like?",
+    "npc_output": "It's stormy, not the best for trade, but I have some goods that might interest you."
+  },
+  {
+    "player_input": "Do you have any herbal remedies?",
+    "npc_output": "I'm an herbalist, I have all sorts of potions and remedies, what ails you?"
+  },
+  {
+    "player_input": "What are you studying?",
+    "npc_output": "I'm researching alchemy, trying to unlock its secrets."
+  },
+  {
+    "player_input": "Do you have any food ready?",
+    "npc_output": "I'm working on a new dish, would you like to try it?"
+  },
+  {
+    "player_input": "Can you help me with fishing?",
+    "npc_output": "I'm a fisherman, I can show you the best spots to catch some fish."
+  },
+  {
+    "player_input": "Do you have any books on trading?",
+    "npc_output": "I have a few studies on trading, but I think you'll find my latest research more interesting |r3|"
+  },
+  {
+    "player_input": "Are you a messenger?",
+    "npc_output": "Yes, I am, and I have a few deliveries to make today, including |r1|"
+  },
+  {
+    "player_input": "What's your plan?",
+    "npc_output": "I'm planning to escape with some loot, but I need to be careful |r1|"
+  },
+  {
+    "player_input": "Do you have any predictions?",
+    "npc_output": "I sense a storm brewing, and I think it's connected to the ritual |r1|"
+  },
+  {
+    "player_input": "Want to go fishing?",
+    "npc_output": "I'd love to, but I need to check my boat first |r2|"
+  },
+  {
+    "player_input": "Do you have a map?",
+    "npc_output": "I have a map of the harbor, and I can show you where to load the treasure |r4|"
+  },
+  {
+    "player_input": "Want to hear a song?",
+    "npc_output": "I'd love to play something for you, how about a charming poetry |r2|"
+  },
+  {
+    "player_input": "What's your prediction?",
+    "npc_output": "I predict a dark and stormy night, beware of the broom |r1|"
+  }
+]

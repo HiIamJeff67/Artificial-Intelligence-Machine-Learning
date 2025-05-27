@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "What's your message?",
+    "npc_output": "I need to deliver a message, |r1|."
+  },
+  {
+    "player_input": "What are you doing?",
+    "npc_output": "Getting ready to set sail, |r2|."
+  },
+  {
+    "player_input": "What's going on?",
+    "npc_output": "The fog is making it hard to navigate, |r1|."
+  },
+  {
+    "player_input": "How's your day?",
+    "npc_output": "It's been long, but I need to |r1|."
+  },
+  {
+    "player_input": "What's new?",
+    "npc_output": "I'm preparing for the festival, |r1|."
+  },
+  {
+    "player_input": "What are you mining?",
+    "npc_output": "Looking for gems, but it's |r5|."
+  },
+  {
+    "player_input": "What's your prediction?",
+    "npc_output": "The winds will change soon, |r1|."
+  },
+  {
+    "player_input": "Can you bless me?",
+    "npc_output": "I can, but first |r1|."
+  },
+  {
+    "player_input": "What's your message?",
+    "npc_output": "I have a delivery to make, |r1|."
+  },
+  {
+    "player_input": "What's your sermon?",
+    "npc_output": "About forgiveness, and |r1|."
+  }
+]

@@ -1,0 +1,54 @@
+[
+  {
+    "player_input": "What's your favorite hobby?",
+    "npc_output": "I enjoy meditation, it's so calming"
+  },
+  {
+    "player_input": "How's the weather?",
+    "npc_output": "It's sunny, perfect for reading a book, maybe I'll prescribe some compassionate herbs later"
+  },
+  {
+    "player_input": "Want to go fishing?",
+    "npc_output": "I'm not really in the mood, I have a proud debt to attend to before council, maybe after I command the arrogant title"
+  },
+  {
+    "player_input": "Do you like your job?",
+    "npc_output": "It has its moments, but I wish I could sew a more fashionable outfit, like the one I'm making for the festival"
+  },
+  {
+    "player_input": "What do you like to do for fun?",
+    "npc_output": "I love crafting and dancing, but I'm a bit bored, wish I had some new requests to complete"
+  },
+  {
+    "player_input": "Want to hear a story?",
+    "npc_output": "Actually, I'd rather lead the powerful treasure at festival, it's a big responsibility as a king"
+  },
+  {
+    "player_input": "How's your day going?",
+    "npc_output": "It's been better, I had to care for a gentle patient, but at least I got to prescribe some compassionate herbs before sunset"
+  },
+  {
+    "player_input": "Want to trade goods?",
+    "npc_output": "I'd love to trade the valuable trade on the road, but first I have to deliver this swift parcel at dawn"
+  },
+  {
+    "player_input": "Do you like your role?",
+    "npc_output": "It has its moments, but I wish I could report the punctual scroll before sunset without any issues, or maybe announce the quick delivery"
+  },
+  {
+    "player_input": "Want to go on an adventure?",
+    "npc_output": "That sounds exciting, but first I have to entertain the lively lyre on stage, it's a big performance as a bard"
+  },
+  {
+    "player_input": "How's your relationship with the player?",
+    "npc_output": "It's a bit strained, I'm only at 69, maybe if I announce the urgent letter on the road, it'll improve"
+  },
+  {
+    "player_input": "Want to sail the seas?",
+    "npc_output": "I'd love to navigate the adventurous ship after docking, but first I have to load the strong map at the harbor"
+  },
+  {
+    "player_input": "Do you like being a noble?",
+    "npc_output": "It has its perks, but I have to host the generous estate before council, and invest the refined invitation during banquet, it's a lot of work"
+  }
+]

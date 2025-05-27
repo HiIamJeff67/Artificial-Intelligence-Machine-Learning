@@ -1,0 +1,586 @@
+[
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "14",
+      "name": "Tina Gonzalez",
+      "role": "fisherman",
+      "moods": [
+        "sad",
+        "tired"
+      ],
+      "interests": [
+        "cooking",
+        "exploring",
+        "reading"
+      ],
+      "playerRelationship": "37",
+      "gender": "male",
+      "personalities": [
+        "meticulous",
+        "friendly"
+      ],
+      "requests": [
+        "Sail the lucky bait in the morning",
+        "Cast the weathered net in the morning",
+        "Row the early sea in the morning"
+      ]
+    },
+    "environment_informations": {
+      "weather": "hot",
+      "time": "before sunrise"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "36",
+      "name": "Alexandria Snyder",
+      "role": "fisherman",
+      "moods": [
+        "tired"
+      ],
+      "interests": [
+        "crafting",
+        "farming",
+        "reading",
+        "music"
+      ],
+      "playerRelationship": "69",
+      "gender": "female",
+      "personalities": [
+        "authoritative",
+        "protective",
+        "jealous",
+        "humble"
+      ],
+      "requests": [
+        "Catch the early catch before storm",
+        "Bait the lucky net on the boat",
+        "Bait the salty net on the boat",
+        "Net the lucky bait before storm",
+        "Fish the patient fish at the river",
+        "Reel the steady net on the boat",
+        "Row the salty catch on the boat",
+        "Cast the weathered bait before storm",
+        "Sail the lucky fish at the river",
+        "Catch the lucky sea before storm",
+        "Fish the patient river during fishing"
+      ]
+    },
+    "environment_informations": {
+      "weather": "windy",
+      "time": "at dusk"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "45",
+      "name": "Christina Dean",
+      "role": "herbalist",
+      "moods": [
+        "bored",
+        "anxious"
+      ],
+      "interests": [
+        "storytelling",
+        "farming"
+      ],
+      "playerRelationship": "8",
+      "gender": "male",
+      "personalities": [
+        "diligent",
+        "humble",
+        "pessimistic"
+      ],
+      "requests": [
+        "Gather the dried plant at sunrise",
+        "Crush the fragrant remedy in the garden",
+        "Dry the medicinal plant at sunrise",
+        "Brew the medicinal flower in the woods",
+        "Identify the bitter herb in the garden",
+        "Grow the rare tincture in the woods",
+        "Grow the healing potion during spring",
+        "Mix the medicinal remedy during spring",
+        "Identify the fresh plant in the woods",
+        "Brew the rare potion during spring"
+      ]
+    },
+    "environment_informations": {
+      "weather": "cloudy",
+      "time": "in the evening"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "17",
+      "name": "Edgar Burns",
+      "role": "knight",
+      "moods": [
+        "bored"
+      ],
+      "interests": [
+        "magic"
+      ],
+      "playerRelationship": "36",
+      "gender": "male",
+      "personalities": [
+        "forgiving",
+        "arrogant",
+        "reserved",
+        "friendly"
+      ],
+      "requests": [
+        "Fight the strong horse during tournament",
+        "Fight the fearless horse at the castle",
+        "Train the fearless sword on patrol",
+        "Challenge the noble duty during tournament"
+      ]
+    },
+    "environment_informations": {
+      "weather": "windy",
+      "time": "in the morning"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "5",
+      "name": "Micheal Duncan",
+      "role": "king",
+      "moods": [
+        "tired",
+        "neutral"
+      ],
+      "interests": [
+        "meditation",
+        "alchemy",
+        "hunting"
+      ],
+      "playerRelationship": "27",
+      "gender": "male",
+      "personalities": [
+        "brave",
+        "indecisive",
+        "dreamy",
+        "blunt"
+      ],
+      "requests": [
+        "Lead the powerful treasure at festival",
+        "Appoint the powerful court during council",
+        "Rule the noble kingdom during council",
+        "Rule the powerful kingdom in the morning",
+        "Summon the powerful throne in the morning",
+        "Command the just throne after victory",
+        "Rule the noble crown after victory",
+        "Decree the commanding festival in the throne room",
+        "Summon the noble law at festival",
+        "Judge the noble festival at festival",
+        "Judge the commanding court in the morning"
+      ]
+    },
+    "environment_informations": {
+      "weather": "windy",
+      "time": "in the morning"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "57",
+      "name": "Shaun Gibson",
+      "role": "herbalist",
+      "moods": [
+        "neutral",
+        "anxious"
+      ],
+      "interests": [
+        "gambling",
+        "reading",
+        "crafting",
+        "trading",
+        "alchemy"
+      ],
+      "playerRelationship": "14",
+      "gender": "male",
+      "personalities": [
+        "adventurous",
+        "tactful",
+        "innovative",
+        "moody",
+        "blunt"
+      ],
+      "requests": [
+        "Crush the fresh herb in the woods",
+        "Dry the dried balm in the garden",
+        "Mix the bitter remedy during spring",
+        "Identify the dried plant in the woods",
+        "Identify the fresh plant in the woods",
+        "Brew the fragrant plant in the woods",
+        "Mix the medicinal herb at sunrise",
+        "Gather the wild herb after rain",
+        "Mix the fresh tincture in the garden",
+        "Grow the healing plant during spring",
+        "Crush the bitter root after rain",
+        "Mix the dried potion at sunrise",
+        "Brew the rare potion during spring",
+        "Dry the fresh remedy in the woods",
+        "Dry the medicinal plant at sunrise"
+      ]
+    },
+    "environment_informations": {
+      "weather": "foggy",
+      "time": "during the festival"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "76",
+      "name": "Thomas Myers",
+      "role": "merchant",
+      "moods": [
+        "neutral"
+      ],
+      "interests": [
+        "reading",
+        "meditation"
+      ],
+      "playerRelationship": "51",
+      "gender": "male",
+      "personalities": [
+        "skeptical",
+        "pessimistic",
+        "tactful",
+        "shy",
+        "calculating"
+      ],
+      "requests": [
+        "Import the profitable spice on the road",
+        "Bargain the foreign spice during festival",
+        "Sell the luxurious permit at the market",
+        "Bargain the expensive trade in the city",
+        "Buy the expensive permit on the road",
+        "Travel the luxurious caravan at the market",
+        "Sell the luxurious goods in the city",
+        "Travel the foreign stall on the road",
+        "Export the foreign stall in the city",
+        "Bargain the profitable stall during festival",
+        "Sell the profitable goods before sunset",
+        "Buy the profitable spice on the road",
+        "Sell the expensive market during festival",
+        "Bargain the cheap permit on the road"
+      ]
+    },
+    "environment_informations": {
+      "weather": "sunny",
+      "time": "during the festival"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "96",
+      "name": "Frank Parker",
+      "role": "fool",
+      "moods": [
+        "curious"
+      ],
+      "interests": [
+        "sports"
+      ],
+      "playerRelationship": "68",
+      "gender": "male",
+      "personalities": [
+        "adventurous",
+        "lazy",
+        "compassionate"
+      ],
+      "requests": [
+        "Jest the playful trick after joke",
+        "Mock the silly prank before sunset",
+        "Jest the loud dance at the festival"
+      ]
+    },
+    "environment_informations": {
+      "weather": "windy",
+      "time": "at noon"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "1",
+      "name": "Shelley Conner",
+      "role": "herbalist",
+      "moods": [
+        "curious",
+        "tired"
+      ],
+      "interests": [
+        "gambling"
+      ],
+      "playerRelationship": "47",
+      "gender": "male",
+      "personalities": [
+        "stubborn",
+        "faithful"
+      ],
+      "requests": [
+        "Grow the healing plant during spring",
+        "Gather the dried balm after rain",
+        "Dry the fresh potion in the woods",
+        "Identify the dried flower in the garden",
+        "Gather the wild remedy in the woods",
+        "Crush the fragrant plant at sunrise",
+        "Gather the wild herb after rain",
+        "Crush the fresh herb in the woods",
+        "Grow the medicinal herb in the woods"
+      ]
+    },
+    "environment_informations": {
+      "weather": "hail",
+      "time": "before sunrise"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "38",
+      "name": "Cody Soto",
+      "role": "beggar",
+      "moods": [
+        "hopeful"
+      ],
+      "interests": [
+        "crafting",
+        "exploring",
+        "music"
+      ],
+      "playerRelationship": "72",
+      "gender": "female",
+      "personalities": [
+        "loyal",
+        "wise",
+        "playful",
+        "optimistic",
+        "generous"
+      ],
+      "requests": [
+        "Wait the dirty hope before meal",
+        "Wander the lonely companion in the evening",
+        "Wander the grateful companion in the evening",
+        "Ask the tired companion in the evening",
+        "Hope the dirty companion after rain",
+        "Ask the dirty corner in the evening",
+        "Wait the tired companion after rain",
+        "Wait the hungry blanket after rain",
+        "Hope the needy corner before meal",
+        "Beg the poor companion at the square",
+        "Beg the dirty food at the square",
+        "Wander the grateful shelter in the evening",
+        "Hope the poor blanket during festival",
+        "Beg the dirty blanket before meal",
+        "Hope the cold blanket during festival"
+      ]
+    },
+    "environment_informations": {
+      "weather": "hot",
+      "time": "at dusk"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "16",
+      "name": "Marisa Rhodes",
+      "role": "noble",
+      "moods": [
+        "angry",
+        "tired",
+        "bored"
+      ],
+      "interests": [
+        "cooking",
+        "magic",
+        "dancing"
+      ],
+      "playerRelationship": "35",
+      "gender": "male",
+      "personalities": [
+        "curious"
+      ],
+      "requests": [
+        "Host the generous estate before council",
+        "Invest the refined invitation during banquet",
+        "Inherit the dignified jewel in the city",
+        "Invite the wealthy invitation during banquet",
+        "Invest the powerful title at the estate",
+        "Invite the generous debt after ceremony",
+        "Donate the generous servant before council",
+        "Invite the influential invitation after ceremony",
+        "Invest the dignified jewel after ceremony",
+        "Rule the refined title after ceremony"
+      ]
+    },
+    "environment_informations": {
+      "weather": "snowy",
+      "time": "after sunset"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "6",
+      "name": "Glenda Moss",
+      "role": "merchant",
+      "moods": [
+        "hopeful"
+      ],
+      "interests": [
+        "alchemy",
+        "meditation",
+        "hunting",
+        "trading"
+      ],
+      "playerRelationship": "78",
+      "gender": "male",
+      "personalities": [
+        "sarcastic",
+        "greedy",
+        "cautious"
+      ],
+      "requests": [
+        "Sell the expensive market during festival",
+        "Sell the luxurious goods in the city"
+      ]
+    },
+    "environment_informations": {
+      "weather": "foggy",
+      "time": "at midnight"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "11",
+      "name": "Mrs. Destiny Rice",
+      "role": "innkeeper",
+      "moods": [
+        "hopeful",
+        "anxious",
+        "excited"
+      ],
+      "interests": [
+        "gambling",
+        "dancing",
+        "alchemy"
+      ],
+      "playerRelationship": "95",
+      "gender": "male",
+      "personalities": [
+        "pragmatic",
+        "meticulous"
+      ],
+      "requests": [
+        "Clean the busy room before festival",
+        "Serve the welcoming feast after sunset",
+        "Pour the generous feast at the inn",
+        "Serve the generous drink in the evening"
+      ]
+    },
+    "environment_informations": {
+      "weather": "cloudy",
+      "time": "in the evening"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "14",
+      "name": "Tina Gonzalez",
+      "role": "fisherman",
+      "moods": [
+        "sad",
+        "tired"
+      ],
+      "interests": [
+        "cooking",
+        "exploring",
+        "reading"
+      ],
+      "playerRelationship": "37",
+      "gender": "male",
+      "personalities": [
+        "meticulous",
+        "friendly"
+      ],
+      "requests": [
+        "Sail the lucky bait in the morning",
+        "Cast the weathered net in the morning",
+        "Row the early sea in the morning"
+      ]
+    },
+    "environment_informations": {
+      "weather": "windy",
+      "time": "at dusk"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "19",
+      "name": "Kathryn Bradford",
+      "role": "noble",
+      "moods": [
+        "bored"
+      ],
+      "interests": [
+        "horsemanship",
+        "magic",
+        "meditation",
+        "trading",
+        "hunting"
+      ],
+      "playerRelationship": "66",
+      "gender": "female",
+      "personalities": [
+        "reckless",
+        "patient",
+        "materialistic"
+      ],
+      "requests": [
+        "Attend the proud debt in the city",
+        "Command the arrogant invitation during banquet",
+        "Command the proud servant before council",
+        "Host the refined debt before council",
+        "Invite the powerful debt at the estate",
+        "Invite the wealthy invitation during banquet",
+        "Rule the powerful invitation at the estate",
+        "Donate the generous servant before council",
+        "Donate the wealthy land before council"
+      ]
+    },
+    "environment_informations": {
+      "weather": "sunny",
+      "time": "at dusk"
+    },
+    "npc_output": ""
+  }
+]

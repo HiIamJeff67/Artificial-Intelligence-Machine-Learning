@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "How are you?",
+    "npc_output": "I'm tired, but I'm looking forward to the festival, perhaps you can help me with |r1|?"
+  },
+  {
+    "player_input": "What's your day like?",
+    "npc_output": "It's been a long day of farming, but I'm hopeful for a good harvest, especially if I can |r2|."
+  },
+  {
+    "player_input": "Need any help?",
+    "npc_output": "Actually, I'm trying to |r7|, but it's not going well, this rain is making it difficult."
+  },
+  {
+    "player_input": "What's new?",
+    "npc_output": "Not much, just trying to |r1|, but it's harder than it looks, especially at midnight."
+  },
+  {
+    "player_input": "Want to hunt?",
+    "npc_output": "I'm not really in the mood, but maybe later, for now, I need to |r3|."
+  },
+  {
+    "player_input": "How's the field?",
+    "npc_output": "It's a bit windy, but I need to |r2|, care to join me?"
+  },
+  {
+    "player_input": "What's for dinner?",
+    "npc_output": "Not sure yet, but I need to |r1|, want to help?"
+  },
+  {
+    "player_input": "Want to go mining?",
+    "npc_output": "Maybe later, first I need to |r4|, it's not safe otherwise."
+  },
+  {
+    "player_input": "Need help with the ceremony?",
+    "npc_output": "Actually, I need someone to |r2|, would you be willing to assist?"
+  },
+  {
+    "player_input": "What's cooking?",
+    "npc_output": "Just preparing for the feast, I need to |r1|, hope it turns out well."
+  }
+]

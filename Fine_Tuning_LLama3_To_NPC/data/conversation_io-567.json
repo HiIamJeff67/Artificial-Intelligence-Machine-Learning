@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "What's wrong?",
+    "npc_output": "I'm just feeling a bit bored and curious today, that's all."
+  },
+  {
+    "player_input": "How's it going?",
+    "npc_output": "It's going, but I'm feeling a bit sad. |r2|"
+  },
+  {
+    "player_input": "Do you have any news?",
+    "npc_output": "Actually, I do. I need to |r3|, but I'm feeling tired and anxious."
+  },
+  {
+    "player_input": "What's for dinner?",
+    "npc_output": "I was thinking of cooking something, but I'm not sure what yet. Maybe something spicy."
+  },
+  {
+    "player_input": "Want to go fishing?",
+    "npc_output": "I'd love to, but I'm not feeling up to it today. Maybe some other time."
+  },
+  {
+    "player_input": "Your Majesty, how are you?",
+    "npc_output": "I'm doing well, thank you for asking. The garden is looking lovely today."
+  },
+  {
+    "player_input": "Do you have any messages for me?",
+    "npc_output": "Actually, I do. I need to |r2|, but I'm not sure if I can make it on time."
+  },
+  {
+    "player_input": "Need any help with your work?",
+    "npc_output": "That's kind of you to offer, but I think I've got it under control. Just need to |r1|."
+  },
+  {
+    "player_input": "What brings you here?",
+    "npc_output": "Just enjoying the windy weather, I suppose. It's nice to get out before sunrise."
+  },
+  {
+    "player_input": "How's the farm coming along?",
+    "npc_output": "It's going well, thanks for asking. We just need to |r1| and we'll be all set."
+  }
+]

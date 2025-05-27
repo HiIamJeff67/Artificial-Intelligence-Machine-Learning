@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "What's with the hail?",
+    "npc_output": "Ugh, this hail is terrible. It's not exactly the best weather for hosting the generous estate before council, |r1|."
+  },
+  {
+    "player_input": "Why so anxious?",
+    "npc_output": "I have to entertain the lively lyre on stage tonight and I'm not feeling too confident. Wish me luck, I need to get it right for a good performance, maybe even |r1|."
+  },
+  {
+    "player_input": "What's bothering you?",
+    "npc_output": "Just feeling a bit bored and anxious about gathering the dried plant at sunrise, |r1|, with this hail outside."
+  },
+  {
+    "player_input": "How's business?",
+    "npc_output": "It's been tough with this windy weather, but I'm preparing the festive banquet after sunset, |r1|, to lift everyone's spirits."
+  },
+  {
+    "player_input": "How's farming?",
+    "npc_output": "The hail is not helping, but I need to plow the abundant soil after sunrise, |r1|, to get the crops going."
+  },
+  {
+    "player_input": "What's new?",
+    "npc_output": "Not much, just observing the inexperienced test during lesson, |r1|, trying to learn from it."
+  },
+  {
+    "player_input": "What's cooking?",
+    "npc_output": "Trying to mix the fresh meal in the kitchen, |r2|, before the feast, hoping it turns out well."
+  },
+  {
+    "player_input": "Any predictions?",
+    "npc_output": "The fog is making it difficult, but I need to predict the dark broom before dawn, |r1|, for an important ritual."
+  },
+  {
+    "player_input": "How's mining?",
+    "npc_output": "It's going, slowly, due to the windy conditions, but I have to descend the deep helmet during shift, |r1|, to meet our targets."
+  },
+  {
+    "player_input": "What's your task?",
+    "npc_output": "I'm sawing the handcrafted plank before rain, |r1|, to get this project finished on time."
+  }
+]

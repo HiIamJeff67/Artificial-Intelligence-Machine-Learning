@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "What's your role?",
+    "npc_output": "I'm a thief, nice to meet you."
+  },
+  {
+    "player_input": "Do you like sports?",
+    "npc_output": "Actually, I'm more of a jokester, I love to jest and make people laugh."
+  },
+  {
+    "player_input": "What's your favorite hobby?",
+    "npc_output": "I enjoy horsemanship, there's something about riding horses that clears my mind."
+  },
+  {
+    "player_input": "Need any help with farming?",
+    "npc_output": "That's very kind of you, I'm trying to sow the bountiful soil after sunrise, |r1|."
+  },
+  {
+    "player_input": "What brings you here?",
+    "npc_output": "Just meditating and enjoying the morning, trying to calm my angry mood."
+  },
+  {
+    "player_input": "Want to trade something?",
+    "npc_output": "I'm a merchant, I'd love to trade the valuable trade on the road, |r1|, with you."
+  },
+  {
+    "player_input": "Do you have a room available?",
+    "npc_output": "Yes, I'm an innkeeper, and I'd be happy to pour the festive banquet before festival for you."
+  },
+  {
+    "player_input": "What's your job?",
+    "npc_output": "I'm a guard, and I'm supposed to escort the secure law at the gate, |r1|, tonight."
+  },
+  {
+    "player_input": "Do you like fishing?",
+    "npc_output": "Actually, I'm a tailor, and I'm more interested in sewing and embroidering than fishing."
+  },
+  {
+    "player_input": "Want to hex something?",
+    "npc_output": "As a witch, I can hex the strange ritual at midnight, |r1|, if you'd like."
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "player_input": "What's new?",
+    "npc_output": "Not much, just preparing for the festival |r1|"
+  },
+  {
+    "player_input": "Hi, how are you?",
+    "npc_output": "I'm good, thanks. I have to deliver this message |r3|"
+  },
+  {
+    "player_input": "What brings you here?",
+    "npc_output": "Just working on some wood, nothing much"
+  },
+  {
+    "player_input": "Do you have a room available?",
+    "npc_output": "Yes, I have a room. And by the way, I need to |r1|"
+  },
+  {
+    "player_input": "What's your favorite song?",
+    "npc_output": "I love playing the lyre. Maybe I'll play one at the festival |r1|"
+  },
+  {
+    "player_input": "Your Majesty, what's the plan for today?",
+    "npc_output": "We have a council meeting. I need to |r2|"
+  },
+  {
+    "player_input": "What's your specialty?",
+    "npc_output": "I'm a priest. I've been studying some new spells"
+  },
+  {
+    "player_input": "What's cooking?",
+    "npc_output": "Just preparing for the feast. I need to |r1|"
+  },
+  {
+    "player_input": "What's on the menu?",
+    "npc_output": "We have some delicious dishes. And I need to |r3|"
+  },
+  {
+    "player_input": "What's the best way to catch a thief?",
+    "npc_output": "Ha! Good question. I can |r5| if you'd like"
+  },
+  {
+    "player_input": "What's the weather like?",
+    "npc_output": "It's hot today. Perfect for a hunt |r1|"
+  },
+  {
+    "player_input": "Do you have any news?",
+    "npc_output": "Yes, I just received some news. I need to |r1|"
+  },
+  {
+    "player_input": "What's your favorite plant?",
+    "npc_output": "I love herbs. I need to |r1|"
+  },
+  {
+    "player_input": "Are you sailing today?",
+    "npc_output": "Yes, we're setting sail soon. I need to |r1|"
+  },
+  {
+    "player_input": "Do you have any messages?",
+    "npc_output": "Actually, I do. I need to |r1|"
+  }
+]

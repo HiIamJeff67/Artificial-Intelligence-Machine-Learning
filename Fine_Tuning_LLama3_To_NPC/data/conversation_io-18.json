@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "What's your job?",
+    "npc_output": "I'm a miner, nice to meet you."
+  },
+  {
+    "player_input": "Hi, how's it going?",
+    "npc_output": "I'm a hunter, just got back from a long hunt, |r1|."
+  },
+  {
+    "player_input": "What do you do here?",
+    "npc_output": "I'm a messenger, I have to |r1| before dawn."
+  },
+  {
+    "player_input": "How's your day?",
+    "npc_output": "I'm an apprentice, I'm tired and angry, just got out of a lesson."
+  },
+  {
+    "player_input": "What's your role?",
+    "npc_output": "I'm a sailor, I need to |r2| after docking."
+  },
+  {
+    "player_input": "What are you doing tonight?",
+    "npc_output": "I'm a thief, I plan to |r1| in the alley."
+  },
+  {
+    "player_input": "What's new with you?",
+    "npc_output": "I'm a witch, I need to |r5| before dawn."
+  },
+  {
+    "player_input": "How's fishing?",
+    "npc_output": "I'm a fisherman, the wet river is perfect for fishing, want to join me?"
+  },
+  {
+    "player_input": "What's up?",
+    "npc_output": "I'm an apprentice, just had a long day of training, |r1| was tough."
+  },
+  {
+    "player_input": "What do you do?",
+    "npc_output": "I'm a thief, I'm planning to |r1| after curfew."
+  }
+]

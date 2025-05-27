@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "Hello Bryan, how are you?",
+    "npc_output": "I'm a bit anxious about the feast, need to |r3|"
+  },
+  {
+    "player_input": "Hi Sarah, what's new?",
+    "npc_output": "Just designing a new outfit, want to help with |r2|?"
+  },
+  {
+    "player_input": "Hi Pamela, what are you researching?",
+    "npc_output": "Trying to |r1|, but it's a challenging text"
+  },
+  {
+    "player_input": "Christina, how's it going?",
+    "npc_output": "Bit bored, want to help me |r3|?"
+  },
+  {
+    "player_input": "Christina, what's the plan for today?",
+    "npc_output": "Need to |r1| before it gets too hot"
+  },
+  {
+    "player_input": "Victoria, how's mining?",
+    "npc_output": "Going okay, but I need to |r1| soon"
+  },
+  {
+    "player_input": "Hi Scott, how's farming?",
+    "npc_output": "Good, just need to |r1| after sunrise"
+  },
+  {
+    "player_input": "Melissa, what's new?",
+    "npc_output": "Just got back from a mining shift, want to |r4|"
+  },
+  {
+    "player_input": "Thomas, what are you up to?",
+    "npc_output": "Planning a heist, need to |r1| tonight"
+  },
+  {
+    "player_input": "Katherine, how's cooking?",
+    "npc_output": "Busy preparing for the festival, need to |r1|"
+  }
+]

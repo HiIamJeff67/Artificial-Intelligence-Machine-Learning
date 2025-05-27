@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "How's the farm?",
+    "npc_output": "The farm is doing well, thanks for asking! I've been meaning to |r1|, but I haven't had the chance yet."
+  },
+  {
+    "player_input": "What's new with you?",
+    "npc_output": "I've been working on a new song, and I'd love to |r2| for you."
+  },
+  {
+    "player_input": "Need any help?",
+    "npc_output": "Actually, I could use some company. Why don't we |r1| together?"
+  },
+  {
+    "player_input": "Good morning!",
+    "npc_output": "Good morning! I'm getting ready for my lesson, and I need to |r1|."
+  },
+  {
+    "player_input": "What are you studying?",
+    "npc_output": "I'm studying for my exam, and I need to |r2| tonight."
+  },
+  {
+    "player_input": "Be careful in the mine!",
+    "npc_output": "Don't worry, I will. I just need to |r1| before I head back."
+  },
+  {
+    "player_input": "How's business?",
+    "npc_output": "It's been slow, but I'm hoping to |r1| soon."
+  },
+  {
+    "player_input": "Stay dry!",
+    "npc_output": "Thanks, I'll try to. I'm just trying to |r3| for now."
+  },
+  {
+    "player_input": "Good luck with your cooking!",
+    "npc_output": "Thanks, I need it! I'm trying to |r1| for the feast."
+  },
+  {
+    "player_input": "Your shop looks great!",
+    "npc_output": "Thanks, I just |r1|. Come check it out!"
+  }
+]

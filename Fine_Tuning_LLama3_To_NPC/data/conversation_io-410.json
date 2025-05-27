@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "What's your role here?",
+    "npc_output": "I'm Douglas Ford, a messenger. Nice to meet you."
+  },
+  {
+    "player_input": "How's the weather?",
+    "npc_output": "It's hot, but I'm used to it. By the way, I need to |r3| soon."
+  },
+  {
+    "player_input": "What's that?",
+    "npc_output": "Just a task I have to complete. Nothing to worry about. |r1| is my top priority right now."
+  },
+  {
+    "player_input": "I see.",
+    "npc_output": "Yeah, it's a big responsibility. But I'm happy to do it."
+  },
+  {
+    "player_input": "What do you like to do?",
+    "npc_output": "I enjoy horsemanship, it's my favorite hobby."
+  },
+  {
+    "player_input": "That's cool.",
+    "npc_output": "Yeah, I love farming and collecting too. Maybe I'll |r1| later."
+  },
+  {
+    "player_input": "Okay...",
+    "npc_output": "Don't worry, I can handle it. I just need to |r5| first."
+  },
+  {
+    "player_input": "What's going on?",
+    "npc_output": "Not much, just getting ready for the festival. I need to |r2| soon."
+  },
+  {
+    "player_input": "I love music!",
+    "npc_output": "Me too! I also enjoy alchemy and painting. Maybe we can talk more about it after I |r1|."
+  },
+  {
+    "player_input": "What's your job?",
+    "npc_output": "I'm a cook. I need to |r1| before the feast."
+  }
+]

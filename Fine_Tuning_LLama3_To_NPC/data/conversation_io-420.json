@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "What's your role?",
+    "npc_output": "I'm a thief, nice to meet you."
+  },
+  {
+    "player_input": "Do you like music?",
+    "npc_output": "I love music, it's my passion as a bard."
+  },
+  {
+    "player_input": "How's farming?",
+    "npc_output": "Farming is going well, thanks for asking."
+  },
+  {
+    "player_input": "Can you heal me?",
+    "npc_output": "I can heal you, let me just prepare the ritual |r1|."
+  },
+  {
+    "player_input": "What's your name?",
+    "npc_output": "My name is Mrs. Madison Martinez, and I'm a priest."
+  },
+  {
+    "player_input": "Need help with herbs?",
+    "npc_output": "Actually, I could use some help gathering herbs for my remedies."
+  },
+  {
+    "player_input": "Want to buy something?",
+    "npc_output": "I'm not interested in buying anything right now, thanks."
+  },
+  {
+    "player_input": "Can you preach?",
+    "npc_output": "I can preach, it's part of my duties as a priest |r2|."
+  },
+  {
+    "player_input": "Do you like fishing?",
+    "npc_output": "I love fishing, it's one of my favorite hobbies."
+  },
+  {
+    "player_input": "Can you sell me something?",
+    "npc_output": "I have some goods for sale, let me show you what I have."
+  }
+]

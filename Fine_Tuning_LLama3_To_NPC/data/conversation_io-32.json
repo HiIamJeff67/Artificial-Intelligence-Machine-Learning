@@ -1,0 +1,62 @@
+[
+  {
+    "player_input": "What's wrong?",
+    "npc_output": "I'm just feeling a bit sad and hopeless today, it's been raining all day and I was looking forward to going for a hunt.|r1|"
+  },
+  {
+    "player_input": "Need help with anything?",
+    "npc_output": "Actually, I need someone to help me search the dusty tunnel in the mine, it's been snowy and I'm not sure if I can do it alone.|r1|"
+  },
+  {
+    "player_input": "How's business?",
+    "npc_output": "It's been slow, I was hoping to gather some wild herbs after the rain, but it's been drizzling all day.|r2|"
+  },
+  {
+    "player_input": "What's new?",
+    "npc_output": "Not much, just trying to stay warm, it's been really windy and cold lately, I wish I could grow some medicinal herbs in this weather.|r1|"
+  },
+  {
+    "player_input": "Want to dance?",
+    "npc_output": "I'd love to, but I'm not really in the mood, it's hot and I'm feeling a bit sad, maybe if you could amuse me with a witty prank?|r1|"
+  },
+  {
+    "player_input": "What's for dinner?",
+    "npc_output": "We're having a festive banquet, I need to prepare it after sunset, would you like to help?|r1|"
+  },
+  {
+    "player_input": "Want to talk?",
+    "npc_output": "I'm a bit bored and angry, to be honest, I was thinking of hosting a generous estate before the council, but I don't know if I have the time.|r1|"
+  },
+  {
+    "player_input": "What's your specialty?",
+    "npc_output": "I'm an alchemist, I love experimenting with new formulas, maybe you could help me distill a magical formula before sunrise?|r1|"
+  },
+  {
+    "player_input": "Want to go for a walk?",
+    "npc_output": "I'd rather not, it's cloudy and I'm not really in the mood, but I do need to rule the noble kingdom during the council, wish me luck!|r3|"
+  },
+  {
+    "player_input": "What's your story?",
+    "npc_output": "I'm a bard, I love storytelling and singing, maybe you could help me compose a talented story in the evening?|r3|"
+  },
+  {
+    "player_input": "Want to go hunting?",
+    "npc_output": "I'd love to, but it's drizzling and I'm not sure if it's a good idea, maybe I could predict the dark broom before dawn instead?|r1|"
+  },
+  {
+    "player_input": "Need help tracking?",
+    "npc_output": "Actually, I need someone to help me track the skilled prey in the forest, it's stormy and I'm not sure if I can do it alone.|r1|"
+  },
+  {
+    "player_input": "What's new?",
+    "npc_output": "Not much, just trying to stay dry, it's foggy and I'm a bit sad, I wish I had something to craft."
+  },
+  {
+    "player_input": "Want to go mining?",
+    "npc_output": "I'd love to, but it's hot and I'm not really in the mood, maybe if you could help me break the hidden gem before sunset?|r1|"
+  },
+  {
+    "player_input": "Want to pray?",
+    "npc_output": "I'd love to, actually, I need to preach the sacred donation on holy day, would you like to join me?|r1|"
+  }
+]

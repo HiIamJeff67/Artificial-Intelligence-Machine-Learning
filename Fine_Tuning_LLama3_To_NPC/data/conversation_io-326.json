@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "What do you sell?",
+    "npc_output": "I'm a merchant, I sell goods like spices and fabrics. I'm looking to |r1|, would you be interested in helping me?"
+  },
+  {
+    "player_input": "Do you have a message for me?",
+    "npc_output": "Actually, I'm a messenger. I'm supposed to |r1|, but I'm not sure where to start."
+  },
+  {
+    "player_input": "Want to go hunting?",
+    "npc_output": "I'm a hunter, and I've been tracking a silent animal. Care to join me? I need to |r1| after the rain."
+  },
+  {
+    "player_input": "Where's the best place to hunt?",
+    "npc_output": "I'm a hunter, and I've found some great spots. But first, I need to |r1| in the forest."
+  },
+  {
+    "player_input": "How's farming going?",
+    "npc_output": "It's going well, thanks. I need to |r1| after sunrise, though. The soil is ready."
+  },
+  {
+    "player_input": "Do you know how to sail?",
+    "npc_output": "Yes, I'm a sailor. I need to |r1| on the ship, actually. It's been damaged."
+  },
+  {
+    "player_input": "Need any help with your shop?",
+    "npc_output": "That's nice of you to offer. I'm a tailor, and I do need to |r1| in the shop. Could you assist me?"
+  },
+  {
+    "player_input": "What's wrong?",
+    "npc_output": "Just a bit angry, that's all. I'm a witch, and I've been having some trouble with my potions."
+  },
+  {
+    "player_input": "Want to trade?",
+    "npc_output": "I'm a hunter, and I've got some extra supplies. But first, I need to |r1| in the forest."
+  },
+  {
+    "player_input": "Do you have any medicine?",
+    "npc_output": "I'm a healer, and I do have some medicine. I need to |r1| during the epidemic, though. It's a priority."
+  }
+]

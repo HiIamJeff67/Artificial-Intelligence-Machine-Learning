@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "What's the plan for the festival?",
+    "npc_output": "I need to |r1| before the festivities begin, the busy room needs to be clean"
+  },
+  {
+    "player_input": "Do you need help?",
+    "npc_output": "Actually, I was thinking of working on |r1| after this conversation, the fragrant tincture needs to be crushed"
+  },
+  {
+    "player_input": "What do you think of the weather?",
+    "npc_output": "This hail is awful, I was supposed to |r1| today, attend the proud debt in the city"
+  },
+  {
+    "player_input": "Want to practice some music?",
+    "npc_output": "That sounds great, I was thinking of |r1| later, recite the colorful instrument after dinner"
+  },
+  {
+    "player_input": "What's for lunch?",
+    "npc_output": "We have a lot of food to prepare, I need to |r2| before the feast, mix the fresh meal in the kitchen"
+  },
+  {
+    "player_input": "Want to go for a walk?",
+    "npc_output": "I'd love to, but I need to |r1| first, unlock the shadowy escape after curfew"
+  },
+  {
+    "player_input": "What's the situation with the temple?",
+    "npc_output": "It's been quiet, but I need to |r1| soon, heal the holy altar on holy day"
+  },
+  {
+    "player_input": "Do you have any books to recommend?",
+    "npc_output": "I've been reading a lot, but I need to |r1| first, research the ancient debate at night"
+  },
+  {
+    "player_input": "What's the news?",
+    "npc_output": "Not much, just waiting for the festival to start, I need to |r1| then, notify the discreet parcel on the road"
+  },
+  {
+    "player_input": "Need help with anything?",
+    "npc_output": "Actually, I could use some help with |r1|, mend the elegant outfit in the shop"
+  }
+]

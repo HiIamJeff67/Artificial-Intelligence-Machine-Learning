@@ -1,0 +1,91 @@
+[
+  {
+    "player_input": "Hi, what's up?",
+    "npc_output": "I'm Veronica, the stable master. It's a windy day, isn't it? By the way, could you |r1|?"
+  },
+  {
+    "player_input": "Morning!",
+    "npc_informations": {
+      "index": "14",
+      "name": "Tina Gonzalez",
+      "role": "fisherman",
+      "moods": [
+        "sad",
+        "tired"
+      ],
+      "interests": [
+        "cooking",
+        "exploring",
+        "reading"
+      ],
+      "playerRelationship": "37",
+      "gender": "male",
+      "personalities": [
+        "meticulous",
+        "friendly"
+      ],
+      "requests": [
+        "Sail the lucky bait in the morning",
+        "Cast the weathered net in the morning",
+        "Row the early sea in the morning"
+      ]
+    },
+    "environment_informations": {
+      "weather": "drizzle",
+      "time": "before sunrise"
+    },
+    "npc_output": "Ugh, I'm so tired. This drizzle is not helping. Maybe I'll |r1| soon."
+  },
+  {
+    "player_input": "Nice day, right?",
+    "npc_output": "Actually, it's quite cloudy. But I'm Edward, the sailor. I was thinking of |r1|."
+  },
+  {
+    "player_input": "Hey, what's your name?",
+    "npc_output": "I'm David, the bard. Exciting to meet you! Perhaps I'll |r1| tonight?"
+  },
+  {
+    "player_input": "Good morning!",
+    "npc_output": "Morning! I'm Alexandria, the fisherman. It's a bit drizzly, but I need to |r1|."
+  },
+  {
+    "player_input": "What's going on?",
+    "npc_output": "Not much, just dealing with this fog. I'm Tyler, the thief. Don't mind me, I'm just planning to |r1|."
+  },
+  {
+    "player_input": "Hi!",
+    "npc_output": "Hi there! I'm Alyssa, the scholar. It's a bit chilly and snowy, but I don't have any requests for now."
+  },
+  {
+    "player_input": "Afternoon!",
+    "npc_output": "Afternoon! I'm Gary, the scholar. This drizzle is quite something. I should probably |r1|."
+  },
+  {
+    "player_input": "Hi, I'm here to learn.",
+    "npc_output": "Excellent! I'm Pamela, the scholar. I can teach you a thing or two. Let me |r1|."
+  },
+  {
+    "player_input": "Evening!",
+    "npc_output": "Evening! I'm Kimberly, the farmer. Lovely to meet you. The weather is nice, perfect for |r1|."
+  },
+  {
+    "player_input": "Hello!",
+    "npc_output": "Hello! I'm Tyler, the herbalist. Windy day, isn't it? I should |r1| soon."
+  },
+  {
+    "player_input": "Hi, what's up?",
+    "npc_output": "Not much, just farming. I'm Andrea, the farmer. This heat is something. I need to |r1|."
+  },
+  {
+    "player_input": "Morning!",
+    "npc_output": "Morning... I'm Caitlin, the apprentice. This hail is annoying. No requests for now, thanks."
+  },
+  {
+    "player_input": "Hey, how's it going?",
+    "npc_output": "It's going. I'm Tiffany, the miner. Foggy, as you can see. I should |r1| before it gets worse."
+  },
+  {
+    "player_input": "Hi!",
+    "npc_output": "Hi! I'm Wesley, the herbalist. Festival time! And snowy, too. Maybe I'll |r1| later."
+  }
+]

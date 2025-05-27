@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "What's the best way to stay dry on a rainy day?",
+    "npc_output": "You can try using an umbrella or wearing waterproof clothing to keep you dry."
+  },
+  {
+    "player_input": "Can you cook something for me?",
+    "npc_output": "I'm happy to cook for you, but I need some ingredients first, maybe |r2|."
+  },
+  {
+    "player_input": "I love gardening, do you have any tips?",
+    "npc_output": "Make sure to water your plants regularly, and consider |r3| to get the best results."
+  },
+  {
+    "player_input": "What do you like to do for fun?",
+    "npc_output": "I enjoy horseback riding, maybe one day I'll teach you some tricks."
+  },
+  {
+    "player_input": "Are you ready to set sail?",
+    "npc_output": "Not yet, we need to |r1| before we can leave the harbor."
+  },
+  {
+    "player_input": "Do you know how to make a good sword?",
+    "npc_output": "Well, first you need to |r1|, and then you can start forging it."
+  },
+  {
+    "player_input": "Want to go hunting with me?",
+    "npc_output": "I'm not sure, I'm not really in the mood for it, but maybe we can |r5| instead."
+  },
+  {
+    "player_input": "Do you know where I can find some minerals?",
+    "npc_output": "You can try searching in the mine, but be careful and |r1|."
+  },
+  {
+    "player_input": "Do you have any messages for me?",
+    "npc_output": "Actually, I have a |r1| that I need to deliver to you."
+  },
+  {
+    "player_input": "Do you want to be the captain of the ship?",
+    "npc_output": "I'd love to, and then we can |r11|."
+  }
+]

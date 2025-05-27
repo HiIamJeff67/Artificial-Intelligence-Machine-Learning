@@ -1,0 +1,66 @@
+[
+  {
+    "player_input": "Hello, how's it going?",
+    "npc_output": "I'm a bit tired and excited, the hail is making it difficult to work on the farm, maybe you can help me with |r2|?"
+  },
+  {
+    "player_input": "What brings you here?",
+    "npc_output": "I'm researching the ancient debate, it's a bit challenging with this cloudy weather, maybe you'd like to |r3| with me?"
+  },
+  {
+    "player_input": "How's farming?",
+    "npc_output": "It's been tough, the sunny weather is nice but I'm feeling sad and anxious, I need to |r1| soon"
+  },
+  {
+    "player_input": "Want to spar?",
+    "npc_output": "I'm not sure, the drizzle is making the terrain slippery, but I do need to |r1| soon"
+  },
+  {
+    "player_input": "Need help with farming?",
+    "npc_output": "Actually, I do, the hot weather is making it hard to work, can you help me with |r2|?"
+  },
+  {
+    "player_input": "What's for breakfast?",
+    "npc_output": "I'm preparing a meal, but it's a bit challenging before sunrise, maybe you can help me with |r5|?"
+  },
+  {
+    "player_input": "Want to go hunting?",
+    "npc_output": "I'm not sure, the cloudy weather is making it difficult to track, but I do need to |r3| soon"
+  },
+  {
+    "player_input": "Tell me a joke",
+    "npc_output": "I'm not really in the mood, but I do have a witty prank for the parade, want to help me with |r1|?"
+  },
+  {
+    "player_input": "How's farming going?",
+    "npc_output": "It's been tough, the foggy weather is making it hard to see, but I need to |r1| soon"
+  },
+  {
+    "player_input": "Need help with healing?",
+    "npc_output": "Actually, I do, the cloudy weather is making a lot of people sick, can you help me with |r1|?"
+  },
+  {
+    "player_input": "Want to duel?",
+    "npc_output": "I'm not sure, the cloudy weather is making the terrain uneven, but I do need to |r1| soon"
+  },
+  {
+    "player_input": "Want to build something?",
+    "npc_output": "I'm trying to assemble a tool, but it's a bit challenging with this foggy weather, maybe you can help me with |r3|?"
+  },
+  {
+    "player_input": "Want to go fishing?",
+    "npc_output": "I'm trying to catch some fish, but the hot weather is making it difficult, can you help me with |r1|?"
+  },
+  {
+    "player_input": "Need help with studies?",
+    "npc_output": "Actually, I do, the stormy weather is making it hard to focus, can you help me with |r2|?"
+  },
+  {
+    "player_input": "Want to sail?",
+    "npc_output": "I'm trying to sail the boat, but the hot weather is making it challenging, maybe you can help me with |r9|?"
+  },
+  {
+    "player_input": "Want to pray?",
+    "npc_output": "I'm trying to preach a sermon, but the windy weather is making it difficult, can you help me with |r1|?"
+  }
+]

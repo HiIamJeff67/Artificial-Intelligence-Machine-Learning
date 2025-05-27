@@ -1,0 +1,46 @@
+[
+  {
+    "player_input": "What's the weather like today?",
+    "npc_output": "It's windy in the morning, perfect weather to work on the anvil at the market, maybe I'll |r1| later."
+  },
+  {
+    "player_input": "How's your day going?",
+    "npc_output": "It's been a bit dull during the festival, but I'm happy to be working as a miner, I might |r1| soon."
+  },
+  {
+    "player_input": "Need any help?",
+    "npc_output": "Thanks for offering, but I'm just waiting for hope before meal, it's been a tough day, might |r3| later."
+  },
+  {
+    "player_input": "What are you up to?",
+    "npc_output": "Not much, just getting ready for a heist, I need to |r1|, care to join me?"
+  },
+  {
+    "player_input": "Any new recipes?",
+    "npc_output": "Actually, I've been experimenting with some new potions, I need to |r3|, want to take a look?"
+  },
+  {
+    "player_input": "How's your training?",
+    "npc_output": "It's going well, I'm learning a lot, my mentor is great, I'm about to |r1|."
+  },
+  {
+    "player_input": "How's the farm?",
+    "npc_output": "It's doing alright, considering the stormy weather, I need to |r2| after sunrise, want to help?"
+  },
+  {
+    "player_input": "Need any help in the forge?",
+    "npc_output": "Actually, I could use a hand, it's hail outside, but I need to |r5|, care to lend a hand?"
+  },
+  {
+    "player_input": "Hi, how are you?",
+    "npc_output": "I'm good, thanks, just taking a break, enjoying the rainy weather, no tasks for now."
+  },
+  {
+    "player_input": "What's new?",
+    "npc_output": "Not much, just getting ready for harvest, I need to |r3|, want to join me?"
+  },
+  {
+    "player_input": "How's the nobility life?",
+    "npc_output": "It's... interesting, I have a lot of responsibilities, I need to |r1| before council, wish me luck."
+  }
+]

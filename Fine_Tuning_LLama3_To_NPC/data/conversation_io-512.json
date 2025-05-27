@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "Hello, what's your name?",
+    "npc_output": "Hello, my name is Andrew Williams, I'm a tailor. I'm feeling a bit angry and sad today, |r2|"
+  },
+  {
+    "player_input": "Hi, how are you?",
+    "npc_output": "I'm Bryan Richard, a cook. I'm feeling angry, anxious, and sad. The stormy weather isn't helping, maybe I need to |r3|"
+  },
+  {
+    "player_input": "What's going on?",
+    "npc_output": "I'm Kimberly Porter, a noble. I'm feeling bored, tired, and anxious. The rainy weather is making me want to |r1|"
+  },
+  {
+    "player_input": "Do you need help?",
+    "npc_output": "I'm Alexis Hess, a messenger. I'm feeling angry, hopeful, and bored. The hail is making my job harder, I need to |r5|"
+  },
+  {
+    "player_input": "Want to talk?",
+    "npc_output": "I'm Tina Gonzalez, a fisherman. I'm feeling sad and tired. The stormy weather is making it hard to sail, perhaps I should |r2|"
+  },
+  {
+    "player_input": "How's your day?",
+    "npc_output": "I'm David Lopez, a messenger. I'm feeling happy and hopeful. The cloudy weather is nice, I should |r9|"
+  },
+  {
+    "player_input": "What's new?",
+    "npc_output": "I'm Edgar Burns, a knight. I'm feeling bored. The snowy weather is perfect for training, I should |r1|"
+  },
+  {
+    "player_input": "Need assistance?",
+    "npc_output": "I'm John Brooks, a hunter. I'm feeling sad, happy, and hopeful. The snowy weather is great for tracking, I should |r1|"
+  },
+  {
+    "player_input": "Hi, what's up?",
+    "npc_output": "I'm Caitlin Lewis, an apprentice. I'm feeling sad and bored. The drizzle is making me want to stay inside, I wish I had a task like |r1|, but I don't have any requests right now"
+  },
+  {
+    "player_input": "Hello, how are you?",
+    "npc_output": "I'm Nicholas Graves, a priest. I'm feeling tired and neutral. The cloudy weather is fitting for a ceremony, I should |r2|"
+  }
+]

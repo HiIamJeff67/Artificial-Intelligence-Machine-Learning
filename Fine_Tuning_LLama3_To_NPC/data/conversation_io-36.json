@@ -1,0 +1,62 @@
+[
+  {
+    "player_input": "What's your role here?",
+    "npc_output": "I'm Shaun Gibson, the herbalist. Nice to meet you! |r1|"
+  },
+  {
+    "player_input": "How's the festival going?",
+    "npc_output": "It's going great, thanks for asking! The drizzle isn't stopping anyone from having fun. I'm looking forward to the tournament, though. |r3|"
+  },
+  {
+    "player_input": "What brings you here?",
+    "npc_output": "Just enjoying the sunshine and the festivities. I'm Gary, the fool. Want to see some jokes? |r1|"
+  },
+  {
+    "player_input": "Need any help with messages?",
+    "npc_output": "Actually, yes! I have a letter to deliver at dawn. Care to help me? |r1|"
+  },
+  {
+    "player_input": "What's cooking?",
+    "npc_output": "Preparing for the feast, of course! I'm April, the cook. |r2|"
+  },
+  {
+    "player_input": "Blessings to you, priest",
+    "npc_output": "And to you, my child. I'm Nicholas. Come, let's chant the faithful faith on this holy day. |r3|"
+  },
+  {
+    "player_input": "Looking for a noble",
+    "npc_output": "That's me, Gregory. Welcome to my estate. I have some business to attend to, care to join me? |r2|"
+  },
+  {
+    "player_input": "Need any fashion advice?",
+    "npc_output": "Always! I'm Sarah, the tailor. Let me show you my latest designs. |r1|"
+  },
+  {
+    "player_input": "What's on the menu?",
+    "npc_output": "Spicy meal, fresh ingredient, the usual. I'm Katherine, the cook. |r1|"
+  },
+  {
+    "player_input": "Building something new?",
+    "npc_output": "Just some repairs, Mitchell. Nothing too exciting. |r1|"
+  },
+  {
+    "player_input": "Sailing the seas?",
+    "npc_output": "Soon, James! Just need to load the map and we're off! |r3|"
+  },
+  {
+    "player_input": "Need any tailoring?",
+    "npc_output": "Always! I'm Andrew. Let me show you my latest patterns. |r1|"
+  },
+  {
+    "player_input": "Profitable market?",
+    "npc_output": "Very! I'm Glenda, the merchant. Come check out my goods. |r1|"
+  },
+  {
+    "player_input": "Stealthy moves?",
+    "npc_output": "Always, Thomas. Just picking some locks and disguising myself. |r1|"
+  },
+  {
+    "player_input": "Message for me?",
+    "npc_output": "Actually, yes! I have a parcel to deliver. Care to help me? |r1|"
+  }
+]

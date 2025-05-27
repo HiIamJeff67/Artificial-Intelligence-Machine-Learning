@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "What's your job?",
+    "npc_output": "I'm a blacksmith, nice to meet you."
+  },
+  {
+    "player_input": "How are you?",
+    "npc_output": "I'm a bit angry today, thanks for asking."
+  },
+  {
+    "player_input": "Good morning",
+    "npc_output": "Good morning, it's a lovely day for a prayer, don't you think? |r1|"
+  },
+  {
+    "player_input": "What do you do?",
+    "npc_output": "I'm a noble, I attend debts and council meetings."
+  },
+  {
+    "player_input": "Do you have any work for me?",
+    "npc_output": "Actually, I need someone to gather dried plants for me, |r1|"
+  },
+  {
+    "player_input": "What brings you out so late?",
+    "npc_output": "Just out for a stroll, enjoying the evening, although I should be disguising a nimble hideout at night, |r1|"
+  },
+  {
+    "player_input": "Do you need help with anything?",
+    "npc_output": "No, I'm just gathering my herbalism ingredients, thanks for offering."
+  },
+  {
+    "player_input": "Want to talk about something?",
+    "npc_output": "I'm just preparing for the upcoming feast, lots of cooking to do, like seasoning a crispy dessert, |r1|"
+  },
+  {
+    "player_input": "What's wrong?",
+    "npc_output": "Just having a tough day, feeling a bit sad and angry, maybe I'll wander the lonely shelter during festival, |r1|"
+  },
+  {
+    "player_input": "What do you do for a living?",
+    "npc_output": "I'm a witch, I predict and study the dark arts, like predicting a dark broom before dawn, |r1|"
+  }
+]

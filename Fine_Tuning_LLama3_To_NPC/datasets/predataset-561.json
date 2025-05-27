@@ -1,0 +1,564 @@
+[
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "4",
+      "name": "Jillian Stokes",
+      "role": "bard",
+      "moods": [
+        "sad"
+      ],
+      "interests": [
+        "storytelling"
+      ],
+      "playerRelationship": "41",
+      "gender": "female",
+      "personalities": [
+        "faithful",
+        "indecisive",
+        "patient"
+      ],
+      "requests": [
+        "Sing the colorful performance during festival",
+        "Entertain the melodic song in the evening",
+        "Compose the talented story in the evening",
+        "Tell the charming instrument in the evening",
+        "Play the charming story during festival",
+        "Compose the inspiring poetry on stage",
+        "Perform the witty song after dinner",
+        "Entertain the lively lyre at the tavern",
+        "Perform the witty dance on stage",
+        "Compose the inspiring dance on stage"
+      ]
+    },
+    "environment_informations": {
+      "weather": "stormy",
+      "time": "at midnight"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "95",
+      "name": "Veronica Austin",
+      "role": "stable master",
+      "moods": [
+        "curious",
+        "bored",
+        "excited"
+      ],
+      "interests": [
+        "reading",
+        "horsemanship"
+      ],
+      "playerRelationship": "61",
+      "gender": "female",
+      "personalities": [
+        "shy",
+        "romantic",
+        "humble",
+        "calculating"
+      ],
+      "requests": [
+        "Stable the tidy bridle at dawn",
+        "Feed the tidy saddle after feeding",
+        "Stable the strong hay in the stable",
+        "Groom the patient hay during rain",
+        "Lead the reliable horse before race",
+        "Train the experienced groom before race",
+        "Clean the tidy stable in the stable",
+        "Groom the strong stall in the stable",
+        "Saddle the tidy saddle in the stable",
+        "Clean the patient hay during rain",
+        "Lead the reliable hoof in the stable",
+        "Saddle the reliable groom at dawn",
+        "Train the reliable stall before race",
+        "Clean the skilled hoof after feeding",
+        "Stable the tidy groom before race"
+      ]
+    },
+    "environment_informations": {
+      "weather": "foggy",
+      "time": "during the festival"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "53",
+      "name": "Robert Parker",
+      "role": "fisherman",
+      "moods": [
+        "excited"
+      ],
+      "interests": [
+        "painting",
+        "alchemy",
+        "trading",
+        "dancing",
+        "hunting"
+      ],
+      "playerRelationship": "82",
+      "gender": "male",
+      "personalities": [
+        "innovative",
+        "wise",
+        "ambitious"
+      ],
+      "requests": [
+        "Net the salty fish on the boat",
+        "Catch the weathered fish before storm",
+        "Catch the lucky catch during fishing",
+        "Fish the skilled boat on the boat",
+        "Reel the patient river in the morning",
+        "Fish the early river on the boat",
+        "Cast the lucky river before storm",
+        "Fish the patient fish at the river"
+      ]
+    },
+    "environment_informations": {
+      "weather": "drizzle",
+      "time": "in the morning"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "13",
+      "name": "Shelly Montgomery",
+      "role": "alchemist",
+      "moods": [
+        "bored"
+      ],
+      "interests": [
+        "reading",
+        "magic"
+      ],
+      "playerRelationship": "21",
+      "gender": "female",
+      "personalities": [
+        "brave",
+        "lazy"
+      ],
+      "requests": [
+        "Distill the magical formula before sunrise",
+        "Brew the colorful potion during experiment",
+        "Transmute the potent formula after market",
+        "Experiment the potent elixir at midnight",
+        "Experiment the rare formula at midnight"
+      ]
+    },
+    "environment_informations": {
+      "weather": "hail",
+      "time": "at dawn"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "46",
+      "name": "Jeremy Robinson",
+      "role": "innkeeper",
+      "moods": [
+        "happy"
+      ],
+      "interests": [
+        "crafting",
+        "cooking"
+      ],
+      "playerRelationship": "45",
+      "gender": "male",
+      "personalities": [
+        "lazy",
+        "loyal",
+        "curious"
+      ],
+      "requests": [
+        "Pour the festive banquet before festival",
+        "Clean the cozy room before festival",
+        "Pour the festive feast during feast"
+      ]
+    },
+    "environment_informations": {
+      "weather": "cloudy",
+      "time": "at noon"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "61",
+      "name": "Kayla Moody",
+      "role": "witch",
+      "moods": [
+        "angry"
+      ],
+      "interests": [
+        "meditation",
+        "storytelling"
+      ],
+      "playerRelationship": "90",
+      "gender": "female",
+      "personalities": [
+        "reserved"
+      ],
+      "requests": []
+    },
+    "environment_informations": {
+      "weather": "windy",
+      "time": "during the festival"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "27",
+      "name": "Sherry Coffey",
+      "role": "priest",
+      "moods": [
+        "neutral"
+      ],
+      "interests": [
+        "cooking",
+        "storytelling",
+        "dancing",
+        "fishing"
+      ],
+      "playerRelationship": "0",
+      "gender": "female",
+      "personalities": [
+        "stubborn",
+        "moody",
+        "innovative",
+        "sarcastic"
+      ],
+      "requests": [
+        "Preach the sacred donation on holy day",
+        "Preach the wise blessing on holy day",
+        "Preach the devout ceremony at dawn",
+        "Forgive the sacred wedding in the temple",
+        "Bless the merciful altar at dawn",
+        "Bless the wise altar during ceremony",
+        "Forgive the pure blessing during ceremony",
+        "Conduct the pure ceremony on holy day",
+        "Chant the holy wedding on holy day",
+        "Heal the blessed prayer on holy day",
+        "Guide the devout faith during ceremony"
+      ]
+    },
+    "environment_informations": {
+      "weather": "hail",
+      "time": "in the evening"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "17",
+      "name": "Edgar Burns",
+      "role": "knight",
+      "moods": [
+        "bored"
+      ],
+      "interests": [
+        "magic"
+      ],
+      "playerRelationship": "36",
+      "gender": "male",
+      "personalities": [
+        "forgiving",
+        "arrogant",
+        "reserved",
+        "friendly"
+      ],
+      "requests": [
+        "Fight the strong horse during tournament",
+        "Fight the fearless horse at the castle",
+        "Train the fearless sword on patrol",
+        "Challenge the noble duty during tournament"
+      ]
+    },
+    "environment_informations": {
+      "weather": "cloudy",
+      "time": "in the evening"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "33",
+      "name": "Victoria Hicks",
+      "role": "miner",
+      "moods": [
+        "anxious",
+        "sad",
+        "neutral"
+      ],
+      "interests": [
+        "gardening"
+      ],
+      "playerRelationship": "33",
+      "gender": "male",
+      "personalities": [
+        "indecisive"
+      ],
+      "requests": [
+        "Search the dusty tunnel in the mine",
+        "Dig the deep stone before sunset",
+        "Explore the dangerous helmet before sunset",
+        "Mine the rocky mine at dawn",
+        "Explore the hidden mine before sunset",
+        "Explore the deep helmet before sunset",
+        "Descend the tough stone in the mine",
+        "Descend the tough helmet before sunset",
+        "Extract the hidden tunnel before sunset",
+        "Haul the dusty tunnel at dawn",
+        "Dig the tough helmet during shift",
+        "Haul the dusty stone during shift",
+        "Descend the gritty pickaxe after cave-in"
+      ]
+    },
+    "environment_informations": {
+      "weather": "snowy",
+      "time": "in the morning"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "28",
+      "name": "Caitlin Lewis",
+      "role": "apprentice",
+      "moods": [
+        "sad",
+        "bored"
+      ],
+      "interests": [
+        "crafting",
+        "dancing",
+        "gambling",
+        "fishing",
+        "magic"
+      ],
+      "playerRelationship": "74",
+      "gender": "female",
+      "personalities": [
+        "forgiving",
+        "decisive"
+      ],
+      "requests": []
+    },
+    "environment_informations": {
+      "weather": "hail",
+      "time": "in the afternoon"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "21",
+      "name": "Bryan Richard",
+      "role": "cook",
+      "moods": [
+        "angry",
+        "anxious",
+        "sad"
+      ],
+      "interests": [
+        "trading",
+        "horsemanship",
+        "sports"
+      ],
+      "playerRelationship": "78",
+      "gender": "female",
+      "personalities": [
+        "cheerful",
+        "innovative",
+        "sarcastic",
+        "outgoing",
+        "jealous"
+      ],
+      "requests": [
+        "Taste the fresh oven after market",
+        "Mix the fresh meal in the kitchen",
+        "Bake the fresh bread before feast",
+        "Bake the sweet oven after market",
+        "Mix the delicious kitchen before feast",
+        "Prepare the spicy ingredient before feast",
+        "Chop the delicious oven before feast"
+      ]
+    },
+    "environment_informations": {
+      "weather": "windy",
+      "time": "at noon"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "20",
+      "name": "Hannah Cruz",
+      "role": "sailor",
+      "moods": [
+        "curious",
+        "neutral"
+      ],
+      "interests": [
+        "music",
+        "alchemy",
+        "painting",
+        "reading"
+      ],
+      "playerRelationship": "40",
+      "gender": "male",
+      "personalities": [
+        "indecisive",
+        "jealous",
+        "humble",
+        "greedy",
+        "forgiving"
+      ],
+      "requests": [
+        "Repair the rowdy storm during storm",
+        "Unload the strong rope on the ship",
+        "Navigate the strong map after docking",
+        "Load the restless map at the harbor",
+        "Load the strong storm before voyage"
+      ]
+    },
+    "environment_informations": {
+      "weather": "windy",
+      "time": "at dawn"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "2",
+      "name": "Scott Vaughn",
+      "role": "witch",
+      "moods": [
+        "sad"
+      ],
+      "interests": [
+        "exploring",
+        "sports",
+        "alchemy",
+        "painting"
+      ],
+      "playerRelationship": "99",
+      "gender": "male",
+      "personalities": [
+        "materialistic",
+        "calculating",
+        "tactful"
+      ],
+      "requests": [
+        "Predict the mysterious ritual after storm",
+        "Cast the wise charm in the woods",
+        "Brew the mysterious ritual before dawn",
+        "Cast the strange curse after storm",
+        "Cast the secretive ritual during ritual",
+        "Summon the powerful spell during ritual",
+        "Predict the strange broom after storm",
+        "Predict the dark secret at midnight",
+        "Predict the strange spell in the woods",
+        "Summon the strange charm before dawn",
+        "Brew the wise ritual in the woods"
+      ]
+    },
+    "environment_informations": {
+      "weather": "cloudy",
+      "time": "at dawn"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "36",
+      "name": "Alexandria Snyder",
+      "role": "fisherman",
+      "moods": [
+        "tired"
+      ],
+      "interests": [
+        "crafting",
+        "farming",
+        "reading",
+        "music"
+      ],
+      "playerRelationship": "69",
+      "gender": "female",
+      "personalities": [
+        "authoritative",
+        "protective",
+        "jealous",
+        "humble"
+      ],
+      "requests": [
+        "Catch the early catch before storm",
+        "Bait the lucky net on the boat",
+        "Bait the salty net on the boat",
+        "Net the lucky bait before storm",
+        "Fish the patient fish at the river",
+        "Reel the steady net on the boat",
+        "Row the salty catch on the boat",
+        "Cast the weathered bait before storm",
+        "Sail the lucky fish at the river",
+        "Catch the lucky sea before storm",
+        "Fish the patient river during fishing"
+      ]
+    },
+    "environment_informations": {
+      "weather": "foggy",
+      "time": "during the festival"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "14",
+      "name": "Tina Gonzalez",
+      "role": "fisherman",
+      "moods": [
+        "sad",
+        "tired"
+      ],
+      "interests": [
+        "cooking",
+        "exploring",
+        "reading"
+      ],
+      "playerRelationship": "37",
+      "gender": "male",
+      "personalities": [
+        "meticulous",
+        "friendly"
+      ],
+      "requests": [
+        "Sail the lucky bait in the morning",
+        "Cast the weathered net in the morning",
+        "Row the early sea in the morning"
+      ]
+    },
+    "environment_informations": {
+      "weather": "drizzle",
+      "time": "in the morning"
+    },
+    "npc_output": ""
+  }
+]

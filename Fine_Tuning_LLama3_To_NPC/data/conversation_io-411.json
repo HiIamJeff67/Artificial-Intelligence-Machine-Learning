@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "What's the hurry?",
+    "npc_output": "I need to |r1| before sunset."
+  },
+  {
+    "player_input": "Good morning.",
+    "npc_output": "Good morning. Perhaps we can discuss |r1| tonight."
+  },
+  {
+    "player_input": "How's it going?",
+    "npc_output": "I'm doing well, thanks. I need to |r2| before the festival ends."
+  },
+  {
+    "player_input": "Hi.",
+    "npc_output": "Hello. Nice day, isn't it?"
+  },
+  {
+    "player_input": "What's wrong?",
+    "npc_output": "I'm just a bit anxious. I have to |r1| after dinner."
+  },
+  {
+    "player_input": "Need help?",
+    "npc_output": "No, I'm fine. Just working on |r1|."
+  },
+  {
+    "player_input": "Good morning.",
+    "npc_output": "Good morning. Lovely day for |r1|, isn't it?"
+  },
+  {
+    "player_input": "What's new?",
+    "npc_output": "Not much. Just |r1| on the road."
+  },
+  {
+    "player_input": "Any requests?",
+    "npc_output": "Actually, yes. Can you help me with |r1|?"
+  },
+  {
+    "player_input": "How are you?",
+    "npc_output": "I'm good, thanks. Just preparing for |r1| at noon."
+  }
+]

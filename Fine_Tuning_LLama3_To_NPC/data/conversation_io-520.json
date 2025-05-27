@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "What's up",
+    "npc_output": "Just farming, |r1|, want to help?"
+  },
+  {
+    "player_input": "Hello",
+    "npc_output": "I'm trying to |r1|, care to join?"
+  },
+  {
+    "player_input": "Need help",
+    "npc_output": "Actually, I need someone to |r2|, can you do it?"
+  },
+  {
+    "player_input": "How are you",
+    "npc_output": "I'm good, thanks, just waiting for a chance to |r3|"
+  },
+  {
+    "player_input": "What's new",
+    "npc_output": "Not much, just got a new |r1|, want to see?"
+  },
+  {
+    "player_input": "Hi there",
+    "npc_output": "Hey, I'm on my way to |r4|, want to come?"
+  },
+  {
+    "player_input": "What's going on",
+    "npc_output": "Just |r2|, you know, the usual"
+  },
+  {
+    "player_input": "How's it going",
+    "npc_output": "It's going, I'm just trying to |r1|, slowly but surely"
+  },
+  {
+    "player_input": "What do you need",
+    "npc_output": "Actually, I need help with |r3|, can you assist me?"
+  },
+  {
+    "player_input": "I'm bored",
+    "npc_output": "Well, I'm trying to |r2|, want to help me and make it more interesting?"
+  }
+]

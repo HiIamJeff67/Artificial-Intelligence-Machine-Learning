@@ -1,0 +1,46 @@
+[
+  {
+    "player_input": "What's your job",
+    "npc_output": "I'm a thief, and by the way, I need to |r2| soon."
+  },
+  {
+    "player_input": "How's it going",
+    "npc_output": "I'm a bit tired, and the weather isn't helping. I need to |r1| later."
+  },
+  {
+    "player_input": "Hi, what do you do",
+    "npc_output": "I'm a witch. Maybe I'll |r3| today if the fog clears up."
+  },
+  {
+    "player_input": "What brings you here",
+    "npc_output": "Just a thief trying to survive. I have to |r10| tonight, wish me luck."
+  },
+  {
+    "player_input": "What's your name",
+    "npc_output": "I'm David Weeks, a bard. Maybe I can |r2| for you?"
+  },
+  {
+    "player_input": "Nice day, isn't it",
+    "npc_output": "Yes, it's lovely. As a farmer, I love days like this. Maybe I'll |r1| later."
+  },
+  {
+    "player_input": "What do you do here",
+    "npc_output": "I'm the stable master. My day is busy, especially with |r5| to do."
+  },
+  {
+    "player_input": "How's your day",
+    "npc_output": "It's going well, thanks. As a thief, I always have something to do, like |r2|."
+  },
+  {
+    "player_input": "What's your role",
+    "npc_output": "I'm an innkeeper. I need to |r1| before the festival starts."
+  },
+  {
+    "player_input": "Hi, what's up",
+    "npc_output": "Not much, just a bard trying to entertain. Maybe I'll |r1| on stage later."
+  },
+  {
+    "player_input": "What brings you here",
+    "npc_output": "Just a messenger on the job. I have to |r2| before sunset."
+  }
+]

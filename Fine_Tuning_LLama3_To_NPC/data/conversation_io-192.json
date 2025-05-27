@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "Hi, what's up?",
+    "npc_output": "Not much, just enjoying the festival. It's so hot today! |r1|"
+  },
+  {
+    "player_input": "How are you?",
+    "npc_output": "I'm a bit angry and bored, but I'm trying to stay cheerful. Want to talk about something interesting? |r3|"
+  },
+  {
+    "player_input": "What's going on?",
+    "npc_output": "Just the usual royal business. But I've been feeling a bit tired lately. Maybe it's time to go hunting. |r5|"
+  },
+  {
+    "player_input": "What do you do?",
+    "npc_output": "I'm a witch, and I love collecting and hunting. But I'm a bit curious, what brings you here? |r1|"
+  },
+  {
+    "player_input": "Need any help?",
+    "npc_output": "Actually, I have a lot of urgent messages to deliver. Maybe you could help me with that? |r2|"
+  },
+  {
+    "player_input": "What's your favorite subject?",
+    "npc_output": "I love painting and magic! And I'm a bit anxious about my research. |r3|"
+  },
+  {
+    "player_input": "Want to go fishing?",
+    "npc_output": "That sounds great! I've been wanting to catch some fish before the storm. |r1|"
+  },
+  {
+    "player_input": "What's the time?",
+    "npc_output": "It's getting late, and I still have to row my boat. Care to join me? |r3|"
+  },
+  {
+    "player_input": "How's the farm?",
+    "npc_output": "It's doing well, but I'm a bit excited about the harvest. Want to help me sow some seeds? |r1|"
+  },
+  {
+    "player_input": "Need any assistance?",
+    "npc_output": "Actually, I could use some help with this outfit. It needs to be embroidered before the festival. |r1|"
+  }
+]

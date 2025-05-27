@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "What's your message?",
+    "npc_output": "I have |r1| at dawn, can you help me?"
+  },
+  {
+    "player_input": "What are you brewing?",
+    "npc_output": "Just a new potion, but I need to |r2| before sunrise."
+  },
+  {
+    "player_input": "Need help with construction?",
+    "npc_output": "Actually, I need to |r1| during construction, thanks for offering."
+  },
+  {
+    "player_input": "How's the stable?",
+    "npc_output": "It's tidy, and I need to |r1| at dawn, would you like to help?"
+  },
+  {
+    "player_input": "Any deliveries today?",
+    "npc_output": "Yes, I need to |r1| before sunset, it's urgent."
+  },
+  {
+    "player_input": "What's troubling you?",
+    "npc_output": "Just the weather, and I need to |r4| after ceremony, it's a matter of pride."
+  },
+  {
+    "player_input": "Find any new herbs?",
+    "npc_output": "Not yet, but I need to |r1| during spring, care to join me?"
+  },
+  {
+    "player_input": "More herbs to gather?",
+    "npc_output": "Always, and I need to |r2| after rain, the fresh ones are the best."
+  },
+  {
+    "player_input": "Planning a heist?",
+    "npc_output": "Maybe, but I need to |r1| in the alley, discreetly, of course."
+  },
+  {
+    "player_input": "What's your latest creation?",
+    "npc_output": "Just a new outfit, and I need to |r1| in the shop, want to see it?"
+  }
+]

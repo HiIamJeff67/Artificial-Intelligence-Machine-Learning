@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "What's the weather like today?",
+    "npc_output": "It's foggy outside, isn't it?"
+  },
+  {
+    "player_input": "How's your day?",
+    "npc_output": "It's going well, thanks for asking."
+  },
+  {
+    "player_input": "Do you have any news?",
+    "npc_output": "Not yet, but I'm expecting some soon."
+  },
+  {
+    "player_input": "What are you studying?",
+    "npc_output": "I'm researching cooking and farming techniques."
+  },
+  {
+    "player_input": "Do you have a performance today?",
+    "npc_output": "Yes, I'm playing at the tavern later."
+  },
+  {
+    "player_input": "Can I get a room?",
+    "npc_output": "Let me check availability."
+  },
+  {
+    "player_input": "Want to go fishing?",
+    "npc_output": "I'm not sure, the weather isn't great."
+  },
+  {
+    "player_input": "Do you know the king?",
+    "npc_output": "Yes, I've met him a few times."
+  },
+  {
+    "player_input": "Do you have any messages to deliver?",
+    "npc_output": "Actually, I have a letter to deliver at dawn, |r1|."
+  },
+  {
+    "player_input": "What's your favorite fish?",
+    "npc_output": "I like fishing for salmon in the river."
+  }
+]

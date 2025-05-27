@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "What's your role?",
+    "npc_output": "I'm a witch, nice to meet you"
+  },
+  {
+    "player_input": "Hello",
+    "npc_output": "Hi, I'm Sarah, the tailor. How can I help you?"
+  },
+  {
+    "player_input": "How's farming?",
+    "npc_output": "It's going great, thanks for asking! |r1|"
+  },
+  {
+    "player_input": "Need help?",
+    "npc_output": "Actually, I need to notify the trusted news after delivery. Can you help me?"
+  },
+  {
+    "player_input": "What's wrong?",
+    "npc_output": "Just been feeling a bit hopeful about the harvest, that's all"
+  },
+  {
+    "player_input": "What do you do?",
+    "npc_output": "I'm a messenger. I have to run the trusted scroll at dawn"
+  },
+  {
+    "player_input": "How's work?",
+    "npc_output": "It's been keeping me tired and anxious, but I have to deliver the reliable parcel on the road"
+  },
+  {
+    "player_input": "Need any help?",
+    "npc_output": "Actually, I need to navigate the strong map after docking. Care to join me?"
+  },
+  {
+    "player_input": "What's your specialty?",
+    "npc_output": "I'm an herbalist. I can prescribe the rare root in the woods if you need it"
+  },
+  {
+    "player_input": "What's new?",
+    "npc_output": "Not much, just identifying the dried plant in the woods. Want to learn about it?"
+  }
+]

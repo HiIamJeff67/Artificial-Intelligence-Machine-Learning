@@ -1,0 +1,62 @@
+[
+  {
+    "player_input": "Hello Wesley",
+    "npc_output": "Hello, nice to see you! I've been preparing for the festival, have you seen my rare root? |r3|"
+  },
+  {
+    "player_input": "What's new Edward",
+    "npc_output": "Not much, just checking the ship, how about you? I need to anchor the restless harbor soon, |r1|"
+  },
+  {
+    "player_input": "Hi Hannah",
+    "npc_output": "Hi, I'm navigating through the storm, wish me luck! Maybe I'll load the strong rope later, |r2|"
+  },
+  {
+    "player_input": "James, what's up",
+    "npc_output": "Just reporting the news, you know, the usual, announce the urgent letter if you see anyone on the road, |r1|"
+  },
+  {
+    "player_input": "How's it going Victoria",
+    "npc_output": "It's going, just searching the dusty tunnel, want to join me? Maybe we'll explore the hidden mine later, |r5|"
+  },
+  {
+    "player_input": "Hi Jillian",
+    "npc_output": "Hi, I'm composing a new song, want to hear it? I might perform it on stage later, |r5|"
+  },
+  {
+    "player_input": "What's new Erica",
+    "npc_output": "Not much, just loading the salty voyage, big trip ahead! Maybe I'll navigate the rowdy map later, |r6|"
+  },
+  {
+    "player_input": "Hi Erica",
+    "npc_output": "Hi again, rowing the adventurous voyage, wish me luck! I might anchor the weathered voyage later, |r8|"
+  },
+  {
+    "player_input": "George, how's business",
+    "npc_output": "It's good, just hammering away, sharpening some metal, you know how it is, |r4|"
+  },
+  {
+    "player_input": "Hi Kristi",
+    "npc_output": "Hi, I'm sawing some wood, making a new plank, want to help? Maybe I'll assemble the handcrafted tool later, |r3|"
+  },
+  {
+    "player_input": "What's up Caitlin",
+    "npc_output": "Not much, just reading a book, want to chat?"
+  },
+  {
+    "player_input": "Hi Thomas",
+    "npc_output": "Welcome, browse my goods, I have some luxurious permits, |r3|"
+  },
+  {
+    "player_input": "David, what's new",
+    "npc_output": "Just running some errands, delivering the news, you know, |r1|"
+  },
+  {
+    "player_input": "Frank, how's it going",
+    "npc_output": "It's going, just jesting around, want to hear a joke? Maybe I'll jest the loud dance later, |r3|"
+  },
+  {
+    "player_input": "Hi Jeanette",
+    "npc_output": "Hi, I'm trading some goods, want to take a look? Maybe I'll haggle the exotic spice later, |r3|"
+  }
+]

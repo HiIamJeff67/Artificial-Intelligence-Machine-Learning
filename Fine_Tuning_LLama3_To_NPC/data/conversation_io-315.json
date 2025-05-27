@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "What's going on?",
+    "npc_output": "Just trying to escape, it's getting late |r1|"
+  },
+  {
+    "player_input": "How are you?",
+    "npc_output": "I'm feeling a bit down, this stormy weather isn't helping"
+  },
+  {
+    "player_input": "What's for lunch?",
+    "npc_output": "I'm on a mission to notify the swift parcel at dawn |r2|"
+  },
+  {
+    "player_input": "Need help?",
+    "npc_output": "Yes, I need to plow the abundant soil after sunrise |r1|"
+  },
+  {
+    "player_input": "What's the plan?",
+    "npc_output": "We need to navigate the strong map after docking |r3|"
+  },
+  {
+    "player_input": "How's business?",
+    "npc_output": "It's been good, I've been embroidering elegant hats in the shop |r1|"
+  },
+  {
+    "player_input": "What are you studying?",
+    "npc_output": "I'm translating the curious library before exam |r1|"
+  },
+  {
+    "player_input": "All clear?",
+    "npc_output": "Yes, I've been patrolling the secure shield in the city |r3|"
+  },
+  {
+    "player_input": "What's the joke?",
+    "npc_output": "Let's amuse the witty prank during parade |r1|"
+  },
+  {
+    "player_input": "What's the hurry?",
+    "npc_output": "I need to deliver the reliable parcel on the road |r3|"
+  }
+]

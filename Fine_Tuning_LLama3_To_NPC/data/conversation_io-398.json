@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "What are you doing here?",
+    "npc_output": "I'm waiting for the tournament to start, |r3|, want to join me?"
+  },
+  {
+    "player_input": "Do you like the weather?",
+    "npc_output": "Not really, it's too hot, I wish it was cooler so I could steal the nimble lock at night, |r1|"
+  },
+  {
+    "player_input": "How's your ship?",
+    "npc_output": "It's been weathered, I need to repair it, |r2|, want to help?"
+  },
+  {
+    "player_input": "Want to go fishing?",
+    "npc_output": "I'm tired, but I need to catch the wet sea at the river, |r1|"
+  },
+  {
+    "player_input": "Can you deliver a message for me?",
+    "npc_output": "I'm tired, but I can run the trusted scroll at dawn, |r1|, what's the message?"
+  },
+  {
+    "player_input": "What's cooking?",
+    "npc_output": "Preparing the fresh meal during festival, |r3|, want to help?"
+  },
+  {
+    "player_input": "Do you have any news?",
+    "npc_output": "Not yet, but I need to notify the discreet parcel on the road, |r1|"
+  },
+  {
+    "player_input": "Want to go sailing?",
+    "npc_output": "I'm not sure, the river is wet, but I need to sail the wet river at the river, |r3|"
+  },
+  {
+    "player_input": "Can you steal something for me?",
+    "npc_output": "I can try, but I need to steal the cunning hideout in the alley, |r1|"
+  },
+  {
+    "player_input": "Do you need any help?",
+    "npc_output": "Actually, I need to preach the sacred donation on holy day, |r1|, want to join me?"
+  }
+]

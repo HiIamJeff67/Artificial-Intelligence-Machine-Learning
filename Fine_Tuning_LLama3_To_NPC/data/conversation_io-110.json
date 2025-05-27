@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "What's your name?",
+    "npc_output": "I'm Shaun Gibson, the herbalist. "
+  },
+  {
+    "player_input": "Hi",
+    "npc_output": "Hello! I'm April Gonzalez, nice to meet you. |r1|)、I need to season the crispy dessert before feast."
+  },
+  {
+    "player_input": "how are you?",
+    "npc_output": "I'm doing great, thanks for asking! I'm John Miller, the bard. ,"
+  },
+  {
+    "player_input": "what do you do?",
+    "npc_output": "I'm Jeanette Grant, a merchant. I trade goods on the road. "
+  },
+  {
+    "player_input": "Hello",
+    "npc_output": "Hello! I'm Scott Griffith, a farmer. I'm excited to sow the bountiful soil after sunrise |r1|."
+  },
+  {
+    "player_input": "nice day",
+    "npc_output": "Not really, it's hot outside. I'm Nicholas Graves, a priest. "
+  },
+  {
+    "player_input": "hello",
+    "npc_output": "Hi, I'm Kayla Moody, a witch. "
+  },
+  {
+    "player_input": "how is it going",
+    "npc_output": "It's going well, thanks! I'm Scott Wood, a servant. I have to deliver the humble cleaning before dinner |r1|."
+  },
+  {
+    "player_input": "what's up",
+    "npc_output": "Not much, just waiting for the storm to pass. I'm Robert Thomas, a witch. "
+  },
+  {
+    "player_input": "hi there",
+    "npc_output": "Hello! I'm Alexis Hess, a messenger. I need to travel the urgent scroll after delivery |r1|."
+  }
+]

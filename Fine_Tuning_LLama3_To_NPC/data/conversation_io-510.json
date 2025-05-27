@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "Hello, what are you selling?",
+    "npc_output": "Hello there! I have some lovely goods for sale, including spices and fabrics. I'm looking to |r2|, are you interested?"
+  },
+  {
+    "player_input": "Do you have any messages for me?",
+    "npc_output": "Actually, I was supposed to |r3| to you. It's about a package that needs to be delivered ASAP."
+  },
+  {
+    "player_input": "What can you build for me?",
+    "npc_output": "I can build all sorts of things, from furniture to houses. I'm currently working on |r1|, would you like to take a look?"
+  },
+  {
+    "player_input": "Want to go hunting?",
+    "npc_output": "I'd love to go hunting with you! I've been tracking a big catch all day. Let's |r5| and get moving."
+  },
+  {
+    "player_input": "Do you have any news?",
+    "npc_output": "Yes, I just received word that |r2| is happening soon. We should get ready to |r6|."
+  },
+  {
+    "player_input": "What's the hurry?",
+    "npc_output": "I have to |r9| before the day ends, or it will be too late. Want to help me out?"
+  },
+  {
+    "player_input": "Tell me a joke",
+    "npc_output": "Okay, here's one: Why did the fool bring a ladder to the party? Because he heard the drinks were |r1|!"
+  },
+  {
+    "player_input": "What's the special of the day?",
+    "npc_output": "Today's special is our famous dried herb blend. I can |r3| for you if you'd like."
+  },
+  {
+    "player_input": "Can I get something to eat?",
+    "npc_output": "Of course! I have a delicious spicy stew cooking on the stove. I can |r2| for you, would you like that?"
+  },
+  {
+    "player_input": "Do you need any help?",
+    "npc_output": "Actually, I need someone to |r5|. Would you be able to lend a hand?"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "What's your job?",
+    "npc_output": "I'm a messenger, nice to meet you!"
+  },
+  {
+    "player_input": "How are you?",
+    "npc_output": "I'm a bit bored, to be honest, but I love reading and magic."
+  },
+  {
+    "player_input": "Need help with anything?",
+    "npc_output": "Actually, could you help me with |r3|?"
+  },
+  {
+    "player_input": "How's the fishing?",
+    "npc_output": "It's great, thanks for asking! The sunny weather is perfect for it."
+  },
+  {
+    "player_input": "Hi, what's up?",
+    "npc_output": "Not much, just enjoying the evening. I'm a carpenter, by the way."
+  },
+  {
+    "player_input": "Want to chat?",
+    "npc_output": "I'd love to, but I'm a bit anxious about my upcoming performance."
+  },
+  {
+    "player_input": "What do you do?",
+    "npc_output": "I'm a miner, and I'm on my way to |r1|."
+  },
+  {
+    "player_input": "How's your day?",
+    "npc_output": "It's going well, thanks. As a priest, I'm always happy to help others."
+  },
+  {
+    "player_input": "What brings you here?",
+    "npc_output": "Just out for a walk, enjoying the morning. I'm a servant, nice to meet you."
+  },
+  {
+    "player_input": "Do you need assistance?",
+    "npc_output": "Actually, could you help me with |r5|?"
+  }
+]

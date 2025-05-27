@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "What's for dinner?",
+    "npc_output": "I'm making something special, but first, I need to |r3|."
+  },
+  {
+    "player_input": "How's business?",
+    "npc_output": "It's going well, thanks for asking. I'm preparing for the |r1|."
+  },
+  {
+    "player_input": "Want to go fishing?",
+    "npc_output": "I'd love to, but I have to |r3| first."
+  },
+  {
+    "player_input": "Need help with anything?",
+    "npc_output": "Actually, I could use some help with |r1|."
+  },
+  {
+    "player_input": "What's your favorite herb?",
+    "npc_output": "I like them all, but I need to |r2| for now."
+  },
+  {
+    "player_input": "Do you have any new outfits?",
+    "npc_output": "Yes, I just finished |r2|, would you like to see it?"
+  },
+  {
+    "player_input": "What's the best way to steal something?",
+    "npc_output": "I'm not sure I should be sharing that, but I do need to |r1| soon."
+  },
+  {
+    "player_input": "Can you cast a spell for me?",
+    "npc_output": "Maybe later, but first, I need to |r2|."
+  },
+  {
+    "player_input": "Want to go hunting?",
+    "npc_output": "I'd love to, but I need to |r1| first."
+  },
+  {
+    "player_input": "Do you need any help with your work?",
+    "npc_output": "Actually, I could use some help, but I don't have any requests right now."
+  }
+]

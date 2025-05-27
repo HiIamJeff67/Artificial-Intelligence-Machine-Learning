@@ -1,0 +1,624 @@
+[
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "53",
+      "name": "Robert Parker",
+      "role": "fisherman",
+      "moods": [
+        "excited"
+      ],
+      "interests": [
+        "painting",
+        "alchemy",
+        "trading",
+        "dancing",
+        "hunting"
+      ],
+      "playerRelationship": "82",
+      "gender": "male",
+      "personalities": [
+        "innovative",
+        "wise",
+        "ambitious"
+      ],
+      "requests": [
+        "Net the salty fish on the boat",
+        "Catch the weathered fish before storm",
+        "Catch the lucky catch during fishing",
+        "Fish the skilled boat on the boat",
+        "Reel the patient river in the morning",
+        "Fish the early river on the boat",
+        "Cast the lucky river before storm",
+        "Fish the patient fish at the river"
+      ]
+    },
+    "environment_informations": {
+      "weather": "snowy",
+      "time": "at dawn"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "29",
+      "name": "David Sanders",
+      "role": "carpenter",
+      "moods": [
+        "anxious"
+      ],
+      "interests": [
+        "reading",
+        "music",
+        "crafting",
+        "hunting"
+      ],
+      "playerRelationship": "30",
+      "gender": "female",
+      "personalities": [
+        "arrogant",
+        "reckless"
+      ],
+      "requests": [
+        "Repair the smooth house during construction",
+        "Build the polished plank at the workshop",
+        "Carve the smooth nail after delivery",
+        "Build the wooden beam at noon",
+        "Assemble the reliable wood after delivery",
+        "Hammer the reliable workbench after delivery"
+      ]
+    },
+    "environment_informations": {
+      "weather": "rainy",
+      "time": "during the festival"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "89",
+      "name": "Kristi Potts",
+      "role": "carpenter",
+      "moods": [
+        "sad",
+        "bored",
+        "anxious"
+      ],
+      "interests": [
+        "gardening",
+        "collecting"
+      ],
+      "playerRelationship": "57",
+      "gender": "female",
+      "personalities": [
+        "moody",
+        "forgiving"
+      ],
+      "requests": [
+        "Saw the handcrafted plank before rain",
+        "Join the solid nail at noon",
+        "Assemble the handcrafted tool before rain",
+        "Measure the smooth plank at the workshop",
+        "Join the handcrafted house after delivery",
+        "Assemble the reliable tool after delivery",
+        "Measure the well-made tool before rain",
+        "Hammer the solid wood during construction",
+        "Measure the polished wood during construction",
+        "Join the solid plank before rain",
+        "Saw the wooden furniture after delivery",
+        "Carve the sturdy workbench at noon",
+        "Carve the sturdy wood at noon"
+      ]
+    },
+    "environment_informations": {
+      "weather": "rainy",
+      "time": "at dawn"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "50",
+      "name": "Melissa Burns",
+      "role": "miner",
+      "moods": [
+        "curious"
+      ],
+      "interests": [
+        "hunting",
+        "cooking"
+      ],
+      "playerRelationship": "32",
+      "gender": "female",
+      "personalities": [
+        "submissive"
+      ],
+      "requests": [
+        "Descend the deep helmet during shift",
+        "Explore the dangerous helmet during shift",
+        "Search the dark mine during shift",
+        "Mine the rocky mine at dawn",
+        "Extract the dusty cart in the mine",
+        "Dig the dark helmet at dawn"
+      ]
+    },
+    "environment_informations": {
+      "weather": "hail",
+      "time": "before sunrise"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "13",
+      "name": "Shelly Montgomery",
+      "role": "alchemist",
+      "moods": [
+        "bored"
+      ],
+      "interests": [
+        "reading",
+        "magic"
+      ],
+      "playerRelationship": "21",
+      "gender": "female",
+      "personalities": [
+        "brave",
+        "lazy"
+      ],
+      "requests": [
+        "Distill the magical formula before sunrise",
+        "Brew the colorful potion during experiment",
+        "Transmute the potent formula after market",
+        "Experiment the potent elixir at midnight",
+        "Experiment the rare formula at midnight"
+      ]
+    },
+    "environment_informations": {
+      "weather": "hail",
+      "time": "at midnight"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "21",
+      "name": "Bryan Richard",
+      "role": "cook",
+      "moods": [
+        "angry",
+        "anxious",
+        "sad"
+      ],
+      "interests": [
+        "trading",
+        "horsemanship",
+        "sports"
+      ],
+      "playerRelationship": "78",
+      "gender": "female",
+      "personalities": [
+        "cheerful",
+        "innovative",
+        "sarcastic",
+        "outgoing",
+        "jealous"
+      ],
+      "requests": [
+        "Taste the fresh oven after market",
+        "Mix the fresh meal in the kitchen",
+        "Bake the fresh bread before feast",
+        "Bake the sweet oven after market",
+        "Mix the delicious kitchen before feast",
+        "Prepare the spicy ingredient before feast",
+        "Chop the delicious oven before feast"
+      ]
+    },
+    "environment_informations": {
+      "weather": "stormy",
+      "time": "at midnight"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "56",
+      "name": "Mrs. Kathleen Smith",
+      "role": "scholar",
+      "moods": [
+        "anxious",
+        "sad",
+        "tired"
+      ],
+      "interests": [
+        "painting",
+        "magic",
+        "meditation",
+        "collecting",
+        "fishing"
+      ],
+      "playerRelationship": "63",
+      "gender": "female",
+      "personalities": [
+        "pessimistic",
+        "tactful",
+        "adventurous",
+        "strict",
+        "protective"
+      ],
+      "requests": [
+        "Research the ancient debate at night",
+        "Write the reserved manuscript before exam",
+        "Study the innovative study during study",
+        "Research the curious book during study",
+        "Research the innovative scroll during study",
+        "Translate the diligent book at night",
+        "Write the curious study in the library",
+        "Record the ancient study before exam",
+        "Teach the reserved book at night",
+        "Teach the reserved debate in the library"
+      ]
+    },
+    "environment_informations": {
+      "weather": "cloudy",
+      "time": "in the evening"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "94",
+      "name": "John Brooks",
+      "role": "hunter",
+      "moods": [
+        "sad",
+        "happy",
+        "hopeful"
+      ],
+      "interests": [
+        "collecting"
+      ],
+      "playerRelationship": "23",
+      "gender": "female",
+      "personalities": [
+        "wise",
+        "reckless",
+        "pragmatic"
+      ],
+      "requests": [
+        "Track the skilled prey in the forest",
+        "Camp the patient fur before sunset",
+        "Ambush the stealthy fur at dawn",
+        "Shoot the sharp-eyed trap in the forest",
+        "Track the wild bow in the forest",
+        "Hunt the sharp-eyed camp before sunset",
+        "Skin the skilled bow at dawn",
+        "Track the rugged arrow before sunset",
+        "Camp the skilled prey in the forest",
+        "Trap the silent animal after rain",
+        "Stalk the sharp-eyed camp after rain",
+        "Ambush the patient fur at dawn",
+        "Camp the quick arrow before sunset",
+        "Skin the skilled arrow at dawn"
+      ]
+    },
+    "environment_informations": {
+      "weather": "hail",
+      "time": "at noon"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "27",
+      "name": "Sherry Coffey",
+      "role": "priest",
+      "moods": [
+        "neutral"
+      ],
+      "interests": [
+        "cooking",
+        "storytelling",
+        "dancing",
+        "fishing"
+      ],
+      "playerRelationship": "0",
+      "gender": "female",
+      "personalities": [
+        "stubborn",
+        "moody",
+        "innovative",
+        "sarcastic"
+      ],
+      "requests": [
+        "Preach the sacred donation on holy day",
+        "Preach the wise blessing on holy day",
+        "Preach the devout ceremony at dawn",
+        "Forgive the sacred wedding in the temple",
+        "Bless the merciful altar at dawn",
+        "Bless the wise altar during ceremony",
+        "Forgive the pure blessing during ceremony",
+        "Conduct the pure ceremony on holy day",
+        "Chant the holy wedding on holy day",
+        "Heal the blessed prayer on holy day",
+        "Guide the devout faith during ceremony"
+      ]
+    },
+    "environment_informations": {
+      "weather": "drizzle",
+      "time": "at dawn"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "35",
+      "name": "John Nelson",
+      "role": "messenger",
+      "moods": [
+        "hopeful",
+        "angry"
+      ],
+      "interests": [
+        "exploring",
+        "dancing",
+        "music",
+        "crafting",
+        "fishing"
+      ],
+      "playerRelationship": "72",
+      "gender": "female",
+      "personalities": [
+        "outgoing"
+      ],
+      "requests": [
+        "Deliver the punctual letter at dawn",
+        "Carry the reliable route at dawn",
+        "Run the quick errand at dawn",
+        "Announce the swift errand at dawn",
+        "Announce the discreet scroll on the road",
+        "Announce the quick parcel before sunset",
+        "Run the trusted scroll at dawn",
+        "Fetch the reliable parcel during rain",
+        "Notify the reliable route during rain",
+        "Run the tireless message at dawn",
+        "Announce the punctual scroll at dawn",
+        "Deliver the urgent delivery after delivery",
+        "Carry the swift letter on the road"
+      ]
+    },
+    "environment_informations": {
+      "weather": "cloudy",
+      "time": "in the evening"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "84",
+      "name": "Katherine Morrison",
+      "role": "cook",
+      "moods": [
+        "tired"
+      ],
+      "interests": [
+        "sports",
+        "dancing",
+        "music",
+        "hunting"
+      ],
+      "playerRelationship": "18",
+      "gender": "female",
+      "personalities": [
+        "authoritative",
+        "pragmatic",
+        "vengeful",
+        "impatient"
+      ],
+      "requests": [
+        "Season the spicy meal at noon",
+        "Mix the fresh ingredient during festival",
+        "Serve the fresh bread after market",
+        "Serve the spicy dessert before feast",
+        "Prepare the tasty kitchen at noon"
+      ]
+    },
+    "environment_informations": {
+      "weather": "foggy",
+      "time": "after sunset"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "51",
+      "name": "Gary Johnson",
+      "role": "scholar",
+      "moods": [
+        "hopeful",
+        "neutral",
+        "tired"
+      ],
+      "interests": [
+        "trading",
+        "fishing",
+        "farming",
+        "gardening",
+        "horsemanship"
+      ],
+      "playerRelationship": "73",
+      "gender": "male",
+      "personalities": [
+        "outgoing",
+        "moody"
+      ],
+      "requests": [
+        "Teach the learned study at night",
+        "Research the diligent manuscript at night",
+        "Record the diligent library in the library",
+        "Write the innovative library after lecture",
+        "Read the thoughtful research at night",
+        "Debate the diligent knowledge before exam",
+        "Read the reserved manuscript during study",
+        "Record the diligent knowledge before exam"
+      ]
+    },
+    "environment_informations": {
+      "weather": "snowy",
+      "time": "in the evening"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "43",
+      "name": "Nicholas Graves",
+      "role": "priest",
+      "moods": [
+        "tired",
+        "neutral"
+      ],
+      "interests": [
+        "storytelling",
+        "meditation",
+        "gambling",
+        "cooking",
+        "horsemanship"
+      ],
+      "playerRelationship": "78",
+      "gender": "male",
+      "personalities": [
+        "cheerful",
+        "adventurous",
+        "eccentric",
+        "sarcastic"
+      ],
+      "requests": [
+        "Heal the holy altar on holy day",
+        "Bless the wise altar during ceremony",
+        "Chant the faithful faith on holy day",
+        "Forgive the holy festival after prayer",
+        "Conduct the sacred wedding during ceremony",
+        "Heal the devout altar at dawn",
+        "Forgive the sacred wedding in the temple",
+        "Guide the devout faith during ceremony",
+        "Conduct the sacred faith on holy day",
+        "Forgive the pure ceremony during ceremony",
+        "Preach the blessed ceremony on holy day",
+        "Heal the wise faith in the temple",
+        "Conduct the blessed blessing during ceremony",
+        "Conduct the pure blessing after prayer"
+      ]
+    },
+    "environment_informations": {
+      "weather": "hail",
+      "time": "after sunset"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "95",
+      "name": "Veronica Austin",
+      "role": "stable master",
+      "moods": [
+        "curious",
+        "bored",
+        "excited"
+      ],
+      "interests": [
+        "reading",
+        "horsemanship"
+      ],
+      "playerRelationship": "61",
+      "gender": "female",
+      "personalities": [
+        "shy",
+        "romantic",
+        "humble",
+        "calculating"
+      ],
+      "requests": [
+        "Stable the tidy bridle at dawn",
+        "Feed the tidy saddle after feeding",
+        "Stable the strong hay in the stable",
+        "Groom the patient hay during rain",
+        "Lead the reliable horse before race",
+        "Train the experienced groom before race",
+        "Clean the tidy stable in the stable",
+        "Groom the strong stall in the stable",
+        "Saddle the tidy saddle in the stable",
+        "Clean the patient hay during rain",
+        "Lead the reliable hoof in the stable",
+        "Saddle the reliable groom at dawn",
+        "Train the reliable stall before race",
+        "Clean the skilled hoof after feeding",
+        "Stable the tidy groom before race"
+      ]
+    },
+    "environment_informations": {
+      "weather": "rainy",
+      "time": "before sunrise"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "56",
+      "name": "Mrs. Kathleen Smith",
+      "role": "scholar",
+      "moods": [
+        "anxious",
+        "sad",
+        "tired"
+      ],
+      "interests": [
+        "painting",
+        "magic",
+        "meditation",
+        "collecting",
+        "fishing"
+      ],
+      "playerRelationship": "63",
+      "gender": "female",
+      "personalities": [
+        "pessimistic",
+        "tactful",
+        "adventurous",
+        "strict",
+        "protective"
+      ],
+      "requests": [
+        "Research the ancient debate at night",
+        "Write the reserved manuscript before exam",
+        "Study the innovative study during study",
+        "Research the curious book during study",
+        "Research the innovative scroll during study",
+        "Translate the diligent book at night",
+        "Write the curious study in the library",
+        "Record the ancient study before exam",
+        "Teach the reserved book at night",
+        "Teach the reserved debate in the library"
+      ]
+    },
+    "environment_informations": {
+      "weather": "cloudy",
+      "time": "after sunset"
+    },
+    "npc_output": ""
+  }
+]

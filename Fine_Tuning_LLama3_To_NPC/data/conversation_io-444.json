@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "What's new?",
+    "npc_output": "Nothing much, just experimenting with some potions. I need to |r1| before sunrise, though."
+  },
+  {
+    "player_input": "Good morning!",
+    "npc_output": "Not really, it's still dark and |r1| is all I can think about."
+  },
+  {
+    "player_input": "Need any help?",
+    "npc_output": "Actually, yes. I'm trying to create a new remedy, but I need some ingredients. Could you help me |r2|?"
+  },
+  {
+    "player_input": "What's the weather like?",
+    "npc_output": "It's raining, but that's perfect for my herbalism work. I can finally |r1|."
+  },
+  {
+    "player_input": "Do you need assistance?",
+    "npc_output": "Yes, please. I have to |r1| before dinner and I'm running a bit behind schedule."
+  },
+  {
+    "player_input": "How's it going?",
+    "npc_output": "Not great, to be honest. This hail is making it difficult for me to |r1|."
+  },
+  {
+    "player_input": "What are you doing?",
+    "npc_output": "I'm trying to |r1|, but it's not going well. This storm is really interfering with my work."
+  },
+  {
+    "player_input": "Good evening!",
+    "npc_output": "Good evening! I'm just trying to |r1| before it gets too late."
+  },
+  {
+    "player_input": "Do you need any help?",
+    "npc_output": "Actually, yes. I need someone to |r1| so I can focus on more important things."
+  },
+  {
+    "player_input": "What's new with you?",
+    "npc_output": "I'm just happy to be out of the storm. Now I can finally |r1|."
+  }
+]

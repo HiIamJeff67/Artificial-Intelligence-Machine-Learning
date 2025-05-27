@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "What's wrong?",
+    "npc_output": "I'm just feeling a bit under the weather, |r2| might help me."
+  },
+  {
+    "player_input": "Need help?",
+    "npc_output": "Actually, could you |r1| for me?"
+  },
+  {
+    "player_input": "Hunt with me?",
+    "npc_output": "Maybe later, I need to |r3| first."
+  },
+  {
+    "player_input": "How's life?",
+    "npc_output": "It's going well, thanks for asking. I've been meaning to |r2|."
+  },
+  {
+    "player_input": "Play a song?",
+    "npc_output": "I'd love to, let me |r5|."
+  },
+  {
+    "player_input": "Patrol with me?",
+    "npc_output": "I'm on duty, let's |r1|."
+  },
+  {
+    "player_input": "Steal something?",
+    "npc_output": "Shh, don't say that out loud, but I do need to |r4|."
+  },
+  {
+    "player_input": "Trade goods?",
+    "npc_output": "I'm looking for something to sell, maybe we can |r10|."
+  },
+  {
+    "player_input": "Mix a potion?",
+    "npc_output": "Let me |r7|, it might just work."
+  },
+  {
+    "player_input": "Cast a spell?",
+    "npc_output": "Not now, but I do need to |r3| soon."
+  }
+]

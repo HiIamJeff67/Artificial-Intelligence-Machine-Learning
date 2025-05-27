@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "What's the weather like today?",
+    "npc_output": "Ugh, it's a foggy afternoon, isn't it? |r1|"
+  },
+  {
+    "player_input": "Need any help with mining?",
+    "npc_output": "Actually, I'm excited to explore the mine this morning, but thanks for offering! |r2|"
+  },
+  {
+    "player_input": "How's hunting?",
+    "npc_output": "It's a bit sad with this rainy weather, but I'm hopeful to track some prey soon |r1|"
+  },
+  {
+    "player_input": "Can I help with herbs?",
+    "npc_output": "I'm a bit anxious about the storm, but I need to crush some fresh herbs in the woods |r1|"
+  },
+  {
+    "player_input": "What's the farm like?",
+    "npc_output": "It's a hopeful morning, and I'm looking forward to sowing some fresh soil at the field |r1|"
+  },
+  {
+    "player_input": "How's the inn?",
+    "npc_output": "It's a busy morning with this hail, but I'm excited to serve a welcoming feast after sunset |r2|"
+  },
+  {
+    "player_input": "Want to trade?",
+    "npc_output": "I'm a bit bored at dawn, but I might be interested in stealing a nimble lock at night |r1|"
+  },
+  {
+    "player_input": "Where's good to hunt?",
+    "npc_output": "The rainy afternoon is perfect for shooting a sharp-eyed trap in the forest |r1|"
+  },
+  {
+    "player_input": "How's farming?",
+    "npc_output": "It's a hopeful evening, and I'm looking forward to planting some healthy plow after sunrise |r2|"
+  },
+  {
+    "player_input": "Play some music?",
+    "npc_output": "I'm a bit anxious, but I'd love to recite some colorful instrument after dinner |r1|"
+  }
+]

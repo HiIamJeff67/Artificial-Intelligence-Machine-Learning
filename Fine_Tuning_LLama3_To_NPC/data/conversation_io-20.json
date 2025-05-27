@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "What's for dinner?",
+    "npc_output": "I'm preparing a delicious meal, |r1|, to be served shortly."
+  },
+  {
+    "player_input": "How's business?",
+    "npc_output": "It's been a long day, but I still need to |r2| for our guests."
+  },
+  {
+    "player_input": "Any news?",
+    "npc_output": "Actually, I have to |r1| to the other side of town tonight."
+  },
+  {
+    "player_input": "Need help?",
+    "npc_output": "No, but I do need to |r1| to ensure everyone's safety."
+  },
+  {
+    "player_input": "What's your specialty?",
+    "npc_output": "I'm known for my |r1|, come try some."
+  },
+  {
+    "player_input": "Good morning!",
+    "npc_output": "Good morning! I'm busy preparing for the festival, |r1| is a priority."
+  },
+  {
+    "player_input": "What's the weather like?",
+    "npc_output": "It's quite windy, I hope it clears up for |r2| this evening."
+  },
+  {
+    "player_input": "Can I help with the delivery?",
+    "npc_output": "That would be great, I need to |r1| as soon as possible."
+  },
+  {
+    "player_input": "What's new?",
+    "npc_output": "I'm planning to |r5|, want to join me?"
+  },
+  {
+    "player_input": "Do you need any assistance?",
+    "npc_output": "Actually, I could use help with |r3|, would you be willing to lend a hand?"
+  }
+]

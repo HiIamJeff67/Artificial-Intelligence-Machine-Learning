@@ -1,0 +1,62 @@
+[
+  {
+    "player_input": "How are you",
+    "npc_output": "I'm a bit sad and anxious, the hail is not good for my crops, maybe you could help me with |r1|?"
+  },
+  {
+    "player_input": "What's wrong",
+    "npc_output": "I'm a hunter and this stormy weather is making it difficult, I was thinking of |r1|, want to join me?"
+  },
+  {
+    "player_input": "Hello",
+    "npc_output": "Nice to meet you, I'm just a beggar trying to survive, not much to do after sunset"
+  },
+  {
+    "player_input": "What's cooking",
+    "npc_output": "I'm a cook, I need to |r1|, but it's hard to focus with the cloudy weather and my angry mood"
+  },
+  {
+    "player_input": "Need help",
+    "npc_output": "I'm an alchemist, I was going to |r1|, but it's not safe to do experiments at midnight, maybe some other time?"
+  },
+  {
+    "player_input": "Good morning",
+    "npc_output": "Beautiful sunny day, I'm a bard and I feel hopeful, I think I'll |r1|, want to listen?"
+  },
+  {
+    "player_input": "What are you doing",
+    "npc_output": "I'm a herbalist, I need to |r1|, but it's getting late, was thinking of doing it after sunset"
+  },
+  {
+    "player_input": "Hi again",
+    "npc_output": "Still a bit bored, but I was thinking of |r1|, care to help an alchemist?"
+  },
+  {
+    "player_input": "What's new",
+    "npc_output": "Not much, I'm a messenger, just waiting for the right time to |r1|, maybe you can help me with that?"
+  },
+  {
+    "player_input": "How's business",
+    "npc_output": "It's okay, I'm a tailor, I have a few requests like |r1|, but it's hard to work with this windy weather"
+  },
+  {
+    "player_input": "What's up",
+    "npc_output": "Not much, just an apprentice trying to learn, it's a bit boring, but I like |r1|, have you tried it?"
+  },
+  {
+    "player_input": "Want to fish",
+    "npc_output": "I'm a fisherman, I was thinking of |r1|, but the hail is making it difficult, maybe some other time?"
+  },
+  {
+    "player_input": "Need a hand",
+    "npc_output": "I'm a carpenter, I need to |r1|, but it's hard to focus with this windy weather, maybe you can assist me?"
+  },
+  {
+    "player_input": "Good day",
+    "npc_output": "It's a bit snowy, but I'm a messenger, I need to |r1|, want to help me deliver this letter?"
+  },
+  {
+    "player_input": "Sneaky",
+    "npc_output": "Shh, I'm a thief, I need to |r1|, but it's not safe to talk about it here, let's discuss it later"
+  }
+]

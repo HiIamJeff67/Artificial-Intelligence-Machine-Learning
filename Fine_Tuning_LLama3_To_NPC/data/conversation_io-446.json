@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "What's your job?",
+    "npc_output": "I'm a herbalist, nice to meet you."
+  },
+  {
+    "player_input": "Hi, what brings you here?",
+    "npc_output": "Just enjoying the stormy weather at noon, it's so refreshing."
+  },
+  {
+    "player_input": "What do you do?",
+    "npc_output": "I'm a tailor, and I have a request - could you |r1| for me?"
+  },
+  {
+    "player_input": "What's your specialty?",
+    "npc_output": "I'm a witch, and I can |r1| if you'd like."
+  },
+  {
+    "player_input": "What do you like to do?",
+    "npc_output": "I love painting, cooking, and storytelling. I'm a messenger, by the way."
+  },
+  {
+    "player_input": "What's wrong?",
+    "npc_output": "I'm just angry, that's all. Don't mind me."
+  },
+  {
+    "player_input": "What are you doing?",
+    "npc_output": "Just anxious about something. Anyway, I'm a witch."
+  },
+  {
+    "player_input": "What's new with you?",
+    "npc_output": "Not much, just excited about my scholarly pursuits. I need to |r1| soon."
+  },
+  {
+    "player_input": "What do you enjoy doing?",
+    "npc_output": "I love cooking, and I'm a cook. Maybe I can |r1| for you?"
+  },
+  {
+    "player_input": "What's your job?",
+    "npc_output": "I'm a herbalist. Nice to meet you, and I have a request - could you |r1|?"
+  }
+]

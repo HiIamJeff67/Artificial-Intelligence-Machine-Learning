@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "What's the weather like today?",
+    "npc_output": "It's windy in the morning, isn't it lovely? |r1|"
+  },
+  {
+    "player_input": "How's your day going?",
+    "npc_output": "It's going well, thanks for asking! The cloudy weather at dawn is quite refreshing."
+  },
+  {
+    "player_input": "Need any help?",
+    "npc_output": "Actually, I could use some assistance with descending the deep helmet during shift, |r1|"
+  },
+  {
+    "player_input": "What's the plan for today?",
+    "npc_output": "I was thinking of teasing the silly mask at the festival, |r1|, want to join me?"
+  },
+  {
+    "player_input": "How's the festival preparation?",
+    "npc_output": "It's going great, I'm planning to play the charming performance during festival, |r1|"
+  },
+  {
+    "player_input": "What do you like to do?",
+    "npc_output": "I enjoy crafting and dancing, but I'm a bit sad and bored today"
+  },
+  {
+    "player_input": "Do you need medical help?",
+    "npc_output": "Actually, I'm a healer, and I need to care for the caring medicine during epidemic, |r1|"
+  },
+  {
+    "player_input": "Can I help with anything?",
+    "npc_output": "Yes, please help me fetch the loyal errand before dinner, |r1|"
+  },
+  {
+    "player_input": "What's your specialty?",
+    "npc_output": "I'm a witch, and I can hex the strange ritual at midnight, |r1|"
+  },
+  {
+    "player_input": "What's the joke for today?",
+    "npc_output": "I'm a fool, and I'll amuse the witty prank during parade, |r1|"
+  }
+]

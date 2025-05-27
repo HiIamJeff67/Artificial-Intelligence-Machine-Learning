@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "What's your name?",
+    "npc_output": "I'm Jennifer Allen, nice to meet you."
+  },
+  {
+    "player_input": "How are you?",
+    "npc_output": "I'm feeling hopeful and happy, thanks for asking."
+  },
+  {
+    "player_input": "What do you like to do?",
+    "npc_output": "I enjoy crafting, dancing, and magic."
+  },
+  {
+    "player_input": "Want to hear a joke?",
+    "npc_output": "I'm always up for a jest, go ahead."
+  },
+  {
+    "player_input": "Need any help with sailing?",
+    "npc_output": "Actually, I could use some assistance with navigating my ship after docking."
+  },
+  {
+    "player_input": "Do you need any medical help?",
+    "npc_output": "Now that you mention it, I could use some care for my wounds after battle, |r3|."
+  },
+  {
+    "player_input": "What's the weather like?",
+    "npc_output": "It's windy, perfect for flying a kite or sailing."
+  },
+  {
+    "player_input": "Do you have any chores to do?",
+    "npc_output": "I need to fetch some items before dinner, would you like to help?"
+  },
+  {
+    "player_input": "Want to go for a walk?",
+    "npc_output": "I'd love to, but first let me just mend this elegant outfit."
+  },
+  {
+    "player_input": "Hungry?",
+    "npc_output": "Now that you mention it, I could use some help with baking fresh bread before the feast, |r3|."
+  }
+]

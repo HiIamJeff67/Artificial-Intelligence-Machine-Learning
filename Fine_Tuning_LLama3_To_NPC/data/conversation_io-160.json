@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "What's your job?",
+    "npc_output": "I'm a blacksmith, been working on some new pieces for the festival.|r1|"
+  },
+  {
+    "player_input": "Do you have any fun plans?",
+    "npc_output": "Actually, I was thinking of jesting a playful trick after my next joke, want to join me? |r1|"
+  },
+  {
+    "player_input": "Do you often work at night?",
+    "npc_output": "Yes, as a messenger, I have to be ready to run trusted scrolls at dawn, even on cloudy nights like these.|r1|"
+  },
+  {
+    "player_input": "What do you like to do for fun?",
+    "npc_output": "I enjoy hosting generous estates before council meetings, it's a great way to meet new people and show off my noble side.|r1|"
+  },
+  {
+    "player_input": "Are you excited about the upcoming festival?",
+    "npc_output": "Absolutely, I've been preparing to crush some fragrant tinctures after the rain, it's going to be a great time! |r1|"
+  },
+  {
+    "player_input": "What do you like to study?",
+    "npc_output": "I'm passionate about teaching learned studies at night, there's something about the evening air that sparks my curiosity.|r1|"
+  },
+  {
+    "player_input": "Do you have any performances scheduled?",
+    "npc_output": "As a bard, I love to recite witty instruments during festivals, it's a great way to entertain the crowd! |r1|"
+  },
+  {
+    "player_input": "Do you enjoy fishing?",
+    "npc_output": "It's one of my favorite things to do, especially when I get to row out to the salty catch on my boat.|r1|"
+  },
+  {
+    "player_input": "What's your daily routine like?",
+    "npc_output": "As a noble, I have to attend proud debts before council meetings, but I also make time for invitations and donations.|r1|"
+  },
+  {
+    "player_input": "What do you like to do at dawn?",
+    "npc_output": "I love to cast my line and catch some lucky sea before the storm rolls in, it's exhilarating! |r1|"
+  }
+]

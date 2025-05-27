@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "What's your role?",
+    "npc_output": "I'm a thief, nice to meet you."
+  },
+  {
+    "player_input": "Do you like music?",
+    "npc_output": "Actually, I love listening to music, it's so calming."
+  },
+  {
+    "player_input": "Do you need help?",
+    "npc_output": "I'm just waiting for someone, thanks for asking."
+  },
+  {
+    "player_input": "What's it like being a miner?",
+    "npc_output": "It's hard work, but I enjoy the thrill of discovery."
+  },
+  {
+    "player_input": "How's your day going?",
+    "npc_output": "It's been a bit rough, but I'm managing, thanks."
+  },
+  {
+    "player_input": "Do you like reading?",
+    "npc_output": "I love getting lost in a good book, especially about horsemanship."
+  },
+  {
+    "player_input": "What brings you here?",
+    "npc_output": "Just doing some mining work, trying to find something valuable."
+  },
+  {
+    "player_input": "Do you have any news?",
+    "npc_output": "Actually, I have a message to deliver, |r1|."
+  },
+  {
+    "player_input": "What do you like to do?",
+    "npc_output": "I'm a queen, so I enjoy hosting events and supporting my people."
+  },
+  {
+    "player_input": "Do you need any assistance?",
+    "npc_output": "I could use some help with this blacksmithing work, thanks for offering."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "Hey Melissa, how's the mining going?",
+    "npc_output": "It's going well, thanks for asking. I was thinking of |r3|, care to join me?"
+  },
+  {
+    "player_input": "Hi Kayla, what brings you out tonight?",
+    "npc_output": "Just enjoying the evening air. It's so peaceful."
+  },
+  {
+    "player_input": "April, what's cooking?",
+    "npc_output": "I'm preparing for the festival, need to |r1| before the feast."
+  },
+  {
+    "player_input": "Shelly, what are you brewing?",
+    "npc_output": "Just a little something before sunrise, |r1|."
+  },
+  {
+    "player_input": "Hi Veronica, how are the horses?",
+    "npc_output": "They're doing well, thanks. I need to |r1| soon."
+  },
+  {
+    "player_input": "Christopher, what are you working on?",
+    "npc_output": "Just embroidering a new hat, |r1|."
+  },
+  {
+    "player_input": "Crystal, what's new with you?",
+    "npc_output": "Not much, just |r1| in the alley."
+  },
+  {
+    "player_input": "Veronica, how's the stable faring in the snow?",
+    "npc_output": "It's a bit challenging, but we're managing. I need to |r3|."
+  },
+  {
+    "player_input": "Kelly, do you need any help with your tasks?",
+    "npc_output": "Actually, I need to |r1| before dinner, would you like to assist me?"
+  },
+  {
+    "player_input": "Shaun, what are you mixing up?",
+    "npc_output": "Just a new remedy, |r3| during spring."
+  }
+]

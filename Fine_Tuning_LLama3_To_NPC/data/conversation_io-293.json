@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "Hello, what's your price for the expensive goods?",
+    "npc_output": "Ah, finally a serious buyer! I'll give you a good deal, but only if you're willing to |r1|."
+  },
+  {
+    "player_input": "Why so angry?",
+    "npc_output": "Ugh, I just had a terrible day and now I have to |r1|."
+  },
+  {
+    "player_input": "What's the meaning of life?",
+    "npc_output": "My child, that's a question for the ages. But first, let us |r2|."
+  },
+  {
+    "player_input": "Do you have any news?",
+    "npc_output": "Actually, I just received a message that I need to |r1|."
+  },
+  {
+    "player_input": "Want to go fishing with me?",
+    "npc_output": "I'd love to, but first I need to |r3|."
+  },
+  {
+    "player_input": "How's business?",
+    "npc_output": "It's been slow, but I'm hoping to |r1| will bring in some customers."
+  },
+  {
+    "player_input": "What's your favorite hobby?",
+    "npc_output": "I love cooking, and I'm actually preparing for a big feast, |r2|."
+  },
+  {
+    "player_input": "How's the fishing?",
+    "npc_output": "The fish aren't biting today, but maybe if we |r1|, we'll have better luck."
+  },
+  {
+    "player_input": "Want to hear some news?",
+    "npc_output": "Always! And after you're done, I need to |r2|."
+  },
+  {
+    "player_input": "What's your favorite music?",
+    "npc_output": "I love all kinds, and I'm planning to |r1| soon."
+  }
+]

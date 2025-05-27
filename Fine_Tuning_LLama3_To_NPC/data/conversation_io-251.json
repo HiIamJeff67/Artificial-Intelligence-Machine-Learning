@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "What's the weather like?",
+    "npc_output": "It's snowing outside, and it's midnight. |r1|"
+  },
+  {
+    "player_input": "Do you have any tasks for me?",
+    "npc_output": "I need you to search the dusty tunnel in the mine. |r1|"
+  },
+  {
+    "player_input": "How are you?",
+    "npc_output": "I'm happy and tired. I need to carry the punctual parcel at dawn. |r1|"
+  },
+  {
+    "player_input": "What do you need help with?",
+    "npc_output": "I need you to deliver the punctual letter at dawn. |r1|"
+  },
+  {
+    "player_input": "What's wrong?",
+    "npc_output": "I'm sad and anxious. I need to plant the healthy vegetable during harvest. |r1|"
+  },
+  {
+    "player_input": "What's your job?",
+    "npc_output": "I'm a miner. I need to search the dusty tunnel in the mine. |r1|"
+  },
+  {
+    "player_input": "Do you need any help?",
+    "npc_output": "I need you to sew the fashionable needle after delivery. |r1|"
+  },
+  {
+    "player_input": "How can I assist you?",
+    "npc_output": "I need you to prepare the festive banquet after sunset. |r1|"
+  },
+  {
+    "player_input": "What's your role?",
+    "npc_output": "I'm a bard. I need to recite the witty instrument during festival. |r1|"
+  },
+  {
+    "player_input": "What do you need me to do?",
+    "npc_output": "I need you to research the ancient debate at night. |r1|"
+  }
+]

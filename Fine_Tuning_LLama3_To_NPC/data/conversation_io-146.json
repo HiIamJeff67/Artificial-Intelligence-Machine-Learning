@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "What's your favorite fishing spot?",
+    "npc_output": "Ah, I love to fish at the old pier |r2|"
+  },
+  {
+    "player_input": "How's the estate doing?",
+    "npc_output": "It's doing well, but I'm concerned about the storm |r1|"
+  },
+  {
+    "player_input": "Do you have any goods to sell?",
+    "npc_output": "Yes, I have some fine silks and spices, would you like to take a look? |r1|"
+  },
+  {
+    "player_input": "What's the best way to sneak past the guards?",
+    "npc_output": "I'd recommend using the sewer tunnel, but |r5|"
+  },
+  {
+    "player_input": "Can you spare some food?",
+    "npc_output": "I'm happy to share what little I have, but |r3|"
+  },
+  {
+    "player_input": "Do you need any help with the inn?",
+    "npc_output": "Actually, I could use some assistance with the rooms, |r1|"
+  },
+  {
+    "player_input": "What's your favorite dish to cook?",
+    "npc_output": "I love to make a good stew, but |r2|"
+  },
+  {
+    "player_input": "I'm looking for a new place to explore, do you have any suggestions?",
+    "npc_output": "There's a lovely forest just outside the city, |r1|"
+  },
+  {
+    "player_input": "Can you teach me some thief skills?",
+    "npc_output": "I can show you a thing or two, but |r3|"
+  },
+  {
+    "player_input": "Do you have any rare ingredients for cooking?",
+    "npc_output": "I might have some, but |r2|"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "Hello Caitlin, how are you feeling today?",
+    "npc_output": "I'm feeling a bit sad and bored, to be honest. This foggy weather isn't helping. |r1|"
+  },
+  {
+    "player_input": "What's the plan for today, Alexis?",
+    "npc_output": "I have to deliver a message at dawn, and I'm a bit anxious about it. Wish me luck!"
+  },
+  {
+    "player_input": "David, can I help with anything?",
+    "npc_output": "Actually, yes! I need to repair this house during the festival. Care to lend a hand? |r1|"
+  },
+  {
+    "player_input": "Donald, what are you doing out here so early?",
+    "npc_output": "Just trying to catch some fish before sunrise. Want to join me?"
+  },
+  {
+    "player_input": "Your Majesty, you look lovely today.",
+    "npc_output": "Why, thank you! I'm glad you think so. I'm hosting a court at the palace today, and I want everything to be perfect. |r1|"
+  },
+  {
+    "player_input": "Edgar, are you preparing for the tournament?",
+    "npc_output": "I am! I want to make sure my horse and I are in top condition. |r1|"
+  },
+  {
+    "player_input": "Mandy, what are you brewing today?",
+    "npc_output": "Just a little something to help with my meditation. Would you like to try some?"
+  },
+  {
+    "player_input": "Sarah, how's the farm doing?",
+    "npc_output": "It's doing alright, considering the foggy weather. Could use some help with weeding, though... |r1|"
+  },
+  {
+    "player_input": "Scott, what's new with you?",
+    "npc_output": "Just predicting some rituals and casting charms. You know, the usual. |r1|"
+  },
+  {
+    "player_input": "Michael, what are you doing at midnight?",
+    "npc_output": "Just getting ready for a tournament. Want to come cheer me on?"
+  }
+]

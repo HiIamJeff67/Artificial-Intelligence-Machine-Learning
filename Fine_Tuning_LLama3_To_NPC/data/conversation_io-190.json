@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "What's your name?",
+    "npc_output": "I'm Aaron Stephenson, nice to meet you."
+  },
+  {
+    "player_input": "I love painting",
+    "npc_output": "Really? I'm more of a fan of painting myself, it's so relaxing."
+  },
+  {
+    "player_input": "Do you like music?",
+    "npc_output": "I adore music, perhaps I can recite a poem for you |r1|."
+  },
+  {
+    "player_input": "What's your role?",
+    "npc_output": "I'm a witch, I enjoy meditation and storytelling."
+  },
+  {
+    "player_input": "Do you play music?",
+    "npc_output": "Yes, I play the lyre and I'm thinking of composing a song |r2|."
+  },
+  {
+    "player_input": "How's farming?",
+    "npc_output": "It's going well, I need to sow the abundant plow soon |r5|."
+  },
+  {
+    "player_input": "What do you like to do?",
+    "npc_output": "I enjoy crafting and dancing, they're so much fun."
+  },
+  {
+    "player_input": "Do you like gardening?",
+    "npc_output": "Yes, I do, it's one of my favorite things to do."
+  },
+  {
+    "player_input": "Where do you like to fish?",
+    "npc_output": "I love fishing in the river, it's so peaceful |r1|."
+  },
+  {
+    "player_input": "What's your job?",
+    "npc_output": "I'm a beggar, I often wander around and hope for the best |r3|."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "Hello Thomas, what's your favorite thing to do as a bard?",
+    "npc_output": "I love to perform the lively lyre on stage, it brings me great joy |r1|"
+  },
+  {
+    "player_input": "Hi Tiffany, how's the mining going?",
+    "npc_output": "It's going well, but I need to break the hidden gem before sunset |r1|"
+  },
+  {
+    "player_input": "Kayla, what's on your mind?",
+    "npc_output": "I'm a bit angry today, but I'd love to practice some meditation"
+  },
+  {
+    "player_input": "Sherry, what's the most important thing for a priest?",
+    "npc_output": "Preaching the sacred donation on holy day is a big responsibility |r1|"
+  },
+  {
+    "player_input": "Sherry, how's your day going?",
+    "npc_output": "It's going well, I need to preach the devout ceremony at dawn |r3|"
+  },
+  {
+    "player_input": "Sheila, do you like fishing?",
+    "npc_output": "Yes, I love reeling the skilled river in the morning |r1|"
+  },
+  {
+    "player_input": "Thomas, what's new with you?",
+    "npc_output": "Not much, just thinking about performing the witty dance on stage |r3|"
+  },
+  {
+    "player_input": "Michael, do you have any urgent messages?",
+    "npc_output": "Yes, I need to carry the punctual parcel at dawn |r1|"
+  },
+  {
+    "player_input": "Jennifer, what's the life of a thief like?",
+    "npc_output": "It's exciting, but I need to escape the cunning loot before dawn |r1|"
+  },
+  {
+    "player_input": "Shelley, what's your favorite thing to grow?",
+    "npc_output": "I love growing the healing plant during spring |r1|"
+  }
+]

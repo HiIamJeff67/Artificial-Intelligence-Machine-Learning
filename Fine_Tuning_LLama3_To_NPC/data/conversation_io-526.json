@@ -1,0 +1,62 @@
+[
+  {
+    "player_input": "What's the weather like today?",
+    "npc_output": "It's a bit drizzly at dawn, isn't it?"
+  },
+  {
+    "player_input": "Do you need any help?",
+    "npc_output": "Actually, I could use some assistance with escorting the secure law at the gate, |r1|."
+  },
+  {
+    "player_input": "Want to go hunting?",
+    "npc_output": "I'd love to, but I'm not sure if it's a good idea during the festival, especially with this cloudy weather."
+  },
+  {
+    "player_input": "How's business?",
+    "npc_output": "It's going well, thanks for asking. Although, I was thinking of mixing the strange charm during ritual, |r8|, to keep things interesting."
+  },
+  {
+    "player_input": "Nice garden, isn't it?",
+    "npc_output": "Yes, it is. I was thinking of growing the rare potion in the garden, |r5|, later today."
+  },
+  {
+    "player_input": "Need any help with your ship?",
+    "npc_output": "Actually, I could use some help repairing the weathered ship on the ship, |r2|."
+  },
+  {
+    "player_input": "Want to dance?",
+    "npc_output": "I'd love to, but I'm not really in the mood, to be honest. The hot weather at dusk isn't helping."
+  },
+  {
+    "player_input": "Can you help me with something?",
+    "npc_output": "I'm a bit busy trying to escape the cunning loot before dawn, |r1|, but I'll try to help if I can."
+  },
+  {
+    "player_input": "Where are you headed?",
+    "npc_output": "I'm actually on my way to anchor the restless harbor on the ship, |r1|."
+  },
+  {
+    "player_input": "What's your favorite hobby?",
+    "npc_output": "I enjoy casting the wise charm in the woods, |r2|, it's very relaxing."
+  },
+  {
+    "player_input": "Need any help with your store?",
+    "npc_output": "Actually, I could use some help fitting the embroidered needle at noon, |r1|."
+  },
+  {
+    "player_input": "How's the road?",
+    "npc_output": "It's a bit cloudy at noon, but I was thinking of selling the luxurious goods in the city, |r7|, later today."
+  },
+  {
+    "player_input": "Want to read a book?",
+    "npc_output": "I'd love to, but I'm a bit busy caring for the caring medicine during epidemic, |r1|."
+  },
+  {
+    "player_input": "Can I stay here?",
+    "npc_output": "Of course, you're welcome to stay. I'll make sure to clean the busy room before festival, |r1|."
+  },
+  {
+    "player_input": "What's the kingdom like?",
+    "npc_output": "It's a bit rainy before sunrise, but I'm looking forward to leading the powerful treasure at festival, |r1|."
+  }
+]

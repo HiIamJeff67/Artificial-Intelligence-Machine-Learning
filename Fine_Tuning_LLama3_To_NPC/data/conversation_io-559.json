@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "What's the weather like today?",
+    "npc_output": "It's foggy at noon, not the best day for fishing."
+  },
+  {
+    "player_input": "What are you doing today?",
+    "npc_output": "I'm sharpening my tools, maybe I'll temper the strong anvil at the market later |r1|."
+  },
+  {
+    "player_input": "How's business?",
+    "npc_output": "It's slow, but I have some orders to fill, like sewing the fitted pattern after delivery |r2|."
+  },
+  {
+    "player_input": "Do you have any messages for me?",
+    "npc_output": "Actually, I need to announce the urgent letter on the road |r1|, but the stormy weather isn't helping."
+  },
+  {
+    "player_input": "Want to sail with me?",
+    "npc_output": "I'd love to, maybe we can anchor the restless harbor on the ship |r1| and enjoy the cloudy sky."
+  },
+  {
+    "player_input": "What's for breakfast?",
+    "npc_output": "I'm preparing a feast, maybe we can cook the clean parade before festival |r3|, but first, I need some help."
+  },
+  {
+    "player_input": "Do you need help with the ship?",
+    "npc_output": "Yes, please, help me repair the rowdy storm during storm |r1|, it's not safe out here."
+  },
+  {
+    "player_input": "What's the plan for today?",
+    "npc_output": "We're descending the rocky tunnel in the mine |r2|, be careful, it's stormy outside."
+  },
+  {
+    "player_input": "Want to go fishing?",
+    "npc_output": "Not now, it's not the best time, but maybe we can sail the lucky bait in the morning |r1| tomorrow."
+  },
+  {
+    "player_input": "What are you studying?",
+    "npc_output": "I'm teaching the learned study at night |r1|, but I need to research the diligent manuscript at night |r2| first."
+  }
+]

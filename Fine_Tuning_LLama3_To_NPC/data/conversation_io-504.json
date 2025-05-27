@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "Hello, what's your name?",
+    "npc_output": "My name is Jennifer Allen, nice to meet you."
+  },
+  {
+    "player_input": "What's your job?",
+    "npc_output": "I'm a scholar, I study and research various subjects."
+  },
+  {
+    "player_input": "Nice day, isn't it?",
+    "npc_output": "It's a bit windy, but I love the feeling of the wind in my hair."
+  },
+  {
+    "player_input": "Do you need any help?",
+    "npc_output": "Actually, I'm looking for someone to help me grow the healing plant during spring, would you like to assist me?"
+  },
+  {
+    "player_input": "What's your role?",
+    "npc_output": "I'm a messenger, I deliver important messages to people."
+  },
+  {
+    "player_input": "Want to go hunting?",
+    "npc_output": "I'm not really in the mood for hunting, but I do need to track the rugged arrow before sunset, |r2|."
+  },
+  {
+    "player_input": "Do you have any deliveries?",
+    "npc_output": "Yes, I have to deliver the punctual letter at dawn, it's a bit of a challenge with this cloudy weather."
+  },
+  {
+    "player_input": "Want to hear a song?",
+    "npc_output": "I'd love to play the creative dance after dinner, would you like to join me?"
+  },
+  {
+    "player_input": "Need help with anything?",
+    "npc_output": "Actually, I need to disguise the nimble hideout at night, it's a bit of a tricky task."
+  },
+  {
+    "player_input": "What do you do?",
+    "npc_output": "I'm a beggar, I don't have much, but I'm hoping for a better life."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "What's your specialty?",
+    "npc_output": "I'm a herbalist, nice to meet you. By the way, I need to |r1|."
+  },
+  {
+    "player_input": "What's in your book?",
+    "npc_output": "Just some notes on alchemy. I'm planning to |r1| soon."
+  },
+  {
+    "player_input": "Do you have anything to trade?",
+    "npc_output": "Not right now, but I'm thinking of |r1| someday."
+  },
+  {
+    "player_input": "What do you like to read?",
+    "npc_output": "I enjoy books on meditation. I wish someone could |r1| for me."
+  },
+  {
+    "player_input": "Do you like the weather?",
+    "npc_output": "Not really, it's too hot. I just want to rest."
+  },
+  {
+    "player_input": "Want to dance?",
+    "npc_output": "Not now, I'm not in the mood. But I can |r1| if you want."
+  },
+  {
+    "player_input": "What's your favorite instrument?",
+    "npc_output": "I love music, and I can |r1| if you'd like."
+  },
+  {
+    "player_input": "Need help with farming?",
+    "npc_output": "Actually, I could use some help with |r1|."
+  },
+  {
+    "player_input": "What do you trade?",
+    "npc_output": "All sorts of goods. I'm thinking of |r1| today."
+  },
+  {
+    "player_input": "Do you have a room available?",
+    "npc_output": "Yes, and I can |r1| for you if you'd like."
+  }
+]

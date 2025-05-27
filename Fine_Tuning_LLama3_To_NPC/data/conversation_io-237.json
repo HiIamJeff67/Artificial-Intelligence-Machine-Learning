@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "What's wrong?",
+    "npc_output": "I'm just feeling a bit angry today, the rain isn't helping."
+  },
+  {
+    "player_input": "What are you doing?",
+    "npc_output": "Trying to catch some fish before the storm hits, |r2|."
+  },
+  {
+    "player_input": "Hello",
+    "npc_output": "Not now, I'm busy gathering herbs for a potion."
+  },
+  {
+    "player_input": "How's it going?",
+    "npc_output": "Good, I'm just hammering away at this anvil, trying to get some work done before dawn."
+  },
+  {
+    "player_input": "What's new?",
+    "npc_output": "Not much, just delivering some messages in the snow, |r1|."
+  },
+  {
+    "player_input": "What are you making?",
+    "npc_output": "A new hat, but I'm having some trouble with the design, |r1|."
+  },
+  {
+    "player_input": "Need help?",
+    "npc_output": "Actually, yes, could you help me clean the rooms before the festival?"
+  },
+  {
+    "player_input": "What's your plan?",
+    "npc_output": "I'm going to try and catch some fish before the storm, |r1|."
+  },
+  {
+    "player_input": "How's farming?",
+    "npc_output": "It's going well, but I need to sow some new soil soon, |r1|."
+  },
+  {
+    "player_input": "What's up?",
+    "npc_output": "Just delivering some messages, trying to stay warm in this cold weather, |r3|."
+  }
+]

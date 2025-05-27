@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "What's for sale?",
+    "npc_output": "I have some luxurious goods available, would you like to take a look? I'm planning to |r2| soon."
+  },
+  {
+    "player_input": "Need any help?",
+    "npc_output": "Actually, I could use some assistance with tidying up before dinner. Would you be willing to lend a hand?"
+  },
+  {
+    "player_input": "Hi, what brings you here?",
+    "npc_output": "Just enjoying the morning, it's so windy and refreshing! I'm a bit bored, though, wish I had something exciting to do."
+  },
+  {
+    "player_input": "How's it going?",
+    "npc_output": "It's going well, thanks! I have a lot of deliveries to make today, including |r1|."
+  },
+  {
+    "player_input": "What's new?",
+    "npc_output": "Not much, just trying to stay dry in this stormy weather. I was thinking of |r1| later, if you'd like to help."
+  },
+  {
+    "player_input": "Smells great in here!",
+    "npc_output": "Thanks! I'm preparing for the festival, making all sorts of delicious dishes. Maybe you can help me with |r3|?"
+  },
+  {
+    "player_input": "You look busy.",
+    "npc_output": "Yes, I am. But I love mining, it's so rewarding. I'm actually planning to |r1| soon, want to join me?"
+  },
+  {
+    "player_input": "What's the hurry?",
+    "npc_output": "I have a lot of messages to deliver today, including |r1|. It's a big responsibility, but someone's gotta do it!"
+  },
+  {
+    "player_input": "Tough day?",
+    "npc_output": "You have no idea. I've been cooking all morning and I still have a lot to do. Maybe you can help me with |r1|?"
+  },
+  {
+    "player_input": "What's your specialty?",
+    "npc_output": "I'm a bit of a thief, so I'm always on the lookout for the next big score. Maybe you've heard of |r1|?"
+  }
+]

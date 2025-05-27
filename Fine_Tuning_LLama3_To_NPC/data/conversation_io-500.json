@@ -1,0 +1,89 @@
+[
+  {
+    "player_input": "Hi, what's up?",
+    "npc_output": "I'm just getting ready for a long day of farming, |r1|."
+  },
+  {
+    "player_input": "What's the fog like?",
+    "npc_output": "It's pretty thick, be careful out there, I'm a bit |r2|."
+  },
+  {
+    "player_input": "Do you like fishing?",
+    "npc_output": "Yes, I do, especially in the afternoon, maybe I'll |r1|."
+  },
+  {
+    "player_input": "Need help?",
+    "npc_output": "Actually, I could use some assistance with |r3|, thanks for offering."
+  },
+  {
+    "player_input": "How's the priesthood?",
+    "npc_output": "It's going well, I'm preparing for a ceremony, and I need to |r5|."
+  },
+  {
+    "player_input": "What's the news?",
+    "npc_informations": {
+      "index": "75",
+      "name": "James Gordon",
+      "role": "messenger",
+      "moods": [
+        "bored",
+        "angry"
+      ],
+      "interests": [
+        "trading"
+      ],
+      "playerRelationship": "69",
+      "gender": "male",
+      "personalities": [
+        "protective",
+        "sarcastic"
+      ],
+      "requests": [
+        "Announce the urgent letter on the road",
+        "Report the tireless news during rain",
+        "Notify the tireless message after delivery"
+      ]
+    },
+    "environment_informations": {
+      "weather": "sunny",
+      "time": "at dusk"
+    },
+    "npc_output": "Not much, just preparing to |r1|, want to come with me?"
+  },
+  {
+    "player_input": "Do you like fishing at dawn?",
+    "npc_output": "Yes, it's one of my favorite times, and I'm planning to |r3|."
+  },
+  {
+    "player_input": "What's the plan?",
+    "npc_output": "I'm thinking of |r1|, want to join me?"
+  },
+  {
+    "player_input": "Need help with the forge?",
+    "npc_output": "Actually, I could use a hand with |r2|, thanks."
+  },
+  {
+    "player_input": "How's the messenger job?",
+    "npc_output": "It's keeping me busy, I have to |r5| soon."
+  },
+  {
+    "player_input": "Do you like performing?",
+    "npc_output": "Yes, I love it, and I'm preparing to |r1| tonight."
+  },
+  {
+    "player_input": "What's the hunt like?",
+    "npc_output": "It's been tough, but I'm planning to |r1| before sunrise."
+  },
+  {
+    "player_input": "Do you like fishing at midnight?",
+    "npc_output": "It's not my favorite, but I do need to |r1| sometimes."
+  },
+  {
+    "player_input": "How's the lesson?",
+    "npc_output": "It's going well, I'm just about to |r1|, want to observe?"
+  },
+  {
+    "player_input": "What's the ceremony like?",
+    "npc_output": "It's beautiful, and I'm preparing to |r1| at dawn, you're welcome to attend."
+  }
+]

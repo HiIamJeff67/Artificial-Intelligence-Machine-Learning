@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "What are you selling?",
+    "npc_output": "Come check out my goods, I have some rare items for sale, maybe you'll find something you like, |r1|."
+  },
+  {
+    "player_input": "Do you have any fishing gear?",
+    "npc_output": "Actually, I'm a priest, not a fisherman, but I can tell you about the best spots to fish, would you like to hear a story about it?"
+  },
+  {
+    "player_input": "Need help with a delivery?",
+    "npc_output": "As a matter of fact, I have an urgent message to deliver, but I need someone with your skills, are you up for the task, |r1|?"
+  },
+  {
+    "player_input": "Do you have any medicine?",
+    "npc_output": "I'm a healer, I have just the thing for what ails you, but first, let me diagnose you, |r1|."
+  },
+  {
+    "player_input": "Want to go fishing?",
+    "npc_output": "I'm a fisherman, it's my favorite thing to do, but the weather isn't looking great, |r1|."
+  },
+  {
+    "player_input": "Going on a hunt?",
+    "npc_output": "Yes, I'm a hunter, and I could use a partner, want to join me, |r1|?"
+  },
+  {
+    "player_input": "Lost in the woods?",
+    "npc_output": "No, I'm tracking an animal, but it's not easy in this weather, |r1|."
+  },
+  {
+    "player_input": "What's brewing?",
+    "npc_output": "Just a little experiment, I'm an alchemist, trying to create something new, |r1|."
+  },
+  {
+    "player_input": "Need help with armor?",
+    "npc_output": "As a blacksmith, I'd be happy to help you with that, let me show you what I have, |r1|."
+  },
+  {
+    "player_input": "Looking for a job?",
+    "npc_output": "Actually, I'm a farmer, and I could use some help with the harvest, |r1|."
+  }
+]

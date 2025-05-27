@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "What's new",
+    "npc_output": "Oh, just studying for my exam, I need to |r1| soon."
+  },
+  {
+    "player_input": "How's the weather",
+    "npc_output": "It's stormy, I'm worried about my deliveries, perhaps I should |r3|."
+  },
+  {
+    "player_input": "HiYour Majesty",
+    "npc_output": "Hello, I'm preparing for the ceremony, I should |r1| soon."
+  },
+  {
+    "player_input": "What's your research about",
+    "npc_output": "I'm studying ancient texts, it's a bit challenging, I need to |r2| before the exam."
+  },
+  {
+    "player_input": "Want to go fishing",
+    "npc_output": "I'd love to, but I need to |r1| first, then we can catch some fish."
+  },
+  {
+    "player_input": "How's your horse",
+    "npc_output": "It's doing great, I've been training it for the tournament, I should |r1| soon."
+  },
+  {
+    "player_input": "What's for lunch",
+    "npc_output": "I'm not sure, perhaps something from the garden, I've been feeling a bit |r2| lately."
+  },
+  {
+    "player_input": "Any news",
+    "npc_output": "Just the usual, I need to |r1|, it's been a bit of a challenging day."
+  },
+  {
+    "player_input": "Let's hunt",
+    "npc_output": "Sounds fun, but I need to |r1| first, then we can track some prey."
+  },
+  {
+    "player_input": "What's your trick",
+    "npc_output": "It's a surprise, but I've been preparing for the festival, I should |r1| soon."
+  }
+]

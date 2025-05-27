@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "What's the weather like today?",
+    "npc_output": "It's stormy outside, I'm not sure I'll be able to go mining today, maybe I'll just |r1| instead"
+  },
+  {
+    "player_input": "Do you need any help with your parcels?",
+    "npc_output": "Actually, I have a few |r3| to do, but I think I can handle them on my own, thanks for asking"
+  },
+  {
+    "player_input": "What's your favorite thing to do in the morning?",
+    "npc_output": "I love to go |r2|, it's so peaceful and quiet"
+  },
+  {
+    "player_input": "How's your day going so far?",
+    "npc_output": "It's been a bit rough, I'm feeling |r1|, but I'm trying to stay positive"
+  },
+  {
+    "player_input": "Do you have any big plans for the day?",
+    "npc_output": "I'm supposed to |r5|, but I'm running a bit behind schedule"
+  },
+  {
+    "player_input": "What do you like to hunt?",
+    "npc_output": "I'm looking to |r1|, if you'd like to join me"
+  },
+  {
+    "player_input": "How's the fishing been lately?",
+    "npc_output": "It's been a bit slow, but I'm hoping to |r1| soon"
+  },
+  {
+    "player_input": "What kind of crafting do you like to do?",
+    "npc_output": "I'm actually trying to |r1|, want to come with me?"
+  },
+  {
+    "player_input": "Do you have any favorite activities to do at night?",
+    "npc_output": "I love to |r5|, it's so relaxing"
+  },
+  {
+    "player_input": "What's your favorite type of music?",
+    "npc_output": "I'm a big fan of |r1|, have you heard any good songs lately?"
+  }
+]

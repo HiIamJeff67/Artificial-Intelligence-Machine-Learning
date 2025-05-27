@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "What's the weather like?",
+    "npc_output": "It's stormy outside, I'm glad you're here by the fire."
+  },
+  {
+    "player_input": "Need any help?",
+    "npc_output": "Actually, I could use someone to help me with |r1|, would you be willing to disguise the nimble hideout at night?"
+  },
+  {
+    "player_input": "I love fishing, do you?",
+    "npc_output": "Yes, I do! I've been too tired to go lately, but I was thinking of |r5|, fishing the patient fish at the river, care to join me?"
+  },
+  {
+    "player_input": "Do you have any performances scheduled?",
+    "npc_output": "Yes, I'm supposed to |r1|, sing the colorful performance during festival, I'm a bit sad about it, to be honest."
+  },
+  {
+    "player_input": "Rough seas today?",
+    "npc_output": "The storm is intense, but I need to |r1|, repair the rowdy storm during storm, to keep our ship safe."
+  },
+  {
+    "player_input": "What brings you here so early?",
+    "npc_output": "I'm trying to |r1|, translate the curious library before exam, and I need some peace and quiet to focus."
+  },
+  {
+    "player_input": "Can I help with anything?",
+    "npc_output": "Actually, I could use a hand to |r1|, fetch the loyal errand before dinner, it would be a big help."
+  },
+  {
+    "player_input": "Something smells amazing!",
+    "npc_output": "I'm just preparing for the festival, I need to |r1|, season the spicy meal at noon, to get everything ready on time."
+  },
+  {
+    "player_input": "New outfit?",
+    "npc_output": "Yes, I'm working on a few pieces, including |r1|, fitting the embroidered needle at noon, it's for a special client."
+  },
+  {
+    "player_input": "How's business?",
+    "npc_output": "It's been good, but I'm a bit anxious about |r1|, cleaning the busy room before festival, there's a lot to do."
+  }
+]

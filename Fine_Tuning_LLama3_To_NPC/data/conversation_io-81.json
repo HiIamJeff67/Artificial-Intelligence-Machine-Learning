@@ -1,0 +1,46 @@
+[
+  {
+    "player_input": "hello",
+    "npc_output": "Hello, I'm Matthew Hampton, the tailor. How can I assist you today?"
+  },
+  {
+    "player_input": "what's up",
+    "npc_output": "Not much, just preparing for the ceremony. The weather is quite hail-y today, isn't it? |r1|"
+  },
+  {
+    "player_input": "good morning",
+    "npc_output": "Good morning! I'm Nicholas Graves, the priest. It's a lovely windy morning, perfect for a ceremony. Would you like to join me?"
+  },
+  {
+    "player_input": "hi",
+    "npc_output": "Hi there! I'm Michael Coleman, the messenger. I have a parcel to deliver at dusk. Care to join me?"
+  },
+  {
+    "player_input": "how are you",
+    "npc_output": "I'm doing well, thanks for asking. I'm David Lopez, the messenger. It's a hot day today, but I have to deliver this scroll at midnight."
+  },
+  {
+    "player_input": "what do you do",
+    "npc_output": "I'm Mitchell Fernandez, the carpenter. I love painting and working with wood. Maybe I can create something for you?"
+  },
+  {
+    "player_input": "nice to meet you",
+    "npc_output": "Likewise! I'm Wesley Ayers, the herbalist. I'm excited to share my knowledge of alchemy and cooking with you."
+  },
+  {
+    "player_input": "good evening",
+    "npc_output": "Good evening! I'm Scott Vaughn, the witch. The rainy weather is perfect for a ritual, don't you think? |r3|"
+  },
+  {
+    "player_input": "how's it going",
+    "npc_output": "It's going well, thanks. I'm Marisa Rhodes, the noble. I'm hosting a banquet soon and would love for you to attend. |r1|"
+  },
+  {
+    "player_input": "hello there",
+    "npc_output": "Hello! I'm Pamela Sherman, the scholar. I'm working on a new manuscript and would love some assistance. |r2|"
+  },
+  {
+    "player_input": "what's new",
+    "npc_output": "Not much, just trying to stay out of trouble. I'm Tyler Alexander, the thief. The hot weather is perfect for a heist, don't you think?"
+  }
+]

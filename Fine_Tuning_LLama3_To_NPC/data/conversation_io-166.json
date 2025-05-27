@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "What's the weather like?",
+    "npc_output": "It's windy in the evening, isn't it?"
+  },
+  {
+    "player_input": "Are you ready to hunt?",
+    "npc_output": "Not yet, it's stormy at midnight, I'll track the skilled prey in the forest |r1| tomorrow."
+  },
+  {
+    "player_input": "Do you have a message?",
+    "npc_output": "Yes, I need to notify the trusted news after delivery, but it's stormy in the afternoon, so I'll do it later."
+  },
+  {
+    "player_input": "What do you think of the fog?",
+    "npc_output": "It's quite foggy in the morning, perfect for announcing the urgent letter on the road |r1|."
+  },
+  {
+    "player_input": "What are you brewing?",
+    "npc_output": "Just a strange ritual at midnight, nothing much, but I might hex the strange ritual at midnight |r1| later."
+  },
+  {
+    "player_input": "Can I have some food?",
+    "npc_output": "I'm preparing the fresh meal during festival, would you like some?"
+  },
+  {
+    "player_input": "Tell me a story.",
+    "npc_output": "Let me sing the colorful performance during festival, it's a beautiful story |r1|."
+  },
+  {
+    "player_input": "Need help with farming?",
+    "npc_output": "Actually, I was going to plow the abundant soil after sunrise |r1|, thanks for offering!"
+  },
+  {
+    "player_input": "Are you sailing today?",
+    "npc_output": "No, it's too hail-y, but I'll load the salty voyage at the harbor |r1| when the weather clears up."
+  },
+  {
+    "player_input": "What are you crafting?",
+    "npc_output": "Just a small project, nothing much, but I do need to deliver the humble cleaning before dinner |r1| later."
+  }
+]

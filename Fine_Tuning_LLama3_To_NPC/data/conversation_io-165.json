@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "Hello Kimberly, how's the farm?",
+    "npc_output": "It's going well, thanks for asking. I was thinking of |r1| soon, the soil is looking good."
+  },
+  {
+    "player_input": "Hi Tyler, what's new with your herbs?",
+    "npc_output": "Not much, just been studying the effects of |r2|, fascinating stuff."
+  },
+  {
+    "player_input": "Hey David, how's your music?",
+    "npc_output": "It's been a bit of a struggle, but I'm hoping to |r1| soon, maybe that will help."
+  },
+  {
+    "player_input": "Greetings King Micheal, how's the kingdom?",
+    "npc_output": "It's been a bit chaotic, but I'm considering |r1|, we'll see how it goes."
+  },
+  {
+    "player_input": "Hi Crystal, heard you're into storytelling?",
+    "npc_output": "Yeah, I love it. I was thinking of |r1|, want to join me?"
+  },
+  {
+    "player_input": "Hello Shaun, what's new with your alchemy?",
+    "npc_output": "Just been experimenting with |r3|, it's been interesting so far."
+  },
+  {
+    "player_input": "Hey Edgar, how's your training?",
+    "npc_output": "It's going well, been thinking of |r1|, wish me luck."
+  },
+  {
+    "player_input": "Hi Victoria, how's the mine?",
+    "npc_output": "It's been a bit tough, but I'm hoping to |r1| soon, that should help."
+  },
+  {
+    "player_input": "Greetings Mrs. Smith, how's your research?",
+    "npc_output": "It's been keeping me up at night, but I'm making progress on |r1|."
+  },
+  {
+    "player_input": "Hi Robert, caught any big fish lately?",
+    "npc_output": "Actually, I was thinking of |r1|, want to come along?"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "What's wrong?",
+    "npc_output": "I am feeling sad and tired, it's not a good day to go fishing, I wish I could |r1|"
+  },
+  {
+    "player_input": "Do you need any help?",
+    "npc_output": "I need someone to help me with the humble errand, maybe you could assist me with |r1|"
+  },
+  {
+    "player_input": "What are you doing tonight?",
+    "npc_output": "I'm going to explore the dark mine, want to join me? I was thinking of |r1|"
+  },
+  {
+    "player_input": "How's the hunt going?",
+    "npc_output": "It's been a tough day, but I managed to track the wild arrow, now I need to |r1|"
+  },
+  {
+    "player_input": "Any news to share?",
+    "npc_output": "I have to announce the urgent letter, it's of utmost importance, I might need to |r1|"
+  },
+  {
+    "player_input": "Need help with the ship?",
+    "npc_output": "Yes, please help me navigate the strong map, we need to set sail soon and |r1|"
+  },
+  {
+    "player_input": "How's farming?",
+    "npc_output": "It's been difficult with the snowy weather, but I need to plant the healthy vegetable, can you help me with |r1|?"
+  },
+  {
+    "player_input": "Want to dance?",
+    "npc_output": "I'd love to, but first I need to hide the quick secret, can you keep a secret and help with |r1|?"
+  },
+  {
+    "player_input": "Going hunting?",
+    "npc_output": "Yes, I'm tracking the skilled prey, want to join me? I'll need to |r1|"
+  },
+  {
+    "player_input": "What's new in the mine?",
+    "npc_output": "Not much, just the usual mining, but I did find a rocky mine, want to help me |r1|?"
+  }
+]

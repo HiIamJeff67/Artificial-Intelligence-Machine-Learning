@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "What's your favorite sport",
+    "npc_output": "I enjoy horsemanship and sports, perhaps we can discuss them more?"
+  },
+  {
+    "player_input": "How's the weather",
+    "npc_output": "It's quite hailish today, isn't it?"
+  },
+  {
+    "player_input": "Want to hear a story",
+    "npc_output": "I'd love to hear one, I'm interested in storytelling."
+  },
+  {
+    "player_input": "Let's go farming",
+    "npc_output": "That sounds fun, I'm also interested in farming and exploring."
+  },
+  {
+    "player_input": "Want to go fishing",
+    "npc_output": "I'd love to go fishing, it's one of my favorite activities."
+  },
+  {
+    "player_input": "Need help with blacksmithing",
+    "npc_output": "Actually, I could use some assistance with melting the heavy forge in the forge, |r1|."
+  },
+  {
+    "player_input": "Let's cook something",
+    "npc_output": "That sounds great, I can taste the fresh oven after market, perhaps we can mix something together?"
+  },
+  {
+    "player_input": "What's your role",
+    "npc_output": "I'm a noble, and I have to attend the proud debt before council, |r1|."
+  },
+  {
+    "player_input": "Want to serve someone",
+    "npc_output": "I'm happy to serve the busy room after cleaning, it's my duty as a servant."
+  },
+  {
+    "player_input": "Let's go horsemanship",
+    "npc_output": "I'm a knight, and I'd love to train the fearless horse during tournament, |r1|."
+  }
+]

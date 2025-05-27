@@ -1,0 +1,66 @@
+[
+  {
+    "player_input": "What's up?",
+    "npc_output": "Not much, just got back from fishing, |r1|"
+  },
+  {
+    "player_input": "Hello",
+    "npc_output": "Leave me alone, I'm busy"
+  },
+  {
+    "player_input": "What are you doing?",
+    "npc_output": "Planning my next heist, |r1|"
+  },
+  {
+    "player_input": "How's it going?",
+    "npc_output": "I'm bored out of my mind"
+  },
+  {
+    "player_input": "Hi sailor!",
+    "npc_output": "Oh, hi! Just got back from a long voyage, |r1|"
+  },
+  {
+    "player_input": "Need some clothes?",
+    "npc_output": "Actually, I need to mend this outfit, |r1|"
+  },
+  {
+    "player_input": "Good morning!",
+    "npc_output": "Morning, just starting my patrol, |r1|"
+  },
+  {
+    "player_input": "What's new?",
+    "npc_output": "Just got a new message to deliver, |r1|"
+  },
+  {
+    "player_input": "Spare some change?",
+    "npc_output": "Sorry, I'm struggling myself, but maybe |r1|"
+  },
+  {
+    "player_input": "Hi again!",
+    "npc_output": "Ugh, what do you want now?"
+  },
+  {
+    "player_input": "What's your favorite book?",
+    "npc_output": "I love reading, especially during fishing trips"
+  },
+  {
+    "player_input": "Do you need help?",
+    "npc_output": "No, I can handle it, but thanks for offering"
+  },
+  {
+    "player_input": "Want to talk?",
+    "npc_output": "I'm not really in the mood"
+  },
+  {
+    "player_input": "How's business?",
+    "npc_output": "Slow, but I'm working on some new designs"
+  },
+  {
+    "player_input": "What's for dinner?",
+    "npc_output": "Not sure, but I'm starving"
+  },
+  {
+    "player_input": "Need a hand?",
+    "npc_output": "Actually, I could use some help with this outfit"
+  }
+]

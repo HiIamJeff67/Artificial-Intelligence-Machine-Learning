@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "What's your role?",
+    "npc_output": "I'm a herbalist. I can help you with |r1|, want to know more?"
+  },
+  {
+    "player_input": "What's happening?",
+    "npc_output": "It's almost sunrise, time to |r1|. Care to join me?"
+  },
+  {
+    "player_input": "Need help?",
+    "npc_output": "Actually, I need help with |r1|. Can you assist me?"
+  },
+  {
+    "player_input": "How's farming?",
+    "npc_output": "It's going well, but I need to |r1| soon. Want to lend a hand?"
+  },
+  {
+    "player_input": "Message for me?",
+    "npc_output": "Yes, I have a message. I need to |r1|, can you help me with that?"
+  },
+  {
+    "player_input": "Herbalism tips?",
+    "npc_output": "I can give you some tips. For now, I need to |r1|. Want to learn?"
+  },
+  {
+    "player_input": "实验?",
+    "npc_output": "I'm experimenting with something. Maybe later I'll |r1|, but not now."
+  },
+  {
+    "player_input": "Farming tips?",
+    "npc_output": "Farming is hard work, but I need to |r1| today. Care to help?"
+  },
+  {
+    "player_input": "Hi, what's up?",
+    "npc_output": "Not much, just getting ready to |r1|. Want to chat?"
+  },
+  {
+    "player_input": "Music tonight?",
+    "npc_output": "Yes, I'll be performing. But first, I need to |r1|, wish me luck!"
+  }
+]

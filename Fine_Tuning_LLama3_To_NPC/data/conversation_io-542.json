@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "What's the best trade to make on a snowy night?",
+    "npc_output": "I'd recommend |r1|, the valuable trade on the road, if you can handle the conditions."
+  },
+  {
+    "player_input": "Need any help with your tailoring tasks?",
+    "npc_output": "Actually, I could use some assistance with |r1|, fitting the embroidered needle at noon, if you're skilled with a needle."
+  },
+  {
+    "player_input": "How's the security in the city?",
+    "npc_output": "It's |r1|, escorting the secure law at the gate, that keeps us safe, but we could always use more help."
+  },
+  {
+    "player_input": "Do you have any horses ready for a drizzle?",
+    "npc_output": "Yes, I have some strong hay in the stable, and I need help with |r1|, stable the tidy bridle at dawn."
+  },
+  {
+    "player_input": "What's new with you?",
+    "npc_output": "Not much, just feeling a bit sad and bored, but I've been thinking about |r1|, crafting something new."
+  },
+  {
+    "player_input": "Would you like some help with your inn?",
+    "npc_output": "That's kind of you, I'm preparing for the festival and need to |r1|, pour the festive banquet before festival."
+  },
+  {
+    "player_input": "Do you have any entertaining stories?",
+    "npc_output": "I've got a million of them, and I'd be happy to |r1|, sing the colorful performance during festival, if you'd like."
+  },
+  {
+    "player_input": "How's the hunting going?",
+    "npc_output": "It's been good, but I need to |r1|, track the skilled prey in the forest, to keep my skills sharp."
+  },
+  {
+    "player_input": "Do you need any help with your carpentry?",
+    "npc_output": "Actually, I could use some assistance with |r1|, saw the handcrafted plank before rain, if you're handy with a saw."
+  },
+  {
+    "player_input": "What do you need as a beggar?",
+    "npc_output": "Just hoping for a warm meal and a place to rest, and I've been thinking about |r1|, wait the dirty hope before meal."
+  }
+]

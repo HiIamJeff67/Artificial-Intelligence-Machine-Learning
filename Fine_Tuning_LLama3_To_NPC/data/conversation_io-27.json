@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "Hello, what's your job?",
+    "npc_output": "I'm a farmer, nice to meet you."
+  },
+  {
+    "player_input": "What are you doing today?",
+    "npc_output": "I'm going hunting, want to join me?"
+  },
+  {
+    "player_input": "Need any help?",
+    "npc_output": "Actually, I need to deliver this letter, can you help me?"
+  },
+  {
+    "player_input": "How's your day?",
+    "npc_output": "It's going well, I'm gathering some herbs for my potions."
+  },
+  {
+    "player_input": "What's your plan?",
+    "npc_output": "I'm going to steal something, but I need a disguise, |r1|."
+  },
+  {
+    "player_input": "Want to perform?",
+    "npc_output": "Yes, I'll entertain you with my lyre."
+  },
+  {
+    "player_input": "Going to work?",
+    "npc_output": "Yes, I'm heading to the mine."
+  },
+  {
+    "player_input": "Can you bless me?",
+    "npc_output": "Of course, my child, I'll preach a blessing for you."
+  },
+  {
+    "player_input": "What's wrong?",
+    "npc_output": "I'm just angry, leave me alone."
+  },
+  {
+    "player_input": "Can I help?",
+    "npc_output": "Actually, I need to cook something, can you assist me?"
+  }
+]

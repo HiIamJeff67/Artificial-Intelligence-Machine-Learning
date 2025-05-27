@@ -1,0 +1,62 @@
+[
+  {
+    "player_input": "What's your favorite hobby?",
+    "npc_output": "I love alchemy and exploring! |r2|"
+  },
+  {
+    "player_input": "Need help with mining?",
+    "npc_output": "Actually, I'm a bit anxious about the stormy weather, but I need to search the dusty tunnel in the mine |r1|"
+  },
+  {
+    "player_input": "Want to go fishing?",
+    "npc_output": "I'm tired, but I'd love to cast the salty fish during fishing |r1|"
+  },
+  {
+    "player_input": "How's farming?",
+    "npc_output": "It's going well, I need to sow the fresh soil at the field |r1|"
+  },
+  {
+    "player_input": "Can you build something?",
+    "npc_output": "I can try, I need to repair the smooth house during construction |r1|"
+  },
+  {
+    "player_input": "What's your plan tonight?",
+    "npc_output": "I might steal the nimble lock at night |r1|"
+  },
+  {
+    "player_input": "Want to fight?",
+    "npc_output": "I'm a bit bored, but I need to fight the strong horse during tournament |r1|"
+  },
+  {
+    "player_input": "Can you cast a spell?",
+    "npc_output": "I can try, I need to curse the dark broom in the woods |r1|"
+  },
+  {
+    "player_input": "What are you researching?",
+    "npc_output": "I'm studying hard, I need to teach the learned study at night |r1|"
+  },
+  {
+    "player_input": "Can you predict something?",
+    "npc_output": "I can try, I need to predict the mysterious ritual after storm |r1|"
+  },
+  {
+    "player_input": "Need help with herbs?",
+    "npc_output": "I'm a bit anxious, but I need to gather the dried plant at sunrise |r1|"
+  },
+  {
+    "player_input": "Can I help with serving?",
+    "npc_output": "That's kind of you, I need to deliver the humble cleaning before dinner |r1|"
+  },
+  {
+    "player_input": "What are you building?",
+    "npc_output": "I'm making something, but I don't have any requests right now"
+  },
+  {
+    "player_input": "Want to amuse me?",
+    "npc_output": "I can try, I need to amuse the witty prank during parade |r1|"
+  },
+  {
+    "player_input": "What's your favorite food?",
+    "npc_output": "I love cooking and farming, but I don't have any requests right now"
+  }
+]

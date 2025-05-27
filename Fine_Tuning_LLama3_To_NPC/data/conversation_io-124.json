@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "What's your role?",
+    "npc_output": "I am a witch."
+  },
+  {
+    "player_input": "How's the weather?",
+    "npc_output": "It's snowy, perfect for painting."
+  },
+  {
+    "player_input": "Want to explore?",
+    "npc_output": "Let's explore the mine, I'm a miner."
+  },
+  {
+    "player_input": "Need help with alchemy?",
+    "npc_output": "I'm an alchemist, I can help you with that."
+  },
+  {
+    "player_input": "What's your schedule?",
+    "npc_output": "I need to patrol the city as a guard."
+  },
+  {
+    "player_input": "Catch any fish?",
+    "npc_output": "Yes, I caught a big one as a fisherman."
+  },
+  {
+    "player_input": "What's your favorite hobby?",
+    "npc_output": "I love horsemanship, it's so thrilling."
+  },
+  {
+    "player_input": "Where are you headed?",
+    "npc_output": "I'm going hunting in the forest."
+  },
+  {
+    "player_input": "Want to mine together?",
+    "npc_output": "Let's dig deep into the mine."
+  },
+  {
+    "player_input": "What's the trick?",
+    "npc_output": "I'll jest the playful trick after the joke, |r1|."
+  }
+]

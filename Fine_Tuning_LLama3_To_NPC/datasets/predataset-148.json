@@ -1,0 +1,583 @@
+[
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "85",
+      "name": "Wesley Ayers",
+      "role": "herbalist",
+      "moods": [
+        "excited"
+      ],
+      "interests": [
+        "alchemy",
+        "exploring",
+        "dancing",
+        "cooking",
+        "crafting"
+      ],
+      "playerRelationship": "49",
+      "gender": "male",
+      "personalities": [
+        "optimistic",
+        "diligent",
+        "eccentric"
+      ],
+      "requests": [
+        "Crush the fragrant tincture after rain",
+        "Mix the fresh flower at sunrise",
+        "Prescribe the rare root in the woods",
+        "Crush the fragrant remedy in the garden",
+        "Grow the rare potion in the garden",
+        "Dry the healing tincture during spring",
+        "Gather the wild remedy in the woods",
+        "Grow the fragrant flower during spring",
+        "Dry the dried balm in the garden",
+        "Identify the dried plant in the woods",
+        "Prescribe the rare root at sunrise"
+      ]
+    },
+    "environment_informations": {
+      "weather": "hot",
+      "time": "in the evening"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "34",
+      "name": "Alyssa Kemp",
+      "role": "scholar",
+      "moods": [
+        "bored",
+        "curious"
+      ],
+      "interests": [
+        "horsemanship"
+      ],
+      "playerRelationship": "46",
+      "gender": "female",
+      "personalities": [
+        "greedy"
+      ],
+      "requests": []
+    },
+    "environment_informations": {
+      "weather": "cloudy",
+      "time": "at noon"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "65",
+      "name": "Alex Cook",
+      "role": "fool",
+      "moods": [
+        "sad",
+        "hopeful",
+        "neutral"
+      ],
+      "interests": [
+        "dancing",
+        "reading",
+        "music",
+        "hunting"
+      ],
+      "playerRelationship": "23",
+      "gender": "female",
+      "personalities": [
+        "reckless",
+        "pessimistic",
+        "sarcastic",
+        "blunt"
+      ],
+      "requests": [
+        "Amuse the witty prank during parade"
+      ]
+    },
+    "environment_informations": {
+      "weather": "snowy",
+      "time": "in the morning"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "100",
+      "name": "Pamela Sherman",
+      "role": "scholar",
+      "moods": [
+        "excited"
+      ],
+      "interests": [
+        "alchemy"
+      ],
+      "playerRelationship": "71",
+      "gender": "male",
+      "personalities": [
+        "playful",
+        "moody",
+        "protective",
+        "diligent"
+      ],
+      "requests": [
+        "Translate the curious library before exam",
+        "Read the innovative study before exam",
+        "Write the wise manuscript after lecture",
+        "Teach the reserved book at night",
+        "Write the thoughtful debate at night",
+        "Record the learned manuscript during study",
+        "Translate the diligent book at night",
+        "Record the reserved study in the library",
+        "Research the ancient knowledge during study",
+        "Research the curious book during study",
+        "Teach the reserved knowledge in the library",
+        "Teach the wise library before exam",
+        "Write the reserved knowledge at night",
+        "Translate the reserved library during study",
+        "Translate the ancient study at night"
+      ]
+    },
+    "environment_informations": {
+      "weather": "stormy",
+      "time": "at midnight"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "63",
+      "name": "April Gonzalez",
+      "role": "cook",
+      "moods": [
+        "angry",
+        "anxious"
+      ],
+      "interests": [
+        "dancing",
+        "crafting",
+        "gambling",
+        "music",
+        "cooking"
+      ],
+      "playerRelationship": "48",
+      "gender": "male",
+      "personalities": [
+        "faithful",
+        "timid",
+        "materialistic"
+      ],
+      "requests": [
+        "Season the crispy dessert before feast",
+        "Cook the savory dessert after market",
+        "Prepare the fresh meal during festival",
+        "Season the sweet dessert at noon",
+        "Prepare the spicy ingredient after market",
+        "Chop the crispy recipe during festival",
+        "Chop the sweet feast during festival",
+        "Bake the sweet meal before feast",
+        "Prepare the tasty kitchen at noon",
+        "Serve the hot bread in the kitchen",
+        "Prepare the crispy meal after market",
+        "Cook the spicy dessert before feast",
+        "Prepare the crispy kitchen after market"
+      ]
+    },
+    "environment_informations": {
+      "weather": "snowy",
+      "time": "in the evening"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "84",
+      "name": "Katherine Morrison",
+      "role": "cook",
+      "moods": [
+        "tired"
+      ],
+      "interests": [
+        "sports",
+        "dancing",
+        "music",
+        "hunting"
+      ],
+      "playerRelationship": "18",
+      "gender": "female",
+      "personalities": [
+        "authoritative",
+        "pragmatic",
+        "vengeful",
+        "impatient"
+      ],
+      "requests": [
+        "Season the spicy meal at noon",
+        "Mix the fresh ingredient during festival",
+        "Serve the fresh bread after market",
+        "Serve the spicy dessert before feast",
+        "Prepare the tasty kitchen at noon"
+      ]
+    },
+    "environment_informations": {
+      "weather": "hail",
+      "time": "in the morning"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "42",
+      "name": "Linda Carter",
+      "role": "hunter",
+      "moods": [
+        "neutral",
+        "bored"
+      ],
+      "interests": [
+        "cooking",
+        "crafting",
+        "fishing",
+        "storytelling"
+      ],
+      "playerRelationship": "39",
+      "gender": "male",
+      "personalities": [
+        "sarcastic",
+        "reserved"
+      ],
+      "requests": [
+        "Shoot the sharp-eyed trap in the forest",
+        "Trap the silent camp during hunt",
+        "Track the rugged arrow before sunset",
+        "Trap the patient camp before sunset",
+        "Skin the wild fur in the forest",
+        "Shoot the sharp-eyed forest after rain",
+        "Trap the quick forest at dawn",
+        "Skin the rugged fur at dawn",
+        "Ambush the stealthy arrow before sunset",
+        "Hunt the skilled camp after rain",
+        "Camp the wild arrow in the forest",
+        "Stalk the wild arrow at dawn",
+        "Trap the stealthy forest before sunset",
+        "Shoot the silent animal after rain",
+        "Camp the rugged bow after rain"
+      ]
+    },
+    "environment_informations": {
+      "weather": "drizzle",
+      "time": "at dusk"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "30",
+      "name": "Sarah Ruiz",
+      "role": "tailor",
+      "moods": [
+        "happy",
+        "sad",
+        "hopeful"
+      ],
+      "interests": [
+        "exploring",
+        "storytelling",
+        "farming"
+      ],
+      "playerRelationship": "16",
+      "gender": "female",
+      "personalities": [
+        "innovative",
+        "ambitious",
+        "eccentric",
+        "dreamy"
+      ],
+      "requests": [
+        "Mend the elegant outfit in the shop",
+        "Design the embroidered fashion during fitting",
+        "Embroider the fitted fabric in the shop",
+        "Fit the elegant hat at noon",
+        "Design the fashionable needle during fitting",
+        "Cut the fashionable fashion before festival",
+        "Cut the elegant thread at noon",
+        "Mend the fine needle after delivery"
+      ]
+    },
+    "environment_informations": {
+      "weather": "drizzle",
+      "time": "during the festival"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "49",
+      "name": "Andrew Williams",
+      "role": "tailor",
+      "moods": [
+        "angry",
+        "sad"
+      ],
+      "interests": [
+        "fishing",
+        "horsemanship"
+      ],
+      "playerRelationship": "61",
+      "gender": "male",
+      "personalities": [
+        "curious",
+        "pessimistic",
+        "tactful",
+        "protective",
+        "patient"
+      ],
+      "requests": [
+        "Embroider the stylish outfit before festival",
+        "Stitch the fitted pattern after delivery",
+        "Sew the fitted fashion during fitting",
+        "Sew the fashionable needle after delivery",
+        "Sew the fine fabric after delivery",
+        "Mend the fashionable thread during fitting",
+        "Cut the fine fabric during fitting"
+      ]
+    },
+    "environment_informations": {
+      "weather": "windy",
+      "time": "in the afternoon"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "96",
+      "name": "Frank Parker",
+      "role": "fool",
+      "moods": [
+        "curious"
+      ],
+      "interests": [
+        "sports"
+      ],
+      "playerRelationship": "68",
+      "gender": "male",
+      "personalities": [
+        "adventurous",
+        "lazy",
+        "compassionate"
+      ],
+      "requests": [
+        "Jest the playful trick after joke",
+        "Mock the silly prank before sunset",
+        "Jest the loud dance at the festival"
+      ]
+    },
+    "environment_informations": {
+      "weather": "sunny",
+      "time": "in the afternoon"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "3",
+      "name": "Edward Lee DVM",
+      "role": "sailor",
+      "moods": [
+        "curious",
+        "excited",
+        "hopeful"
+      ],
+      "interests": [
+        "gardening",
+        "hunting",
+        "music",
+        "painting",
+        "dancing"
+      ],
+      "playerRelationship": "34",
+      "gender": "male",
+      "personalities": [
+        "protective",
+        "playful",
+        "meticulous"
+      ],
+      "requests": [
+        "Anchor the restless harbor on the ship",
+        "Repair the weathered ship on the ship"
+      ]
+    },
+    "environment_informations": {
+      "weather": "hail",
+      "time": "in the morning"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "33",
+      "name": "Victoria Hicks",
+      "role": "miner",
+      "moods": [
+        "anxious",
+        "sad",
+        "neutral"
+      ],
+      "interests": [
+        "gardening"
+      ],
+      "playerRelationship": "33",
+      "gender": "male",
+      "personalities": [
+        "indecisive"
+      ],
+      "requests": [
+        "Search the dusty tunnel in the mine",
+        "Dig the deep stone before sunset",
+        "Explore the dangerous helmet before sunset",
+        "Mine the rocky mine at dawn",
+        "Explore the hidden mine before sunset",
+        "Explore the deep helmet before sunset",
+        "Descend the tough stone in the mine",
+        "Descend the tough helmet before sunset",
+        "Extract the hidden tunnel before sunset",
+        "Haul the dusty tunnel at dawn",
+        "Dig the tough helmet during shift",
+        "Haul the dusty stone during shift",
+        "Descend the gritty pickaxe after cave-in"
+      ]
+    },
+    "environment_informations": {
+      "weather": "hail",
+      "time": "at midnight"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "11",
+      "name": "Mrs. Destiny Rice",
+      "role": "innkeeper",
+      "moods": [
+        "hopeful",
+        "anxious",
+        "excited"
+      ],
+      "interests": [
+        "gambling",
+        "dancing",
+        "alchemy"
+      ],
+      "playerRelationship": "95",
+      "gender": "male",
+      "personalities": [
+        "pragmatic",
+        "meticulous"
+      ],
+      "requests": [
+        "Clean the busy room before festival",
+        "Serve the welcoming feast after sunset",
+        "Pour the generous feast at the inn",
+        "Serve the generous drink in the evening"
+      ]
+    },
+    "environment_informations": {
+      "weather": "hail",
+      "time": "during the festival"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "45",
+      "name": "Christina Dean",
+      "role": "herbalist",
+      "moods": [
+        "bored",
+        "anxious"
+      ],
+      "interests": [
+        "storytelling",
+        "farming"
+      ],
+      "playerRelationship": "8",
+      "gender": "male",
+      "personalities": [
+        "diligent",
+        "humble",
+        "pessimistic"
+      ],
+      "requests": [
+        "Gather the dried plant at sunrise",
+        "Crush the fragrant remedy in the garden",
+        "Dry the medicinal plant at sunrise",
+        "Brew the medicinal flower in the woods",
+        "Identify the bitter herb in the garden",
+        "Grow the rare tincture in the woods",
+        "Grow the healing potion during spring",
+        "Mix the medicinal remedy during spring",
+        "Identify the fresh plant in the woods",
+        "Brew the rare potion during spring"
+      ]
+    },
+    "environment_informations": {
+      "weather": "hot",
+      "time": "in the morning"
+    },
+    "npc_output": ""
+  },
+  {
+    "player_input": "",
+    "npc_informations": {
+      "index": "70",
+      "name": "Shawn Nelson",
+      "role": "blacksmith",
+      "moods": [
+        "curious",
+        "excited",
+        "neutral"
+      ],
+      "interests": [
+        "storytelling",
+        "sports",
+        "alchemy"
+      ],
+      "playerRelationship": "31",
+      "gender": "male",
+      "personalities": [
+        "friendly",
+        "generous",
+        "compassionate"
+      ],
+      "requests": [
+        "Temper the strong anvil at the market",
+        "Sharpen the sharp anvil at the market",
+        "Forge the hot shield after battle",
+        "Melt the hot armor at the market",
+        "Hammer the heavy anvil in the forge",
+        "Forge the strong armor during festival",
+        "Forge the rusty weapon during festival",
+        "Hammer the hot forge during festival",
+        "Hammer the sharp forge at the market"
+      ]
+    },
+    "environment_informations": {
+      "weather": "stormy",
+      "time": "at noon"
+    },
+    "npc_output": ""
+  }
+]

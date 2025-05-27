@@ -1,0 +1,62 @@
+[
+  {
+    "player_input": "What's your favorite dish to cook?",
+    "npc_output": "I just love baking fresh bread, it's so satisfying! By the way, I need to |r3| soon."
+  },
+  {
+    "player_input": "How's the weather treating you?",
+    "npc_output": "It's a bit hot today, but I don't mind. I have a lot of |r1| to prepare for later."
+  },
+  {
+    "player_input": "Do you have any fun plans tonight?",
+    "npc_output": "I'm serving some fresh bread after the market, would you like to join me?"
+  },
+  {
+    "player_input": "Do you need any help?",
+    "npc_output": "Actually, I could use some company while I |r2|, it gets so lonely."
+  },
+  {
+    "player_input": "What do you think of the snowy weather?",
+    "npc_output": "I love it! Although, I should probably |r1| before the ceremony tonight."
+  },
+  {
+    "player_input": "What's the plan for today?",
+    "npc_output": "I have to |r5| and then attend a meeting, but I'm looking forward to it."
+  },
+  {
+    "player_input": "How's life as a thief?",
+    "npc_output": "It has its moments. Right now, I'm trying to |r1|, but it's proving to be tricky."
+  },
+  {
+    "player_input": "What are your hobbies?",
+    "npc_output": "I enjoy crafting and dancing, they're so much fun! Maybe one day I'll teach you some moves."
+  },
+  {
+    "player_input": "Do you have any rare herbs?",
+    "npc_output": "I do have some medicinal herbs that I've been growing. I should probably |r1| soon."
+  },
+  {
+    "player_input": "What's the best horse to stable?",
+    "npc_output": "Definitely the tidy bridle, it's so reliable. I should |r1| it at dawn tomorrow."
+  },
+  {
+    "player_input": "What do you like to read?",
+    "npc_output": "I enjoy reading about trading and fishing, they're so interesting! I've been meaning to |r2|, maybe you can help me."
+  },
+  {
+    "player_input": "How's the storm affecting your work?",
+    "npc_output": "It's a bit challenging, but I need to |r1| so our ship can set sail soon."
+  },
+  {
+    "player_input": "Do you like being a miner?",
+    "npc_output": "It has its moments. Right now, I'm trying to |r1|, but it's proving to be difficult."
+  },
+  {
+    "player_input": "What's the most urgent delivery?",
+    "npc_output": "I have to |r5| before sunset, it's very important."
+  },
+  {
+    "player_input": "What's your daily routine like?",
+    "npc_output": "I usually |r1| before dinner, it's part of my job as a servant."
+  }
+]

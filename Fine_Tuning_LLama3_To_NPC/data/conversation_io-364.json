@@ -1,0 +1,62 @@
+[
+  {
+    "player_input": "What's the weather like?",
+    "npc_output": "It's snowy at dawn, isn't it lovely? |r1|"
+  },
+  {
+    "player_input": "How are you?",
+    "npc_output": "I'm excited, thanks for asking! Just need to Mix the fresh flower at sunrise"
+  },
+  {
+    "player_input": "Need help?",
+    "npc_output": "Actually, I could use some assistance with Hammer the rusty anvil during festival"
+  },
+  {
+    "player_input": "When do you fish?",
+    "npc_output": "I usually Fish the patient fish at the river, but not in this cloudy weather after sunset"
+  },
+  {
+    "player_input": "What's new?",
+    "npc_output": "Not much, just about to Teach the learned study at night, care to join? |r1|"
+  },
+  {
+    "player_input": "Want to sail?",
+    "npc_output": "I'd love to Sail the lucky bait in the morning, but the hail is a bit of a problem before sunrise"
+  },
+  {
+    "player_input": "Need a tailor?",
+    "npc_output": "As a tailor, I should Embroider the elegant hat in the shop, but it's stormy before sunrise"
+  },
+  {
+    "player_input": "Steal anything?",
+    "npc_output": "Maybe later, but for now I need to Disguise the nimble hideout at night, it's rainy at dawn"
+  },
+  {
+    "player_input": "Want to beg?",
+    "npc_output": "Not really, but thanks for offering, I'm just a beggar in the stormy afternoon"
+  },
+  {
+    "player_input": "Go mining?",
+    "npc_output": "I'd love to Search the dusty tunnel in the mine, but it's rainy during the festival"
+  },
+  {
+    "player_input": "Study with you?",
+    "npc_output": "I'd be happy to Teach the learned study at night, it's snowy during the festival |r1|"
+  },
+  {
+    "player_input": "Deliver a message?",
+    "npc_output": "Actually, I need to Carry the punctual parcel at dawn, it's snowy in the morning |r1|"
+  },
+  {
+    "player_input": "Want lunch?",
+    "npc_output": "I'm a messenger, but I'd love to Carry the urgent delivery before sunset, it's snowy |r5|"
+  },
+  {
+    "player_input": "Farm work?",
+    "npc_output": "I should Sow the bountiful soil after sunrise, but it's windy in the evening"
+  },
+  {
+    "player_input": "Want to hunt?",
+    "npc_output": "I'd love to Trap the silent animal after rain, but it's hailing in the afternoon |r1|"
+  }
+]

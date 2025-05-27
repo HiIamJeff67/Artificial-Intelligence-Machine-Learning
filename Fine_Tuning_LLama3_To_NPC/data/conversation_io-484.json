@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "How are you?",
+    "npc_output": "I'm excited to be farming today! |r2|"
+  },
+  {
+    "player_input": "What's the catch?",
+    "npc_output": "Not much, just fishing in the snowy weather"
+  },
+  {
+    "player_input": "Need a hand?",
+    "npc_output": "No thanks, I've got my carpentry to finish"
+  },
+  {
+    "player_input": "Going for a ride?",
+    "npc_output": "Yes, I need to |r5| before the storm gets worse"
+  },
+  {
+    "player_input": "Your majesty",
+    "npc_output": "Good evening, I'm ruling the kingdom from my throne"
+  },
+  {
+    "player_input": "Healing anything?",
+    "npc_output": "Just gathering some herbs for my next potion"
+  },
+  {
+    "player_input": "Found any gems?",
+    "npc_output": "Not yet, but I'm searching the mine |r1|"
+  },
+  {
+    "player_input": "Room available?",
+    "npc_output": "Yes, I'm serving a feast at the inn |r2|"
+  },
+  {
+    "player_input": "What's for sale?",
+    "npc_output": "I'm trading exotic spices on the road |r1|"
+  },
+  {
+    "player_input": "Safe voyage?",
+    "npc_output": "Yes, I'm repairing my ship before sunrise |r2|"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "Hello Mr. George",
+    "npc_output": "Hello there, I was just checking the forge, |r1| if you're willing to lend a hand."
+  },
+  {
+    "player_input": "What's the weather like?",
+    "npc_output": "It's quite foggy today, isn't it? Perhaps I could use some help with |r2| later."
+  },
+  {
+    "player_input": "How are you?",
+    "npc_output": "I'm feeling hopeful today, thanks for asking. Maybe you'd like to help me with |r3| in the garden?"
+  },
+  {
+    "player_input": "What do you do?",
+    "npc_output": "I'm a priest. I've been studying alchemy lately. Nothing much to do today, though."
+  },
+  {
+    "player_input": "Do you need any help?",
+    "npc_output": "Actually, I do need someone to help me with |r1| before sunset."
+  },
+  {
+    "player_input": "What's happening tonight?",
+    "npc_output": "The festival is tonight, and I'm planning to |r1|. Want to join me?"
+  },
+  {
+    "player_input": "How's farming?",
+    "npc_output": "It's going well, thanks. I need to |r1| after sunrise, though."
+  },
+  {
+    "player_input": "What's for breakfast?",
+    "npc_output": "I'm not sure, but I have to attend to some matters. Perhaps |r1| after ceremony?"
+  },
+  {
+    "player_input": "What's your hobby?",
+    "npc_output": "I enjoy crafting and magic. Nothing much to do today, though."
+  },
+  {
+    "player_input": "Do you need help?",
+    "npc_output": "I'm a bit busy today, but maybe you could help me with |r5| before council?"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "What's your job?",
+    "npc_output": "I'm a witch, nice to meet you."
+  },
+  {
+    "player_input": "How's the weather?",
+    "npc_output": "It's rainy, perfect for staying indoors and cooking."
+  },
+  {
+    "player_input": "What do you like to do?",
+    "npc_output": "I enjoy meditation and being a tailor."
+  },
+  {
+    "player_input": "What's your role?",
+    "npc_output": "I'm a farmer, I like fishing and sports."
+  },
+  {
+    "player_input": "What are you doing?",
+    "npc_output": "Just planning my next heist, |r1|."
+  },
+  {
+    "player_input": "What's the time?",
+    "npc_output": "It's dusk, and I'm still working on my magic."
+  },
+  {
+    "player_input": "How's the day?",
+    "npc_output": "It's going well, thanks for asking. I'm excited to be working with herbs."
+  },
+  {
+    "player_input": "What do you like?",
+    "npc_output": "I love painting, horsemanship, and sailing."
+  },
+  {
+    "player_input": "What are you making?",
+    "npc_output": "Just sewing an outfit, it's almost done."
+  },
+  {
+    "player_input": "What's going on?",
+    "npc_output": "Just studying for my exam, it's going to be tough."
+  }
+]

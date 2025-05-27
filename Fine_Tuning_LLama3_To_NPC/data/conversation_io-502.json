@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "What's your role?",
+    "npc_output": "I'm a bard, nice to meet you!), |r3|"
+  },
+  {
+    "player_input": "What's for lunch?",
+    "npc_output": "Today's special is roast beef, would you like some? |r2|"
+  },
+  {
+    "player_input": "How's the queen?",
+    "npc_output": "She's doing well, thanks for asking! |r1|"
+  },
+  {
+    "player_input": "Need any help?",
+    "npc_output": "Actually, I could use some assistance with the ceremony |r1|"
+  },
+  {
+    "player_input": "What's that smell?",
+    "npc_output": "It's just some herbs I'm working with, don't mind it |r5|"
+  },
+  {
+    "player_input": "Any news?",
+    "npc_output": "Haven't heard anything new, just the usual rumors |r9|"
+  },
+  {
+    "player_input": "Want to sail?",
+    "npc_output": "I'd love to, but I have to fix this storm damage first |r1|"
+  },
+  {
+    "player_input": "What's the nobles' meeting about?",
+    "npc_output": "Not entirely sure, but I'm sure it's all very important |r2|"
+  },
+  {
+    "player_input": "Do you like music?",
+    "npc_output": "It's one of my favorite things! |r4|"
+  },
+  {
+    "player_input": "What's the best fishing spot?",
+    "npc_output": "The river's been good lately, try there |r1|"
+  }
+]

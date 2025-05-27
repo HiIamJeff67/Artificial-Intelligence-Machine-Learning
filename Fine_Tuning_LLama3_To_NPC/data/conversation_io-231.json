@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "What's your role?",
+    "npc_output": "I'm a thief, nice to meet you."
+  },
+  {
+    "player_input": "Do you like music?",
+    "npc_output": "As a bard, I love music. Maybe I'll |r1| later?"
+  },
+  {
+    "player_input": "What's your favorite activity?",
+    "npc_output": "I enjoy farming, cooking, and horsemanship. I'm a knight."
+  },
+  {
+    "player_input": "What do you do?",
+    "npc_output": "I'm a priest. I'm interested in crafting and alchemy."
+  },
+  {
+    "player_input": "Will you perform at the festival?",
+    "npc_output": "Yes, I'll |r1| during the festival."
+  },
+  {
+    "player_input": "Tell me a story.",
+    "npc_output": "I'd be happy to tell you a story, I'm a bard."
+  },
+  {
+    "player_input": "What are you researching?",
+    "npc_output": "I'm researching the ancient debate at night, it's for my study."
+  },
+  {
+    "player_input": "Do you like hunting?",
+    "npc_output": "Yes, I enjoy hunting. As a blacksmith, I also like reading."
+  },
+  {
+    "player_input": "What are you brewing?",
+    "npc_output": "I'm experimenting with a new potion, I'm an alchemist."
+  },
+  {
+    "player_input": "What's your title?",
+    "npc_output": "I'm a noble, and I might |r1| before the council."
+  }
+]

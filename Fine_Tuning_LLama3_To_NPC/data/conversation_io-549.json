@@ -1,0 +1,43 @@
+[
+  {
+    "player_input": "What's your name?",
+    "npc_output": "I'm Thomas Riley, nice to meet you."
+  },
+  {
+    "player_input": "What are you doing up so early?",
+    "npc_output": "Just getting ready for a hunt, want to come along? |r1|"
+  },
+  {
+    "player_input": "How's the carpentry business?",
+    "npc_output": "It's going well, been getting a lot of requests for custom furniture, like |r4|."
+  },
+  {
+    "player_input": "What brings you out here today?",
+    "npc_input": "",
+    "npc_output": "Just begging for some food, been a tough day, maybe you can help me with |r9|."
+  },
+  {
+    "player_input": "Do you like being a hunter?",
+    "npc_output": "It's a tough job but someone's gotta do it, and I'm good at tracking like |r1|."
+  },
+  {
+    "player_input": "What do you like to do for fun?",
+    "npc_output": "I enjoy serving at the manor, but I also love to paint and tell stories, want to hear one?"
+  },
+  {
+    "player_input": "What kind of herbs do you specialize in?",
+    "npc_output": "I'm knowledgeable about all sorts, but my favorite is the fresh herb, I can |r1| if you'd like."
+  },
+  {
+    "player_input": "What's it like being an apprentice?",
+    "npc_output": "It's challenging, but I'm learning a lot, and my mentor is great, maybe one day I'll master |r1|."
+  },
+  {
+    "player_input": "Have you ever been caught?",
+    "npc_output": "A few times, but I'm quick, can |r2| like a pro."
+  },
+  {
+    "player_input": "What's your favorite plant to grow?",
+    "npc_output": "I love growing the healing plant, it's so useful, and I can |r1| during spring."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "What's wrong?",
+    "npc_output": "I'm just feeling a bit sad and bored, to be honest. |r1|"
+  },
+  {
+    "player_input": "How's it going?",
+    "npc_output": "Not great, the weather is drizzle and it's getting dark. I was thinking of |r3|"
+  },
+  {
+    "player_input": "Need help with anything?",
+    "npc_output": "Actually, I could use some assistance with |r5|. It's almost time for the festival"
+  },
+  {
+    "player_input": "What are you doing?",
+    "npc_output": "Just experimenting with some potions. Maybe I'll |r2| later"
+  },
+  {
+    "player_input": "Want to study together?",
+    "npc_output": "That sounds great! I was thinking of |r4|. Let's get started"
+  },
+  {
+    "player_input": "Be careful out there",
+    "npc_output": "Don't worry, I'll be fine. I have to |r1| before dawn"
+  },
+  {
+    "player_input": "How's the ceremony going?",
+    "npc_output": "It's going well, thanks. I need to |r9| soon"
+  },
+  {
+    "player_input": "Want to go fishing?",
+    "npc_output": "Not now, I have to |r3|. Maybe some other time"
+  },
+  {
+    "player_input": "Need any new clothes?",
+    "npc_output": "Actually, I was thinking of getting a new outfit. |r2| sounds like a good idea"
+  },
+  {
+    "player_input": "Where are you headed?",
+    "npc_output": "I'm on my way to |r10|. Care to join me?"
+  }
+]

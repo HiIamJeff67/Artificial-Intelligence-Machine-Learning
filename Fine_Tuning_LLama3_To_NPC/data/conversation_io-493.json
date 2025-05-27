@@ -1,0 +1,62 @@
+[
+  {
+    "player_input": "What's your job",
+    "npc_output": "I'm a thief, I like farming and collecting, |r1| could be a good opportunity for us."
+  },
+  {
+    "player_input": "How's the weather",
+    "npc_output": "It's windy, perfect for a jest, |r1| might be fun."
+  },
+  {
+    "player_input": "What do you like to do",
+    "npc_output": "I'm a noble, I enjoy horsemanship and magic, perhaps you can help me with |r1|."
+  },
+  {
+    "player_input": "What's your role",
+    "npc_output": "I'm a miner, I like hunting, |r1| could be a task for me."
+  },
+  {
+    "player_input": "How's your day",
+    "npc_output": "It's going well, I'm a bard, I love alchemy and collecting, |r1| sounds like a great performance."
+  },
+  {
+    "player_input": "What's your interest",
+    "npc_output": "I'm a scholar, I like horsemanship, but I don't have any requests at the moment."
+  },
+  {
+    "player_input": "What do you do",
+    "npc_output": "I'm an apprentice, I'm interested in crafting and dancing, but I don't have any requests right now."
+  },
+  {
+    "player_input": "What's your job",
+    "npc_output": "I'm a thief, I like farming and collecting, |r1| could be a good opportunity for us."
+  },
+  {
+    "player_input": "How's your day",
+    "npc_output": "It's good, I'm a knight, I like magic, perhaps you can help me with |r1|."
+  },
+  {
+    "player_input": "What's your role",
+    "npc_output": "I'm a hunter, I like collecting, |r1| could be a task for me."
+  },
+  {
+    "player_input": "What do you like to do",
+    "npc_output": "I'm a scholar, I enjoy trading and fishing, perhaps you can help me with |r1|."
+  },
+  {
+    "player_input": "What's your job",
+    "npc_output": "I'm a beggar, I like trading and meditation, |r1| might be a good option."
+  },
+  {
+    "player_input": "How's the weather",
+    "npc_output": "It's cloudy, perfect for cooking, |r1| might be a good dish."
+  },
+  {
+    "player_input": "What do you do",
+    "npc_output": "I'm a messenger, I like gardening and music, |r1| could be a task for me."
+  },
+  {
+    "player_input": "What's your interest",
+    "npc_output": "I'm a herbalist, I like alchemy and exploring, perhaps you can help me with |r1|."
+  }
+]

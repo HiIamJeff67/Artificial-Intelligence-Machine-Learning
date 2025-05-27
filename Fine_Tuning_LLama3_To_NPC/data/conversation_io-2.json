@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "What's your plan for tonight?",
+    "npc_output": "I'm planning to distill the magical formula before sunrise, |r1|, can you help me?"
+  },
+  {
+    "player_input": "What brings you out here?",
+    "npc_output": "Just getting some fresh air before sunrise, the foggy weather is nice for a change"
+  },
+  {
+    "player_input": "Do you think it's a good night for a fight?",
+    "npc_output": "Not really, it's windy and dark, but if you want to |r1|, I'm in"
+  },
+  {
+    "player_input": "Need any help?",
+    "npc_output": "Actually, I was thinking of amusing the crowd with a witty prank during parade, |r1|"
+  },
+  {
+    "player_input": "What's cooking?",
+    "npc_output": "Just preparing for the feast, need to season the crispy dessert before it starts"
+  },
+  {
+    "player_input": "Any new discoveries?",
+    "npc_output": "Not yet, but I'm hoping to gather some rare plants at sunrise, |r1|"
+  },
+  {
+    "player_input": "Tough day?",
+    "npc_output": "Yeah, this hail is making it hard to find hope, maybe I'll just wander the lonely shelter during festival, |r1|"
+  },
+  {
+    "player_input": "What's the plan for this afternoon?",
+    "npc_output": "Just the usual, trying to amuse the crowd with a witty prank, |r1|"
+  },
+  {
+    "player_input": "Ready for the harvest?",
+    "npc_output": "Almost, just need to plant the healthy vegetable during harvest, |r1|"
+  },
+  {
+    "player_input": "Big plans for the day?",
+    "npc_output": "Yeah, attending to some noble duties, and maybe commanding the arrogant invitation during banquet, |r2|"
+  }
+]

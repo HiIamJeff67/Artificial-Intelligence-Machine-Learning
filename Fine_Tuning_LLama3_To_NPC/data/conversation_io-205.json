@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "What are you doing so early?",
+    "npc_output": "Just getting ready for the day, trying to avoid the windy weather. |r1|"
+  },
+  {
+    "player_input": "Why are you out at midnight?",
+    "npc_output": "I'm on a mission to |r2|, don't mind me."
+  },
+  {
+    "player_input": "Any news to share?",
+    "npc_output": "Actually, I need to |r1|, it's urgent."
+  },
+  {
+    "player_input": "What's on your mind?",
+    "npc_output": "I'm just thinking about my tasks, like |r1|, but also considering |r5|."
+  },
+  {
+    "player_input": "Nice day for business?",
+    "npc_output": "Yes, I'm hoping to |r2| and make some good deals."
+  },
+  {
+    "player_input": "Time for a ceremony?",
+    "npc_output": "Indeed, I must |r1| and prepare for it."
+  },
+  {
+    "player_input": "Planning to mine today?",
+    "npc_output": "Yes, I'll be |r1|, wish me luck."
+  },
+  {
+    "player_input": "Gathering herbs?",
+    "npc_output": "Just |r1| before the sun rises, it's the best time."
+  },
+  {
+    "player_input": "Sailing today?",
+    "npc_output": "After docking, I'll |r1| and then head out."
+  },
+  {
+    "player_input": "What's your role?",
+    "npc_output": "I'm a witch, and I need to |r1|, it's a delicate process."
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "player_input": "What's your expertise as an herbalist?",
+    "npc_output": "I'm excited to share my knowledge of alchemy and crafting with you, perhaps I can even |r2| soon."
+  },
+  {
+    "player_input": "How's the kingdom?",
+    "npc_output": "It's a bit drizzly outside, but I'm feeling neutral about it, my king duties are never done, including |r1|."
+  },
+  {
+    "player_input": "What brings you out so late?",
+    "npc_output": "The sunny weather at midnight is perfect for casting spells, maybe I'll |r2| later."
+  },
+  {
+    "player_input": "What do you like to do?",
+    "npc_output": "I'm excited about cooking and farming, unfortunately I don't have any requests for you right now."
+  },
+  {
+    "player_input": "Do you have any goods to sell?",
+    "npc_output": "It's hot and almost dusk, perfect time to |r1|, care to take a look?"
+  },
+  {
+    "player_input": "How's your night going?",
+    "npc_output": "A bit tired and windy, but I'm on patrol, making sure the gate is secure, just doing my job to |r3|."
+  },
+  {
+    "player_input": "Do you have any urgent messages?",
+    "npc_output": "It's stormy and evening, I need to |r1|, can you help me?"
+  },
+  {
+    "player_input": "Want to perform a song?",
+    "npc_output": "It's hailing in the morning, but I'd love to |r1| for you."
+  },
+  {
+    "player_input": "How's the festival going?",
+    "npc_output": "It's snowy and festive, but as a guard, I must |r5|, care to join me?"
+  },
+  {
+    "player_input": "What are you studying?",
+    "npc_output": "I'm a bit tired, but hopeful, and I'm reading about trading and fishing, maybe I'll |r1| later."
+  },
+  {
+    "player_input": "What's your prediction?",
+    "npc_output": "I'm feeling curious and a bit angry, but I sense something, let me |r1| for you."
+  },
+  {
+    "player_input": "What's your area of expertise?",
+    "npc_output": "I'm hopeful and neutral, and I've been researching trading and fishing, perhaps I can |r2| soon."
+  },
+  {
+    "player_input": "Do you need any help?",
+    "npc_output": "It's drizzly at midnight, and as a beggar, I could use some hope, maybe you can help me |r1|."
+  },
+  {
+    "player_input": "What do you need?",
+    "npc_output": "It's drizzly at dawn, and I'm hoping for a blanket, can you help me |r14|?"
+  },
+  {
+    "player_input": "What's for dinner?",
+    "npc_output": "It's cloudy at midnight, but I'm cooking up something tasty, maybe I'll |r1| for you."
+  }
+]

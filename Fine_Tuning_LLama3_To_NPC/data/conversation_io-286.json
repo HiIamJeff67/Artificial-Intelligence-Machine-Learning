@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "What's the weather like?",
+    "npc_output": "It's foggy outside, be careful."
+  },
+  {
+    "player_input": "Hi, how are you?",
+    "npc_output": "I'm neutral, thanks for asking."
+  },
+  {
+    "player_input": "What's your role?",
+    "npc_output": "I'm a thief, and I'm feeling a bit bored and tired today."
+  },
+  {
+    "player_input": "Do you need help with anything?",
+    "npc_output": "Actually, I need to |r1| after delivery, can you help me with that?"
+  },
+  {
+    "player_input": "What do you do?",
+    "npc_output": "I'm a merchant, I trade goods on the road."
+  },
+  {
+    "player_input": "How's your day?",
+    "npc_output": "It's been tiring so far, but I have to |r1| at noon."
+  },
+  {
+    "player_input": "What brings you here?",
+    "npc_output": "Just enjoying the cloudy weather, it's a nice change."
+  },
+  {
+    "player_input": "Can I help you?",
+    "npc_output": "No thanks, I'm just trying to |r1| in the city."
+  },
+  {
+    "player_input": "What's your specialty?",
+    "npc_output": "I'm a witch, I can |r1| at midnight if you need it."
+  },
+  {
+    "player_input": "Do you have any requests?",
+    "npc_output": "Actually, I need to |r1| after rain, can you help me?"
+  }
+]

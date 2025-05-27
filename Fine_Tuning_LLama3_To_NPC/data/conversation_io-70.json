@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "What's your favorite fish to catch",
+    "npc_output": "I love catching the salty fish, |r1|"
+  },
+  {
+    "player_input": "Need help with work",
+    "npc_output": "I'm sharpening my tools, want to help with |r2|"
+  },
+  {
+    "player_input": "I'm bored, what to do",
+    "npc_output": "Let's go fishing, I need to |r1|"
+  },
+  {
+    "player_input": "Want to collect something",
+    "npc_output": "I'm collecting rare items, maybe we can |r9| together"
+  },
+  {
+    "player_input": "Hungry, what's to eat",
+    "npc_output": "I'm preparing a meal, maybe you can help with |r4|"
+  },
+  {
+    "player_input": "Lost something, need help",
+    "npc_output": "Don't worry, I can help you find it, or maybe we can |r11|"
+  },
+  {
+    "player_input": "What's your favorite food",
+    "npc_output": "I love fresh bread, want to help me |r3|"
+  },
+  {
+    "player_input": "Time for a festival, what to do",
+    "npc_output": "Let's join the parade, I need to |r6|"
+  },
+  {
+    "player_input": "Need help with errands",
+    "npc_output": "I have a few tasks, want to help with |r4|"
+  },
+  {
+    "player_input": "Going on a quest, need tips",
+    "npc_output": "Be careful, and don't forget to |r1|"
+  }
+]

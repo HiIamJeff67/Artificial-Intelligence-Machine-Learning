@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "Hi, what's your job?",
+    "npc_output": "I'm a blacksmith, nice to meet you! I was thinking of tempering the strong anvil at the market, |r1|, would you like to help?"
+  },
+  {
+    "player_input": "How's the festival going?",
+    "npc_output": "It's a bit too snowy for my taste, but I'm sure the festivities will be fun. Maybe I'll attend the proud debt before council, |r1|, later."
+  },
+  {
+    "player_input": "Do you like gardening?",
+    "npc_output": "Yes, I love it! Maybe I'll plow the abundant soil after sunrise, |r1|, tomorrow."
+  },
+  {
+    "player_input": "What's the weather like?",
+    "npc_output": "It's quite foggy, isn't it? I hope it clears up soon so I can navigate the strong map after docking, |r3|."
+  },
+  {
+    "player_input": "What's your favorite hobby?",
+    "npc_output": "I love magic and gardening! Maybe I'll host the graceful court at the palace, |r1|, soon."
+  },
+  {
+    "player_input": "Do you like sailing?",
+    "npc_output": "Yes, it's my job! I need to load the strong storm before voyage, |r5|, soon."
+  },
+  {
+    "player_input": "What kind of music do you like?",
+    "npc_output": "I love all kinds! Maybe I'll play the charming performance during festival, |r1|, later."
+  },
+  {
+    "player_input": "What's for dinner?",
+    "npc_output": "I'm not sure, but maybe I'll bake the fresh bread before feast, |r3|, later."
+  },
+  {
+    "player_input": "Do you like blacksmithing?",
+    "npc_output": "Yes, it's my job! I need to melt the heavy forge in the forge, |r1|, soon."
+  },
+  {
+    "player_input": "What's the plan for the festival?",
+    "npc_output": "I'm not sure, but maybe I'll wander the lonely shelter during festival, |r1|, later."
+  }
+]

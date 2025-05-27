@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "What's your role?",
+    "npc_output": "I'm a sailor, nice to meet you!"
+  },
+  {
+    "player_input": "How are you?",
+    "npc_output": "I'm happy, thanks for asking!"
+  },
+  {
+    "player_input": "Need any help?",
+    "npc_output": "Actually, could you help me with |r2|?"
+  },
+  {
+    "player_input": "Hello!",
+    "npc_output": "Hi there, beautiful day isn't it?"
+  },
+  {
+    "player_input": "What's wrong?",
+    "npc_output": "Just a bit excited, don't mind me!"
+  },
+  {
+    "player_input": "Want to talk?",
+    "npc_output": "Sure, I love talking about farming!"
+  },
+  {
+    "player_input": "How's the hunt?",
+    "npc_output": "It's going great, thanks for asking! |r1| soon!"
+  },
+  {
+    "player_input": "What's your favorite music?",
+    "npc_output": "I love all kinds of music, especially when played on the lyre!"
+  },
+  {
+    "player_input": "Need assistance?",
+    "npc_output": "No thanks, I'm good. Just enjoying the sunny day!"
+  },
+  {
+    "player_input": "What's new?",
+    "npc_output": "Not much, just got back from a long delivery. |r1| was a success!"
+  }
+]

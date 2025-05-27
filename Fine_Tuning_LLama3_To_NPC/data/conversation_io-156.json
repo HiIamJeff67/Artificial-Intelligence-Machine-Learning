@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "What's your job?",
+    "npc_output": "I'm a servant, |r1| is my current task."
+  },
+  {
+    "player_input": "How's the weather?",
+    "npc_output": "It's stormy, I need to |r2| soon."
+  },
+  {
+    "player_input": "What do you do?",
+    "npc_output": "I'm a blacksmith, I can |r1| for you."
+  },
+  {
+    "player_input": "What's your hobby?",
+    "npc_output": "I like storytelling, maybe I can |r1| for you."
+  },
+  {
+    "player_input": "What's your role?",
+    "npc_output": "I'm a witch, I can |r1| if you want."
+  },
+  {
+    "player_input": "How's your work?",
+    "npc_output": "It's going well, I need to |r1| soon."
+  },
+  {
+    "player_input": "What do you like?",
+    "npc_output": "I like gardening, it's fun to |r1|."
+  },
+  {
+    "player_input": "What's your job?",
+    "npc_output": "I'm a hunter, I can |r1| for you."
+  },
+  {
+    "player_input": "What's the weather like?",
+    "npc_output": "It's hail, I need to |r1| soon."
+  },
+  {
+    "player_input": "What do you do?",
+    "npc_output": "I'm a thief, I can |r1| for you."
+  }
+]

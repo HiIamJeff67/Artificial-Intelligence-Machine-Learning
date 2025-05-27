@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "What's wrong?",
+    "npc_output": "I'm just feeling a bit sad and anxious, it's been a long day of hunting in this rainy weather. |r1|"
+  },
+  {
+    "player_input": "How's fishing?",
+    "npc_output": "It's been great, I caught a lot of fish today, but I still need to |r2|"
+  },
+  {
+    "player_input": "What's for breakfast?",
+    "npc_output": "I'm making some fresh bread, would you like some? Maybe I'll even |r3|"
+  },
+  {
+    "player_input": "Do you have any news?",
+    "npc_output": "Yes, I have to |r1|, it's very urgent"
+  },
+  {
+    "player_input": "Can you help me?",
+    "npc_output": "I'd be happy to assist you, I just need to |r2| first"
+  },
+  {
+    "player_input": "What's the ceremony about?",
+    "npc_output": "It's a holy ceremony, and I need to |r1| to make it successful"
+  },
+  {
+    "player_input": "Can I help with farming?",
+    "npc_output": "That would be great, we need to |r1| as soon as possible"
+  },
+  {
+    "player_input": "Do you have any deliveries?",
+    "npc_output": "Yes, I have a |r3| that I need to make today"
+  },
+  {
+    "player_input": "What's new with herbalism?",
+    "npc_output": "I'm working on a new remedy, and I need to |r1| to make it work"
+  },
+  {
+    "player_input": "What's going on at the estate?",
+    "npc_output": "We're preparing for a ceremony, and I need to |r1| before it starts"
+  }
+]

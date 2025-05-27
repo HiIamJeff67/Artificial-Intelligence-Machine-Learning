@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "What's the weather like today?",
+    "npc_output": "It's stormy outside, let's just stay here and talk about crafting, I love making new things."
+  },
+  {
+    "player_input": "How's your day going?",
+    "npc_output": "It's okay, I'm a bit angry and sad, but I was thinking of going fishing later, want to join me? |r1|"
+  },
+  {
+    "player_input": "Do you like hunting?",
+    "npc_output": "Yes, I do, but I'm feeling a bit sad and anxious today, maybe we can talk about meditation or music instead?"
+  },
+  {
+    "player_input": "What are you doing tonight?",
+    "npc_output": "I'm planning to cook something, it's going to be a stormy night, want to help me in the kitchen?"
+  },
+  {
+    "player_input": "Do you like crafting?",
+    "npc_output": "Yes, I love crafting and alchemy, let's talk about that, I've been working on a new project."
+  },
+  {
+    "player_input": "Where are you from?",
+    "npc_output": "I'm a sailor, I've been to many places, but I love the sea, have you ever been on a ship?"
+  },
+  {
+    "player_input": "What's for breakfast?",
+    "npc_output": "I'm cooking something, it's going to be delicious, |r1|, want to try some?"
+  },
+  {
+    "player_input": "What do you like to do?",
+    "npc_output": "I love music, alchemy, and painting, want to see my artwork?"
+  },
+  {
+    "player_input": "How's your day?",
+    "npc_output": "It's going well, I'm feeling a bit bored, but I'm planning to host a party, want to come? |r1|"
+  },
+  {
+    "player_input": "What's your job?",
+    "npc_output": "I'm a king, it's a big responsibility, but I love my kingdom, |r5|, want to help me with something?"
+  }
+]

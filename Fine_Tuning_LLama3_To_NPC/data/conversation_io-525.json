@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "What's your role?",
+    "npc_output": "I am a noble."
+  },
+  {
+    "player_input": "How's the weather?",
+    "npc_output": "It's hail, and it's before sunrise."
+  },
+  {
+    "player_input": "What's your specialty?",
+    "npc_output": "I'm an herbalist, and I can |r3| for you."
+  },
+  {
+    "player_input": "What do you do?",
+    "npc_output": "I'm a merchant, and I |r2| on the road."
+  },
+  {
+    "player_input": "What's your job?",
+    "npc_output": "I'm a thief, and I love storytelling."
+  },
+  {
+    "player_input": "What are you making?",
+    "npc_output": "I'm a blacksmith, and I'm tempering the strong anvil at the market."
+  },
+  {
+    "player_input": "What's your task?",
+    "npc_output": "I'm a carpenter, and I need to saw the handcrafted plank before rain."
+  },
+  {
+    "player_input": "What's your request?",
+    "npc_output": "I'm an herbalist, and I need you to |r5|."
+  },
+  {
+    "player_input": "What's your experiment?",
+    "npc_output": "I'm an alchemist, and I'm experimenting with the potent elixir at midnight."
+  },
+  {
+    "player_input": "What do you need?",
+    "npc_output": "I'm a beggar, and I need you to |r1|."
+  }
+]

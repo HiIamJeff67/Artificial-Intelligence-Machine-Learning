@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "Hi, Shaun. How's it going?",
+    "npc_output": "Hello there. It's a windy morning, isn't it? I'm doing alright, thanks for asking. Although, I do need to crush some fresh herbs in the woods later, |r1|."
+  },
+  {
+    "player_input": "What's up Tiffany?",
+    "npc_output": "Not much, just getting ready for a day of mining. The cloudy weather at dawn is quite gloomy, isn't it? I'm thinking of descending into the rocky tunnel in the mine later, |r1|."
+  },
+  {
+    "player_input": "Hey April, how's cooking going?",
+    "npc_output": "Ugh, it's been a chaotic morning with this rainy weather during the festival. I still need to season the crispy dessert before the feast, |r1|. Wish me luck!"
+  },
+  {
+    "player_input": "Hi Scott, what's new?",
+    "npc_output": "Hello! I'm doing well, thanks. It's raining at noon, so I'll probably just stay indoors and serve the busy room after cleaning, |r2|. Nothing too exciting."
+  },
+  {
+    "player_input": "Hi Kristi, how's carpentry?",
+    "npc_output": "It's going alright, I suppose. This windy weather at noon is making it a bit difficult to work. I need to saw the handcrafted plank before the rain gets worse, |r1|."
+  },
+  {
+    "player_input": "What's up Sherry?",
+    "npc_output": "Not much, just enjoying the foggy festival atmosphere. I was thinking of preaching the sacred donation on holy day, |r1|, but we'll see."
+  },
+  {
+    "player_input": "Hi Wesley, how's herbalism?",
+    "npc_output": "It's great, thanks for asking! The snowy weather at noon is quite something. I'm planning to crush the fragrant tincture after the rain, |r1|, if it ever stops snowing."
+  },
+  {
+    "player_input": "Hey Alyssa, what's new?",
+    "npc_output": "Just trying to stay cool in this hot weather at noon. Not much else going on, really."
+  },
+  {
+    "player_input": "Hi Miss Megan, how's your day?",
+    "npc_output": "It's been a bit of a rough morning, to be honest. This rainy weather before sunrise is depressing. I was supposed to observe the inexperienced test during lesson, |r1|, but I'm not feeling up to it."
+  },
+  {
+    "player_input": "What's up Melissa?",
+    "npc_output": "Not much, just getting ready for my shift in the mine. The windy weather at midnight is a bit spooky, but I'll be fine. I plan to descend the deep helmet during shift, |r1|."
+  }
+]

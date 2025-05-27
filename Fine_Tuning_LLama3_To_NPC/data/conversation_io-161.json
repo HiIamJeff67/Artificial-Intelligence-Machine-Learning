@@ -1,0 +1,62 @@
+[
+  {
+    "player_input": "What's up Robert?",
+    "npc_output": "Not much, just trying to |r3|, want to help?"
+  },
+  {
+    "player_input": "Why so sad Cynthia?",
+    "npc_output": "Just |r1|, it's been a tough day"
+  },
+  {
+    "player_input": "Hi Pamela, what's new?",
+    "npc_output": "Just |r1|, almost done with my research"
+  },
+  {
+    "player_input": "Regina, what's your plan?",
+    "npc_output": "I'm thinking of |r1| tonight"
+  },
+  {
+    "player_input": "How's business Matthew?",
+    "npc_output": "It's going well, just |r1| for the customer"
+  },
+  {
+    "player_input": "How can I assist you Scott?",
+    "npc_output": "I need help with |r1| before dinner"
+  },
+  {
+    "player_input": "What's the news Diane?",
+    "npc_output": "Haven't you heard? I need to |r1| to the other side"
+  },
+  {
+    "player_input": "What are you reading Alyssa?",
+    "npc_output": "Just a book on horsemanship, nothing much"
+  },
+  {
+    "player_input": "What's brewing Shaun?",
+    "npc_output": "Trying to |r1|, want to take a look?"
+  },
+  {
+    "player_input": "Michelle, what's the plan?",
+    "npc_output": "We should |r1|, don't you think?"
+  },
+  {
+    "player_input": "What's the hurry Alexis?",
+    "npc_output": "I need to |r1| before it gets late"
+  },
+  {
+    "player_input": "Welcome to the inn Jeremy!",
+    "npc_output": "Thanks! I'm just |r1|, care to join?"
+  },
+  {
+    "player_input": "What's the fight about Michael?",
+    "npc_output": "Just training for the tournament, |r1| is my goal"
+  },
+  {
+    "player_input": "How's it going Edgar?",
+    "npc_output": "Bored out of my mind, wish I could |r1|"
+  },
+  {
+    "player_input": "Gregory, how's the estate?",
+    "npc_output": "It's doing well, but I need to |r1|, it's a lot of work"
+  }
+]

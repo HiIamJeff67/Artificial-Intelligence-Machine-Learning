@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "Hello, what's your profession?",
+    "npc_output": "I'm a blacksmith, nice to meet you."
+  },
+  {
+    "player_input": "What's the weather like?",
+    "npc_output": "It's snowy, isn't it? By the way, could you |r1|?"
+  },
+  {
+    "player_input": "Good morning, what's new?",
+    "npc_output": "Not much, just gathering some herbs. I need to |r1|, though."
+  },
+  {
+    "player_input": "How's your day going?",
+    "npc_output": "It's going well, thanks. I'm studying for my exam and need to |r1|."
+  },
+  {
+    "player_input": "What are you doing today?",
+    "npc_output": "I'm going fishing, want to join me? I should probably |r1| first."
+  },
+  {
+    "player_input": "What's your specialty?",
+    "npc_output": "I'm a witch, and I can predict things. Maybe I'll |r1| later."
+  },
+  {
+    "player_input": "Do you like fishing?",
+    "npc_output": "Yes, I love it! I should |r1| now, actually."
+  },
+  {
+    "player_input": "What brings you here?",
+    "npc_output": "I'm a thief, and I need to |r1|. Don't tell anyone, okay?"
+  },
+  {
+    "player_input": "Are you a noble?",
+    "npc_output": "Yes, I am. I should |r1| before the council meeting."
+  },
+  {
+    "player_input": "What's your role here?",
+    "npc_output": "I'm a knight, and I need to |r1| for the tournament."
+  }
+]

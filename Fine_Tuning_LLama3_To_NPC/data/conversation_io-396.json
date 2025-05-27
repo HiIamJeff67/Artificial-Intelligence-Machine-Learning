@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "What's wrong?",
+    "npc_output": "I'm just feeling a bit angry and anxious about the foggy weather this morning, |r1|."
+  },
+  {
+    "player_input": "How are you?",
+    "npc_output": "I'm feeling bored and angry, thanks for asking. The foggy weather isn't helping."
+  },
+  {
+    "player_input": "Good morning!",
+    "npc_output": "Morning! Isn't it a lovely day to gather some fresh herbs?"
+  },
+  {
+    "player_input": "What's new?",
+    "npc_output": "Not much, just waiting for the rain to clear up so I can deliver some messages, |r2|."
+  },
+  {
+    "player_input": "Need help?",
+    "npc_output": "Actually, I was thinking of hoping for a dirty companion this evening, |r5|."
+  },
+  {
+    "player_input": "Want to trade?",
+    "npc_output": "I'm not interested in trading right now, but thanks for offering. This stormy weather is making me want to stay indoors."
+  },
+  {
+    "player_input": "What's up?",
+    "npc_output": "Just getting ready to perform at the tavern tonight, |r10|. Want to come?"
+  },
+  {
+    "player_input": "Hi!",
+    "npc_output": "Hi! I'm just trying to stay focused on my mining work despite this hail."
+  },
+  {
+    "player_input": "How's it going?",
+    "npc_output": "It's going well, thanks. I have to deliver this urgent scroll after lunch, |r6|."
+  },
+  {
+    "player_input": "What's cooking?",
+    "npc_output": "Just preparing for the feast tonight, |r12|. Care to help?"
+  }
+]

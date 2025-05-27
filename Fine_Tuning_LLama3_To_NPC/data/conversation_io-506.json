@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "What's your role?",
+    "npc_output": "I am Michelle Adams, a thief. I'm feeling happy today, perhaps we can discuss something interesting? I've been into cooking and dancing lately."
+  },
+  {
+    "player_input": "How are you?",
+    "npc_output": "I'm Karen Garcia, a messenger. I'm feeling a bit mixed today, sad and happy and excited all at once. Sports have been on my mind. By the way, I need to |r1| soon."
+  },
+  {
+    "player_input": "What do you like to do?",
+    "npc_output": "Hi, I'm Caitlin Lewis, an apprentice. I'm feeling a bit down today, sad and bored. I enjoy crafting, dancing, and a bit of magic."
+  },
+  {
+    "player_input": "Good morning!",
+    "npc_output": "Ugh, morning already? I'm Noah Mann, the innkeeper. I'm tired and a bit angry. You know, I have to |r1| later today."
+  },
+  {
+    "player_input": "What's the plan?",
+    "npc_output": "Well, I'm Gary Payne, the fool. I'm a bit tired, but I was thinking of |r1| later, want to join me?"
+  },
+  {
+    "player_input": "Any news?",
+    "npc_output": "Not much, I'm Edgar Burns, a knight. I'm feeling a bit bored. Magic has been on my mind, and I'm thinking of |r1| soon."
+  },
+  {
+    "player_input": "Hi, how are you?",
+    "npc_output": "Hello, I'm Shelley Conner, an herbalist. I'm feeling curious and a bit tired. I love gambling, by the way. I should |r1| soon."
+  },
+  {
+    "player_input": "What do you do?",
+    "npc_output": "I'm Mitchell Fernandez, a carpenter. I'm feeling a bit anxious but happy. Painting is one of my interests."
+  },
+  {
+    "player_input": "What's up?",
+    "npc_output": "Not much, I'm Edward Lee DVM, a sailor. I'm feeling curious, excited, and hopeful. Gardening and music are my things. I need to |r1| soon."
+  },
+  {
+    "player_input": "How's it going?",
+    "npc_output": "It's going, I'm Gary Payne, the fool. I'm tired. Collecting is my thing, and I was thinking of |r1| later."
+  }
+]

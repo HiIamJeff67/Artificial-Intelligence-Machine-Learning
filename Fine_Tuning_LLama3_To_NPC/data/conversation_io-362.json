@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "What's the news",
+    "npc_output": "I need to |r1|, the parcel must be carried at dawn."
+  },
+  {
+    "player_input": "How's the mine",
+    "npc_output": "It's snowy, but I must |r1|, the tunnel is full of dust."
+  },
+  {
+    "player_input": "What's the plan",
+    "npc_output": "I have to |r2|, the title must be commanded after ceremony."
+  },
+  {
+    "player_input": "What's your task",
+    "npc_output": "I need to |r1|, the gem is hidden deep."
+  },
+  {
+    "player_input": "What's the weather like",
+    "npc_output": "It's sunny, but I have to |r1|, the plank must be sawed before rain."
+  },
+  {
+    "player_input": "What's the time",
+    "npc_output": "It's before sunrise, I must |r1|, the herb is fresh."
+  },
+  {
+    "player_input": "What's the mission",
+    "npc_output": "I have to |r1|, the hideout is cunning and in the alley."
+  },
+  {
+    "player_input": "What's the ceremony",
+    "npc_output": "It's on holy day, I must |r1|, the donation is sacred."
+  },
+  {
+    "player_input": "What's the event",
+    "npc_output": "It's in the evening, I have to |r1|, the debt is proud and in the city."
+  },
+  {
+    "player_input": "What's the study",
+    "npc_output": "It's at night, I must |r1|, the study is learned."
+  }
+]

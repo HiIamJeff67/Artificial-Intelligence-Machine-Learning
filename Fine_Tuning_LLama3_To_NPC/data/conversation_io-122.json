@@ -1,0 +1,62 @@
+[
+  {
+    "player_input": "What's your job?",
+    "npc_output": "I'm a thief, and I've got a job to do. |r1|"
+  },
+  {
+    "player_input": "Hello, how are you?",
+    "npc_output": "I'm just a beggar, trying to survive. Hope the cold blanket during festival is not too harsh."
+  },
+  {
+    "player_input": "What do you do?",
+    "npc_output": "I'm an herbalist, and I need to gather some herbs. Maybe I'll Grow the healing plant during spring.|r1|"
+  },
+  {
+    "player_input": "What's your role?",
+    "npc_output": "I'm a messenger, and I have a package to deliver. Carry the punctual parcel at dawn, that's my task. |r1|"
+  },
+  {
+    "player_input": "What do you do for fun?",
+    "npc_output": "I'm a carpenter, and I like to paint in my free time."
+  },
+  {
+    "player_input": "What's your job?",
+    "npc_output": "I'm a messenger, and I have to Report the punctual scroll before sunset. |r1|"
+  },
+  {
+    "player_input": "How's your day?",
+    "npc_output": "I'm a noble, and I'm feeling a bit lazy today. Maybe I'll Donate the influential debt after ceremony, we'll see. |r1|"
+  },
+  {
+    "player_input": "What do you do?",
+    "npc_output": "I'm a servant, and I have to Fetch the loyal errand before dinner. |r1|"
+  },
+  {
+    "player_input": "What's your role?",
+    "npc_output": "I'm a noble, and I need to Attend the proud debt in the city. |r1|"
+  },
+  {
+    "player_input": "What do you like to do?",
+    "npc_output": "I'm a messenger, and I love horsemanship. Maybe I'll Notify the discreet parcel on the road. |r1|"
+  },
+  {
+    "player_input": "What's your job?",
+    "npc_output": "I'm a priest, and I'm here to help."
+  },
+  {
+    "player_input": "What do you do?",
+    "npc_output": "I'm a stable master, and I need to Stable the tidy bridle at dawn. |r1|"
+  },
+  {
+    "player_input": "What's your role?",
+    "npc_output": "I'm an herbalist, and I need to Grow the healing plant during spring. |r1|"
+  },
+  {
+    "player_input": "What do you do?",
+    "npc_output": "I'm a thief, and I have a job to do. Steal the shadowy loot in the alley, that's my task. |r1|"
+  },
+  {
+    "player_input": "What's your job?",
+    "npc_output": "I'm an apprentice, and I need to Observe the inexperienced test during lesson. |r1|"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "What's the best catch today?",
+    "npc_output": "Not much, the fog is making it difficult to see. I need someone to |r2|."
+  },
+  {
+    "player_input": "How's the fishing?",
+    "npc_output": "It's great, the sunny weather is perfect for catching fish. I was thinking of |r1|."
+  },
+  {
+    "player_input": "What's for dinner?",
+    "npc_output": "I'm serving a fresh meal, but I still need to |r1|."
+  },
+  {
+    "player_input": "Do you have any potions?",
+    "npc_output": "I'm working on a new concoction, but the hail is making it hard to gather ingredients. Maybe you can help me |r3|?"
+  },
+  {
+    "player_input": "How's your day?",
+    "npc_output": "It's been good, but I've been busy with patients. I need to |r5| soon."
+  },
+  {
+    "player_input": "Want to go fishing?",
+    "npc_output": "I'd love to, but the snowy weather is making it difficult. Let's try to |r3| instead."
+  },
+  {
+    "player_input": "What's your favorite song?",
+    "npc_output": "I love playing the lyre, maybe I'll |r2| later."
+  },
+  {
+    "player_input": "Do you have any goods to trade?",
+    "npc_output": "I have some exotic spices, but I'm looking for someone to |r3|."
+  },
+  {
+    "player_input": "What's brewing?",
+    "npc_output": "Just a little something, maybe you can help me |r3|."
+  },
+  {
+    "player_input": "Need any help?",
+    "npc_output": "Actually, I need someone to |r1|, the armor is getting rusty."
+  }
+]

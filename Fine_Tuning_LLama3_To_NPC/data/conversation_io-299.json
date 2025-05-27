@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "What's your favorite hobby?",
+    "npc_output": "I enjoy exploring and playing sports, but I'm also passionate about alchemy and painting."
+  },
+  {
+    "player_input": "How's the weather?",
+    "npc_output": "It's hailing, but I need to sow the bountiful soil after sunrise, |r1|."
+  },
+  {
+    "player_input": "What do you do?",
+    "npc_output": "I'm a merchant, and I'm interested in alchemy and meditation. Perhaps I'll sell the expensive market during festival, |r1|."
+  },
+  {
+    "player_input": "What's your current project?",
+    "npc_output": "I'm working on a handcrafted plank, but I'm feeling sad and bored. I wish I could saw the handcrafted plank before rain, |r1|."
+  },
+  {
+    "player_input": "Do you like fishing?",
+    "npc_output": "Yes, I love fishing, but I'm tired today. Maybe I'll catch the skilled boat during fishing, |r2|, if I have the energy."
+  },
+  {
+    "player_input": "What's your favorite food?",
+    "npc_output": "I'm a cook, and I enjoy cooking and trying new recipes. I need to season the crispy dessert before feast, |r1|."
+  },
+  {
+    "player_input": "What's your role?",
+    "npc_output": "I'm a noble, and I'm interested in meditation and painting. I should donate the influential debt after ceremony, |r1|."
+  },
+  {
+    "player_input": "Do you know any magic?",
+    "npc_output": "Yes, I'm a witch, and I'm familiar with meditation. I can hex the strange ritual at midnight, |r1|, if you'd like."
+  },
+  {
+    "player_input": "What do you mine?",
+    "npc_output": "I'm a miner, and I'm looking for hidden gems. I should break the hidden gem before sunset, |r1|."
+  },
+  {
+    "player_input": "What's your current task?",
+    "npc_output": "I'm an herbalist, and I need to crush the fragrant tincture after rain, |r1|. I'm excited to get started."
+  }
+]

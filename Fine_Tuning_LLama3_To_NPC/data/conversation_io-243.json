@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "Hi Tiffany, how's the mine?",
+    "npc_output": "It's going well, but I need to |r1| before sunset."
+  },
+  {
+    "player_input": "Good morning Christopher, what's new?",
+    "npc_output": "Good morning! I'm excited to |r1| today."
+  },
+  {
+    "player_input": "Hi Edward, what brings you to shore?",
+    "npc_output": "Just taking a break, but I need to |r1| soon."
+  },
+  {
+    "player_input": "Alexandria, can I help with your fishing?",
+    "npc_output": "Actually, I need to |r1| before the storm hits."
+  },
+  {
+    "player_input": "Anthony, how's life as a beggar?",
+    "npc_output": "It's tough, but I'm hoping to |r1| soon."
+  },
+  {
+    "player_input": "Scott, what's brewing in your cauldron?",
+    "npc_output": "Just a little something, but I need to |r1| after the storm."
+  },
+  {
+    "player_input": "Kimberly, what's the latest noble news?",
+    "npc_output": "Not much, but I need to |r1| before the council meeting."
+  },
+  {
+    "player_input": "Jennifer, can I try on this outfit?",
+    "npc_output": "Of course, let me just |r1| for you."
+  },
+  {
+    "player_input": "Erica, where are you sailing to next?",
+    "npc_output": "We're headed to the harbor, but I need to |r1| first."
+  },
+  {
+    "player_input": "Andrew, can you mend my clothes?",
+    "npc_output": "I'd be happy to |r1| for you."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "What's your role?",
+    "npc_output": "I'm a thief, |r2|."
+  },
+  {
+    "player_input": "What are you doing?",
+    "npc_output": "I'm a tailor, working on a new outfit."
+  },
+  {
+    "player_input": "How's it going?",
+    "npc_output": "It's going well, I'm a miner, |r1|."
+  },
+  {
+    "player_input": "What's your plan?",
+    "npc_output": "I'm a sailor, about to anchor the ship."
+  },
+  {
+    "player_input": "What do you need?",
+    "npc_output": "I'm a witch, and I need to predict the mysterious ritual."
+  },
+  {
+    "player_input": "How's your day?",
+    "npc_output": "It's going well, I'm a miner, |r3|."
+  },
+  {
+    "player_input": "What's new?",
+    "npc_output": "Not much, I'm a carpenter, |r1|."
+  },
+  {
+    "player_input": "What's your specialty?",
+    "npc_output": "I'm an herbalist, and I mix the bitter remedy."
+  },
+  {
+    "player_input": "What are you up to?",
+    "npc_output": "I'm a thief, and I'm about to unlock the shadowy escape."
+  },
+  {
+    "player_input": "What's your catch?",
+    "npc_output": "I'm a fisherman, and I'm about to net the salty fish."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "Hello, what's your name?",
+    "npc_output": "I'm Thomas Myers, a merchant. Nice to meet you."
+  },
+  {
+    "player_input": "What's going on tonight?",
+    "npc_output": "Not much, just trying to rest before my midnight heist. |r2|"
+  },
+  {
+    "player_input": "Do you need any help with your delivery?",
+    "npc_output": "Actually, I could use someone to help me notify the trusted news after delivery."
+  },
+  {
+    "player_input": "Want to buy something?",
+    "npc_output": "I'm looking to sell some expensive goods, but I'm not sure if you can afford them."
+  },
+  {
+    "player_input": "What's the weather like?",
+    "npc_output": "It's stormy outside, but I have a message to deliver. |r1|"
+  },
+  {
+    "player_input": "Need any medical help?",
+    "npc_output": "I'm a bit angry today, but I can still heal you if you need it. |r1|"
+  },
+  {
+    "player_input": "Want to go fishing?",
+    "npc_output": "I'd love to, but I have to sew this outfit before the festival. |r1|"
+  },
+  {
+    "player_input": "Can you help me with my farm?",
+    "npc_output": "I can plow the abundant soil for you, but only after sunrise. |r1|"
+  },
+  {
+    "player_input": "What's your prediction for today?",
+    "npc_output": "I predict a dark and stormy day, but I can try to predict the dark broom for you. |r1|"
+  },
+  {
+    "player_input": "Do you have any messages to deliver?",
+    "npc_output": "I have a punctual letter to deliver at dawn, would you like to help me? |r1|"
+  }
+]

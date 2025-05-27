@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "What's your role?",
+    "npc_output": "I'm a guard, |r1|."
+  },
+  {
+    "player_input": "What's new?",
+    "npc_output": "It's a rainy day, perfect for collecting items, maybe I'll |r2|."
+  },
+  {
+    "player_input": "Need help?",
+    "npc_output": "I'm experimenting, but I could use help with |r1|."
+  },
+  {
+    "player_input": "Hi",
+    "npc_output": "Hi, I'm just crafting, nice to meet you."
+  },
+  {
+    "player_input": "What's up?",
+    "npc_output": "Not much, just identifying plants, like |r5|."
+  },
+  {
+    "player_input": "You look busy",
+    "npc_output": "Just stealing food, |r3|, you know how it is."
+  },
+  {
+    "player_input": "How's the queen?",
+    "npc_output": "She's great, hosting court, |r1|, as usual."
+  },
+  {
+    "player_input": "Good evening",
+    "npc_output": "Evening, I'm predicting brooms, |r1|."
+  },
+  {
+    "player_input": "Hi again",
+    "npc_output": "Hi, just meditating, enjoying the snowy festival."
+  },
+  {
+    "player_input": "What's your job?",
+    "npc_output": "I'm a sailor, I need to |r3| soon."
+  }
+]

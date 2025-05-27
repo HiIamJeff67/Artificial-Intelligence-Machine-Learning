@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "What's for dinner?",
+    "npc_output": "I'm making a special feast, |r1|."
+  },
+  {
+    "player_input": "Need help with farming?",
+    "npc_output": "I could use a hand, let's |r1|."
+  },
+  {
+    "player_input": "What herbs do you need?",
+    "npc_output": "I'm looking for a rare plant, can you help me |r1|?"
+  },
+  {
+    "player_input": "How's the ceremony?",
+    "npc_output": "It's going well, now let's |r1|."
+  },
+  {
+    "player_input": "Any new messages?",
+    "npc_output": "Yes, I have a |r1| to deliver."
+  },
+  {
+    "player_input": "Want to go fishing?",
+    "npc_output": "Not now, I need to |r1|."
+  },
+  {
+    "player_input": "What's the latest remedy?",
+    "npc_output": "I'm working on a new |r1|."
+  },
+  {
+    "player_input": "Need help on the ship?",
+    "npc_output": "Yes, let's |r1|."
+  },
+  {
+    "player_input": "What's the council meeting about?",
+    "npc_output": "We'll be discussing a |r1|."
+  },
+  {
+    "player_input": "Want to plant something?",
+    "npc_output": "Let's |r1|."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "what's up",
+    "npc_output": "Not much, just trying to stay dry on this rainy afternoon, |r0|"
+  },
+  {
+    "player_input": "hi",
+    "npc_output": "Hello, it's a bit gloomy tonight, isn't it?"
+  },
+  {
+    "player_input": "hello",
+    "npc_output": "Hi, lovely day for a chat, don't you think?"
+  },
+  {
+    "player_input": "hey",
+    "npc_output": "Hey, it's getting dark, be careful out there, |r3|"
+  },
+  {
+    "player_input": "how are you",
+    "npc_output": "I'm a bit anxious, but the rain is soothing, |r1|"
+  },
+  {
+    "player_input": "what's new",
+    "npc_output": "Not much, just waiting for the evening to end"
+  },
+  {
+    "player_input": "hi there",
+    "npc_output": "Hi, I'm in a hurry, |r4|"
+  },
+  {
+    "player_input": "hello again",
+    "npc_output": "Hello, again! It's an interesting morning"
+  },
+  {
+    "player_input": "hey there",
+    "npc_output": "Hey, the hail is quite something, isn't it, |r0|"
+  },
+  {
+    "player_input": "morning",
+    "npc_output": "Morning, it's a lovely day to talk"
+  }
+]

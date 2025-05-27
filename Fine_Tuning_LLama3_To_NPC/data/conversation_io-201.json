@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "What's the weather like",
+    "npc_output": "It's stormy outside, let's stay in and have a drink."
+  },
+  {
+    "player_input": "Need help with anything",
+    "npc_output": "Actually, I need help with |r1|, can you assist me?"
+  },
+  {
+    "player_input": "What's going on",
+    "npc_output": "It's the festival, and I'm feeling a bit bored, want to hear a story?"
+  },
+  {
+    "player_input": "Ready for a joke",
+    "npc_output": "I was thinking of |r1|, but first let's have some fun."
+  },
+  {
+    "player_input": "How's your day",
+    "npc_output": "It's been dull, but I was thinking of training my horse, care to join me?"
+  },
+  {
+    "player_input": "Want to buy something",
+    "npc_output": "I have some goods to sell, but first let's |r3| and discuss the price."
+  },
+  {
+    "player_input": "Need help with work",
+    "npc_output": "I'm busy with the forge, but I need to |r1|, can you help me?"
+  },
+  {
+    "player_input": "Want to sail",
+    "npc_output": "I'm preparing for a voyage, and I need to |r1|, want to come with me?"
+  },
+  {
+    "player_input": "What's new",
+    "npc_output": "Not much, just feeling a bit sad and |r10|, want to talk about it?"
+  },
+  {
+    "player_input": "How's farming",
+    "npc_output": "It's going well, but I need to |r1|, can you lend a hand?"
+  }
+]

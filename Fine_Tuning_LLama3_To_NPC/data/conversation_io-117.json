@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "What's your name?",
+    "npc_output": "My name is Patrick Garza, nice to meet you!"
+  },
+  {
+    "player_input": "Hello",
+    "npc_output": "Hello there, I'm Nicholas Graves, what brings you here?"
+  },
+  {
+    "player_input": "Hi",
+    "npc_output": "Hi, I'm Ariana Hardin, isn't it a lovely stormy day?"
+  },
+  {
+    "player_input": "How's it going?",
+    "npc_output": "It's going well, thanks for asking, I'm Hannah Cruz, sailor extraordinaire!"
+  },
+  {
+    "player_input": "What's your job?",
+    "npc_output": "I'm Noah Mann, the innkeeper, and I'm tired but happy to serve you, |r1|."
+  },
+  {
+    "player_input": "Hi there",
+    "npc_output": "Hi there, I'm James Haynes, sailor at your service, excited to be on this stormy adventure!"
+  },
+  {
+    "player_input": "Hello!",
+    "npc_output": "Hello! I'm Melanie Fisher, a humble beggar, may I have some spare change?"
+  },
+  {
+    "player_input": "What's up?",
+    "npc_output": "Not much, just fishing, I'm Donald Cooper, nice to meet you, want to hear about my catch?"
+  },
+  {
+    "player_input": "How are you?",
+    "npc_output": "I'm a bit down, but sewing always cheers me up, I'm Andrew Williams, tailor, |r2|."
+  },
+  {
+    "player_input": "Hi!",
+    "npc_output": "Hi! I'm Cynthia Green, hunter, and I'm feeling a bit anxious, but music always helps, |r3|."
+  }
+]

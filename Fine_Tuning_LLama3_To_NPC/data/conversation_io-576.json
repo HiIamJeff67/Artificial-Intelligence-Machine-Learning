@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "What's wrong?",
+    "npc_output": "I'm so angry about the ceremony tonight, can you |r1|?"
+  },
+  {
+    "player_input": "Do you need any help?",
+    "npc_output": "Actually, I need someone to help me with the horses, can you help me clean the stable?"
+  },
+  {
+    "player_input": "How's it going?",
+    "npc_output": "It's going great, thanks for asking! I just need to |r1| before sunset."
+  },
+  {
+    "player_input": "What are you doing?",
+    "npc_output": "I'm getting the horses ready for the race, want to help me saddle them?"
+  },
+  {
+    "player_input": "What's that smell?",
+    "npc_output": "Oh, it's just the potion I'm brewing, don't mind it. By the way, can you |r2|?"
+  },
+  {
+    "player_input": "Do you need any fabric?",
+    "npc_output": "Actually, I do! I need some elegant fabric to mend this outfit."
+  },
+  {
+    "player_input": "Want to trade?",
+    "npc_output": "I'm not really in the mood for trading, but thanks for offering. Say, can you |r1|?"
+  },
+  {
+    "player_input": "Any news?",
+    "npc_output": "Yes, actually! I need to |r2| as soon as possible."
+  },
+  {
+    "player_input": "Do you have any horses?",
+    "npc_output": "I have a few horses in the stable, would you like to see them?"
+  },
+  {
+    "player_input": "What's for dinner?",
+    "npc_output": "I'm not sure, but I think we're having fish. By the way, can you |r1|?"
+  }
+]

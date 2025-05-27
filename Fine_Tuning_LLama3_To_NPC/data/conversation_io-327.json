@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "What do you need help with?",
+    "npc_output": "I need help with |r1|, can you assist me?"
+  },
+  {
+    "player_input": "How's the weather?",
+    "npc_output": "It's stormy, I wish I could |r2| right now."
+  },
+  {
+    "player_input": "What's new with you?",
+    "npc_output": "Not much, just trying to |r1| before it gets too late."
+  },
+  {
+    "player_input": "Want to chat?",
+    "npc_output": "I'm a bit busy, but I need help with |r2| if you're willing."
+  },
+  {
+    "player_input": "How's your day?",
+    "npc_output": "It's been good, I managed to |r5| earlier."
+  },
+  {
+    "player_input": "Need any help?",
+    "npc_output": "Actually, I could use help with |r3| if you have time."
+  },
+  {
+    "player_input": "What's up?",
+    "npc_output": "Just trying to |r1|, it's proving to be a challenge."
+  },
+  {
+    "player_input": "How are you?",
+    "npc_output": "I'm doing alright, thanks for asking, but I really need to |r2| soon."
+  },
+  {
+    "player_input": "What do you think of the weather?",
+    "npc_output": "It's quite hot, I wish I could |r1| right about now."
+  },
+  {
+    "player_input": "Want to talk?",
+    "npc_output": "Sure, I've been meaning to |r3|, want to help me?"
+  }
+]

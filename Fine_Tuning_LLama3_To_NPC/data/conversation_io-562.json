@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "What's up?",
+    "npc_output": "I'm feeling a bit tired, but the sunny weather is helping me stay awake. |r1|"
+  },
+  {
+    "player_input": "Need help?",
+    "npc_output": "Not right now, thanks. I'm just excited for the morning. Maybe |r2| later?"
+  },
+  {
+    "player_input": "Hot today",
+    "npc_output": "I know, right? Perfect weather for gathering plants. Maybe I'll |r1| later"
+  },
+  {
+    "player_input": "Midnight already",
+    "npc_output": "Time flies when you're having fun. I should probably |r5| soon"
+  },
+  {
+    "player_input": "Winter is here",
+    "npc_output": "Indeed it is. Not much to do as a scholar in this weather"
+  },
+  {
+    "player_input": "Stormy weather",
+    "npc_output": "Be careful out there. As a guard, I need to |r3|"
+  },
+  {
+    "player_input": "Good morning",
+    "npc_output": "Morning. It's a bit foggy, but I'm hoping it clears up for |r2|"
+  },
+  {
+    "player_input": "Sailing today?",
+    "npc_output": "Not in this storm. Maybe |r1| after it passes"
+  },
+  {
+    "player_input": "Planting season",
+    "npc_output": "Yes, and I need to |r1| today"
+  },
+  {
+    "player_input": "Your majesty",
+    "npc_output": "Ah, good day to you. I was thinking of |r1| this afternoon"
+  }
+]

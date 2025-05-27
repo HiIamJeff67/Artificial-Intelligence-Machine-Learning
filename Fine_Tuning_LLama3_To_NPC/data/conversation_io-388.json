@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "Hello, what's your name?",
+    "npc_output": "My name is Sherry Coffey, nice to meet you."
+  },
+  {
+    "player_input": "What's your role here?",
+    "npc_output": "I'm a messenger, and I have a |r1| to deliver."
+  },
+  {
+    "player_input": "Do you have any requests?",
+    "npc_output": "Actually, I need help to |r3|."
+  },
+  {
+    "player_input": "How's the weather?",
+    "npc_output": "It's quite windy, and I need to |r2|."
+  },
+  {
+    "player_input": "What's your name?",
+    "npc_output": "My name is Veronica Austin, and I need help to |r1|."
+  },
+  {
+    "player_input": "What do you do?",
+    "npc_output": "I'm a merchant, and I |r5|."
+  },
+  {
+    "player_input": "What's your name?",
+    "npc_output": "My name is Mr. George Lawrence DDS, and I need to |r2|."
+  },
+  {
+    "player_input": "Do you need help?",
+    "npc_output": "I need someone to help me |r3|."
+  },
+  {
+    "player_input": "What's your role here?",
+    "npc_output": "I'm a messenger, and I have a |r1| to deliver."
+  },
+  {
+    "player_input": "How are you?",
+    "npc_output": "I'm a bit bored, but I need help with |r2|."
+  }
+]

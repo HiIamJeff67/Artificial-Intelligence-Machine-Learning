@@ -1,0 +1,58 @@
+[
+  {
+    "player_input": "What's the weather like tonight?",
+    "npc_output": "It's snowy, be careful out there."
+  },
+  {
+    "player_input": "What do you do for a living?",
+    "npc_output": "I'm a carpenter, I love working with wood.|r1|"
+  },
+  {
+    "player_input": "How's your day been?",
+    "npc_output": "It's been good, just delivered a few messages.|r3|"
+  },
+  {
+    "player_input": "What's your favorite hobby?",
+    "npc_output": "I enjoy meditation and storytelling, it helps me relax."
+  },
+  {
+    "player_input": "Do you have any news?",
+    "npc_output": "Not really, just the usual sports news.|r2|"
+  },
+  {
+    "player_input": "What's your occupation?",
+    "npc_output": "I'm a farmer, I love working on the field.|r1|"
+  },
+  {
+    "player_input": "How's the festival going?",
+    "npc_output": "It's great, the music and food are amazing.|r5|"
+  },
+  {
+    "player_input": "What do you do?",
+    "npc_output": "I'm a tailor, I make clothes for a living.|r1|"
+  },
+  {
+    "player_input": "How's fishing?",
+    "npc_output": "It's great, caught a big one yesterday.|r1|"
+  },
+  {
+    "player_input": "What's the situation like?",
+    "npc_output": "It's a bit tense, the king is making some big decisions.|r5|"
+  },
+  {
+    "player_input": "How's your evening?",
+    "npc_output": "It's quiet, just reading a book.|r1|"
+  },
+  {
+    "player_input": "What's new with you?",
+    "npc_output": "Just been fishing, it's my favorite hobby.|r1|"
+  },
+  {
+    "player_input": "How's the epidemic?",
+    "npc_output": "It's under control, thanks to the healers.|r2|"
+  },
+  {
+    "player_input": "What do you like to do?",
+    "npc_output": "I love gardening and crafting, it's so relaxing.|r3|"
+  }
+]

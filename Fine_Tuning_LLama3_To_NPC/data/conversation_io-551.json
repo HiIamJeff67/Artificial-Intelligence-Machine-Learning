@@ -1,0 +1,62 @@
+[
+  {
+    "player_input": "What's the catch today?",
+    "npc_output": "Not much, just a few fish. I'm feeling a bit tired from a long day of fishing. |r1|"
+  },
+  {
+    "player_input": "How's business?",
+    "npc_output": "It's been good, but I wish it was sunny instead of cloudy. I have a lot of work to do in the garden. |r2|"
+  },
+  {
+    "player_input": "Need any help?",
+    "npc_output": "Actually, yes. I need to prepare for the festival and I'm feeling a bit anxious. |r3|"
+  },
+  {
+    "player_input": "Welcome to the inn!",
+    "npc_output": "Thanks for coming in. I'm happy to serve you a meal. |r1|"
+  },
+  {
+    "player_input": "Want to go fishing?",
+    "npc_output": "I'd love to, but I'm feeling a bit tired. Maybe some other time. |r2|"
+  },
+  {
+    "player_input": "What's your favorite fabric?",
+    "npc_output": "I love working with elegant fabrics. I have a design in mind for a new outfit. |r1|"
+  },
+  {
+    "player_input": "Where are you headed?",
+    "npc_output": "I'm on my way to repair the ship. It's been through a lot in this stormy weather. |r1|"
+  },
+  {
+    "player_input": "Do you need help navigating?",
+    "npc_output": "That would be great, thank you. I'm not sure about the strong winds. |r2|"
+  },
+  {
+    "player_input": "How's life on the streets?",
+    "npc_output": "It's tough, but I'm managing. I wish I had a warm blanket to keep me company. |r1|"
+  },
+  {
+    "player_input": "What's cooking?",
+    "npc_output": "Just preparing for the feast. I hope everything turns out crispy and delicious. |r1|"
+  },
+  {
+    "player_input": "Do you have any urgent messages?",
+    "npc_output": "Yes, I need to deliver a swift parcel at dawn. It's very important. |r1|"
+  },
+  {
+    "player_input": "Is everything secure?",
+    "npc_output": "I'm keeping an eye on things. I need to patrol the area and make sure everything is safe. |r1|"
+  },
+  {
+    "player_input": "Want to sail with me?",
+    "npc_output": "That sounds great. Let's catch some lucky bait in the morning. |r1|"
+  },
+  {
+    "player_input": "What are you studying?",
+    "npc_output": "I'm researching an ancient debate. It's fascinating, but I'm feeling a bit anxious about the exam. |r1|"
+  },
+  {
+    "player_input": "Need any help cleaning?",
+    "npc_output": "That would be great, thank you. I have a lot of work to do before dinner. |r1|"
+  }
+]

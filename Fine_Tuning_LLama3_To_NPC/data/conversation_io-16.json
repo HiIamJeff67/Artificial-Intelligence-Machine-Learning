@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "What's the weather like today?",
+    "npc_output": "It's hot and it's before sunrise, not the best time to go fishing."
+  },
+  {
+    "player_input": "Do you need help with anything?",
+    "npc_output": "I need to bait the lucky net on the boat, |r2|, but I think I can handle it."
+  },
+  {
+    "player_input": "What are you doing tonight?",
+    "npc_output": "I'm an herbalist, and I was thinking of gathering some plants, but it's a bit late and it's cloudy."
+  },
+  {
+    "player_input": "Want to spar?",
+    "npc_output": "I'm not really in the mood, I'm a bit bored and I need to train my sword."
+  },
+  {
+    "player_input": "Your Majesty, how are you?",
+    "npc_output": "I'm tired and a bit indecisive, but I have a lot of work to do, including leading the powerful treasure at festival, |r1|."
+  },
+  {
+    "player_input": "Do you have any rare herbs?",
+    "npc_output": "I have some fresh herbs, but I need to dry them, |r2|, and it's not the best time with this foggy weather."
+  },
+  {
+    "player_input": "What's the best thing to buy or sell?",
+    "npc_output": "I think selling luxurious goods in the city would be a good idea, especially during the festival and with this sunny weather."
+  },
+  {
+    "player_input": "Want to have some fun?",
+    "npc_output": "I'm a fool, and I love to jest, |r1|, especially with this windy weather."
+  },
+  {
+    "player_input": "Can I help you with your plants?",
+    "npc_output": "Actually, I need to grow the healing plant during spring, |r1|, but it's not the right time yet with this hail."
+  },
+  {
+    "player_input": "Do you have a place to stay?",
+    "npc_output": "I'm a beggar, and I was thinking of waiting for a dirty hope before meal, |r1|, but it's getting late and it's hot."
+  }
+]

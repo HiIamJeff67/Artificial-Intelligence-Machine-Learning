@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "What's your role?",
+    "npc_output": "I'm a healer, |r1|."
+  },
+  {
+    "player_input": "What are you doing?",
+    "npc_output": "Just experimenting with some colorful potions, maybe I'll |r2|."
+  },
+  {
+    "player_input": "Do you like farming?",
+    "npc_output": "Yes, I love it! I need to |r1| soon."
+  },
+  {
+    "player_input": "How are you?",
+    "npc_output": "I'm a bit curious, and I was thinking of |r1|."
+  },
+  {
+    "player_input": "What's your job?",
+    "npc_output": "I'm a thief, and I'm thinking of |r1| soon."
+  },
+  {
+    "player_input": "What do you sell?",
+    "npc_output": "Luxurious goods, I might |r1| later."
+  },
+  {
+    "player_input": "What's your skill?",
+    "npc_output": "I'm skilled at playing the lyre, maybe I'll |r1| soon."
+  },
+  {
+    "player_input": "What's your duty?",
+    "npc_output": "As a knight, I must |r1|."
+  },
+  {
+    "player_input": "What's your title?",
+    "npc_output": "I'm a noble, and I need to |r1|."
+  },
+  {
+    "player_input": "What's your quest?",
+    "npc_output": "I'm on a quest to |r1|, wish me luck."
+  }
+]

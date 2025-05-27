@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "What's up Gary?",
+    "npc_output": "Not much, just feeling a bit tired from the festival, want to |r1| with me?"
+  },
+  {
+    "player_input": "Hey Craig, how's fishing?",
+    "npc_output": "It's been slow, but I'm hoping to |r1| soon"
+  },
+  {
+    "player_input": "Hi Arthur, how's guard life?",
+    "npc_output": "It's quiet, just doing my rounds, need to |r1| later"
+  },
+  {
+    "player_input": "Hi Andrea, how's farming?",
+    "npc_output": "It's going well, just planted some new crops, want to help me |r1|?"
+  },
+  {
+    "player_input": "Hi Alyssa, what's new?",
+    "npc_output": "Not much, just studying, it's nice and quiet at dawn"
+  },
+  {
+    "player_input": "Hey Peter, what's brewing?",
+    "npc_output": "Just preparing for a stormy night, want to help me |r1|?"
+  },
+  {
+    "player_input": "Hi Kimberly, how's nobility?",
+    "npc_output": "It's... interesting, lots of responsibilities, need to |r1| soon"
+  },
+  {
+    "player_input": "Hi Mandy, what's your favorite spell?",
+    "npc_output": "I like to |r1|, it's very powerful"
+  },
+  {
+    "player_input": "Hi Veronica, how's the stable?",
+    "npc_output": "It's great, just feeding the horses, want to help me |r1|?"
+  },
+  {
+    "player_input": "Hi Kayla, what's on your mind?",
+    "npc_output": "Just meditating, trying to clear my mind"
+  }
+]

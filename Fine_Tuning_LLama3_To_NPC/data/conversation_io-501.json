@@ -1,0 +1,62 @@
+[
+  {
+    "player_input": "hello",
+    "npc_output": "Hi, nice to meet you! The sun is shining brightly in the afternoon, isn't it? |r1|"
+  },
+  {
+    "player_input": "what's up",
+    "npc_output": "Not much, just got a message to deliver. It's a bit windy at midnight, but I'll manage. |r2|"
+  },
+  {
+    "player_input": "good morning",
+    "npc_output": "Good morning! It's a bit rainy at dawn, but the music is lovely. Want to hear a tune? |r1|"
+  },
+  {
+    "player_input": "how are you",
+    "npc_output": "I'm happy, thanks for asking! The hail at dawn is quite something. Maybe I can play a song about it? |r2|"
+  },
+  {
+    "player_input": "nice day",
+    "npc_output": "Yes, it is! Although it's a bit foggy before sunrise. I should get to cleaning. |r1|"
+  },
+  {
+    "player_input": "hello there",
+    "npc_output": "Hello! It's windy in the afternoon, and I'm feeling a bit down. Hope the cold blanket during festival will help. |r2|"
+  },
+  {
+    "player_input": "what's new",
+    "npc_output": "Not much, just been predicting the dark broom before dawn. It's snowy at noon, you know. |r1|"
+  },
+  {
+    "player_input": "good evening",
+    "npc_output": "Good evening! It's snowy at dawn, and I'm feeling a bit lonely. Want to wait with me? |r3|"
+  },
+  {
+    "player_input": "how's it going",
+    "npc_output": "It's going well, thanks! The noble life is good, even if it's hot at midnight. Perhaps I'll host a debt in the city? |r1|"
+  },
+  {
+    "player_input": "nice to meet you",
+    "npc_output": "Likewise! It's drizzly at dusk, but the fish are biting. Want to catch some? |r2|"
+  },
+  {
+    "player_input": "hello again",
+    "npc_output": "Hello again! The weather is snowy in the evening, and I need to anchor the restless harbor on the ship. |r1|"
+  },
+  {
+    "player_input": "what's up again",
+    "npc_output": "Same old, same old. It's hot during the festival, and I need to gather some plants. |r1|"
+  },
+  {
+    "player_input": "good day",
+    "npc_output": "Good day! It's hot in the afternoon, and I should get back to designing hats. |r1|"
+  },
+  {
+    "player_input": "how's life",
+    "npc_output": "Life is good! The hail after sunset is quite something. Want to hear a performance? |r1|"
+  },
+  {
+    "player_input": "hi there",
+    "npc_output": "Hi there! It's windy at midnight, and I have a parcel to deliver. |r1|"
+  }
+]

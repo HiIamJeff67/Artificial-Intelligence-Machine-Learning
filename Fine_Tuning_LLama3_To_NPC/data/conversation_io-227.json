@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "Hello, what brings you here?",
+    "npc_output": "Ah, nice to meet you! I'm Wesley Ayers, the local herbalist. I'm excited to share my knowledge of alchemy and exploring with you. By the way, have you seen any rare plants in the woods? I've been looking to |r3|."
+  },
+  {
+    "player_input": "What's new in the blacksmithing world?",
+    "npc_output": "Not much, just trying to stay warm in this snowy weather. I did just finish forging a new shield, though. You know, I've been thinking of |r1| later today."
+  },
+  {
+    "player_input": "Good morning! Ready for a hunt?",
+    "npc_output": "Good morning! Yes, I am. The cloudy weather might make it a bit tricky, but I'm hopeful we can catch something. Maybe we can |r1|?"
+  },
+  {
+    "player_input": "What's for dinner?",
+    "npc_output": "Well, I was thinking of serving something spicy. Maybe some fresh bread? I've been meaning to |r3|, actually."
+  },
+  {
+    "player_input": "Rough seas lately?",
+    "npc_output": "You have no idea. The hail is relentless. But I've been preparing for a voyage and I need to |r4| before we set off."
+  },
+  {
+    "player_input": "Find any good hunting spots?",
+    "npc_output": "Actually, yes. The snowy weather makes it easier to track prey. I was thinking of |r3| later today."
+  },
+  {
+    "player_input": "What's brewing in your garden?",
+    "npc_output": "Not much, just a few herbs and plants. I did just grow a rare potion, though. |r5| is next on my list."
+  },
+  {
+    "player_input": "Catch anything recently?",
+    "npc_output": "Just a small fish, but I'm hoping to |r1| soon. The stormy weather makes it tricky, though."
+  },
+  {
+    "player_input": "What's a good book to read?",
+    "npc_output": "Hmm, that's a tough one. I've been meaning to get into some storytelling myself, but I don't have any recommendations off the top of my head."
+  },
+  {
+    "player_input": "I love farming! What's your favorite crop?",
+    "npc_output": "I'm more of a hunter myself, but I do appreciate a good harvest. Maybe we can |r1| together soon?"
+  }
+]

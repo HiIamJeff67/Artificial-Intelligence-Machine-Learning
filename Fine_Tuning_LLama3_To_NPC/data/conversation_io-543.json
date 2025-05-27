@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "What's wrong?",
+    "npc_output": "I'm just feeling a bit sad today, it's rainy and grey outside, |r1| could cheer me up though."
+  },
+  {
+    "player_input": "Need help with mining?",
+    "npc_output": "Not really, just getting ready for my shift, but thanks for offering, maybe later I'll |r2|."
+  },
+  {
+    "player_input": "Your Majesty, a word?",
+    "npc_output": "Ah, yes, I'm afraid I'm a bit tired, it's been a long day, but I still need to |r1|."
+  },
+  {
+    "player_input": "Trading anything interesting?",
+    "npc_output": "Actually, I just got some exotic spices, would you like to take a look? I'm thinking of |r3|."
+  },
+  {
+    "player_input": "Any messages for me?",
+    "npc_output": "As a matter of fact, I have a parcel that needs to be delivered urgently, could you help me with |r5|?"
+  },
+  {
+    "player_input": "How's farming going?",
+    "npc_output": "It's going well, thanks for asking! The soil is fresh and ready to be plowed, maybe I'll |r1| today."
+  },
+  {
+    "player_input": "Ready to set sail?",
+    "npc_output": "Almost, just need to check the map and make sure everything is in order, then we'll |r7|."
+  },
+  {
+    "player_input": "Find anything interesting while hunting?",
+    "npc_output": "Not yet, but I'm hoping to catch something soon, the weather is perfect for |r2|."
+  },
+  {
+    "player_input": "Got any goods to trade?",
+    "npc_output": "Actually, I have some rare items, would you like to see them? I'm thinking of |r2| soon."
+  },
+  {
+    "player_input": "Any urgent messages?",
+    "npc_output": "Yes, I need to announce a letter on the road, it's of the utmost importance, could you help me with |r1|?"
+  }
+]

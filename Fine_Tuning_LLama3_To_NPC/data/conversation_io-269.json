@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "What's the hurry?",
+    "npc_output": "I need to |r1|, it's getting late."
+  },
+  {
+    "player_input": "How's your day?",
+    "npc_output": "It's going well, but I need to |r1| this morning."
+  },
+  {
+    "player_input": "Want to hunt?",
+    "npc_output": "I'd love to |r1| with you, let's go!"
+  },
+  {
+    "player_input": "Need help?",
+    "npc_output": "Actually, I need to |r1|, can you assist me?"
+  },
+  {
+    "player_input": "What's for sale?",
+    "npc_output": "We have some |r2| available, are you interested?"
+  },
+  {
+    "player_input": "Catch anything?",
+    "npc_output": "Not yet, but I hope to |r1| soon."
+  },
+  {
+    "player_input": "Like music?",
+    "npc_output": "I love it, perhaps I can |r1| for you?"
+  },
+  {
+    "player_input": "Planning a heist?",
+    "npc_output": "Shh, don't tell anyone, but I need to |r1| tonight."
+  },
+  {
+    "player_input": "Want to joke around?",
+    "npc_output": "Always, let's |r1| and have some fun!"
+  },
+  {
+    "player_input": "Need alterations?",
+    "npc_output": "Yes, I need to |r1| before the festival."
+  }
+]

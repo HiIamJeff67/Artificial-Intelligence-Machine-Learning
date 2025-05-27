@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "What's your role?",
+    "npc_output": "I'm a sailor, nice to meet you!"
+  },
+  {
+    "player_input": "What are you doing at midnight?",
+    "npc_output": "I'm working on a new tailor design, |r1|."
+  },
+  {
+    "player_input": "Do you like trading?",
+    "npc_output": "Yes, I do! I'm a merchant, after all."
+  },
+  {
+    "player_input": "What's your favorite interest?",
+    "npc_output": "I enjoy storytelling, it's so much fun! |r2|"
+  },
+  {
+    "player_input": "How's farming?",
+    "npc_output": "It's going great, thanks for asking! |r1|"
+  },
+  {
+    "player_input": "Do you like carpentry?",
+    "npc_output": "Yes, I do! I'm a carpenter, and I love |r1|."
+  },
+  {
+    "player_input": "What's your role as a knight?",
+    "npc_output": "I'm here to protect, |r1| is my top priority."
+  },
+  {
+    "player_input": "What do thieves do?",
+    "npc_output": "We steal, |r1| is my next task."
+  },
+  {
+    "player_input": "What's it like being a beggar?",
+    "npc_output": "It's tough, but |r1| helps me get by."
+  },
+  {
+    "player_input": "Do you like tailoring?",
+    "npc_output": "Yes, I do! |r1| is my current project."
+  }
+]

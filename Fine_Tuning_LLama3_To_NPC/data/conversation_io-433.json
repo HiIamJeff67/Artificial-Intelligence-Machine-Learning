@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "What's your role?",
+    "npc_output": "I'm a queen, and I need to Host the graceful court at the palace, |r1|."
+  },
+  {
+    "player_input": "How's the weather?",
+    "npc_output": "It's hailing, I'm afraid. Maybe you could help me with Gather the dried plant at sunrise, |r1|?"
+  },
+  {
+    "player_input": "Who are you?",
+    "npc_output": "I'm Crystal, the thief. I'm feeling happy today, and I need to Steal the cunning hideout in the alley, |r1|."
+  },
+  {
+    "player_input": "What's your favorite hobby?",
+    "npc_output": "I enjoy fishing, but I'm tired today. Perhaps you could help me Catch the skilled boat during fishing, |r2|?"
+  },
+  {
+    "player_input": "What's the time?",
+    "npc_output": "It's at noon, and I need to Notify the trusted news after delivery, |r1|. I'm feeling hopeful about it."
+  },
+  {
+    "player_input": "What do you do?",
+    "npc_output": "I'm a cook, and I need to Season the spicy meal at noon, |r1|. It's a bit challenging with this rainy weather."
+  },
+  {
+    "player_input": "How's your day?",
+    "npc_output": "I'm feeling curious, and I'm a servant. I need to Deliver the humble cleaning before dinner, |r1|."
+  },
+  {
+    "player_input": "What are you interested in?",
+    "npc_output": "I enjoy horsemanship, and I'm a scholar. Unfortunately, I don't have any requests for you."
+  },
+  {
+    "player_input": "What's your favorite activity?",
+    "npc_output": "I like collecting, and I'm a hunter. I need to Track the skilled prey in the forest, |r1|."
+  },
+  {
+    "player_input": "What do you need help with?",
+    "npc_output": "I need assistance with Saw the handcrafted plank before rain, |r1|. I'm a carpenter, and I'm feeling anxious about it."
+  }
+]

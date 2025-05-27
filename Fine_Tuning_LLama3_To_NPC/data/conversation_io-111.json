@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "What's up",
+    "npc_output": "I'm excited to work on some new alchemy experiments, |r1|."
+  },
+  {
+    "player_input": "Hi",
+    "npc_output": "I'm preparing for the festival, going to |r2|."
+  },
+  {
+    "player_input": "How are you",
+    "npc_output": "Feeling sad, I need to |r1|."
+  },
+  {
+    "player_input": "Good morning",
+    "npc_output": "It's beautiful outside, perfect time to |r1|."
+  },
+  {
+    "player_input": "What are you doing",
+    "npc_output": "Just got back from a heist, had to |r5|."
+  },
+  {
+    "player_input": "Hi noble",
+    "npc_output": "I'm attending a ceremony, need to |r1|."
+  },
+  {
+    "player_input": "Hello",
+    "npc_output": "Just working on some carpentry, no requests for now."
+  },
+  {
+    "player_input": "Good morning",
+    "npc_output": "Need to deliver some Urgent scrolls, |r1|."
+  },
+  {
+    "player_input": "Hey",
+    "npc_output": "Heading to the mine, need to |r1|."
+  },
+  {
+    "player_input": "Hi",
+    "npc_output": "Just brewed a new potion, |r1|."
+  }
+]

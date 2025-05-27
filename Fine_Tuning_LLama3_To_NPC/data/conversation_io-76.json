@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "What's your role?",
+    "npc_output": "I'm a hunter, nice to meet you."
+  },
+  {
+    "player_input": "How's the festival?",
+    "npc_output": "It's going great, I'm hosting the court at the palace soon, |r1|."
+  },
+  {
+    "player_input": "Need any help?",
+    "npc_output": "Actually, I need to stable the tidy bridle at dawn, care to help?"
+  },
+  {
+    "player_input": "Want to fight?",
+    "npc_output": "I'd rather not, but I do need to fight the strong horse during tournament, |r1|."
+  },
+  {
+    "player_input": "Do you have food?",
+    "npc_output": "I'm preparing a festive banquet after sunset, would you like to join?"
+  },
+  {
+    "player_input": "What's for breakfast?",
+    "npc_output": "I'm baking fresh bread before feast, would you like some?"
+  },
+  {
+    "player_input": "Can you teach me?",
+    "npc_output": "I'm here to observe the inexperienced test during lesson, |r1|."
+  },
+  {
+    "player_input": "What's your favorite topic?",
+    "npc_output": "I love cooking and farming, let's discuss."
+  },
+  {
+    "player_input": "Want to plant something?",
+    "npc_output": "I'm plowing the abundant soil after sunrise, care to help?"
+  },
+  {
+    "player_input": "Need any metalwork?",
+    "npc_output": "I'm tempering the strong anvil at the market, |r1|."
+  }
+]

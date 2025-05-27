@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "What's wrong?",
+    "npc_output": "I'm just having a tough time with my faith, |r1| might help me feel better."
+  },
+  {
+    "player_input": "How was your day?",
+    "npc_output": "It's been a struggle, the hail isn't helping my hunt, I wish I could |r2|."
+  },
+  {
+    "player_input": "Need any help?",
+    "npc_output": "Actually, I could use some assistance with |r5|, it's almost time for the festival."
+  },
+  {
+    "player_input": "Want to go fishing?",
+    "npc_output": "I'd love to, but I should probably |r1| first, it's been a long day."
+  },
+  {
+    "player_input": "What are you doing?",
+    "npc_output": "Just trying to identify some plants, |r4| is my next task."
+  },
+  {
+    "player_input": "You look tired, are you okay?",
+    "npc_output": "Yeah, I'm just a bit exhausted from the ceremony, I might need to |r2| soon."
+  },
+  {
+    "player_input": "Want to go for a sail?",
+    "npc_output": "The snowy weather isn't ideal, but I do need to |r1|, if you're willing to help."
+  },
+  {
+    "player_input": "What's new?",
+    "npc_output": "Not much, just trying to grow some new herbs, |r1| is my current project."
+  },
+  {
+    "player_input": "Do you like fishing?",
+    "npc_output": "I love it, but the windy weather is making it tough, I wish I could |r1|."
+  },
+  {
+    "player_input": "Need any help with your research?",
+    "npc_output": "Actually, I could use some help with |r1|, it's a bit more challenging than I expected."
+  }
+]

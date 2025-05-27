@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "What's wrong",
+    "npc_output": "I'm just not feeling myself today, the hail is really getting to me, do you think you could |r1| for me?"
+  },
+  {
+    "player_input": "Need help",
+    "npc_output": "Actually, I was thinking of going hunting, want to come with me and help me |r1|?"
+  },
+  {
+    "player_input": "Hi there",
+    "npc_output": "Hello, nice day isn't it? I was thinking of working on some new pieces, maybe |r1| if you'd like to watch."
+  },
+  {
+    "player_input": "What's up",
+    "npc_output": "Just getting ready for a job, need to |r1| before I can head out."
+  },
+  {
+    "player_input": "How's business",
+    "npc_output": "It's been good, just got a new shipment in, maybe you'd like to |r1| and take a look?"
+  },
+  {
+    "player_input": "You okay",
+    "npc_output": "Yeah, just a bit down, the hail isn't helping, I was thinking of |r1| to take my mind off things."
+  },
+  {
+    "player_input": "What's new",
+    "npc_output": "Not much, just got a new delivery, need to |r1| before I can send it out."
+  },
+  {
+    "player_input": "Hi",
+    "npc_output": "Hello, nice to meet you, I was just about to |r1|, care to join me?"
+  },
+  {
+    "player_input": "How's it going",
+    "npc_output": "It's going well, just working on some new material, maybe |r1| if you're interested."
+  },
+  {
+    "player_input": "What's up",
+    "npc_output": "Just getting ready for a performance, need to |r1| before I go on."
+  }
+]

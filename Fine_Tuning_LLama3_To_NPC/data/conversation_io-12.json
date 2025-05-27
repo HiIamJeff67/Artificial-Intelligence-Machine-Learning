@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "Hello Cody",
+    "npc_output": "Hi, I'm feeling hopeful today, want to talk about crafting?"
+  },
+  {
+    "player_input": "Hi Ariana",
+    "npc_output": "Excited to see you, I was just thinking about cooking something new"
+  },
+  {
+    "player_input": "What's up Shaun",
+    "npc_output": "Anxious about finding a new herb for my potions, have you seen any?"
+  },
+  {
+    "player_input": "Hi Sarah",
+    "npc_output": "Happy to see you, I was just thinking about designing a new outfit"
+  },
+  {
+    "player_input": "Hey David",
+    "npc_output": "Ugh, angry about the rain, want to hear a song to cheer me up?"
+  },
+  {
+    "player_input": "Hi Sherry",
+    "npc_output": "Neutral as always, but I could use some company, want to talk about cooking?"
+  },
+  {
+    "player_input": "Hey Jeremy",
+    "npc_output": "Happy to see you, I was thinking about pouring some drinks for the festival"
+  },
+  {
+    "player_input": "Hi Nicholas",
+    "npc_output": "A bit tired, but I'd love to chat about meditation, care to join me?"
+  },
+  {
+    "player_input": "Hello Kayla",
+    "npc_output": "Angry about the fog, don't really feel like talking"
+  },
+  {
+    "player_input": "Greetings Micheal",
+    "npc_output": "Tired but ruling the kingdom is a big job, perhaps we can discuss alchemy?"
+  }
+]

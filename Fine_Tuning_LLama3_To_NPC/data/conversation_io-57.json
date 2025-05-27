@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "Hi, what's your role here?",
+    "npc_output": "Hello! I'm Bryan Richard, the cook. I'm getting ready for the festival. Would you like to |r2|?"
+  },
+  {
+    "player_input": "What brings you out so early?",
+    "npc_output": "I'm Gregory Kline, a noble. I needed some fresh air before the ceremony. Perhaps you could help me with |r3|?"
+  },
+  {
+    "player_input": "That's quite a outfit, what's the occasion?",
+    "npc_output": "Thanks! I'm Alex Cook, the fool. I'm getting ready for the parade. Want to help me |r1|?"
+  },
+  {
+    "player_input": "Need any help with those messages?",
+    "npc_output": "Actually, yes. I'm John Nelson, the messenger. I have a lot to deliver today. Could you help me with |r1|?"
+  },
+  {
+    "player_input": "Tough day, huh?",
+    "npc_output": "You have no idea. I'm James Gordon, the messenger. Just trying to get everything done. Maybe you can assist with |r1|?"
+  },
+  {
+    "player_input": "What's brewing?",
+    "npc_output": "Just a little something. I'm Peter Jackson, the witch. Don't mind me, just |r1|."
+  },
+  {
+    "player_input": "Rough morning?",
+    "npc_output": "You could say that. I'm James Gordon, the messenger. Just Another day. Want to help with |r2|?"
+  },
+  {
+    "player_input": "Need a hand?",
+    "npc_output": "Please, I'm Victoria Hicks, the miner. I'm trying to |r1|. It's not easy, you know."
+  },
+  {
+    "player_input": "Beautiful estate, isn't it?",
+    "npc_output": "Yes, it is. I'm Marisa Rhodes, the noble. I'm hosting a banquet soon. Perhaps you can help me with |r1|?"
+  },
+  {
+    "player_input": "What are you studying?",
+    "npc_output": "Just some horsemanship techniques. I'm Alyssa Kemp, the scholar. Nothing too exciting."
+  }
+]

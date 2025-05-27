@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "What's the plan for today?",
+    "npc_output": "I need to rule the powerful kingdom in the morning, |r4|."
+  },
+  {
+    "player_input": "How's the weather?",
+    "npc_output": "It's snowy, I should serve the busy room before festival, |r1|."
+  },
+  {
+    "player_input": "Good morning",
+    "npc_output": "Good morning, I should break the hidden gem before sunset, |r1|."
+  },
+  {
+    "player_input": "Hi, what's up?",
+    "npc_output": "Just meditating, nothing much."
+  },
+  {
+    "player_input": "What do you do?",
+    "npc_output": "I'm a tailor, I should mend the elegant outfit in the shop, |r1|."
+  },
+  {
+    "player_input": "Are you excited for the festival?",
+    "npc_output": "Yes, I should navigate the adventurous ship after docking, |r2|."
+  },
+  {
+    "player_input": "What's your favorite hobby?",
+    "npc_output": "I like reading, I should repair the smooth house during construction, |r1|."
+  },
+  {
+    "player_input": "Good morning, how are you?",
+    "npc_output": "I'm a bit anxious, I should research the ancient debate at night, |r1|."
+  },
+  {
+    "player_input": "What can I get you?",
+    "npc_output": "Nothing much, but I should serve the welcoming feast after sunset, |r2|."
+  },
+  {
+    "player_input": "How's your day?",
+    "npc_output": "It's going well, I should load the strong map at the harbor, |r3|."
+  }
+]

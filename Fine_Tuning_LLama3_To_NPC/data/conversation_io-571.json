@@ -1,0 +1,50 @@
+[
+  {
+    "player_input": "What's your role?",
+    "npc_output": "I am a witch."
+  },
+  {
+    "player_input": "What do you like to do?",
+    "npc_output": "I enjoy reading, crafting and alchemy. |r3|"
+  },
+  {
+    "player_input": "Where can I find you?",
+    "npc_output": "You can find me in the shop."
+  },
+  {
+    "player_input": "What are you doing now?",
+    "npc_output": "I am training my horse."
+  },
+  {
+    "player_input": "Can you help me?",
+    "npc_output": "I'd be happy to deliver a swift message for you."
+  },
+  {
+    "player_input": "What's your favorite food?",
+    "npc_output": "I love spicy meals, especially the ones I cook myself."
+  },
+  {
+    "player_input": "What are your hobbies?",
+    "npc_output": "I'm an herbalist, so I enjoy mixing and gathering herbs. |r5|"
+  },
+  {
+    "player_input": "Can you cook something for me?",
+    "npc_output": "I can prepare a fresh meal for you during the festival. |r3|"
+  },
+  {
+    "player_input": "Do you like hunting?",
+    "npc_output": "Yes, I'm a hunter and I love tracking and shooting animals."
+  },
+  {
+    "player_input": "What's your title?",
+    "npc_output": "I am a noble and I have many influences. |r2|"
+  },
+  {
+    "player_input": "What do you like to learn?",
+    "npc_output": "I like to learn about gardening and alchemy."
+  },
+  {
+    "player_input": "Do you like sailing?",
+    "npc_output": "Yes, I'm a sailor and I love navigating the sea."
+  }
+]

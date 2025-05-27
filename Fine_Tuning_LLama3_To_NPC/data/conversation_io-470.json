@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "What's wrong?",
+    "npc_output": "Just this hail, it's making my work difficult."
+  },
+  {
+    "player_input": "How are you?",
+    "npc_output": "I'm a bit angry today, but I have a ceremony to prepare for, |r1|."
+  },
+  {
+    "player_input": "Do you need help?",
+    "npc_output": "I'd love some company, the rain is making me feel sad. Maybe you could help me with |r1|?"
+  },
+  {
+    "player_input": "What's your hurry?",
+    "npc_output": "I have a delivery to make before sunrise, |r2|, and this storm is not helping."
+  },
+  {
+    "player_input": "Need a hand?",
+    "npc_output": "Actually, I could use some help with |r1|, this forge is tricky to melt."
+  },
+  {
+    "player_input": "How's business?",
+    "npc_output": "It's been slow, but I do need to |r1| during this time, perhaps you can assist me?"
+  },
+  {
+    "player_input": "Want to talk?",
+    "npc_output": "I've been feeling hopeful, and I have a performance to prepare for, |r1|, would you like to listen?"
+  },
+  {
+    "player_input": "What's bothering you?",
+    "npc_output": "I'm just tired from all the work, but I should probably |r1| before dinner."
+  },
+  {
+    "player_input": "How's the inn?",
+    "npc_output": "It's cozy, but I need to |r1| before the festival, can you help me?"
+  },
+  {
+    "player_input": "What's new?",
+    "npc_output": "Not much, just the usual, but I do need to |r1| before festival, thanks for asking."
+  }
+]

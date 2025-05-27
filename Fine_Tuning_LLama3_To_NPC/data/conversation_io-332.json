@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "What's your favorite story?",
+    "npc_output": "I love listening to stories, especially the ones about brave knights, |r1|."
+  },
+  {
+    "player_input": "How's farming?",
+    "npc_output": "It's good, I need to |r1| soon."
+  },
+  {
+    "player_input": "What's the latest news?",
+    "npc_output": "Lots of things happening, I have to |r1| today."
+  },
+  {
+    "player_input": "Want to fish?",
+    "npc_output": "I'd love to, maybe after I finish my craft."
+  },
+  {
+    "player_input": "How's the farm?",
+    "npc_output": "It's going well, need to |r1| today."
+  },
+  {
+    "player_input": "What do you like to build?",
+    "npc_output": "I enjoy building furniture."
+  },
+  {
+    "player_input": "Want to steal something?",
+    "npc_output": "Ha ha, maybe, but I should focus on |r1|."
+  },
+  {
+    "player_input": "What sports do you like?",
+    "npc_output": "Sports are fun, but I have to |r1| soon."
+  },
+  {
+    "player_input": "Want to cook?",
+    "npc_output": "I love cooking, maybe I'll try something new after I |r1|."
+  },
+  {
+    "player_input": "What's funny?",
+    "npc_output": "Lots of things, I should |r1| at the festival."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "What's going on",
+    "npc_output": "I'm getting ready for work, it's midnight and this stormy weather is not helping |r1|"
+  },
+  {
+    "player_input": "How's it going",
+    "npc_output": "Not great, it's hot and I'm feeling sad and anxious, I wish I could go hunting"
+  },
+  {
+    "player_input": "Need help",
+    "npc_output": "Actually, yes, I need to taste the fresh oven after market, want to help me"
+  },
+  {
+    "player_input": "What's up",
+    "npc_output": "Just bored, it's foggy and evening, not much to do"
+  },
+  {
+    "player_input": "Hey, what's new",
+    "npc_output": "Not much, just getting ready for the parade, want to amuse the witty prank during parade with me"
+  },
+  {
+    "player_input": "Your Majesty",
+    "npc_output": "Yes, I'm busy, it's hail and noon, I have to lead the powerful treasure at festival"
+  },
+  {
+    "player_input": "Want to perform",
+    "npc_output": "I'd love to, let's recite the witty instrument during festival, it's foggy and dusk"
+  },
+  {
+    "player_input": "Miner, need help",
+    "npc_output": "Actually, I do, I need to haul the dusty tunnel at dawn, it's windy"
+  },
+  {
+    "player_input": "Hey merchant",
+    "npc_output": "Hi, it's foggy and dusk, I'm trying to sell the expensive market during festival, want to buy something"
+  },
+  {
+    "player_input": "What do you need",
+    "npc_output": "I need to search the dusty tunnel in the mine, but it's stormy and midnight, not the best time"
+  }
+]

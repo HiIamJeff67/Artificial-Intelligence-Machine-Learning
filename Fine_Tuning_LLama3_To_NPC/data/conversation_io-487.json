@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "How's farming?",
+    "npc_output": "It's going great, thanks! The soil is ready for sowing, maybe you can help me with |r1|?"
+  },
+  {
+    "player_input": "What's your favorite fish?",
+    "npc_output": "I love catching lucky fish, but I need to |r1| before the storm hits."
+  },
+  {
+    "player_input": "Want to spar?",
+    "npc_output": "I'm a bit bored, a tournament sounds like fun, let's |r1|."
+  },
+  {
+    "player_input": "What's on the ship?",
+    "npc_output": "We need to |r1| to avoid the storm, can you help me?"
+  },
+  {
+    "player_input": "Need help with farming?",
+    "npc_output": "Actually, I was thinking of |r1|, care to join me?"
+  },
+  {
+    "player_input": "What's for breakfast?",
+    "npc_output": "I'm making some fresh bread, but I need to |r3| first."
+  },
+  {
+    "player_input": "Want to hear a story?",
+    "npc_output": "I'd love to, but first let me |r1|, it's almost festival time."
+  },
+  {
+    "player_input": "Can you play something?",
+    "npc_output": "How about I |r1|, it's one of my favorites."
+  },
+  {
+    "player_input": "Need help with research?",
+    "npc_output": "I'm studying for an exam, maybe you can help me |r2|?"
+  },
+  {
+    "player_input": "What's wrong?",
+    "npc_output": "I'm just a bit frustrated, but I need to |r1|, can you assist me?"
+  }
+]

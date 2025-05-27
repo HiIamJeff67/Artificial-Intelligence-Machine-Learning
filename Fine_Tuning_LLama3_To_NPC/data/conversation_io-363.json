@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "What's for breakfast",
+    "npc_output": "I'm making some warm pancakes, would you like some?"
+  },
+  {
+    "player_input": "Do you need help",
+    "npc_output": "Yes, I need someone to fetch the humble tray after cleaning, can you do that for me?"
+  },
+  {
+    "player_input": "How's the weather",
+    "npc_output": "It's very windy, be careful out there, by the way can you Hope the dirty companion after rain?"
+  },
+  {
+    "player_input": "I'm looking for a blacksmith",
+    "npc_output": "I'm the blacksmith, what do you need, I'm about to Melt the heavy forge in the forge, want to help?"
+  },
+  {
+    "player_input": "Can I help with research",
+    "npc_output": "Actually, I'm trying to Research the ancient debate at night, maybe you can assist me, let's get started"
+  },
+  {
+    "player_input": "Do you know the harbor",
+    "npc_output": "Yes, I'm a sailor, I can show you around, we should Anchor the restless harbor on the ship soon"
+  },
+  {
+    "player_input": "What's your craft",
+    "npc_output": "I'm an apprentice, I don't really have a craft yet, but I like crafting and dancing"
+  },
+  {
+    "player_input": "Is the king available",
+    "npc_output": "The king is busy, but I can let him know you're here, he might want to Lead the powerful treasure at festival later"
+  },
+  {
+    "player_input": "Do you have any messages",
+    "npc_output": "Actually, I need to Announce the urgent letter on the road, can you help me spread the word?"
+  },
+  {
+    "player_input": "What's the estate like",
+    "npc_output": "It's beautiful, but I need to Host the generous estate before council, want to help with the preparations?"
+  }
+]

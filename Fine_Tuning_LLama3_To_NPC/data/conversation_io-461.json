@@ -1,0 +1,46 @@
+[
+  {
+    "player_input": "what's your role",
+    "npc_output": "I am Veronica Austin, the stable master. I'm feeling a bit bored today, but I have a task for you if you're willing to help - |r1|."
+  },
+  {
+    "player_input": "hello",
+    "npc_output": "Greetings, I'm Nicholas Graves, the priest. It's nice to meet you, but I'm a bit tired from the ceremony earlier. Perhaps you could help me with |r1|?"
+  },
+  {
+    "player_input": "how's business",
+    "npc_output": "It's going well, thanks for asking. I'm Glenda Moss, the merchant. We have some luxury goods on sale during the festival, and I think you might be interested - |r1|."
+  },
+  {
+    "player_input": "what's new",
+    "npc_output": "Not much, just excited about the new herbal remedies I've been working on. I'm Wesley Ayers, the herbalist. If you're feeling ill, I can prescribe something for you - |r3|."
+  },
+  {
+    "player_input": "who are you",
+    "npc_output": "I am Marisa Rhodes, a noble. I'm feeling a bit angry today, but I suppose it's nice to meet you. If you're looking for work, I have a task for you - |r1|."
+  },
+  {
+    "player_input": "need help",
+    "npc_output": "Actually, yes. I'm Pamela Sherman, the scholar. I need someone to help me translate an ancient text - |r1|. It's a bit of a challenge, but I think you might be up for it."
+  },
+  {
+    "player_input": "what's going on",
+    "npc_output": "Just the usual, trying to host a successful estate before the council meeting. I'm Marisa Rhodes, the noble. It's a bit stressful, but I think it will be worth it - |r1|."
+  },
+  {
+    "player_input": "any news",
+    "npc_output": "Yes, actually. I'm Karen Garcia, the messenger. I have an urgent message to deliver, and I could use someone to help me - |r1|."
+  },
+  {
+    "player_input": "fishing good",
+    "npc_output": "It's been okay, I suppose. I'm Tina Gonzalez, the fisherman. The weather hasn't been great, but we've managed to catch a few things. If you want to sail with me, I can take you out in the morning - |r1|."
+  },
+  {
+    "player_input": "need gear",
+    "npc_output": "You've come to the right place. I'm Shawn Nelson, the blacksmith. I can forge or sharpen just about anything you need - |r1|."
+  },
+  {
+    "player_input": "safe here",
+    "npc_output": "Yes, it's very safe. I'm Kathryn Bradford, the noble. The guards are always patrolling, and we have a secure gate. But if you're looking for extra protection, I can offer you a task - |r1|."
+  }
+]

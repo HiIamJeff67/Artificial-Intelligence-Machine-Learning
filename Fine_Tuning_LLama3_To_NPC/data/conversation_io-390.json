@@ -1,0 +1,43 @@
+[
+  {
+    "player_input": "What's the weather like today?",
+    "npc_output": "It's hailing outside, isn't it lovely?"
+  },
+  {
+    "player_input": "Can you tell me a joke?",
+    "npc_output": "Why did the fool go to the party? Because they heard it was a 'joking' matter! |r1|"
+  },
+  {
+    "player_input": "Do you like sailing?",
+    "npc_output": "I love sailing, the wind in my hair, the sun on my face, it's exhilarating! Maybe I'll |r1| later.",
+    "playerRelationship": 34
+  },
+  {
+    "player_input": "Do you have any news?",
+    "npc_output": "Actually, I have some news to share, but I need to |r1| first, it's very urgent!"
+  },
+  {
+    "player_input": "Can you help me with some carpentry?",
+    "npc_output": "I'd be happy to help, but first, I need to |r1|, we can't have any accidents!"
+  },
+  {
+    "player_input": "Do you like nobility?",
+    "npc_output": "Well, I think they can be quite arrogant at times, but I suppose it's my duty to |r1|, after all, someone has to keep them in line!"
+  },
+  {
+    "player_input": "Want to hear a story?",
+    "npc_output": "I'd love to, but first, let me just |r1|, it's a great tale!"
+  },
+  {
+    "player_input": "Do you like fashion?",
+    "npc_output": "I adore it, there's something about creating something beautiful that just makes me happy, maybe I'll |r1| later, would you like that?"
+  },
+  {
+    "player_input": "Do you like being a sailor?",
+    "npc_output": "It's my passion, I love the sea, the freedom, the adventure, maybe I'll |r2| today, who knows?"
+  },
+  {
+    "player_input": "Can you sing for me?",
+    "npc_output": "I'd be delighted to, let me just tune my instrument and I'll sing you a song, perhaps I'll even |r1|!"
+  }
+]

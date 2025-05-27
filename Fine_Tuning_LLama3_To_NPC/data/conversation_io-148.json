@@ -1,0 +1,62 @@
+[
+  {
+    "player_input": "What's new with your research?",
+    "npc_output": "I'm excited to share my latest discovery with you, I've been studying the effects of the hot weather on the plants in the garden, and I think I've found a way to create a new remedy, I just need to |r1| first."
+  },
+  {
+    "player_input": "How's your day going?",
+    "npc_output": "It's been a bit dull so far, just been studying and trying to learn more about horsemanship, but I'm hoping to liven things up soon."
+  },
+  {
+    "player_input": "Do you have a favorite hobby?",
+    "npc_output": "I love to dance and read, and I've been trying to get into music lately, maybe you could help me come up with a new prank to play on the other fools, like |r1|."
+  },
+  {
+    "player_input": "What brings you here today?",
+    "npc_output": "I'm here to study and get some work done, I have a lot of manuscripts to translate and I need to make sure I get them done before the exam, maybe you can help me with |r1|."
+  },
+  {
+    "player_input": "Do you have any favorite recipes?",
+    "npc_output": "I have a few that I like to make, especially when it comes to desserts, and I think I might have a new idea for a crispy dessert that I want to try out, maybe I'll even |r1| for you."
+  },
+  {
+    "player_input": "How's the cooking business?",
+    "npc_output": "It's been a bit slow lately, but I'm hoping to pick things up soon, I've been experimenting with some new recipes and I think I've found a few that will really impress, maybe you can help me with |r1|."
+  },
+  {
+    "player_input": "Do you have any tips for hunting?",
+    "npc_output": "I've found that tracking and patience are key, and it's always good to have a reliable trap, like the one I used to |r1|."
+  },
+  {
+    "player_input": "What's your favorite thing to make?",
+    "npc_output": "I love to create all sorts of things, from clothes to decorations, and I think my favorite thing to make is probably an elegant outfit, maybe I'll even |r1| for you."
+  },
+  {
+    "player_input": "Do you have any big plans?",
+    "npc_output": "I have a few things in the works, including a new outfit that I'm designing, and I'm thinking about |r1| to make sure it's perfect."
+  },
+  {
+    "player_input": "What do you like to do for fun?",
+    "npc_output": "I love to jest and play pranks on my friends, and I think I might have a new trick up my sleeve, maybe I'll even |r1| for you."
+  },
+  {
+    "player_input": "Have you traveled anywhere exciting?",
+    "npc_output": "I've been on a few adventures in my time as a sailor, and I've seen some amazing things, maybe one day I'll |r1| and set sail again."
+  },
+  {
+    "player_input": "What's it like working in the mine?",
+    "npc_output": "It can be tough at times, but it's also very rewarding, and I've found some amazing things deep in the tunnels, maybe one day I'll |r1| and find something truly valuable."
+  },
+  {
+    "player_input": "Do you have any favorite drinks?",
+    "npc_output": "I have a few that I like to serve at the inn, and I think my favorite is probably a generous feast, maybe I'll even |r1| for you."
+  },
+  {
+    "player_input": "What's new in the garden?",
+    "npc_output": "I've been studying the plants and trying to come up with new remedies, and I think I've found a few things that could be really helpful, maybe I'll even |r1| and show you."
+  },
+  {
+    "player_input": "Do you have any big projects?",
+    "npc_output": "I've been working on a few things, including a new anvil that I'm tempering, and I think it's going to be a real game-changer, maybe I'll even |r1| and show you."
+  }
+]

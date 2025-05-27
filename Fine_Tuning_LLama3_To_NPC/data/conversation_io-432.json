@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "Good morning, Arthur.",
+    "npc_output": "Good morning. I'm on guard duty today, |r1|."
+  },
+  {
+    "player_input": "David, play some music.",
+    "npc_output": "I'd be happy to play something for you, perhaps |r2|."
+  },
+  {
+    "player_input": "April, what's for lunch?",
+    "npc_output": "We're having a feast, and I need to |r3|."
+  },
+  {
+    "player_input": "Scott, can you help me?",
+    "npc_output": "Of course, I'd be happy to assist you with |r1|."
+  },
+  {
+    "player_input": "Scott, how's the cleaning?",
+    "npc_output": "It's going well, but I still need to |r5|."
+  },
+  {
+    "player_input": "Mrs. Martinez, can you heal me?",
+    "npc_output": "I'll do my best to |r1| for you."
+  },
+  {
+    "player_input": "Shelley, what's new?",
+    "npc_output": "Not much, just trying to |r2|."
+  },
+  {
+    "player_input": "John, do you have any messages?",
+    "npc_output": "Yes, I have a |r1| to deliver."
+  },
+  {
+    "player_input": "Regina, what are you up to?",
+    "npc_output": "Just out for a walk, but I might |r1| later."
+  },
+  {
+    "player_input": "Michelle, can you help me escape?",
+    "npc_output": "I can try to |r1| for you, but it won't be easy."
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "player_input": "What's the news?",
+    "npc_output": "The weather is cloudy this morning, |r3|."
+  },
+  {
+    "player_input": "Need help?",
+    "npc_output": "I'm just waiting for dawn to start my day."
+  },
+  {
+    "player_input": "Fishing today?",
+    "npc_output": "I'm preparing my nets for the storm, |r1|."
+  },
+  {
+    "player_input": "How's your day?",
+    "npc_output": "It's foggy at noon, but I have cleaning to do, |r1|."
+  },
+  {
+    "player_input": "What's the plan?",
+    "npc_output": "It's hot in the morning, and I have a ceremony to attend, |r1|."
+  },
+  {
+    "player_input": "Want to sail?",
+    "npc_output": "The sunny weather at midnight is perfect for sailing, |r1|."
+  },
+  {
+    "player_input": "Need assistance?",
+    "npc_output": "Just navigating the map after docking, |r2|."
+  },
+  {
+    "player_input": "How's life?",
+    "npc_output": "It's hot at dusk, and I'm just waiting for a meal, |r3|."
+  },
+  {
+    "player_input": "What's new?",
+    "npc_output": "Just a drizzly evening, nothing much to do."
+  },
+  {
+    "player_input": "Want to explore?",
+    "npc_output": "The stormy weather at noon is not ideal, but I could use help with |r1|."
+  },
+  {
+    "player_input": "How are you?",
+    "npc_output": "I'm neutral, just preparing for the holy day, |r1|."
+  },
+  {
+    "player_input": "Need something?",
+    "npc_output": "The windy morning is nice, but I have a busy day, |r9|."
+  },
+  {
+    "player_input": "How's your evening?",
+    "npc_output": "It's windy after sunset, and I have a banquet to attend, |r4|."
+  },
+  {
+    "player_input": "Want help?",
+    "npc_output": "I'm just an apprentice, learning and observing, |r1|."
+  },
+  {
+    "player_input": "How's your day?",
+    "npc_output": "It's windy at noon, and I have a message to deliver, |r1|."
+  },
+  {
+    "player_input": "What's up?",
+    "npc_output": "The windy weather at noon is refreshing, and I'm hosting a court, |r1|."
+  }
+]

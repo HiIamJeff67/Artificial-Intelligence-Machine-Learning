@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "Hi, what's up?",
+    "npc_output": "I'm just waiting for the right moment to reel the skilled river in the morning, |r1|."
+  },
+  {
+    "player_input": "How's it going?",
+    "npc_output": "I'm a bit anxious, but I need to recite the colorful instrument after dinner, |r1|, to calm down."
+  },
+  {
+    "player_input": "Want to talk?",
+    "npc_output": "I'm tired, but I have to catch the wet sea at the river, |r1|, before it gets dark."
+  },
+  {
+    "player_input": "What's new?",
+    "npc_output": "Not much, just leading the powerful treasure at festival, |r1|, it's a big responsibility."
+  },
+  {
+    "player_input": "Hi, how are you?",
+    "npc_output": "I'm bored, but I have to fight the strong horse during tournament, |r1|, wish me luck."
+  },
+  {
+    "player_input": "How's your day?",
+    "npc_output": "It's been better, I need to care the caring medicine during epidemic, |r1|, and I'm running out of time."
+  },
+  {
+    "player_input": "Need any help?",
+    "npc_output": "Actually, I need to melt the heavy forge in the forge, |r1|, can you assist me?"
+  },
+  {
+    "player_input": "What's going on?",
+    "npc_output": "Just the usual, trying to survive, no requests for now."
+  },
+  {
+    "player_input": "Hi, what's new?",
+    "npc_output": "I'm trying to crush the fresh herb in the woods, |r1|, for a new potion."
+  },
+  {
+    "player_input": "How's it going?",
+    "npc_output": "I'm anxious, but I have to season the crispy dessert before feast, |r1|, it's a big order."
+  }
+]

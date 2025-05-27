@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "What's your role?",
+    "npc_output": "I am a witch, nice to meet you."
+  },
+  {
+    "player_input": "Hi, how are you?",
+    "npc_output": "I'm feeling a bit sad and bored, thanks for asking."
+  },
+  {
+    "player_input": "Need help with anything?",
+    "npc_output": "Actually, I need to crush the fragrant tincture after rain, |r1|."
+  },
+  {
+    "player_input": "What do you do?",
+    "npc_output": "I'm a tailor, I sew and mend clothes."
+  },
+  {
+    "player_input": "Hi, what's up?",
+    "npc_output": "Not much, just getting ready to deliver some messages, |r1|."
+  },
+  {
+    "player_input": "How's business?",
+    "npc_output": "It's going well, just trying to trade some valuable goods, |r1|."
+  },
+  {
+    "player_input": "What brings you here?",
+    "npc_output": "Just enjoying the windy weather, it's nice to be out at dawn."
+  },
+  {
+    "player_input": "Want to fish?",
+    "npc_output": "Actually, I'd love to catch the early catch before the storm, |r1|."
+  },
+  {
+    "player_input": "What are you studying?",
+    "npc_output": "I'm researching for a lecture, trying to teach the learned study at night, |r1|."
+  },
+  {
+    "player_input": "What do you grow?",
+    "npc_output": "I'm a farmer, I sow the fresh soil at the field, |r1|."
+  }
+]

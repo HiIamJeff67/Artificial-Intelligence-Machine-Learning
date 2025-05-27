@@ -1,0 +1,62 @@
+[
+  {
+    "player_input": "Hello, what's your hurry?",
+    "npc_output": "I need to deliver this letter before dawn, can you help me? |r1|"
+  },
+  {
+    "player_input": "What brings you here?",
+    "npc_output": "Just enjoying the snowy festival, it's so peaceful. "
+  },
+  {
+    "player_input": "Do you need any help?",
+    "npc_output": "Actually, I'm waiting for someone to wander the lonely shelter with me. |r1|"
+  },
+  {
+    "player_input": "Are you going hunting?",
+    "npc_output": "Yes, I'm tracking a rugged arrow before sunset. Care to join me? |r3|"
+  },
+  {
+    "player_input": "What are you making?",
+    "npc_output": "I'm embroidering an elegant hat, it's for a customer. |r1|"
+  },
+  {
+    "player_input": "Do you have any food?",
+    "npc_output": "I'm waiting for someone to bring me a dirty hope before meal, do you have any? |r1|"
+  },
+  {
+    "player_input": "What's wrong?",
+    "npc_output": "I'm just feeling a bit angry and tired, the stormy weather isn't helping. "
+  },
+  {
+    "player_input": "Do you need any assistance?",
+    "npc_output": "Actually, I need someone to fetch the loyal errand before dinner. Can you help? |r1|"
+  },
+  {
+    "player_input": "What's your plan?",
+    "npc_output": "I'm going to steal a cunning hideout in the alley, want to come with? |r1|"
+  },
+  {
+    "player_input": "How's your day?",
+    "npc_output": "It's been good, just sewing a stylish outfit before the festival. |r1|"
+  },
+  {
+    "player_input": "What do you need?",
+    "npc_output": "I need to deliver a punctual letter at dawn, can you help me? |r1|"
+  },
+  {
+    "player_input": "What are you working on?",
+    "npc_output": "I'm measuring an embroidered pattern, it's for a customer. |r5|"
+  },
+  {
+    "player_input": "Do you need help with anything?",
+    "npc_output": "Actually, I need to repair a smooth house during construction. Can you assist me? |r1|"
+  },
+  {
+    "player_input": "What are you gathering?",
+    "npc_output": "I'm gathering a dried plant at sunrise, it's for a remedy. |r1|"
+  },
+  {
+    "player_input": "Do you want to go fishing?",
+    "npc_output": "Yes, I'm waiting for someone to fish the patient fish with me. |r5|"
+  }
+]

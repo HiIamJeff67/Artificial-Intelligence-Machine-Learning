@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "What's the hurry?",
+    "npc_output": "I need to |r1| before it gets too late."
+  },
+  {
+    "player_input": "Do you like the fog?",
+    "npc_output": "No, it makes theft harder. I need to |r2| soon."
+  },
+  {
+    "player_input": "What's brewing?",
+    "npc_output": "My latest potion. I hope to |r1| before the storm passes."
+  },
+  {
+    "player_input": "Do you like the manor?",
+    "npc_output": "It's nice, but I'm too busy with |r3| to enjoy it."
+  },
+  {
+    "player_input": "Will you perform today?",
+    "npc_output": "Yes, I'll |r1| during the festival, wish me luck!"
+  },
+  {
+    "player_input": "Is it cold outside?",
+    "npc_output": "Yes, I need to |r8| to keep my remedies from spoiling."
+  },
+  {
+    "player_input": "Do you like your job?",
+    "npc_output": "It's okay, but I have a lot of tasks like |r1| to complete."
+  },
+  {
+    "player_input": "What's for dinner?",
+    "npc_output": "I'm not sure, I'm a scholar, not a chef. I don't have any requests for now."
+  },
+  {
+    "player_input": "Will you build something today?",
+    "npc_output": "Maybe, but I don't have any specific plans or requests at the moment."
+  },
+  {
+    "player_input": "Can you heal me?",
+    "npc_output": "Of course, let me just |r1| first."
+  }
+]

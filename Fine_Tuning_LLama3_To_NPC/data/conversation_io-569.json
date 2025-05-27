@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "What's the weather like today?",
+    "npc_output": "It's hailing outside, be careful out there."
+  },
+  {
+    "player_input": "How are you today?",
+    "npc_output": "I'm a bit angry and tired, but I have a lot of work to do.|r2|"
+  },
+  {
+    "player_input": "What are you studying?",
+    "npc_output": "I'm currently researching farming and cooking techniques."
+  },
+  {
+    "player_input": "Do you need any help?",
+    "npc_output": "No, I'm fine, just a bit angry, I need some space."
+  },
+  {
+    "player_input": "What's your job?",
+    "npc_output": "I'm a messenger, and I have some urgent news to deliver.|r1|"
+  },
+  {
+    "player_input": "How can I assist you?",
+    "npc_output": "Actually, I'm a noble, and I need someone to donate to my estate.|r3|"
+  },
+  {
+    "player_input": "What's the inn like?",
+    "npc_output": "It's a nice place, and I can serve you a generous feast.|r2|"
+  },
+  {
+    "player_input": "Do you need any assistance?",
+    "npc_output": "No, I'm good, just meditating and waiting for the storm to pass."
+  },
+  {
+    "player_input": "What's the plan for today?",
+    "npc_output": "We're setting sail, and I need to navigate the map.|r3|"
+  },
+  {
+    "player_input": "How's fishing?",
+    "npc_output": "It's okay, but the weather is not great, maybe try casting your net in the morning.|r2|"
+  }
+]

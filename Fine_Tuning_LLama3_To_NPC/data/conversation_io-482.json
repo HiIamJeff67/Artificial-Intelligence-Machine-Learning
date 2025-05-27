@@ -1,0 +1,44 @@
+[
+  {
+    "player_input": "What's your job?",
+    "npc_output": "I'm a thief, nice to meet you."
+  },
+  {
+    "player_input": "Do you have any news?",
+    "npc_output": "Nothing much, just that I need to notify the trusted news after delivery.|r1|"
+  },
+  {
+    "player_input": "",
+    "npc_output": "",
+    "npc_informations": "",
+    "environment_informations": ""
+  },
+  {
+    "player_input": "What's your role?",
+    "npc_output": "I'm a noble, and I need to donate the influential debt after ceremony.|r1|"
+  },
+  {
+    "player_input": "Want to perform?",
+    "npc_output": "I'd love to entertain the lively lyre on stage.|r1|"
+  },
+  {
+    "player_input": "How's the delivery?",
+    "npc_output": "It's going well, but I need to report the punctual scroll before sunset.|r3|"
+  },
+  {
+    "player_input": "Need any help?",
+    "npc_output": "Actually, could you help me fetch the loyal errand before dinner?|r1|"
+  },
+  {
+    "player_input": "What's the prayer?",
+    "npc_output": "We're going to conduct the holy prayer during ceremony.|r4|"
+  },
+  {
+    "player_input": "What's cooking?",
+    "npc_output": "I'm preparing the fresh meal during festival.|r3|"
+  },
+  {
+    "player_input": "Any messages?",
+    "npc_output": "I need to travel the urgent scroll after delivery.|r1|"
+  }
+]

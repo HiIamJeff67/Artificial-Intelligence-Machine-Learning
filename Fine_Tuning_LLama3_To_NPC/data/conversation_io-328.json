@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "What's your message?",
+    "npc_output": "I have a urgent scroll to deliver, can you help me with that, |r1|?"
+  },
+  {
+    "player_input": "How's the day?",
+    "npc_output": "It's foggy and noon, I am a bit tired, but I have to notify the reliable route during rain, |r2|."
+  },
+  {
+    "player_input": "Need any help?",
+    "npc_output": "I have to attend the proud debt before council, but thanks for offering, it's stormy outside."
+  },
+  {
+    "player_input": "What are you doing?",
+    "npc_output": "I'm measuring the smooth plank at the workshop, want to join me? |r4|"
+  },
+  {
+    "player_input": "How's the work?",
+    "npc_output": "It's going well, but I have to search the dusty tunnel in the mine, it's getting late."
+  },
+  {
+    "player_input": "Any tasks for me?",
+    "npc_output": "Actually, I need you to predict the dark broom before dawn, it's very important, |r1|."
+  },
+  {
+    "player_input": "What's your plan?",
+    "npc_output": "I'm going to plow the abundant soil after sunrise, want to help?"
+  },
+  {
+    "player_input": "Need assistance?",
+    "npc_output": "I have to attend the proud debt in the city, but thanks, it's drizzling outside."
+  },
+  {
+    "player_input": "What's on your mind?",
+    "npc_output": "I'm a bit reserved, but I need to stable the tidy bridle at dawn, |r1|."
+  },
+  {
+    "player_input": "Any new discoveries?",
+    "npc_output": "Not yet, but I'm going to distill the magical formula before sunrise, wish me luck, |r1|."
+  }
+]

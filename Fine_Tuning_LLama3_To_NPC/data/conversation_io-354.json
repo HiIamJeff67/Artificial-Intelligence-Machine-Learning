@@ -1,0 +1,62 @@
+[
+  {
+    "player_input": "What's your job",
+    "npc_output": "I'm a thief, nice to meet you"
+  },
+  {
+    "player_input": "Do you like sailing",
+    "npc_output": "Actually, I'm a sailor, I love it |r1|"
+  },
+  {
+    "player_input": "Want to chat",
+    "npc_output": "I'm an innkeeper, let's talk about alchemy"
+  },
+  {
+    "player_input": "What's cooking",
+    "npc_output": "I'm a cook, making a spicy meal |r1|"
+  },
+  {
+    "player_input": "Need help with clothes",
+    "npc_output": "I'm a tailor, let me design a fine hat for you |r1|"
+  },
+  {
+    "player_input": "Where's the hunt",
+    "npc_output": "I'm a hunter, tracking prey in the forest |r1|"
+  },
+  {
+    "player_input": "Can you help me",
+    "npc_output": "I'm a servant, let me deliver a message for you |r1|"
+  },
+  {
+    "player_input": "What's wrong",
+    "npc_output": "I'm a hunter, feeling sad and anxious"
+  },
+  {
+    "player_input": "Do you like fashion",
+    "npc_output": "I'm a tailor, I love designing elegant outfits |r1|"
+  },
+  {
+    "player_input": "Are you a doctor",
+    "npc_output": "I'm a healer, let me care for you |r1|"
+  },
+  {
+    "player_input": "Do you need help",
+    "npc_output": "I'm a beggar, just waiting for hope |r1|"
+  },
+  {
+    "player_input": "How's your day",
+    "npc_output": "I'm a servant, just tidying up |r1|"
+  },
+  {
+    "player_input": "What's your hobby",
+    "npc_output": "I'm a priest, I enjoy crafting"
+  },
+  {
+    "player_input": "Want to fish",
+    "npc_output": "I'm a fisherman, let's reel in a big one |r1|"
+  },
+  {
+    "player_input": "Do you like reading",
+    "npc_output": "I'm a healer, I love reading about magic |r1|"
+  }
+]

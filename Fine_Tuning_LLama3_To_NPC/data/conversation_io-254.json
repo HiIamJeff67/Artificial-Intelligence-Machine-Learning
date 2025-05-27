@@ -1,0 +1,62 @@
+[
+  {
+    "player_input": "What's your favorite thing to do on a foggy morning?",
+    "npc_output": "I love to stay inside and focus on my embroidery, especially when the weather is gloomy. |r1| is a priority for me."
+  },
+  {
+    "player_input": "How's business been lately?",
+    "npc_output": "It's been slow, unfortunately. The rainy weather doesn't help. I wish someone would |r1| for me."
+  },
+  {
+    "player_input": "Do you like windy afternoons?",
+    "npc_input": "Not particularly. It's hard to work in the garden when it's so windy. But I do need to |r1| soon."
+  },
+  {
+    "player_input": "What do you like to do before sunrise?",
+    "npc_output": "I like to prepare for the day, maybe do some watering or sowing. |r1| is on my list for today."
+  },
+  {
+    "player_input": "What's it like being a beggar?",
+    "npc_output": "It's tough, but I've learned to appreciate the small things. Sometimes I just |r1| and hope for the best."
+  },
+  {
+    "player_input": "Do you enjoy sunny evenings?",
+    "npc_output": "Yes, I do. It's a great time to reflect on the day and plan for the next. Perhaps I'll |r1| soon."
+  },
+  {
+    "player_input": "What's your favorite hobby?",
+    "npc_output": "I love music and dancing. It's a great way to express myself. But as a sailor, I also enjoy |r1|."
+  },
+  {
+    "player_input": "Do you like farming?",
+    "npc_output": "Yes, I do. There's something satisfying about working with the land. |r1| is one of my tasks for the day."
+  },
+  {
+    "player_input": "What do you like to do in the morning?",
+    "npc_output": "I like to attend to my duties as a noble. Perhaps I'll |r1| today."
+  },
+  {
+    "player_input": "What's your favorite thing to do during a festival?",
+    "npc_output": "I love the energy of the festival. It's a great time to |r1| and enjoy the celebrations."
+  },
+  {
+    "player_input": "Do you like fishing?",
+    "npc_output": "Yes, I do. It's a great way to relax. As a fisherman, I also need to |r1| regularly."
+  },
+  {
+    "player_input": "What's it like being a knight?",
+    "npc_output": "It's a challenging but rewarding role. I need to |r1| to stay prepared for battle."
+  },
+  {
+    "player_input": "Do you like stormy weather?",
+    "npc_output": "Not particularly. It's hard to work in the tailor shop when it's so stormy. But I do need to |r1| soon."
+  },
+  {
+    "player_input": "What's your favorite thing to do in the morning?",
+    "npc_output": "I love to start the day by grooming the horses. |r1| is one of my responsibilities."
+  },
+  {
+    "player_input": "Do you like sunny mornings?",
+    "npc_output": "Yes, I do. It's a great time to start the day. I don't have any specific tasks, but I enjoy the atmosphere."
+  }
+]

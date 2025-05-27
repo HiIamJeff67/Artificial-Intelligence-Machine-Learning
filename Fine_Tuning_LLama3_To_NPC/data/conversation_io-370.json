@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "What's your favorite hobby?",
+    "npc_output": "I enjoy horsemanship, it's so thrilling"
+  },
+  {
+    "player_input": "How's the weather?",
+    "npc_output": "It's stormy, I love sailing in such weather"
+  },
+  {
+    "player_input": "What are you doing?",
+    "npc_output": "Just planning to steal something, it's my job"
+  },
+  {
+    "player_input": "Hi, how are you?",
+    "npc_output": "I'm angry, don't bother me"
+  },
+  {
+    "player_input": "Want to go hunting?",
+    "npc_output": "Yes, I love hunting, let's track some prey"
+  },
+  {
+    "player_input": "What do you like to do?",
+    "npc_output": "I'm a noble, I like attending ceremonies and donating to the poor"
+  },
+  {
+    "player_input": "Do you like fishing?",
+    "npc_output": "Yes, I love fishing, it's my passion"
+  },
+  {
+    "player_input": "What's your favorite subject?",
+    "npc_output": "I'm interested in magic and collecting rare things"
+  },
+  {
+    "player_input": "Need any help?",
+    "npc_output": "Actually, yes, I need to deliver this urgent message"
+  },
+  {
+    "player_input": "What's your favorite food?",
+    "npc_output": "I love cooking and trying new recipes"
+  }
+]

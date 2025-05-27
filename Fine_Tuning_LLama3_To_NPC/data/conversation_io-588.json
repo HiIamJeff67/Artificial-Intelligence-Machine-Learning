@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "Hello Mr. George, how's the festival going?",
+    "npc_output": "It's going well, but I need to |r1| to get everything ready."
+  },
+  {
+    "player_input": "Mr. George, what brings you out on a rainy morning?",
+    "npc_output": "Just getting some work done, trying to |r2| before the day gets busy."
+  },
+  {
+    "player_input": "Karen, I see you're working late at midnight. Anything I can help with?",
+    "npc_output": "Actually, I need to |r1| as soon as possible, could you help me with that?"
+  },
+  {
+    "player_input": "Cody, how's life as a beggar treating you?",
+    "npc_output": "It's tough, but I'm managing. I was thinking of |r5| later, want to join me?"
+  },
+  {
+    "player_input": "Mrs. Smith, what are you researching today?",
+    "npc_output": "I'm studying the ancient arts, trying to |r1| before my next exam."
+  },
+  {
+    "player_input": "Marisa, your estate is beautiful. Do you have any events planned?",
+    "npc_output": "Yes, I'm hosting a banquet soon and I need to |r1| before then."
+  },
+  {
+    "player_input": "Glenda, what kind of goods are you selling today?",
+    "npc_output": "Just the usual, trying to |r1| to make a profit."
+  },
+  {
+    "player_input": "Alexis, I see you're in a hurry. What's the urgent message?",
+    "npc_output": "I need to |r1| as soon as possible, it's a matter of great importance."
+  },
+  {
+    "player_input": "Tiffany, how's the mining business?",
+    "npc_output": "It's going well, but I need to |r1| before the day ends."
+  },
+  {
+    "player_input": "Jennifer, what are you doing out so late?",
+    "npc_output": "Just taking care of some business, trying to |r1| before dawn."
+  }
+]

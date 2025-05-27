@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "What's your job?",
+    "npc_output": "I'm Kelly Parks, a servant. I'm feeling a bit tired and sad today. |r1|"
+  },
+  {
+    "player_input": "How's the festival?",
+    "npc_output": "It's snowy and festive, but I'm Scott Wood, a servant, and I have a lot to do. I need to |r3|"
+  },
+  {
+    "player_input": "Do you need help?",
+    "npc_output": "I'm Anthony Lee, a beggar. I'm feeling sad and angry, but I just need someone to |r1|"
+  },
+  {
+    "player_input": "What's your favorite horse?",
+    "npc_output": "I'm Veronica Austin, the stable master. I love all horses, but I need to |r1|"
+  },
+  {
+    "player_input": "Are you ready for battle?",
+    "npc_output": "I'm Michael Flores, a knight. I'm feeling neutral, but I need to |r1|"
+  },
+  {
+    "player_input": "Can you bless me?",
+    "npc_output": "I'm Mrs. Madison Martinez, a priest. I'm feeling angry, but I can |r1|"
+  },
+  {
+    "player_input": "What's your latest discovery?",
+    "npc_output": "I'm Alyssa Davis, a priest. I'm feeling neutral and I've been studying |r1|, but I don't have any requests currently."
+  },
+  {
+    "player_input": "Do you like sailing?",
+    "npc_output": "I'm Erica Whitehead, a sailor. I love sailing, but I need to |r1|"
+  },
+  {
+    "player_input": "What's your favorite music?",
+    "npc_output": "I'm Cynthia Green, a hunter. I love music, but I'm feeling sad and anxious. I need to |r1|"
+  },
+  {
+    "player_input": "Can you deliver this for me?",
+    "npc_output": "I'm Karen Garcia, a messenger. I'm feeling sad, happy, and excited. I can |r1|"
+  }
+]

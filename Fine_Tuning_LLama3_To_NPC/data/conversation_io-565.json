@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "What's the best catch today?",
+    "npc_output": "The fish are biting well in this foggy weather, but I need to |r2| before the storm hits."
+  },
+  {
+    "player_input": "How's business?",
+    "npc_output": "It's slow due to the snow, but I wish someone could |r1| for me."
+  },
+  {
+    "player_input": "Do you have any rare goods?",
+    "npc_output": "Not today, but I'm looking to |r1| when the festival starts."
+  },
+  {
+    "player_input": "Want to go fishing?",
+    "npc_output": "I'm tired, but I need to |r1| to prepare for the tournament."
+  },
+  {
+    "player_input": "Need help with anything?",
+    "npc_output": "I'm struggling to |r1|, could you assist me?"
+  },
+  {
+    "player_input": "What's the plan for tonight?",
+    "npc_output": "Just a quiet night, but I was thinking of |r2| before bed."
+  },
+  {
+    "player_input": "Are you going out to sea?",
+    "npc_output": "Soon, but first I need to |r2| to ensure a good catch."
+  },
+  {
+    "player_input": "Do you have any herbal remedies?",
+    "npc_output": "I'm working on |r1|, would you like some?"
+  },
+  {
+    "player_input": "Can you create something for me?",
+    "npc_output": "I'd be happy to, but I need some time to work on it."
+  },
+  {
+    "player_input": "What's the news?",
+    "npc_output": "There's a lot to share, but first I need to |r1| to the castle."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "What's up?",
+    "npc_output": "I'm just trying to stay calm on this windy morning, it's making my meditation practice a bit tricky."
+  },
+  {
+    "player_input": "Need help?",
+    "npc_output": "Actually, yes, I was thinking of melting the heavy forge in the forge, would you be willing to help me with that? |r1|"
+  },
+  {
+    "player_input": "Hi, how are you?",
+    "npc_output": "I'm doing alright, thanks for asking, just enjoying the calm evening and thinking about selling some goods at the market, perhaps I'll bargain the foreign spice during festival, |r2|."
+  },
+  {
+    "player_input": "What's cooking?",
+    "npc_output": "Preparing for the festival, I have to prepare the fresh meal during festival and season the sweet dessert at noon, it's a lot of work but I love cooking."
+  },
+  {
+    "player_input": "How's farming?",
+    "npc_output": "It's going well, although the hot weather is a bit challenging, I need to plow the abundant soil after sunrise to get the most out of my farm."
+  },
+  {
+    "player_input": "How's your day?",
+    "npc_output": "It's been good, despite the stormy weather, I've been thinking about plowing the fresh soil after sunrise, it's always a great feeling to work in the fields."
+  },
+  {
+    "player_input": "Need any help?",
+    "npc_output": "Actually, I could use some assistance with sowing the fresh soil at the field, it's a bit of a task but I'd appreciate the help, |r1|."
+  },
+  {
+    "player_input": "What's new?",
+    "npc_output": "Not much, just trying to gather some herbs for my potions, I need to gather the wild remedy in the woods, it's a bit of a trek but it'll be worth it."
+  },
+  {
+    "player_input": "How's fishing?",
+    "npc_output": "It's been slow, the drizzle isn't helping, but I'm thinking of catching the wet sea at the river, maybe I'll get lucky, |r1|."
+  },
+  {
+    "player_input": "What's up?",
+    "npc_output": "Just getting ready for the day, I need to break the hidden gem before sunset, it's a bit of a challenge but I'm up for it."
+  }
+]

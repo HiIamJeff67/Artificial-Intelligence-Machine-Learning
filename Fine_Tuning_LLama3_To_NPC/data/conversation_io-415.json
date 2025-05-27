@@ -1,0 +1,90 @@
+[
+  {
+    "player_input": "Hello, how are you?",
+    "npc_output": "I'm doing well, thank you for asking. It's a hot night, isn't it?"
+  },
+  {
+    "player_input": "What's the special tonight?",
+    "npc_output": "We have a festive banquet prepared for the evening, would you like to try some? |r1|"
+  },
+  {
+    "player_input": "Good morning, your majesty.",
+    "npc_output": "Good morning to you, it's a windy dawn today. I will |r1| soon."
+  },
+  {
+    "player_input": "Need any help in the kitchen?",
+    "npc_output": "Actually, I could use some assistance with preparing the meal for the feast. Can you help me |r3|?"
+  },
+  {
+    "player_input": "What's your hurry?",
+    "npc_output": "I'm in a rush to deliver an urgent message before sunset. |r3| is my priority."
+  },
+  {
+    "player_input": "Do you have any work for me?",
+    "npc_informations": {
+      "index": "52",
+      "name": "Mr. George Lawrence DDS",
+      "role": "blacksmith",
+      "moods": [
+        "anxious",
+        "curious"
+      ],
+      "interests": [
+        "hunting",
+        "reading"
+      ],
+      "playerRelationship": "5",
+      "gender": "male",
+      "personalities": [
+        "materialistic"
+      ],
+      "requests": [
+        "Melt the heavy forge in the forge",
+        "Forge the hot forge in the forge",
+        "Hammer the rusty anvil during festival",
+        "Sharpen the sharp metal before noon"
+      ]
+    },
+    "environment_informations": {
+      "weather": "drizzle",
+      "time": "before sunrise"
+    },
+    "npc_output": "I need someone to help me melt the heavy forge in the forge, are you interested?"
+  },
+  {
+    "player_input": "What's the best room?",
+    "npc_output": "Our cozy room is available, I can clean it for you before the festival if you'd like. |r2|"
+  },
+  {
+    "player_input": "What are you hiding?",
+    "npc_output": "Just some loot I, uh, found. Don't mind it. By the way, I need to |r1| soon."
+  },
+  {
+    "player_input": "Want to dance?",
+    "npc_output": "I'd love to, but first I need to host the generous estate before the council. Maybe later?"
+  },
+  {
+    "player_input": "Need help with research?",
+    "npc_output": "Actually, I'm just studying horsemanship right now. Nothing too urgent."
+  },
+  {
+    "player_input": "Do you have any medicine?",
+    "npc_output": "I can mix something for you, let me just prescribe the rare root in the woods first. |r3|"
+  },
+  {
+    "player_input": "Want to trade seeds?",
+    "npc_output": "I'm not really looking to trade right now, but I do need to plow the abundant soil after sunrise. Care to help?"
+  },
+  {
+    "player_input": "Any messages for me?",
+    "npc_output": "Actually, I have a swift parcel to deliver to you. It's part of my |r6| task."
+  },
+  {
+    "player_input": "Want to play a game?",
+    "npc_output": "Not now, I have to unlock the shadowy escape after curfew. Maybe some other time?"
+  },
+  {
+    "player_input": "Need a new outfit?",
+    "npc_output": "I'm working on a few things, including stitching the fitted pattern after delivery. Would you like a custom fit? |r2|"
+  }
+]

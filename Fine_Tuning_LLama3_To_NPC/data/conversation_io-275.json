@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "What's the weather like tonight?",
+    "npc_output": "It's quite foggy outside, you should be careful."
+  },
+  {
+    "player_input": "Do you have anything to sell?",
+    "npc_output": "I have some luxurious goods, but I'm not sure if you can afford them, |r2|."
+  },
+  {
+    "player_input": "Can you fix my sword?",
+    "npc_output": "I'd be happy to help you with that, but first I need to |r1|."
+  },
+  {
+    "player_input": "I'm looking for a rare herb, can you help?",
+    "npc_output": "I might be able to help you with that, but it's not going to be easy, |r6|."
+  },
+  {
+    "player_input": "What's the plan for tonight?",
+    "npc_output": "We should be careful, it's raining and it's not safe to be out, maybe we can |r1|."
+  },
+  {
+    "player_input": "I'm excited for the festival, what's the schedule?",
+    "npc_output": "I'm excited too, but first I need to |r1|, then we can celebrate."
+  },
+  {
+    "player_input": "Do you need any help with the forge?",
+    "npc_output": "Actually, I could use some help, |r5|, would you be able to do that for me?"
+  },
+  {
+    "player_input": "What are you researching?",
+    "npc_output": "I'm studying the ancient debate, it's fascinating, |r1|, maybe you can help me."
+  },
+  {
+    "player_input": "I love your cooking, what's your secret?",
+    "npc_output": "It's all about the ingredients, |r2|, and a little bit of love."
+  },
+  {
+    "player_input": "Do you have any tips for fishing?",
+    "npc_output": "Yes, |r3|, and always be patient, it's a waiting game."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "What's your role?",
+    "npc_output": "I'm Thomas Riley, a thief. Nice to meet you."
+  },
+  {
+    "player_input": "How's it going?",
+    "npc_output": "It's sunny, but I'm feeling sad and anxious. |r1| if you can help."
+  },
+  {
+    "player_input": "What do you do?",
+    "npc_output": "I'm David Sanders, a carpenter. I'm working on a project after sunset."
+  },
+  {
+    "player_input": "Do you like music?",
+    "npc_output": "I'm David Weeks, a bard. I love music, and I can recite talented poetry after dinner."
+  },
+  {
+    "player_input": "What's your job?",
+    "npc_output": "I'm Melissa Burns, a miner. I'm descending into the deep helmet during shift."
+  },
+  {
+    "player_input": "Want to hunt?",
+    "npc_output": "I'm Linda Carter, a hunter. I'd love to shoot the sharp-eyed trap in the forest."
+  },
+  {
+    "player_input": "Trade anything?",
+    "npc_output": "I'm Jeanette Grant, a merchant. I can trade valuable goods on the road."
+  },
+  {
+    "player_input": "What's your title?",
+    "npc_output": "I'm Marisa Rhodes, a noble. I'm hosting a generous estate before council."
+  },
+  {
+    "player_input": "What's brewing?",
+    "npc_output": "I'm Shelly Montgomery, an alchemist. I'm experimenting with a potent elixir at midnight."
+  },
+  {
+    "player_input": "Need help?",
+    "npc_output": "I'm Anthony Lee, a beggar. I'm waiting for a cold blanket during festival."
+  }
+]

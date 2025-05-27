@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "What's your favorite activity?",
+    "npc_output": "I love fishing and studying. It's a great way to relax and learn new things. |r1|"
+  },
+  {
+    "player_input": "Want to dance?",
+    "npc_output": "I'd love to dance with you, but I'm not sure I'm any good. Maybe after the festival? |r1|"
+  },
+  {
+    "player_input": "Need help with the inn?",
+    "npc_output": "Actually, could you help me clean the busy room before the festival? It's a lot of work. |r1|"
+  },
+  {
+    "player_input": "What's new with your herbalism?",
+    "npc_output": "I'm excited to crush some fresh herbs after the rain. It's the perfect time to do it. |r1|"
+  },
+  {
+    "player_input": "Ready to set sail?",
+    "npc_output": "Not yet, but soon. We need to load the strong map at the harbor first. |r3|"
+  },
+  {
+    "player_input": "Want to jest around?",
+    "npc_output": "Always! Let's jest the playful trick after I tell a joke. |r1|"
+  },
+  {
+    "player_input": "Can you help me with a lock?",
+    "npc_output": "Maybe, but I'd rather steal the nimble lock at night when no one is looking. |r1|"
+  },
+  {
+    "player_input": "Need help with cleaning?",
+    "npc_output": "Yes, please help me deliver the humble cleaning before dinner. It's a lot of work. |r1|"
+  },
+  {
+    "player_input": "What's cooking?",
+    "npc_output": "I'm thinking of pouring a festive banquet before the festival. Want to help? |r1|"
+  },
+  {
+    "player_input": "Want to grow something?",
+    "npc_output": "Yes, I want to grow the medicinal herb in the woods. It's a great way to help people. |r1|"
+  }
+]

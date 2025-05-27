@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "What's your role?",
+    "npc_output": "I'm a bard, nice to meet you! |r1|"
+  },
+  {
+    "player_input": "How's the weather?",
+    "npc_output": "It's a bit foggy today, isn't it? I need to notify a swift parcel before sunset |r2|"
+  },
+  {
+    "player_input": "What do you like to do?",
+    "npc_output": "I enjoy exploring and storytelling, maybe I can mend an elegant outfit in the shop |r1|"
+  },
+  {
+    "player_input": "Want to hunt?",
+    "npc_output": "I'm a hunter, so yes! Let's track a rugged arrow before sunset |r3|"
+  },
+  {
+    "player_input": "Do you like the sea?",
+    "npc_output": "I'm a fisherman, I love it! Let's catch an early catch before the storm |r1|"
+  },
+  {
+    "player_input": "This storm is bad",
+    "npc_output": "Let's reel in the skilled river in the morning |r1|"
+  },
+  {
+    "player_input": "I love music",
+    "npc_output": "Me too! I can entertain you with a colorful performance during the festival |r1|"
+  },
+  {
+    "player_input": "Need help?",
+    "npc_output": "As a beggar, I could use some help, wait with me for a dirty hope before the meal |r1|"
+  },
+  {
+    "player_input": "What do you sell?",
+    "npc_output": "I'm a merchant, I sell luxurious goods in the city, maybe I can sell an expensive market during the festival |r1|"
+  },
+  {
+    "player_input": "Steal something?",
+    "npc_output": "Shh, don't tell, as a thief I need to disguise a nimble hideout at night |r1|"
+  }
+]

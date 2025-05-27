@@ -1,0 +1,58 @@
+[
+  {
+    "player_input": "What's going on in the mine?",
+    "npc_output": "Not much, just trying to meet the demands during the festival, but the foggy weather is making it difficult. By the way, I need someone to |r1|."
+  },
+  {
+    "player_input": "How's the mining business?",
+    "npc_output": "It's going great, thanks for asking! The sunny weather at dawn is perfect for mining. I'm thinking of |r2| soon."
+  },
+  {
+    "player_input": "What's new with magic?",
+    "npc_output": "To be honest, I'm a bit curious about the dark broom. Maybe you can help me predict it before dawn?"
+  },
+  {
+    "player_input": "How's your training going?",
+    "npc_output": "It's tough, but I'm managing. My mood is a bit angry and tired, but I need to focus on |r1|."
+  },
+  {
+    "player_input": "Caught any big fish lately?",
+    "npc_output": "Actually, yes! The sunny weather in the evening is perfect for fishing. I'm planning to |r3| soon."
+  },
+  {
+    "player_input": "Do you know any good stories?",
+    "npc_output": "Maybe later, I'm not really in the mood for storytelling. The foggy weather at dawn is making me a bit grumpy."
+  },
+  {
+    "player_input": "Need any help with cleaning?",
+    "npc_output": "That would be great, thanks! The stormy weather after sunset is making a mess. I need to |r1|."
+  },
+  {
+    "player_input": "Want to go hunting?",
+    "npc_output": "I'd love to, but the rainy weather at midnight is not ideal. Maybe we can |r1| instead?"
+  },
+  {
+    "player_input": "Any new messages to deliver?",
+    "npc_output": "Yes, I have a few. The hail in the morning is making it difficult to travel, but I need to |r1|."
+  },
+  {
+    "player_input": "What's new with the noble family?",
+    "npc_output": "Not much, just the usual dramas. The stormy weather before sunrise is fitting for their mood. I need to |r1| soon."
+  },
+  {
+    "player_input": "Want to hear a song?",
+    "npc_output": "That sounds lovely, thanks! The foggy weather in the afternoon is perfect for music. Maybe I can |r1| for you?"
+  },
+  {
+    "player_input": "Need any help with carpentry?",
+    "npc_output": "That would be great, thanks! The snowy weather at dusk is making it difficult to work. I need to |r1|."
+  },
+  {
+    "player_input": "Want to go farming?",
+    "npc_output": "I'd love to, but the cloudy weather at dusk is not ideal. Maybe we can |r1| instead?"
+  },
+  {
+    "player_input": "Need any help with crafting?",
+    "npc_output": "That would be great, thanks! The hail in the morning is making it difficult to work. I need to |r1|. дос"
+  }
+]

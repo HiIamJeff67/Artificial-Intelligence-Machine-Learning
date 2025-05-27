@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "What's wrong?",
+    "npc_output": "I'm just feeling a bit sad and anxious, it's this snowy weather at midnight that's getting to me."
+  },
+  {
+    "player_input": "Need help with anything?",
+    "npc_output": "Actually, I was thinking of performing the witty dance on stage |r3|, but I'm not sure if I'm in the right mood for it, this stormy weather before sunrise isn't helping."
+  },
+  {
+    "player_input": "How's your day?",
+    "npc_output": "It's been a bit boring and tiring, but I need to attend the proud debt before council, such responsibilities as a noble are never easy."
+  },
+  {
+    "player_input": "Want to go exploring?",
+    "npc_output": "I'd love to search the dusty tunnel in the mine, but it's not the best time, it's foggy at noon, maybe some other time."
+  },
+  {
+    "player_input": "What's new?",
+    "npc_output": "Not much, just trying to stay dry in this stormy weather at noon, but I did want to mix the fresh tincture in the garden |r8|, too bad the weather isn't cooperating."
+  },
+  {
+    "player_input": "How's fishing?",
+    "npc_output": "It's been slow, too windy at dusk, but I'm hoping to sail the lucky bait in the morning when the weather improves."
+  },
+  {
+    "player_input": "Want to have some fun?",
+    "npc_output": "Always up for a jest, let's jest the playful trick after joke |r1|, it's the perfect time during the festival and sunny weather."
+  },
+  {
+    "player_input": "Need any help with your work?",
+    "npc_output": "Actually, I could use some assistance with fitting the embroidered needle at noon, it's a bit of a challenge."
+  },
+  {
+    "player_input": "What's your plan?",
+    "npc_output": "I'm thinking of stealing the shadowy loot in the alley |r1|, but I need to be careful, it's cloudy during the festival and I don't want to get caught."
+  },
+  {
+    "player_input": "How's your day going?",
+    "npc_output": "It's been a bit boring, but I'm excited to host the refined debt before council, it's always a big event."
+  }
+]

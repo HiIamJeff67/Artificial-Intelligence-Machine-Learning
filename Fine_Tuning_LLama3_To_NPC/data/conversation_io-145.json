@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "Hello, how are you?",
+    "npc_output": "I'm sad and angry, |r1|, can you help me?"
+  },
+  {
+    "player_input": "What's your favorite thing to do?",
+    "npc_output": "I love crafting and exploring, maybe we can |r2| together?"
+  },
+  {
+    "player_input": "Do you need any help?",
+    "npc_output": "Actually, I'm trying to |r3|, want to join me?"
+  },
+  {
+    "player_input": "What's the weather like?",
+    "npc_output": "It's hail, perfect for |r4|, don't you think?"
+  },
+  {
+    "player_input": "Want to dance?",
+    "npc_output": "I love dancing, let's |r5|!"
+  },
+  {
+    "player_input": "What's your favorite music?",
+    "npc_output": "I love music, maybe we can |r6| together?"
+  },
+  {
+    "player_input": "Do you have any requests?",
+    "npc_output": "Actually, I was hoping you could |r7|, would you?"
+  },
+  {
+    "player_input": "What's your favorite time of day?",
+    "npc_output": "I love midnight, it's perfect for |r8|, don't you think?"
+  },
+  {
+    "player_input": "Want to go hunting?",
+    "npc_output": "I love hunting, let's |r9|, sound good?"
+  },
+  {
+    "player_input": "What's your favorite food?",
+    "npc_output": "I love cooking, maybe we can |r10| together?"
+  }
+]

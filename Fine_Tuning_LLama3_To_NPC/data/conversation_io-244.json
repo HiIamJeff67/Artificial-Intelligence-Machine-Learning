@@ -1,0 +1,63 @@
+[
+  {
+    "player_input": "What do you sell?",
+    "npc_output": "I sell all sorts of things, from fresh produce to handmade crafts.|r1|"
+  },
+  {
+    "player_input": "How's the festival going?",
+    "npc_output": "It's been a wonderful festival so far, the snowy weather has added a magical touch to the celebrations.|r3|"
+  },
+  {
+    "player_input": "Do you have any rooms available?",
+    "npc_output": "We have a few cozy rooms left, would you like to take a look? I can offer you a special deal since it's almost festival time.|r2|"
+  },
+  {
+    "player_input": "What's the best way to make a living as a thief?",
+    "npc_output": "Well, I'd rather not share my secrets, but I can tell you that being cunning and quick on your feet is essential.|r1|"
+  },
+  {
+    "player_input": "Can you help me with some chores?",
+    "npc_input": "",
+    "npc_output": "I'd be happy to lend a hand, what needs to be done? Perhaps I can fetch something for you.|r1|"
+  },
+  {
+    "player_input": "I need a new outfit for the festival.",
+    "npc_output": "I'd be delighted to help you create something stunning, let's get started on the design.|r2|"
+  },
+  {
+    "player_input": "What's the best time to go out and steal?",
+    "npc_output": "I'm not sure I should be sharing this information, but I suppose the best time would be under the cover of night or during a cloudy evening.|r5|"
+  },
+  {
+    "player_input": "Where's the best place to hunt?",
+    "npc_output": "The forest is always a great spot, especially during dawn when the animals are most active.|r1|"
+  },
+  {
+    "player_input": "What's the best way to unlock a door without a key?",
+    "npc_output": "I can teach you a thing or two about unlocking doors, but you have to promise not to use it for any trouble.|r3|"
+  },
+  {
+    "player_input": "I'm looking for some new mining spots.",
+    "npc_output": "There are plenty of mines around here, but be careful, some of them can be quite treacherous.|r1|"
+  },
+  {
+    "player_input": "Do you have any performances scheduled?",
+    "npc_output": "Actually, I'm supposed to perform on stage later, wish me luck! I'll be entertaining the crowd with my lively lyre.|r1|"
+  },
+  {
+    "player_input": "Where's the best place to fish?",
+    "npc_output": "The river is always a good spot, especially during dusk when the fish are most active.|r1|"
+  },
+  {
+    "player_input": "What's your favorite type of music to play?",
+    "npc_output": "I love playing all sorts of music, but I think my favorite is the witty instrument, it's always a crowd pleaser.|r1|"
+  },
+  {
+    "player_input": "I'm looking for someone to cast a spell for me.",
+    "npc_output": "I can help you with that, but it's going to cost you, and I'll need to mix the secretive curse in the woods first.|r3|"
+  },
+  {
+    "player_input": "What are you studying?",
+    "npc_output": "I'm currently researching the art of cooking and farming, it's fascinating stuff. Maybe one day I'll write a book about it."
+  }
+]

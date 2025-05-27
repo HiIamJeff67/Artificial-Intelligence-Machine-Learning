@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "What are you doing at midnight?",
+    "npc_output": "I'm working on a new hat, |r1|."
+  },
+  {
+    "player_input": "Why are you anxious?",
+    "npc_output": "I have a performance at noon and I'm not ready, I need to |r1|."
+  },
+  {
+    "player_input": "What's your favorite type of music?",
+    "npc_output": "I love playing the lyre, especially in the evening."
+  },
+  {
+    "player_input": "Do you have any goods to sell?",
+    "npc_output": "Yes, I have some spices, but I'm looking to |r2|."
+  },
+  {
+    "player_input": "Can you fix this broken chair?",
+    "npc_output": "I'd be happy to help, I can |r1|."
+  },
+  {
+    "player_input": "Where are you headed?",
+    "npc_output": "I'm sailing to a new port, but I need to |r4| first."
+  },
+  {
+    "player_input": "Why are you sad?",
+    "npc_output": "I'm just having a tough day, but I'm hoping to |r1| will cheer me up."
+  },
+  {
+    "player_input": "What kind of stories do you like to tell?",
+    "npc_output": "I love telling stories about adventure, and I'm planning to |r1| tonight."
+  },
+  {
+    "player_input": "Can you help me with my lock?",
+    "npc_output": "I'd be happy to help, I can |r2| for you."
+  },
+  {
+    "player_input": "What are you making?",
+    "npc_output": "I'm working on a new outfit, and I need to |r1| before the festival."
+  }
+]

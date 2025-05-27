@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "What's the special tonight?",
+    "npc_output": "We have a festive banquet to prepare for the festival, |r1|."
+  },
+  {
+    "player_input": "Need help with mining?",
+    "npc_output": "I'm trying to find a hidden gem, but the hail is making it difficult, maybe you can help me with |r1|."
+  },
+  {
+    "player_input": "How's sailing?",
+    "npc_output": "It's been tough with this hail, but I need to repair the rowdy storm, can you assist me with |r1|?"
+  },
+  {
+    "player_input": "What's new at the forge?",
+    "npc_output": "I'm melting the heavy forge, but it's slow going, perhaps you can help me with |r1|?"
+  },
+  {
+    "player_input": "How's farming?",
+    "npc_output": "It's going well, but I need to plant some healthy vegetables during the harvest, want to lend a hand with |r1|?"
+  },
+  {
+    "player_input": "What's the plan for the parade?",
+    "npc_output": "I'm going to amuse the crowd with a witty prank, care to join me in |r1|?"
+  },
+  {
+    "player_input": "Need help at the temple?",
+    "npc_output": "I need to heal the holy faith during the ceremony, will you assist me with |r1|?"
+  },
+  {
+    "player_input": "Want to hear a story?",
+    "npc_output": "I'd love to sing a colorful performance, but first, let me prepare with |r1|."
+  },
+  {
+    "player_input": "What's new in alchemy?",
+    "npc_output": "I'm translating the curious library, but it's a lot of work, maybe you can help me with |r1|?"
+  },
+  {
+    "player_input": "How's blacksmithing?",
+    "npc_output": "It's going well, I'm tempering the strong anvil, want to help me with |r2|?"
+  }
+]

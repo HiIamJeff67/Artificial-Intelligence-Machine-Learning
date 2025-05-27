@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "What's your work like as a miner?",
+    "npc_output": "It's challenging, but I enjoy crafting and finding new gems. By the way, I need to |r1| before sunset."
+  },
+  {
+    "player_input": "Do you like being a priest?",
+    "npc_output": "It's fulfilling, and I'm interested in crafting and alchemy. I've been meaning to work on some new projects."
+  },
+  {
+    "player_input": "How's business at the inn?",
+    "npc_output": "It's been good, especially with the festival. I need to |r1| and make sure everything is ready for the guests."
+  },
+  {
+    "player_input": "What's it like being a king?",
+    "npc_output": "It's a big responsibility, but I enjoy meditation and alchemy. I have to |r1| and make some important decisions soon."
+  },
+  {
+    "player_input": "Do you like being a tailor?",
+    "npc_output": "It's creative, and I like working with different materials. I have to |r1| for a customer soon."
+  },
+  {
+    "player_input": "How's trade been lately?",
+    "npc_output": "It's been good, especially with the festival. I'm looking to |r1| and expand my business."
+  },
+  {
+    "player_input": "What's your favorite thing about being an herbalist?",
+    "npc_output": "I love working with plants and discovering new remedies. I need to |r1| and make sure my supplies are ready."
+  },
+  {
+    "player_input": "Do you like sailing?",
+    "npc_output": "It's exciting, and I love the freedom of being on the water. I have to |r1| and prepare for my next trip."
+  },
+  {
+    "player_input": "What's it like being an alchemist?",
+    "npc_output": "It's fascinating, and I love experimenting with new formulas. I'm working on |r1| and hope to make a breakthrough soon."
+  },
+  {
+    "player_input": "How's your merchant business going?",
+    "npc_output": "It's been good, and I'm looking to |r1| and expand my trade routes."
+  }
+]

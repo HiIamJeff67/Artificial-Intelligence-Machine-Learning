@@ -1,0 +1,62 @@
+[
+  {
+    "player_input": "What's wrong?",
+    "npc_output": "The faith is weak, I fear. |r1|"
+  },
+  {
+    "player_input": "Need help?",
+    "npc_output": "I'm studying this ritual, but I could use a friend.|r1|"
+  },
+  {
+    "player_input": "Hi hunter!",
+    "npc_output": "Just tracking some prey. Want to join me? |r1|"
+  },
+  {
+    "player_input": "Snowy day, eh?",
+    "npc_output": "Perfect weather to forge something strong! |r1|"
+  },
+  {
+    "player_input": "Play something?",
+    "npc_output": "How about a lively tune? |r9|"
+  },
+  {
+    "player_input": "Long night?",
+    "npc_output": "The fog is eerie, isn't it? |r1|"
+  },
+  {
+    "player_input": "Sad night?",
+    "npc_output": "The rain matches my mood. |r1|"
+  },
+  {
+    "player_input": "Busy morning!",
+    "npc_output": "Hammering away! |r5|"
+  },
+  {
+    "player_input": "Message for me?",
+    "npc_output": "I have a parcel to deliver, actually. |r1|"
+  },
+  {
+    "player_input": "Hot day!",
+    "npc_output": "Time to attend to some noble duties. |r1|"
+  },
+  {
+    "player_input": "New experiment?",
+    "npc_output": "Trying to distill a formula. |r1|"
+  },
+  {
+    "player_input": "Rough sea?",
+    "npc_output": "Rowing through the storm. |r1|"
+  },
+  {
+    "player_input": "Big event tonight?",
+    "npc_output": "Just tidying up. |r1|"
+  },
+  {
+    "player_input": "Fishing day!",
+    "npc_output": "Catching some lucky fish! |r3|"
+  },
+  {
+    "player_input": "Planting season!",
+    "npc_output": "Sowing some fresh soil. |r1|"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "player_input": "What's your role?",
+    "npc_output": "I'm a messenger. |r1|"
+  },
+  {
+    "player_input": "What's new?",
+    "npc_output": "It's hailing outside and I need to design a fine hat after delivery.|r1|"
+  },
+  {
+    "player_input": "Play something for me.",
+    "npc_output": "I'd be happy to play the charming performance during festival.|r1|"
+  },
+  {
+    "player_input": "Do you like gardening?",
+    "npc_output": "Yes, I enjoy gardening and I'm a sailor. I need to anchor the restless harbor on the ship.|r1|"
+  },
+  {
+    "player_input": "Want to go fishing?",
+    "npc_output": "I'm a fisherman and I need to sail the lucky bait in the morning.|r1|"
+  },
+  {
+    "player_input": "Do you have any herbs?",
+    "npc_output": "I'm an herbalist and I need to grow the medicinal herb in the woods.|r1|"
+  },
+  {
+    "player_input": "Want to go fishing tonight?",
+    "npc_output": "It's evening, but I need to catch the early catch before storm.|r2|"
+  },
+  {
+    "player_input": "What's your interest?",
+    "npc_output": "I'm interested in meditation, cooking, alchemy, and horsemanship."
+  },
+  {
+    "player_input": "Can you mine something?",
+    "npc_output": "I'm a miner and I need to search the dusty tunnel in the mine.|r1|"
+  },
+  {
+    "player_input": "Do you have a message?",
+    "npc_output": "I'm a messenger and I need to deliver the punctual letter at dawn.|r1|"
+  },
+  {
+    "player_input": "Want to gamble?",
+    "npc_output": "I'm an herbalist and I'm interested in gambling, but I need to grow the healing plant during spring.|r1|"
+  },
+  {
+    "player_input": "Can you plow the field?",
+    "npc_output": "I'm a farmer and I need to plow the abundant soil after sunrise.|r1|"
+  },
+  {
+    "player_input": "Do you have any herbs to mix?",
+    "npc_output": "I'm an herbalist and I need to crush the fresh herb in the woods.|r1|"
+  },
+  {
+    "player_input": "Can you research something?",
+    "npc_output": "I'm a scholar and I need to research the ancient debate at night.|r1|"
+  },
+  {
+    "player_input": "Want to cook something?",
+    "npc_output": "I'm a cook and I need to season the spicy meal at noon.|r1|"
+  }
+]

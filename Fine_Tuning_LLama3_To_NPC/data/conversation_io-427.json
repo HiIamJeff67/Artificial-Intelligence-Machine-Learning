@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "What's it like being a stable master?",
+    "npc_output": "It's a lot of work, but I love it. By the way, I need to |r1| today."
+  },
+  {
+    "player_input": "What do you like to do in your free time?",
+    "npc_output": "I enjoy fishing and cooking. Nothing much to do today, though, it's getting late."
+  },
+  {
+    "player_input": "Do you have any new clothes for sale?",
+    "npc_output": "Not yet, but I'm working on some elegant outfits. Maybe I'll |r3| soon."
+  },
+  {
+    "player_input": "How's the carpentry business?",
+    "npc_output": "It's going well, thanks. I'm thinking of |r1| this afternoon."
+  },
+  {
+    "player_input": "What kind of goods do you sell?",
+    "npc_output": "All sorts of things. I'm thinking of |r1| during the upcoming festival."
+  },
+  {
+    "player_input": "Can you play a song for me?",
+    "npc_output": "Of course! Let me just tune my lyre. I'm planning to |r1| later today."
+  },
+  {
+    "player_input": "What kind of herbs do you specialize in?",
+    "npc_output": "I work with all kinds of plants. Today I need to |r1|, if the storm lets up."
+  },
+  {
+    "player_input": "What's it like being a noble?",
+    "npc_output": "It has its perks. I should probably |r1| soon, though."
+  },
+  {
+    "player_input": "How's the mining going?",
+    "npc_output": "It's going well. I'm hoping to |r1| today, if I can find the right tunnel."
+  },
+  {
+    "player_input": "What do you like to cook?",
+    "npc_output": "All sorts of things. I'm thinking of |r1| for the next feast."
+  }
+]

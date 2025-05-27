@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "What brings you here?",
+    "npc_output": "I'm just waiting for the storm to pass, |r2|"
+  },
+  {
+    "player_input": "Need any help?",
+    "npc_output": "Maybe you could help me find a new manuscript to research"
+  },
+  {
+    "player_input": "Catch any fish?",
+    "npc_output": "Not yet, but I'm hoping to catch a lucky one soon"
+  },
+  {
+    "player_input": "Want to spar?",
+    "npc_output": "I'd love to, but I need to prepare for the tournament first"
+  },
+  {
+    "player_input": "Tell me a joke",
+    "npc_output": "Why was the math book sad? Because it had too many problems! |r1|"
+  },
+  {
+    "player_input": "What's your favorite plant?",
+    "npc_output": "I love all plants, but I'm currently studying the medicinal herb"
+  },
+  {
+    "player_input": "Want to go hunting?",
+    "npc_output": "Not now, I need to track a silent animal after the rain"
+  },
+  {
+    "player_input": "Deliver any messages?",
+    "npc_output": "Yes, I have a punctual letter to deliver at dawn"
+  },
+  {
+    "player_input": "Need help with a costume?",
+    "npc_output": "Actually, I'm working on an elegant hat, |r1|"
+  },
+  {
+    "player_input": "Any news?",
+    "npc_output": "Just the usual, I have to announce the urgent letter on the road"
+  }
+]

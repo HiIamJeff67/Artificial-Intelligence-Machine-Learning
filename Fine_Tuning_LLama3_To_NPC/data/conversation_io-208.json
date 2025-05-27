@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "What's the weather like today?",
+    "npc_output": "It's cloudy at noon, nice day for mining, isn't it? |r1|"
+  },
+  {
+    "player_input": "Need any help with preaching?",
+    "npc_output": "It's hail before sunrise, not the best time for a sermon, but thanks for offering"
+  },
+  {
+    "player_input": "Want to trade something?",
+    "npc_output": "It's stormy in the morning, not ideal for trading, but I have some goods if you're interested"
+  },
+  {
+    "player_input": "How's life as a noble?",
+    "npc_output": "It's hot in the morning, and I have a lot on my plate, including hosting the generous estate before council |r1|"
+  },
+  {
+    "player_input": "Want to melt some metal?",
+    "npc_output": "It's snowy in the afternoon, perfect time to work on that heavy forge |r1|"
+  },
+  {
+    "player_input": "What are you researching?",
+    "npc_output": "It's hot at midnight, and I'm studying diligently, trying to teach the learned study at night |r1|"
+  },
+  {
+    "player_input": "Ready to descend into the mine?",
+    "npc_output": "It's snowy in the evening, and I'm preparing to descend the deep helmet during shift |r1|"
+  },
+  {
+    "player_input": "Want to joke around?",
+    "npc_output": "It's snowy during the festival, and I'm here to entertain the cheerful prank after joke |r2|"
+  },
+  {
+    "player_input": "Need help with an experiment?",
+    "npc_output": "It's windy in the afternoon, and I could use an extra pair of hands to observe the inexperienced test during lesson |r1|"
+  },
+  {
+    "player_input": "Going hunting today?",
+    "npc_output": "It's hot at noon, great time to shoot the sharp-eyed trap in the forest |r1|"
+  }
+]

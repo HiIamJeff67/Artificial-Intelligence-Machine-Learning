@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "What's your job?",
+    "npc_output": "I'm a thief, and I need to |r1| before dawn."
+  },
+  {
+    "player_input": "What's the weather like?",
+    "npc_output": "It's hailing, and I should |r1| soon."
+  },
+  {
+    "player_input": "How are you?",
+    "npc_output": "I'm sad and angry, and I wish I could |r1|."
+  },
+  {
+    "player_input": "What do you like to do?",
+    "npc_output": "I love magic and gardening, and I'll |r1| at the palace."
+  },
+  {
+    "player_input": "Do you like fishing?",
+    "npc_output": "Yes, I do, and I should |r1| in the morning."
+  },
+  {
+    "player_input": "Where are you from?",
+    "npc_output": "I'm from the river, and I need to |r1| before storm."
+  },
+  {
+    "player_input": "What do you do?",
+    "npc_output": "I'm a miner, and I must |r1| before sunset."
+  },
+  {
+    "player_input": "What's your favorite activity?",
+    "npc_output": "I love collecting, and I'll |r4| in the forest."
+  },
+  {
+    "player_input": "What do you like to do?",
+    "npc_output": "I enjoy fishing and horsemanship, and I should |r1| before festival."
+  },
+  {
+    "player_input": "What's your role?",
+    "npc_output": "I'm a tailor, and I must |r1| before festival."
+  }
+]

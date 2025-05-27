@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "What's your research about?",
+    "npc_output": "I'm studying alchemy and I need help translating a book |r1|."
+  },
+  {
+    "player_input": "Do you have any goods to trade?",
+    "npc_output": "Yes, I have some exotic spices and I'm looking to trade them for other valuable items."
+  },
+  {
+    "player_input": "Can you deliver a message for me?",
+    "npc_output": "I'd be happy to deliver a message, just let me know what it is and where it needs to go |r1|."
+  },
+  {
+    "player_input": "Do you have any rooms available?",
+    "npc_output": "Yes, we have a cozy room available, would you like me to clean it for you?"
+  },
+  {
+    "player_input": "How's the harvest going?",
+    "npc_output": "It's going well, but I could use some help watering the crops |r2|."
+  },
+  {
+    "player_input": "Do you have any recommendations for dinner?",
+    "npc_output": "Yes, our welcoming feast is very popular and I can serve it to you after sunset |r2|."
+  },
+  {
+    "player_input": "Can you make me a new outfit?",
+    "npc_output": "I'd be happy to sew an elegant outfit for you, just let me know what you're looking for |r1|."
+  },
+  {
+    "player_input": "Did you catch anything today?",
+    "npc_output": "Not yet, but I'm hoping to sail out and catch some lucky bait in the morning |r1|."
+  },
+  {
+    "player_input": "Did you catch anything today?",
+    "npc_output": "Not yet, but I'm hoping to row out and catch some early sea creatures in the morning |r1|."
+  },
+  {
+    "player_input": "Can you play some music for me?",
+    "npc_output": "I'd love to play a charming performance for you during the festival |r1|."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "What's wrong?",
+    "npc_output": "I'm just feeling a bit sad and bored, it's so hot after sunset."
+  },
+  {
+    "player_input": "Do you have any messages?",
+    "npc_output": "Actually, I need to announce the quick delivery before sunset, |r2|."
+  },
+  {
+    "player_input": "How can I help you?",
+    "npc_output": "I need to care for the caring medicine during the epidemic, |r1|, and I'm also a bit angry and bored."
+  },
+  {
+    "player_input": "What's happening?",
+    "npc_output": "It's foggy and during the festival, maybe we could dance or gamble?"
+  },
+  {
+    "player_input": "Do you need assistance?",
+    "npc_output": "I need to host the refined debt before council, |r4|."
+  },
+  {
+    "player_input": "Want to go fishing?",
+    "npc_output": "It's hailing, but I could try to catch the weathered fish before the storm, |r2|."
+  },
+  {
+    "player_input": "Do you need help with your ship?",
+    "npc_output": "Yes, I need to anchor the restless harbor on the ship, |r1|, and maybe we can sail soon."
+  },
+  {
+    "player_input": "What's for dessert?",
+    "npc_output": "I need to season the crispy dessert before the feast, |r1|, and it's snowy outside."
+  },
+  {
+    "player_input": "Do you have any herbal remedies?",
+    "npc_output": "It's foggy, but I need to gather the dried plant at sunrise, |r1|."
+  },
+  {
+    "player_input": "How's fishing?",
+    "npc_output": "It's foggy, but I could try to catch the wet sea at the river, |r1|."
+  }
+]

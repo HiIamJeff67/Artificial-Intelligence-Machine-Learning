@@ -1,0 +1,62 @@
+[
+  {
+    "player_input": "What's your favorite story?",
+    "npc_output": "Oh, I love telling stories about adventure and magic. |r1|"
+  },
+  {
+    "player_input": "How's your day?",
+    "npc_output": "I'm a bit anxious with all these messages to deliver. |r2|"
+  },
+  {
+    "player_input": "Do you like your job?",
+    "npc_output": "I love being a tailor, it's so fulfilling to create something new. |r1|"
+  },
+  {
+    "player_input": "What's your specialty?",
+    "npc_output": "I'm a witch, I can cast spells and curses. |r3|"
+  },
+  {
+    "player_input": "What's the king's plan?",
+    "npc_output": "The king will lead the powerful treasure at the festival. |r1|"
+  },
+  {
+    "player_input": "Will you preach today?",
+    "npc_output": "Yes, I'll preach the sacred donation on the holy day. |r1|"
+  },
+  {
+    "player_input": "Do you have a delivery for me?",
+    "npc_output": "Yes, I have a swift parcel to deliver at dawn. |r6|"
+  },
+  {
+    "player_input": "How's your evening?",
+    "npc_output": "It's going well, just attending to some noble matters. |r2|"
+  },
+  {
+    "player_input": "Need help with anything?",
+    "npc_output": "Actually, I need help sawing this handcrafted plank before the rain. |r1|"
+  },
+  {
+    "player_input": "Going hunting?",
+    "npc_output": "Yes, I'll be tracking the rugged arrow before sunset. |r3|"
+  },
+  {
+    "player_input": "Performing tonight?",
+    "npc_output": "Yes, I'll play the charming story during the festival. |r9|"
+  },
+  {
+    "player_input": "What's the queen's plan?",
+    "npc_output": "The queen will host the graceful court at the palace. |r1|"
+  },
+  {
+    "player_input": "Do you have a message for me?",
+    "npc_output": "Yes, I have a punctual scroll to announce at dawn. |r8|"
+  },
+  {
+    "player_input": "Going mining?",
+    "npc_output": "Yes, I'll be descending into the deep helmet during my shift. |r1|"
+  },
+  {
+    "player_input": "Will you amuse us?",
+    "npc_output": "Yes, I'll amuse the witty prank during the parade. |r1|"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "What's up Crystal?",
+    "npc_output": "Just hanging out, feeling a bit bored. Want to hear a story?"
+  },
+  {
+    "player_input": "Hello Edgar",
+    "npc_output": "Hello, I'm feeling a bit bored. I wish I could fight in a tournament."
+  },
+  {
+    "player_input": "Hi Jeremy",
+    "npc_output": "Hi, I'm preparing for the festival. I need to pour the festive banquet."
+  },
+  {
+    "player_input": "Hi Kristi",
+    "npc_output": "Hi, I'm working on some carpentry. It's hard to focus with this hail"
+  },
+  {
+    "player_input": "Hi Katherine",
+    "npc_output": "Hi, I'm cooking up something delicious. Seasoning is key, you know."
+  },
+  {
+    "player_input": "What's new Thomas?",
+    "npc_output": "Not much, just trying to make a profit. Importing spices is a challenge."
+  },
+  {
+    "player_input": "Hey Veronica",
+    "npc_output": "Hey, I'm excited to stable this horse. It's going to be a big race."
+  },
+  {
+    "player_input": "Hi Mitchell",
+    "npc_output": "Hi, I'm working on a carpentry project. This rain is making it difficult."
+  },
+  {
+    "player_input": "Hello Mrs. Martinez",
+    "npc_output": "Hello, I'm preparing for a ceremony. I must heal the holy faith."
+  },
+  {
+    "player_input": "Hi Tiffany",
+    "npc_output": "Hi, I'm mining for gems. It's hot work, but someone's gotta do it."
+  }
+]

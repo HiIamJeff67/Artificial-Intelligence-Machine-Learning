@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "What's your name?",
+    "npc_output": "I'm David Sanders, nice to meet you."
+  },
+  {
+    "player_input": "What's the occasion?",
+    "npc_output": "It's a festival, isn't it? I wish I could enjoy it, but I have to |r1|."
+  },
+  {
+    "player_input": "I'm looking for a stealthy partner",
+    "npc_output": "I'm your thief, let's |r1| together."
+  },
+  {
+    "player_input": "What do you need help with?",
+    "npc_output": "I need someone to help me |r5|, can you do that?"
+  },
+  {
+    "player_input": "What are you excited about?",
+    "npc_output": "I'm excited to |r1|, want to join me?"
+  },
+  {
+    "player_input": "Can you play something for me?",
+    "npc_output": "I'd be happy to |r1|, let me get my lyre."
+  },
+  {
+    "player_input": "Want to go fishing?",
+    "npc_output": "I'd love to, but I have to |r1| first."
+  },
+  {
+    "player_input": "What's your plan?",
+    "npc_output": "I'm going to |r1|, care to join me?"
+  },
+  {
+    "player_input": "Need help with your store?",
+    "npc_output": "Actually, I need help to |r2|, can you assist me?"
+  },
+  {
+    "player_input": "What's the weather like?",
+    "npc_output": "It's snowy, I should probably |r1| before it gets worse."
+  }
+]

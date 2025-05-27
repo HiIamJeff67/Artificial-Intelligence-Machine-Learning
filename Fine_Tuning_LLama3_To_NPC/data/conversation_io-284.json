@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "What's your favorite hobby?",
+    "npc_output": "I enjoy horsemanship, it's so thrilling! |r1|"
+  },
+  {
+    "player_input": "How's business?",
+    "npc_output": "It's been good, just got back from a festival and sold a lot, considering |r2|"
+  },
+  {
+    "player_input": "Need help with cleaning?",
+    "npc_output": "Actually, I could use some assistance with |r1|"
+  },
+  {
+    "player_input": "Want to learn meditation?",
+    "npc_output": "That's my specialty, but first let's discuss |r3|"
+  },
+  {
+    "player_input": "When do you go mining?",
+    "npc_output": "We head out |r1|, it's always an adventure"
+  },
+  {
+    "player_input": "How's farming going?",
+    "npc_output": "It's been tough with this hail, but I plan to |r2| soon"
+  },
+  {
+    "player_input": "Any urgent messages?",
+    "npc_output": "Yes, I need to |r1|, it's of the utmost importance"
+  },
+  {
+    "player_input": "Want to forge something?",
+    "npc_output": "I'm working on a new piece, maybe after I |r3|"
+  },
+  {
+    "player_input": "Planning a heist?",
+    "npc_output": "Shh, don't tell anyone, but I'm thinking of |r1| tonight"
+  },
+  {
+    "player_input": "Need help with research?",
+    "npc_output": "I'm studying for an exam, maybe we can discuss |r5|"
+  }
+]

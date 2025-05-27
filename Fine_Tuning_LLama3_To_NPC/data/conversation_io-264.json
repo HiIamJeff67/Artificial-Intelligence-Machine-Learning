@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "What's the catch today?",
+    "npc_output": "Not much, just trying to catch the early catch before the storm hits, |r1|."
+  },
+  {
+    "player_input": "Do you know any magic?",
+    "npc_output": "Actually, I've been studying a dark broom prediction, |r1|, and I think I can predict it before dawn."
+  },
+  {
+    "player_input": "Do you have any messages to deliver?",
+    "npc_output": "Yes, I need to deliver the trusted parcel on the road, |r3|, and also announce the swift errand at dawn, |r4|."
+  },
+  {
+    "player_input": "Do you need help with any deliveries?",
+    "npc_output": "That would be great, I need to deliver the punctual letter at dawn, |r1|, and also carry the reliable route at dawn, |r2|."
+  },
+  {
+    "player_input": "Can you play some music?",
+    "npc_output": "I'd love to, how about I recite the witty instrument during the festival, |r1|?"
+  },
+  {
+    "player_input": "What are you selling?",
+    "npc_output": "I have some luxurious goods to sell in the city, |r2|, and also some expensive market items during the festival, |r1|."
+  },
+  {
+    "player_input": "Do you need any help with guarding?",
+    "npc_output": "Actually, I need to escort the secure law at the gate, |r1|, and also search the loyal bodyguard at night, |r2|."
+  },
+  {
+    "player_input": "Can you help me with my room?",
+    "npc_output": "Of course, I can deliver the humble cleaning before dinner, |r1|, and also serve the busy room after cleaning, |r2|."
+  },
+  {
+    "player_input": "Do you have any rooms available?",
+    "npc_output": "Yes, I can clean the busy room before the festival, |r1|, and also serve the welcoming feast after sunset, |r2|."
+  },
+  {
+    "player_input": "Do you need any help with sailing?",
+    "npc_output": "Actually, I need to repair the rowdy storm during the storm, |r1|, and also unload the strong rope on the ship, |r2|."
+  }
+]

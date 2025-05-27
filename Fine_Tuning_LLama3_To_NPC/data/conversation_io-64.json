@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "What's the weather like?",
+    "npc_output": "It's foggy in the evening, |r1|."
+  },
+  {
+    "player_input": "Hello, what's your role?",
+    "npc_output": "I'm a messenger, and I need to |r1|."
+  },
+  {
+    "player_input": "What are you doing?",
+    "npc_output": "I'm a thief, and I'm planning to |r1|."
+  },
+  {
+    "player_input": "Do you have any news?",
+    "npc_output": "Yes, I need to |r1|."
+  },
+  {
+    "player_input": "What's your research about?",
+    "npc_output": "I'm studying, and I need to |r1|."
+  },
+  {
+    "player_input": "What plants do you grow?",
+    "npc_output": "I grow herbs, and I need to |r1|."
+  },
+  {
+    "player_input": "Do you have any messages?",
+    "npc_output": "Yes, I need to |r1|."
+  },
+  {
+    "player_input": "What's your plan?",
+    "npc_output": "I'm a thief, and I plan to |r1|."
+  },
+  {
+    "player_input": "What's your task?",
+    "npc_output": "I don't have any tasks."
+  },
+  {
+    "player_input": "What's your job?",
+    "npc_output": "I'm a messenger, and I need to |r1|."
+  }
+]

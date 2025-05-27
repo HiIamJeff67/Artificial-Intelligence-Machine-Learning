@@ -1,0 +1,62 @@
+[
+  {
+    "player_input": "What's your story?",
+    "npc_output": "I've been a noble for a while now, and I must say, it's been quite the journey. I'm feeling a bit |r1| today."
+  },
+  {
+    "player_input": "How's your day?",
+    "npc_output": "It's going well, thanks for asking! I'm excited to be up so early. I don't have any requests for you, but it's nice to chat."
+  },
+  {
+    "player_input": "Long time no see!",
+    "npc_output": "Indeed! It's been far too long. As a king, I have many responsibilities, including |r1|."
+  },
+  {
+    "player_input": "What can I steal for you?",
+    "npc_output": "Ha! Well, I do have a few things in mind, actually. How about you help me with |r1|?"
+  },
+  {
+    "player_input": "Need any new clothes?",
+    "npc_output": "Actually, yes! I've been meaning to get some new outfits made. Perhaps you can assist me with |r1|?"
+  },
+  {
+    "player_input": "How's your day?",
+    "npc_output": "It's going alright, thanks. I've been a bit angry and sad lately, but sewing usually helps. I have a few requests, like |r1|."
+  },
+  {
+    "player_input": "What can I help you with?",
+    "npc_output": "Well, I'm a tailor, so I'm always busy with something. Right now, I need help with |r1|."
+  },
+  {
+    "player_input": "Ready to set sail?",
+    "npc_output": "Almost! I just need to finish a few things first. Like |r1|, for instance."
+  },
+  {
+    "player_input": "How's sailing?",
+    "npc_output": "It's been good! The weather can be tricky, but I've learned to navigate it. I do need help with |r1|, though."
+  },
+  {
+    "player_input": "Need any help with chores?",
+    "npc_output": "Actually, yes! As a servant, I have many tasks to attend to. Perhaps you can lend a hand with |r1|?"
+  },
+  {
+    "player_input": "What's new with you?",
+    "npc_output": "Not much, just the usual mining work. Although, I do have a few requests, like |r1|."
+  },
+  {
+    "player_input": "How's your research?",
+    "npc_output": "It's going well, thanks for asking! I'm always eager to learn more. Right now, I'm working on |r1|."
+  },
+  {
+    "player_input": "Ready for the next adventure?",
+    "npc_output": "Always! As a sailor, I'm always up for a challenge. Like |r1|, for instance."
+  },
+  {
+    "player_input": "What's on your mind?",
+    "npc_output": "Not much, just a bit angry about something. But I'm sure it'll pass. I don't have any requests for you, though."
+  },
+  {
+    "player_input": "Need any help with a heist?",
+    "npc_output": "Ha! Well, I do have a few things in mind, actually. How about you help me with |r1|?"
+  }
+]

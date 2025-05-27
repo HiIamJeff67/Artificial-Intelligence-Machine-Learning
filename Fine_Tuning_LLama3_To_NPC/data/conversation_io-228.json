@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "What's the weather like?",
+    "npc_output": "It's snowy outside, be careful."
+  },
+  {
+    "player_input": "Are you selling anything?",
+    "npc_output": "Yes, I have some luxurious goods for sale during the festival, would you like to take a look?"
+  },
+  {
+    "player_input": "Can you navigate the ship?",
+    "npc_output": "Of course, I can navigate the strong map after docking, |r3|."
+  },
+  {
+    "player_input": "Do you have any messages to deliver?",
+    "npc_output": "Yes, I have a few urgent scrolls to deliver, one of them is the punctual scroll before sunset, |r1|."
+  },
+  {
+    "player_input": "What's the best way to escape?",
+    "npc_output": "I can help you with that, but first, let me disguise the sneaky secret before dawn, |r3|."
+  },
+  {
+    "player_input": "Can you write a book?",
+    "npc_output": "I'd be happy to write a book, perhaps a wise manuscript after lecture, |r3|."
+  },
+  {
+    "player_input": "Do you have any tailoring requests?",
+    "npc_output": "Actually, I need to design the fine hat after delivery, |r1|, can you help me with that?"
+  },
+  {
+    "player_input": "What herbs do you need?",
+    "npc_output": "I need to crush the fresh herb in the woods, |r1|, do you want to come with me?"
+  },
+  {
+    "player_input": "Do you have any messages for me?",
+    "npc_output": "Yes, I have an urgent scroll to deliver, and I need to announce the swift scroll before sunset, |r3|."
+  },
+  {
+    "player_input": "Can you help me on the farm?",
+    "npc_output": "I'd be happy to help, let's sow the bountiful soil after sunrise, |r1|."
+  }
+]

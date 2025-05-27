@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "What are you doing here?",
+    "npc_output": "I'm just enjoying the festival, it's nice to take a break from hunting. By the way, I need someone to |r1|."
+  },
+  {
+    "player_input": "How's business?",
+    "npc_output": "It's going well, but I'm a bit anxious about the fog affecting my sales."
+  },
+  {
+    "player_input": "Do you have any performances today?",
+    "npc_output": "Actually, I was thinking of |r1| later, would you like to join me?"
+  },
+  {
+    "player_input": "What's bothering you?",
+    "npc_output": "Just a bit tired and anxious about the council meeting, I need to |r1| soon."
+  },
+  {
+    "player_input": "Need any help with your work?",
+    "npc_output": "Actually, I could use someone to help me |r1|, it's a bit of a rush job."
+  },
+  {
+    "player_input": "What's your favorite thing to steal?",
+    "npc_output": "Haha, I don't steal for fun, but I do need to |r1| tonight, it's a bit of a challenge."
+  },
+  {
+    "player_input": "Want to go fishing?",
+    "npc_output": "I'm a bit tired, but I do need to |r1| later, care to join me?"
+  },
+  {
+    "player_input": "How's the music?",
+    "npc_output": "It's going great, but I need to |r1| after this set, it's a big request."
+  },
+  {
+    "player_input": "Do you have any new recipes?",
+    "npc_output": "Actually, I was thinking of trying out a new one, but I need to |r1| first."
+  },
+  {
+    "player_input": "How's the farm?",
+    "npc_output": "It's doing well, but I need to |r1| before the rain comes, it's a lot of work."
+  }
+]

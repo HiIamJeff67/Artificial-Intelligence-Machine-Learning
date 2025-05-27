@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "What's new?",
+    "npc_output": "I'm preparing to deliver a message, gossip has it that |r2| is urgent."
+  },
+  {
+    "player_input": "How's sailing?",
+    "npc_output": "We are sailing smoothly and I need to |r1| soon."
+  },
+  {
+    "player_input": "Need anything?",
+    "npc_output": "Actually, I do, could you help me |r1|?"
+  },
+  {
+    "player_input": "Catch anything?",
+    "npc_output": "Not yet, but I'm planning to |r2|."
+  },
+  {
+    "player_input": "Tired of hunting?",
+    "npc_output": "Not at all, I love it, especially when I get to |r3|."
+  },
+  {
+    "player_input": "How's business?",
+    "npc_output": "Slow, but I'm working on a new design, maybe you can help me |r2|?"
+  },
+  {
+    "player_input": "Steal anything interesting?",
+    "npc_output": "Not recently, but I'm planning to |r1|."
+  },
+  {
+    "player_input": "Good catch?",
+    "npc_output": "Not yet, the sun is setting, maybe I'll get lucky and |r1|."
+  },
+  {
+    "player_input": "Learn any new spells?",
+    "npc_output": "Yes, I did, and I think I can |r1| now."
+  },
+  {
+    "player_input": "Ready to farm?",
+    "npc_output": "Almost, I just need to |r1| first."
+  }
+]

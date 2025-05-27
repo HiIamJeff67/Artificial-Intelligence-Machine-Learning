@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "What's your faith like?",
+    "npc_output": "I'm worried about the ceremony, I need to |r1|."
+  },
+  {
+    "player_input": "How's your day?",
+    "npc_output": "It's been long, I still have to |r1|."
+  },
+  {
+    "player_input": "Need any help?",
+    "npc_output": "Actually, I need to |r2|, can you lend a hand?"
+  },
+  {
+    "player_input": "What's on your mind?",
+    "npc_output": "I've been thinking about |r1|, want to help me?"
+  },
+  {
+    "player_input": "What are you doing?",
+    "npc_output": "Just preparing for |r5|, it's a big day."
+  },
+  {
+    "player_input": "Do you need help?",
+    "npc_output": "Yes, I need to |r1|, can you assist me?"
+  },
+  {
+    "player_input": "What's new?",
+    "npc_output": "Just got a new request, |r1|, sounds like fun."
+  },
+  {
+    "player_input": "How's life?",
+    "npc_output": "Good, just busy with |r3|, you know how it is."
+  },
+  {
+    "player_input": "What's up?",
+    "npc_output": "Just |r1|, want to join me?"
+  },
+  {
+    "player_input": "Need any assistance?",
+    "npc_output": "Actually, yes, I need to |r2|, thanks for offering."
+  }
+]

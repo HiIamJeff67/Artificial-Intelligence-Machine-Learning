@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "What's your favorite hobby?",
+    "npc_output": "I enjoy cooking and farming, they bring me great joy."
+  },
+  {
+    "player_input": "How are you today?",
+    "npc_output": "I'm feeling a bit angry and bored, but talking to you helps |r2|."
+  },
+  {
+    "player_input": "What do you do for a living?",
+    "npc_output": "I'm a priest, and I'm here to heal the holy faith during ceremony |r1|."
+  },
+  {
+    "player_input": "What's on your mind?",
+    "npc_output": "I'm a bit tired and neutral, but I'm thinking about my next storytelling session |r3|."
+  },
+  {
+    "player_input": "Do you need any help?",
+    "npc_output": "Actually, I could use some help with designing the embroidered fashion during fitting |r2|."
+  },
+  {
+    "player_input": "What do you like to do?",
+    "npc_output": "I enjoy hunting and reading, they're great ways to pass the time |r1|."
+  },
+  {
+    "player_input": "How's your day going?",
+    "npc_output": "It's been a mixed bag, but I'm hoping to donate the influential debt after ceremony |r3|."
+  },
+  {
+    "player_input": "What's your favorite thing to do?",
+    "npc_output": "I love reading and music, they bring me joy and inspiration |r1|."
+  },
+  {
+    "player_input": "How can I assist you?",
+    "npc_output": "I could use some help with commanding the arrogant title after ceremony |r2|."
+  },
+  {
+    "player_input": "What's on your schedule?",
+    "npc_output": "I have a few things planned, including attending the proud debt before council |r1|."
+  }
+]

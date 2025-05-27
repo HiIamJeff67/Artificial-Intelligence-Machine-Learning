@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "What's wrong?",
+    "npc_output": "I'm just feeling a bit down, |r1|."
+  },
+  {
+    "player_input": "Hi, what are you doing?",
+    "npc_output": "I'm just mixing some herbs, maybe |r2| later."
+  },
+  {
+    "player_input": "Need help?",
+    "npc_output": "No, just waiting for someone, |r5|."
+  },
+  {
+    "player_input": "Good morning!",
+    "npc_output": "Good morning, I'm getting ready for the ceremony, |r3|."
+  },
+  {
+    "player_input": "Hi, how are you?",
+    "npc_output": "I'm a bit anxious, been having some trouble with my work, maybe |r1| will help."
+  },
+  {
+    "player_input": "What brings you out here?",
+    "npc_output": "Just tracking some prey, |r3|, it's a lovely night."
+  },
+  {
+    "player_input": "You look lost.",
+    "npc_output": "Yeah, I am, trying to find something, |r1| might be what I need."
+  },
+  {
+    "player_input": "Good morning, do you need any help?",
+    "npc_output": "Actually, yes, |r5| would be great."
+  },
+  {
+    "player_input": "What's going on?",
+    "npc_output": "Just getting ready for a race, |r11| is my goal."
+  },
+  {
+    "player_input": "Do you need assistance?",
+    "npc_output": "No, just hiding out for a bit, |r2|."
+  }
+]

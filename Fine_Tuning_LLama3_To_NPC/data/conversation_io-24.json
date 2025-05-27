@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "What can you trade?",
+    "npc_output": "I have some goods to trade, would you like to |r1|?"
+  },
+  {
+    "player_input": "Do you have a message?",
+    "npc_output": "Yes, I need to deliver a message, can you help me with |r1|?"
+  },
+  {
+    "player_input": "Do you know any rituals?",
+    "npc_output": "Yes, I can |r1| for you, but be careful."
+  },
+  {
+    "player_input": "Do you need help with delivery?",
+    "npc_output": "Yes, I need help with |r3|, can you assist me?"
+  },
+  {
+    "player_input": "What can you build?",
+    "npc_output": "I'm a carpenter, I can |r1| for you."
+  },
+  {
+    "player_input": "Want to learn something?",
+    "npc_output": "Yes, let's |r1| together."
+  },
+  {
+    "player_input": "Do you have a job?",
+    "npc_output": "I'm a thief, I need to |r1| tonight."
+  },
+  {
+    "player_input": "Want to predict something?",
+    "npc_output": "Yes, let me |r1| for you."
+  },
+  {
+    "player_input": "Do you have an event?",
+    "npc_output": "Yes, I need to |r1| at the estate."
+  },
+  {
+    "player_input": "Want to hear a song?",
+    "npc_output": "Yes, let me |r1| for you."
+  }
+]

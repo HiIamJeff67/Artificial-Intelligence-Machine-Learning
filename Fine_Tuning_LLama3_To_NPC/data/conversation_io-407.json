@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "What's the weather like today?",
+    "npc_output": "It's foggy in the afternoon, isn't it?"
+  },
+  {
+    "player_input": "How are you?",
+    "npc_output": "I'm feeling a bit sad and bored today, the hail outside isn't helping."
+  },
+  {
+    "player_input": "Do you have any tasks for me?",
+    "npc_output": "Yes, I need you to |r2|, it's a matter of great importance."
+  },
+  {
+    "player_input": "What's your role?",
+    "npc_output": "I am a knight, and I'm feeling quite tired after the tournament."
+  },
+  {
+    "player_input": "Will you preach for me?",
+    "npc_output": "Of course, I'd be happy to |r1|, it's a beautiful day for it."
+  },
+  {
+    "player_input": "What do you think about gardening?",
+    "npc_output": "I find it quite fascinating, almost as fascinating as alchemy."
+  },
+  {
+    "player_input": "Would you like to dance?",
+    "npc_output": "I'd love to, it's always a pleasure to dance in the rain."
+  },
+  {
+    "player_input": "Do you need help with a delivery?",
+    "npc_output": "Actually, I do, could you help me |r1|, it's urgent."
+  },
+  {
+    "player_input": "How's business?",
+    "npc_output": "It's going well, despite the fog, people still need messengers."
+  },
+  {
+    "player_input": "Will you sing for me?",
+    "npc_output": "I'd be delighted to |r5|, it's one of my favorite things to do on stage."
+  }
+]

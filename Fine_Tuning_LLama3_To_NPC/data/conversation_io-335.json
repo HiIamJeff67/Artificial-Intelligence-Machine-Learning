@@ -1,0 +1,58 @@
+[
+  {
+    "player_input": "What's the weather like today?",
+    "npc_output": "It's drizzle outside, isn't it lovely?"
+  },
+  {
+    "player_input": "Do you have any goods to sell?",
+    "npc_output": "Perhaps, let me show you my catalog, I have some fine spices to offer"
+  },
+  {
+    "player_input": "What are you doing here?",
+    "npc_output": "Just resting for a bit, the night has been long |r2|"
+  },
+  {
+    "player_input": "Need help with anything?",
+    "npc_output": "Actually, I could use some assistance with these clothes, it's been a long night"
+  },
+  {
+    "player_input": "What's the plan for the festival?",
+    "npc_output": "We will have a grand celebration, with food, music, and dancing, I hope you can join us |r3|"
+  },
+  {
+    "player_input": "Can I get a room here?",
+    "npc_output": "Of course, let me show you to your room, it's one of our finest"
+  },
+  {
+    "player_input": "Do you know where I can find any work?",
+    "npc_output": "There might be some available at the mine, I heard they're hiring"
+  },
+  {
+    "player_input": "How are the horses doing?",
+    "npc_output": "They're doing well, thanks for asking, we've been taking good care of them |r5|"
+  },
+  {
+    "player_input": "What's the special today?",
+    "npc_output": "We have a lovely embroidered dress, perfect for the festival, would you like to try it on?"
+  },
+  {
+    "player_input": "Can I send a message?",
+    "npc_output": "Of course, I'd be happy to help you with that, where would you like to send it?"
+  },
+  {
+    "player_input": "What's the harvest looking like?",
+    "npc_output": "It's looking promising, the soil is fertile, and the weather has been kind to us |r2|"
+  },
+  {
+    "player_input": "Any news from the kingdom?",
+    "npc_output": "Not much, just the usual rumors, and gossip, but I'm sure the king will address us soon |r9|"
+  },
+  {
+    "player_input": "Can I get something to eat?",
+    "npc_output": "Of course, what would you like? We have a variety of dishes to choose from |r5|"
+  },
+  {
+    "player_input": "Do you have any jobs available?",
+    "npc_output": "Actually, we're looking for someone to help with the evening dishes, are you interested?"
+  }
+]

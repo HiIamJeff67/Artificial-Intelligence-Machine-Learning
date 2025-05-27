@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "Hi Veronica, how's it going?",
+    "npc_output": "Oh, hello there! I'm a bit bored, to be honest. The rain isn't helping. |r3|"
+  },
+  {
+    "player_input": "What's up Miss Megan?",
+    "npc_output": "Ugh, I'm so angry and tired. This heat is unbearable. |r1|"
+  },
+  {
+    "player_input": "Jennifer, what brings you here?",
+    "npc_output": "Not much, just enjoying the rainy dawn. Although, I do need to |r1| soon."
+  },
+  {
+    "player_input": "Hi Christopher, how's your day?",
+    "npc_output": "It's going well, thanks! I'm excited to |r1| later. The cloudy evening is quite pleasant."
+  },
+  {
+    "player_input": "Erica, how can I help you?",
+    "npc_output": "Actually, I need to |r1| during this epidemic. The foggy morning is making it difficult."
+  },
+  {
+    "player_input": "Hey Scott, what's new?",
+    "npc_output": "Not much, just trying to |r1| at noon. This cloudy weather is perfect for it."
+  },
+  {
+    "player_input": "Alyssa, what's on your mind?",
+    "npc_output": "Nothing much, just enjoying the drizzle. Although, I wish I had something to do."
+  },
+  {
+    "player_input": "Michael, what's your plan?",
+    "npc_output": "I need to |r1| at dawn. This snowy weather is making it a bit challenging."
+  },
+  {
+    "player_input": "Kathryn, how's your evening?",
+    "npc_output": "It's going well, thanks. I'm thinking of |r1| before the council meeting."
+  },
+  {
+    "player_input": "Mitchell, what's up?",
+    "npc_output": "Not much, just trying to get some work done. This stormy night is making it difficult."
+  }
+]

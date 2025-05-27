@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "What's the weather like today?",
+    "npc_output": "It's a windy day at dawn, isn't it lovely?"
+  },
+  {
+    "player_input": "Do you like sailing?",
+    "npc_output": "I love sailing, but it's not a good day for it, the stormy weather at noon is quite bad."
+  },
+  {
+    "player_input": "Are you having fun?",
+    "npc_output": "I'm a bit tired, but the festival is always fun, even on a cloudy day."
+  },
+  {
+    "player_input": "Need any help with your ceremony?",
+    "npc_output": "Actually, I could use some help, I need to heal the holy faith during ceremony, |r1|."
+  },
+  {
+    "player_input": "Want to listen to music?",
+    "npc_output": "That sounds great, I'd love to play the charming performance during festival, |r1|."
+  },
+  {
+    "player_input": "How's farming going?",
+    "npc_output": "It's going well, thanks for asking, the rainy weather in the morning is actually helpful."
+  },
+  {
+    "player_input": "Want to go fishing?",
+    "npc_output": "I'd love to, but the rain in the afternoon is making it difficult, maybe we can sail the wet river before storm, |r4|."
+  },
+  {
+    "player_input": "Any news to share?",
+    "npc_output": "Yes, I need to deliver the reliable parcel on the road, |r3|, it's a bit urgent."
+  },
+  {
+    "player_input": "Do you need medical help?",
+    "npc_output": "Actually, I could use some help, I need to care the caring medicine during epidemic, |r1|."
+  },
+  {
+    "player_input": "How's the festival going?",
+    "npc_output": "It's going great, I'm just making sure to stable the tidy bridle at dawn, |r1|, to keep everything running smoothly."
+  }
+]

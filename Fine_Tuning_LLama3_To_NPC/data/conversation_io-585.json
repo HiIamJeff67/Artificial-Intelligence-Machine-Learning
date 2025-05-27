@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "What's wrong?",
+    "npc_output": "I'm just feeling a bit sad today. |r1|"
+  },
+  {
+    "player_input": "How are you?",
+    "npc_output": "I'm feeling excited to share my knowledge with you. Want me to |r1|?"
+  },
+  {
+    "player_input": "Need any help?",
+    "npc_output": "Actually, I was thinking of |r1| tonight. Care to join me?"
+  },
+  {
+    "player_input": "What's on your mind?",
+    "npc_output": "Just a bit frustrated with this weather and my current project. |r3| might lift my spirits."
+  },
+  {
+    "player_input": "Want to chat?",
+    "npc_output": "I'd love to talk about meditation. Perhaps I could |r2| for you?"
+  },
+  {
+    "player_input": "Good morning!",
+    "npc_output": "Morning! Rather chilly, isn't it? Thinking about |r5| today."
+  },
+  {
+    "player_input": "How's the stable?",
+    "npc_output": "It's doing well. I was thinking of |r1| before the race. Want to help?"
+  },
+  {
+    "player_input": "Do you need any assistance?",
+    "npc_output": "Actually, I'm a bit anxious. Maybe |r1| could calm my nerves?"
+  },
+  {
+    "player_input": "What are you doing?",
+    "npc_output": "Just identifying some herbs. Care to learn about |r1|?"
+  },
+  {
+    "player_input": "How can I help?",
+    "npc_output": "Just need some company while I |r1|. It's been a long day."
+  }
+]

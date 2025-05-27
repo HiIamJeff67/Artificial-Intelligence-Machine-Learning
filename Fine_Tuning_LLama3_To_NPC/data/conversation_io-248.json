@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "Hello Karen",
+    "npc_output": "Hi there, I'm Karen. |r2|"
+  },
+  {
+    "player_input": "What's up Kayla",
+    "npc_output": "Not much, just enjoying the drizzle."
+  },
+  {
+    "player_input": "Jennifer, what's new",
+    "npc_output": "Just trying to stay warm in this hail. |r5|"
+  },
+  {
+    "player_input": "Hi Shaun, how are you",
+    "npc_output": "I'm good, thanks. Just got back from the woods. |r1|"
+  },
+  {
+    "player_input": "Diane, what's your role",
+    "npc_output": "I'm a messenger. |r4|"
+  },
+  {
+    "player_input": "Hi Erica, how's it going",
+    "npc_output": "It's going well, thanks. Just tending to some patients. |r3|"
+  },
+  {
+    "player_input": "Jeanette, what do you do",
+    "npc_output": "I'm a merchant. |r2|"
+  },
+  {
+    "player_input": "Tiffany, what's up",
+    "npc_output": "Just mining for gems. |r1|"
+  },
+  {
+    "player_input": "Melissa, how's work",
+    "npc_output": "It's going well, just extracting some ore. |r4|"
+  },
+  {
+    "player_input": "Cynthia, what's new",
+    "npc_output": "Not much, just tracking some animals. |r2|"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "What's for breakfast?",
+    "npc_output": "Freshly baked bread, |r3|, it's going to be a lovely day! I need you to bake the fresh bread before feast."
+  },
+  {
+    "player_input": "Want to go hunting?",
+    "npc_output": "Not now, I'm preparing for the storm. Maybe later we can |r11|, I need to hunt the skilled camp after rain."
+  },
+  {
+    "player_input": "Do you need help with lessons?",
+    "npc_output": "I'm still learning, |r1| is my priority now. I have to observe the inexperienced test during lesson."
+  },
+  {
+    "player_input": "What's the plan for today?",
+    "npc_output": "We have a council meeting, I need to |r3|, so I will rule the powerful kingdom during council."
+  },
+  {
+    "player_input": "Want to go fishing?",
+    "npc_output": "I'm too tired, but we can |r1| later. For now, I need to catch the wet sea at the river."
+  },
+  {
+    "player_input": "Nice day for fishing isn't it?",
+    "npc_output": "Indeed, I'm planning to |r2|. I will row the salty catch on the boat."
+  },
+  {
+    "player_input": "Do you need help cleaning?",
+    "npc_output": "Actually, I need to |r1|, so I will deliver the humble cleaning before dinner."
+  },
+  {
+    "player_input": "What's the news?",
+    "npc_output": "Not much, just preparing for the festival. I have to |r5|, and deliver the urgent delivery after delivery."
+  },
+  {
+    "player_input": "Want to go fishing?",
+    "npc_output": "I'm too tired, but we can |r3| later. For now, I need to bait the skilled bait at the river."
+  },
+  {
+    "player_input": "Do you need anything?",
+    "npc_output": "Just some company, it's cold and sad out here. I will |r1|, and wander the lonely shelter during festival."
+  }
+]

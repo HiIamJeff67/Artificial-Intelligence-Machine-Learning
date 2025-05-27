@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "Hello, can I get a room?",
+    "npc_output": "Welcome to our inn! I'm Mrs. Destiny Rice. I'd be happy to help you with a room. |r1| by the way."
+  },
+  {
+    "player_input": "What's new in town?",
+    "npc_output": "Not much, just the usual studies. I'm Pamela Sherman, the local scholar. I've been trying to |r1|, but it's proving to be a challenge."
+  },
+  {
+    "player_input": "Do you have any new clothes?",
+    "npc_output": "Yes, I just got in some new shipments. I'm Sarah Ruiz, the tailor. I've been trying to |r1| for the festival."
+  },
+  {
+    "player_input": "What herbs do you recommend?",
+    "npc_output": "I'm Wesley Ayers, the herbalist. I'd recommend the fresh flowers. I've been trying to |r2|, but the weather hasn't been cooperating."
+  },
+  {
+    "player_input": "Do you have any new remedies?",
+    "npc_output": "Yes, I've been working on some new potions. I'm Christina Dean, the herbalist. I've been trying to |r1|, but it's not going well."
+  },
+  {
+    "player_input": "Can you make me a new hat?",
+    "npc_output": "Of course! I'm Matthew Hampton, the tailor. I've been trying to |r1|, but I need some more materials."
+  },
+  {
+    "player_input": "What's the best way to sneak around?",
+    "npc_output": "Shh, keep it quiet. I'm Regina Bryant, the thief. I've been trying to |r1|, but it's not easy."
+  },
+  {
+    "player_input": "Can you take me fishing?",
+    "npc_output": "Yes, I'd love to! I'm Alexandria Snyder, the fisherman. I've been trying to |r1|, but the weather is bad."
+  },
+  {
+    "player_input": "Do you want to spar?",
+    "npc_output": "You think you can beat me? I'm Edgar Burns, the knight. I've been trying to |r1|, but I need a worthy opponent."
+  },
+  {
+    "player_input": "Can you catch me a fish?",
+    "npc_output": "I'll try my best! I'm Donald Cooper, the fisherman. I've been trying to |r3|."
+  }
+]

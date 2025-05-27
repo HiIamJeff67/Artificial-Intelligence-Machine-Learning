@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "What's wrong?",
+    "npc_output": "I'm feeling sad and angry, I wish someone would |r1|."
+  },
+  {
+    "player_input": "What are you doing?",
+    "npc_output": "I'm looking for something to steal, maybe I'll |r1|."
+  },
+  {
+    "player_input": "Do you need help?",
+    "npc_output": "I'm trying to navigate through this storm, I need to |r5|."
+  },
+  {
+    "player_input": "What's going on?",
+    "npc_output": "I'm hosting a court at the palace, I need to |r1|."
+  },
+  {
+    "player_input": "Want to chat?",
+    "npc_output": "I'm happy to talk, but I have to |r1| later."
+  },
+  {
+    "player_input": "How's it going?",
+    "npc_output": "I'm tired and angry, I wish I could |r2|."
+  },
+  {
+    "player_input": "What's up?",
+    "npc_output": "I'm excited to sail, I need to |r1|."
+  },
+  {
+    "player_input": "Need assistance?",
+    "npc_output": "I'm trying to create a new outfit, maybe I'll |r2|."
+  },
+  {
+    "player_input": "What's new?",
+    "npc_output": "I'm working on a new design, I have to |r5|."
+  },
+  {
+    "player_input": "Want to hunt?",
+    "npc_output": "I'm tracking some prey, I need to |r1|."
+  }
+]

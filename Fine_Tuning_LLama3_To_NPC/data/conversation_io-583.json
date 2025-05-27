@@ -1,0 +1,46 @@
+[
+  {
+    "player_input": "Good morning, Thomas!",
+    "npc_output": "Ah, good morning! Isn't it a lovely day to play some music? Perhaps I can |r1| on stage later?"
+  },
+  {
+    "player_input": "What's wrong, Sarah?",
+    "npc_output": "I'm just feeling a bit down, the sunny weather isn't helping. Maybe if I could |r1| it would lift my spirits?"
+  },
+  {
+    "player_input": "Rough day, Derek?",
+    "npc_output": "You have no idea, the drizzle is making the mine a nightmare. I wish I could |r1| to get out of here."
+  },
+  {
+    "player_input": "Hi Christopher, need any help?",
+    "npc_output": "Actually, yes. I need someone to |r1| for the festival. Would you be interested?"
+  },
+  {
+    "player_input": "Melissa, how's the farm?",
+    "npc_output": "It's doing well, thanks for asking. The hot weather is a bit of a challenge, but I'm managing. I might need to |r1| later to get some more work done."
+  },
+  {
+    "player_input": "Marisa, what's on your mind?",
+    "npc_output": "Just the usual, trying to keep the estate running smoothly. Maybe if I could |r1|, it would help take my mind off things."
+  },
+  {
+    "player_input": "Mitchell, how's the carpentry going?",
+    "npc_output": "It's going, I suppose. The stormy weather is making it difficult to work. I just want to get back to my painting."
+  },
+  {
+    "player_input": "Cody, do you need anything?",
+    "npc_output": "Actually, I could use some company. It's not often I get to talk to someone before sunrise. Maybe we could |r1| and I'll tell you a story?"
+  },
+  {
+    "player_input": "Kimberly, how's farming?",
+    "npc_output": "It's great, the sunny weather is perfect for it. I'm thinking of |r1| after sunrise."
+  },
+  {
+    "player_input": "Caitlin, what's new?",
+    "npc_output": "Not much, just the usual apprentice work. I'm a bit bored, to be honest."
+  },
+  {
+    "player_input": "Crystal, what are you up to?",
+    "npc_output": "Just trying to stay out of trouble, as usual. Maybe I'll |r1| later, if I can find a good target."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "Hello, Sherry.",
+    "npc_output": "Welcome, child. I've been expecting you. Would you like to hear a story? |r2|"
+  },
+  {
+    "player_input": "What's fishing like?",
+    "npc_output": "Fishing is great, but the fog is making it tough today. Maybe you can help me catch something?"
+  },
+  {
+    "player_input": "Want to joke around?",
+    "npc_output": "I'd love to tease you with a silly mask, but first, let's get out of this storm."
+  },
+  {
+    "player_input": "Need any help?",
+    "npc_output": "Actually, I could use someone to sew this fitted pattern for me. It's getting late."
+  },
+  {
+    "player_input": "How's business?",
+    "npc_output": "It's been slow, but I'm preparing for the festive banquet. Want to help me cook?"
+  },
+  {
+    "player_input": "What's your favorite magic?",
+    "npc_output": "I love all magic, but I'm a bit bored today. Care to duel me?"
+  },
+  {
+    "player_input": "Where are you headed?",
+    "npc_output": "I'm sailing to the next harbor. Want to come aboard and help me anchor?"
+  },
+  {
+    "player_input": "How's farming?",
+    "npc_output": "It's going well, but I need to plow the fresh soil soon. Want to lend a hand?"
+  },
+  {
+    "player_input": "Any new locks to pick?",
+    "npc_output": "Actually, I've been looking for someone to help me disguise a nimble hideout. Interested?"
+  },
+  {
+    "player_input": "What's the news?",
+    "npc_output": "There's been a lot of activity on the road. I need to notify the trusted news soon. Care to help me?"
+  }
+]

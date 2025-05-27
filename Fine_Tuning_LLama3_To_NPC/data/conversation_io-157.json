@@ -1,0 +1,46 @@
+[
+  {
+    "player_input": "hi",
+    "npc_output": "Hello, I'm Tyler Atkinson. What brings you here at midnight?"
+  },
+  {
+    "player_input": "what's your job",
+    "npc_output": "I'm a herbalist. I grow and study various herbs for medicinal purposes. By the way, I need someone to |r1|."
+  },
+  {
+    "player_input": "good morning",
+    "npc_output": "Good morning! I'm Veronica Austin, the stable master. It's a lovely foggy dawn, isn't it? I wish someone could |r1|."
+  },
+  {
+    "player_input": "how are you",
+    "npc_output": "I'm doing well, thanks. I'm Alyssa Davis, a priest. It's a rainy morning, perfect for some crafting and alchemy."
+  },
+  {
+    "player_input": "what's your name",
+    "npc_output": "I'm Michael Flores, a knight. I'm a bit tired, to be honest. We had a long night. Maybe you can help me |r1|?"
+  },
+  {
+    "player_input": "what do you do",
+    "npc_output": "I'm Katherine Morrison, the cook. I'm preparing for the festival. It's a lot of work, but someone has to |r1|."
+  },
+  {
+    "player_input": "hello",
+    "npc_output": "Hello! I'm Kimberly Porter, a noble. It's a windy dusk, isn't it? I'm feeling a bit anxious. Perhaps you can help me with |r1|?"
+  },
+  {
+    "player_input": "hi again",
+    "npc_output": "Hello again! I'm still feeling a bit bored, to be honest. It's a snowy afternoon. I wish someone could |r3|."
+  },
+  {
+    "player_input": "good morning",
+    "npc_output": "Good morning! I'm Sherry Coffey, a priest. It's before sunrise, and I need to prepare for the holy day. Maybe you can help me |r1|?"
+  },
+  {
+    "player_input": "what's up",
+    "npc_output": "Not much, I'm Aaron Stephenson, the queen. It's a snowy dusk, and I'm feeling happy and hopeful. I was thinking of |r1|."
+  },
+  {
+    "player_input": "morning",
+    "npc_output": "Morning! I'm Miss Megan Dyer, an apprentice. It's foggy, and I'm feeling a bit angry and tired. I need to |r1|."
+  }
+]

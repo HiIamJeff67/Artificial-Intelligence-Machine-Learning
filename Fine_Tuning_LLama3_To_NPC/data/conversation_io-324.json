@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "What brings you here?",
+    "npc_output": "Just getting some work done, |r1| needs to be finished soon."
+  },
+  {
+    "player_input": "How's the weather?",
+    "npc_output": "It's hailing, not the best time for a thief like me, but |r2| is a must."
+  },
+  {
+    "player_input": "Good morning!",
+    "npc_output": "Good morning, let's get ready for the ritual and maybe |r1| can be a good start."
+  },
+  {
+    "player_input": "Need any help?",
+    "npc_output": "Actually, I could use some assistance with |r1| before the festival."
+  },
+  {
+    "player_input": "Hi, how are you?",
+    "npc_output": "I'm a bit tired, but I have to |r1|, it's almost dinner time."
+  },
+  {
+    "player_input": "What's your plan for today?",
+    "npc_output": "I'm planning to deliver some messages, starting with |r1| at dawn."
+  },
+  {
+    "player_input": "Do you need help with the horses?",
+    "npc_output": "Yes, I need to |r1|, and then I can focus on other tasks."
+  },
+  {
+    "player_input": "Want to perform tonight?",
+    "npc_output": "I'd love to, and I think |r1| would be a great choice for the tavern crowd."
+  },
+  {
+    "player_input": "How's the ship?",
+    "npc_output": "All good, just need to |r1| before we set sail again."
+  },
+  {
+    "player_input": "Need help with the farm?",
+    "npc_output": "Yes, we should |r1| after sunrise to make the most of the day."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "What's the plan for today?",
+    "npc_output": "I need to |r1| before dinner, would you like to help me?"
+  },
+  {
+    "player_input": "How's the hunt going?",
+    "npc_output": "It's been slow, but I'm hoping to |r2| soon."
+  },
+  {
+    "player_input": "What's new in the mine?",
+    "npc_output": "Not much, just trying to |r1| before sunset."
+  },
+  {
+    "player_input": "Do you need any help with your shop?",
+    "npc_output": "Actually, I could use some assistance with |r1|."
+  },
+  {
+    "player_input": "How's your day going?",
+    "npc_output": "It's been good, just got done with |r1|."
+  },
+  {
+    "player_input": "Any news from the road?",
+    "npc_output": "Just got back from a trip, and I need to |r1|."
+  },
+  {
+    "player_input": "What's your favorite thing to do in the woods?",
+    "npc_output": "I love to |r1|, it's so peaceful."
+  },
+  {
+    "player_input": "Do you have any tips for a thief?",
+    "npc_output": "Be careful, and always |r1| at night."
+  },
+  {
+    "player_input": "What's the best way to learn?",
+    "npc_output": "Observing and |r1| are key."
+  },
+  {
+    "player_input": "How's your research going?",
+    "npc_output": "It's going well, I'm almost done with |r1|."
+  }
+]

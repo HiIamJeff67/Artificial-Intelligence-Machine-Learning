@@ -1,0 +1,62 @@
+[
+  {
+    "player_input": "What's your problem?",
+    "npc_output": "I'm feeling sad and angry, would you like to hear why? |r1|"
+  },
+  {
+    "player_input": "How's business?",
+    "npc_output": "It's been good, thanks for asking! I'm thinking of trading some goods soon, maybe during the festival. Want to join me? |r2|"
+  },
+  {
+    "player_input": "Need any help with your garden?",
+    "npc_output": "Actually, yes! I'm trying to gather some fresh flowers for a remedy, but it's hard to do it before sunrise. Care to lend a hand? |r3|"
+  },
+  {
+    "player_input": "Tough day farming?",
+    "npc_output": "You have no idea... This stormy weather is making it hard to tend to my crops. I was thinking of sowing some fresh soil at the field, but it's not the best conditions. |r1|"
+  },
+  {
+    "player_input": "Any messages for me?",
+    "npc_output": "Now that you mention it, I do have a discreet parcel to deliver on the road. Want to come with me? |r1|"
+  },
+  {
+    "player_input": "How's farming going?",
+    "npc_output": "It's... okay, I suppose. The cloudy weather is making it hard to plant anything. I was thinking of planting some abundant soil after sunrise, but we'll see. |r2|"
+  },
+  {
+    "player_input": "Find any valuable ores?",
+    "npc_output": "Not yet, but I'm planning to descend into the deep helmet during my shift today. Wish me luck! |r1|"
+  },
+  {
+    "player_input": "How's your harvest?",
+    "npc_output": "It's been good, thanks for asking! Although the stormy weather is making it hard to plow the abundant soil. I might need some help with that... |r1|"
+  },
+  {
+    "player_input": "Need help with anything?",
+    "npc_output": "Actually, yes... I need to fetch the loyal errand before dinner, but I'm running a bit behind schedule. Care to help me out? |r1|"
+  },
+  {
+    "player_input": "Planning a new voyage?",
+    "npc_output": "You know it! I'm navigating the strong map after docking, and then we'll set sail. Want to come aboard? |r3|"
+  },
+  {
+    "player_input": "What's new with you?",
+    "npc_output": "Not much, just trying to steal the nimble lock at night. It's a tricky business, but someone's gotta do it... |r1|"
+  },
+  {
+    "player_input": "Any news to share?",
+    "npc_output": "Now that you mention it, I do have an urgent letter to deliver after delivery. Want to come with me? |r6|"
+  },
+  {
+    "player_input": "How's life as a witch?",
+    "npc_output": "It has its ups and downs... I'm trying to predict the mysterious ritual after the storm, but it's not easy. Care to help me cast the wise charm in the woods? |r2|"
+  },
+  {
+    "player_input": "Find any good hunting spots?",
+    "npc_output": "Actually, yes! I'm tracking the skilled prey in the forest, and I think I've found a great spot. Want to come with me? |r1|"
+  },
+  {
+    "player_input": "Need any charity?",
+    "npc_output": "As a matter of fact, I could use a cold blanket during the festival. It gets pretty chilly at night... |r2|"
+  }
+]

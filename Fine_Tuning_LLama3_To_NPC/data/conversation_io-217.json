@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "What's the weather like today?",
+    "npc_output": "It's hot in the afternoon, not the best time to be outside."
+  },
+  {
+    "player_input": "I'm bored, what can I do?",
+    "npc_output": "You could try fishing or cooking, I've heard those are interesting activities.|r1|"
+  },
+  {
+    "player_input": "Do you need any help?",
+    "npc_output": "I could use some assistance with preparing the festive banquet after sunset.|r1|"
+  },
+  {
+    "player_input": "How's your day been?",
+    "npc_output": "It's been a bit cloudy, but I'm looking forward to delivering the punctual scroll before sunset.|r1|"
+  },
+  {
+    "player_input": "Want to go for a walk?",
+    "npc_output": "I'd love to, but I have to steal the shadowy loot in the alley first.|r1|"
+  },
+  {
+    "player_input": "What's new with you?",
+    "npc_output": "I've been studying herbalism, maybe I can grow the healing plant during spring.|r1|"
+  },
+  {
+    "player_input": "Do you have any fun plans?",
+    "npc_output": "I'm going to entertain the cheerful prank after joke, want to join me?|r1|"
+  },
+  {
+    "player_input": "Need any company?",
+    "npc_output": "I could use some help stealing the cunning hideout in the alley.|r1|"
+  },
+  {
+    "player_input": "What's the plan for today?",
+    "npc_output": "I have to deliver the punctual letter at dawn, wish me luck!|r1|"
+  },
+  {
+    "player_input": "What's going on?",
+    "npc_output": "I'm tracking the skilled prey in the forest, it's a bit challenging.|r1|"
+  }
+]

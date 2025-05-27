@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "Hello, what's your job?",
+    "npc_output": "I'm a carpenter. Nice to meet you!"
+  },
+  {
+    "player_input": "What's new with you?",
+    "npc_output": "Not much, just studying for my herbalism exam. |r1|"
+  },
+  {
+    "player_input": "How's business?",
+    "npc_output": "It's been good, but I'm a bit anxious about meeting demand. Maybe you can help me with |r1|?"
+  },
+  {
+    "player_input": "What are you doing up so early?",
+    "npc_output": "I'm a thief, I do my best work at night. But I need to |r1| before dawn."
+  },
+  {
+    "player_input": "You look like you're in a hurry, what's wrong?",
+    "npc_output": "I have a lot of research to do and not much time. I need to |r1| tonight."
+  },
+  {
+    "player_input": "How's the mining business?",
+    "npc_output": "It's been exciting, we just hit a new vein of ore. But I need to |r1| before we can extract it."
+  },
+  {
+    "player_input": "What brings you out so late?",
+    "npc_output": "I'm a merchant, I have to stay up late to keep an eye on my goods. Maybe you're interested in buying something?"
+  },
+  {
+    "player_input": "Do you have any performances scheduled?",
+    "npc_output": "Yes, I have a show on stage tonight. I need to |r1| to get ready."
+  },
+  {
+    "player_input": "How's life on the sea?",
+    "npc_output": "It's been good, but we've had some rough weather. I need to |r1| before our next voyage."
+  },
+  {
+    "player_input": "What's new with your blacksmithing?",
+    "npc_output": "It's been keeping me busy, but I need to |r1| to keep up with demand."
+  }
+]

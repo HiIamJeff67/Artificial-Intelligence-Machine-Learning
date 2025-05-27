@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "What's new?",
+    "npc_output": "Hello! Isn't it a hot morning? I'm excited to work on the elegant hat in the shop, |r1|."
+  },
+  {
+    "player_input": "How's your day?",
+    "npc_output": "It's going well, thanks! Although it's getting cloudy and it's after sunset, I should probably get back to translating the curious library before exam, |r1|."
+  },
+  {
+    "player_input": "Nice to see you!",
+    "npc_output": "Likewise! I was just about to entertain the lively lyre on stage, |r1|, but this hail is quite something, isn't it?"
+  },
+  {
+    "player_input": "Fishing today?",
+    "npc_output": "Not today, but I did catch a salty fish during fishing recently. Maybe you can help me with |r1|?"
+  },
+  {
+    "player_input": "What's the plan for today?",
+    "npc_output": "Before sunrise, I need to host the graceful court at the palace, |r1|. It's going to be a big day."
+  },
+  {
+    "player_input": "How's business?",
+    "npc_output": "It's been okay, I suppose. The cloudy weather and afternoon time are making it a bit slow, but I'm trying to focus on selling the luxurious permit at the market, |r3|."
+  },
+  {
+    "player_input": "Need any help?",
+    "npc_output": "Actually, yes. I need to design the fine hat after delivery, |r1|, and it's already hot and in the afternoon. Quite a challenge."
+  },
+  {
+    "player_input": "Message for me?",
+    "npc_output": "As a matter of fact, I have to report the punctual scroll before sunset, |r1|. It's during the festival, so it's quite busy."
+  },
+  {
+    "player_input": "Brewing something new?",
+    "npc_output": "Always! I'm thinking of hexing the strange ritual at midnight, |r1|. This windy weather after sunset seems perfect for it."
+  },
+  {
+    "player_input": "Planning a heist?",
+    "npc_output": "You know it. I need to escape the cunning loot before dawn, |r1|. It's not going to be easy, but the drizzle before sunrise might help."
+  }
+]

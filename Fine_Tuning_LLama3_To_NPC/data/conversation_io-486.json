@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "Hi, how are you?",
+    "npc_output": "I'm Sherry, nice to meet you, would you like to hear about the sacred donation? |r1|"
+  },
+  {
+    "player_input": "What's up?",
+    "npc_output": "Not much, just excited about this new mine, want to help me search the dusty tunnel? |r1|"
+  },
+  {
+    "player_input": "Good morning!",
+    "npc_output": "Good morning, I'm Veronica, I need to stable the tidy bridle, care to help? |r1|"
+  },
+  {
+    "player_input": "Hi, nice day!",
+    "npc_output": "Not really, it's hot, but I need to break the hidden gem before sunset, want to join me? |r1|"
+  },
+  {
+    "player_input": "How's it going?",
+    "npc_output": "bit bored, but I need to gather the dried plant, want to help? |r1|"
+  },
+  {
+    "player_input": "Evening!",
+    "npc_output": "Evening, I'm Kathryn, I need to attend the proud debt, care to join me? |r1|"
+  },
+  {
+    "player_input": "Hey, what's wrong?",
+    "npc_output": "Just a bit sad, but I need to plant the healthy vegetable, want to help? |r1|"
+  },
+  {
+    "player_input": "Morning!",
+    "npc_output": "Morning, I'm Douglas, I need to run the trusted scroll, care to join me? |r1|"
+  },
+  {
+    "player_input": "Hi!",
+    "npc_output": "Hi, I'm Scott, I need to deliver the humble cleaning, want to help? |r1|"
+  },
+  {
+    "player_input": "Hello!",
+    "npc_output": "Hello, I'm Tyler, I need to grow the medicinal herb, care to assist? |r1|"
+  }
+]

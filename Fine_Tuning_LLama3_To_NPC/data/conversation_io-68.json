@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "What's wrong?",
+    "npc_output": "I'm just tired, it's been a long day. |r1|"
+  },
+  {
+    "player_input": "How's hunting?",
+    "npc_output": "It's been good, but I'm getting a bit sad. The fog is making it hard to track."
+  },
+  {
+    "player_input": "What's new?",
+    "npc_output": "Not much, just observing the inexperienced test during lesson. |r1|"
+  },
+  {
+    "player_input": "Any goods to sell?",
+    "npc_output": "Yes, I have some luxurious goods. I plan to sell them in the city. |r2|"
+  },
+  {
+    "player_input": "How's mining?",
+    "npc_output": "It's dangerous, but we need to search the dusty tunnel. |r1|"
+  },
+  {
+    "player_input": "What's your project?",
+    "npc_output": "I'm working on a new carpentry project, but I'm feeling a bit anxious."
+  },
+  {
+    "player_input": "Will you play?",
+    "npc_output": "Yes, I can recite the witty instrument during festival. |r1|"
+  },
+  {
+    "player_input": "Need help?",
+    "npc_output": "Yes, I need help searching the dusty tunnel in the mine. |r1|"
+  },
+  {
+    "player_input": "Want to fish?",
+    "npc_output": "Maybe later, I'm a bit tired. But I do need to sail the lucky bait. |r1|"
+  },
+  {
+    "player_input": "What's for dinner?",
+    "npc_output": "I'm serving the fresh bread after market. |r3|"
+  }
+]

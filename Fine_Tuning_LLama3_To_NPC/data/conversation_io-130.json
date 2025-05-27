@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "What's your role?",
+    "npc_output": "I am a scholar."
+  },
+  {
+    "player_input": "Weather is bad, what are you doing?",
+    "npc_output": "I'm a farmer, I need to |r2|."
+  },
+  {
+    "player_input": "Do you have a message for me?",
+    "npc_output": "Yes, I'm a messenger, |r1|."
+  },
+  {
+    "player_input": "Why are you sad?",
+    "npc_output": "I'm an apprentice, and I'm feeling a bit down today."
+  },
+  {
+    "player_input": "Where are you headed?",
+    "npc_output": "I'm a messenger, I need to |r1|."
+  },
+  {
+    "player_input": "Do you have any tasks for me?",
+    "npc_output": "Yes, I'm an innkeeper, |r1|."
+  },
+  {
+    "player_input": "What's your favorite hobby?",
+    "npc_output": "I'm a fool, I love dancing and reading."
+  },
+  {
+    "player_input": "Will you entertain us?",
+    "npc_output": "Absolutely, I'm a bard, |r1|."
+  },
+  {
+    "player_input": "What's your título?",
+    "npc_output": "I'm a noble, nice to meet you."
+  },
+  {
+    "player_input": "What brings you here?",
+    "npc_output": "I'm a sailor, just |r1|."
+  }
+]

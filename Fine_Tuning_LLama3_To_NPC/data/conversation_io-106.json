@@ -1,0 +1,58 @@
+[
+  {
+    "player_input": "What's your favorite hobby?",
+    "npc_output": "I enjoy dancing, reading, music, and hunting.|r1|"
+  },
+  {
+    "player_input": "How's the weather?",
+    "npc_output": "It's snowy and chilly at noon."
+  },
+  {
+    "player_input": "Want to go fishing?",
+    "npc_output": "I'd rather sow the fresh soil at the field.|r1|"
+  },
+  {
+    "player_input": "Let's trade something.",
+    "npc_output": "I'm interested in stealing the nimble lock at night.|r1|"
+  },
+  {
+    "player_input": "What's new?",
+    "npc_output": "I need to travel the urgent scroll after delivery.|r1|"
+  },
+  {
+    "player_input": "Want to read a book?",
+    "npc_output": "I'm more interested in selling the luxurious permit at the market.|r1|"
+  },
+  {
+    "player_input": "Let's have some fun.",
+    "npc_output": "I'm excited to design the fine hat after delivery.|r1|"
+  },
+  {
+    "player_input": "How's your day?",
+    "npc_output": "It's going well, considering the sunny weather."
+  },
+  {
+    "player_input": "Want to attend a ceremony?",
+    "npc_output": "I should donate the influential debt after ceremony.|r1|"
+  },
+  {
+    "player_input": "Let's sew something.",
+    "npc_output": "I need to embroider the elegant hat in the shop.|r1|"
+  },
+  {
+    "player_input": "What's your favorite food?",
+    "npc_output": "I enjoy cooking and farming."
+  },
+  {
+    "player_input": "Let's build something.",
+    "npc_output": "I should repair the smooth house during construction.|r1|"
+  },
+  {
+    "player_input": "Want to sail?",
+    "npc_output": "I need to repair the rowdy storm during storm.|r1|"
+  },
+  {
+    "player_input": "Let's have fun at the festival.",
+    "npc_output": "I want to tease the silly mask at the festival.|r1|"
+  }
+]

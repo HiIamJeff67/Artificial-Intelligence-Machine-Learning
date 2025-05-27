@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "What's your role",
+    "npc_output": "I'm a messenger, by the way, |r1| is urgent"
+  },
+  {
+    "player_input": "Need help",
+    "npc_output": "Thanks, I need to |r3| at the gate"
+  },
+  {
+    "player_input": "Weather is bad",
+    "npc_output": "I know, |r2| will be difficult in this cloudy weather"
+  },
+  {
+    "player_input": "I'm tired",
+    "npc_output": "Me too, but |r1| can't wait"
+  },
+  {
+    "player_input": "Do you cook",
+    "npc_output": "Yes, I do, and |r1| is a nice task"
+  },
+  {
+    "player_input": "I'm in a hurry",
+    "npc_output": "Me too, |r5| is waiting"
+  },
+  {
+    "player_input": "What's your interest",
+    "npc_output": "I love sports, and |r1| is related to that"
+  },
+  {
+    "player_input": "Do you read",
+    "npc_output": "Yes, I do, and |r4| is an interesting book"
+  },
+  {
+    "player_input": "Need assistance",
+    "npc_output": "Thanks, I need help with |r2|"
+  },
+  {
+    "player_input": "I'm lost",
+    "npc_output": "Don't worry, I can help you with |r1|"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "What's the weather like tonight?",
+    "npc_output": "It's hot, but I'm excited to see the sunrise tomorrow, by the way, I need to |r2| soon"
+  },
+  {
+    "player_input": "Do you have any news?",
+    "npc_output": "I have to |r1|, but first let me tell you it's hailing and it's almost evening"
+  },
+  {
+    "player_input": "Will you be attending the festival?",
+    "npc_output": "I'm a priest, I have to |r1| during ceremony, it's a snowy day and the festival is happening now"
+  },
+  {
+    "player_input": "Do you need any help with cleaning?",
+    "npc_output": "Actually, I need to |r1|, it's drizzling outside and it's afternoon"
+  },
+  {
+    "player_input": "What's for dinner?",
+    "npc_output": "I'll |r2|, it's rainy and almost dusk, so let's get ready for the night"
+  },
+  {
+    "player_input": "How's farming going?",
+    "npc_output": "It's going great, it's rainy and morning, perfect time to work"
+  },
+  {
+    "player_input": "Can you preach something?",
+    "npc_output": "I can |r1|, it's foggy and dawn, a great time for reflection"
+  },
+  {
+    "player_input": "Do you need help with your shop?",
+    "npc_output": "I need to |r1|, it's drizzling and midnight, a bit quiet for business"
+  },
+  {
+    "player_input": "Want to sneak out tonight?",
+    "npc_output": "I'm thinking of |r1|, it's cloudy and after sunset, perfect cover"
+  },
+  {
+    "player_input": "What's the plan for today?",
+    "npc_output": "I need to |r1|, it's snowy and dusk, let's get moving"
+  }
+]

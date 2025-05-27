@@ -1,0 +1,62 @@
+[
+  {
+    "player_input": "What's new in farming?",
+    "npc_output": "Ah, I've been excited about the new farming techniques I've been studying. Perhaps we could discuss them over a meal? I've been experimenting with some new cooking recipes as well."
+  },
+  {
+    "player_input": "How's the weather affecting your work?",
+    "npc_output": "Ugh, this hail is terrible. I have to |r2|, but I'm too tired and anxious to do it now. Can you help me?"
+  },
+  {
+    "player_input": "I love gardening. How about you?",
+    "npc_output": "Gardening is my passion. I've been feeling a bit anxious about the wind, but I need to |r1| soon. Want to join me?"
+  },
+  {
+    "player_input": "Want to hear a story?",
+    "npc_output": "I love storytelling. But first, I need to |r1|. Care to help me with it?"
+  },
+  {
+    "player_input": "Need any help with carpentry?",
+    "npc_output": "Actually, I'm a bit anxious about this project. I need to |r1|, but this stormy weather is not helping."
+  },
+  {
+    "player_input": "What's the best thing to buy lately?",
+    "npc_output": "You know, I've been feeling hopeful about the market. I should |r1| soon, but for now, let's just enjoy the evening."
+  },
+  {
+    "player_input": "How's the construction going?",
+    "npc_output": "It's going, but I'm anxious about the deadline. I need to |r1|, and this hail is not making it easier."
+  },
+  {
+    "player_input": "You seem excited. What's up?",
+    "npc_output": "I am! I've been studying all night and I'm excited to share my findings. Maybe over a meal?"
+  },
+  {
+    "player_input": "Want to go mining?",
+    "npc_output": "I'd love to, but first, I need to |r1|. It's getting late, though, and the wind is picking up."
+  },
+  {
+    "player_input": "What kind of music do you like?",
+    "npc_output": "I love all kinds, but I'm a bit anxious about my upcoming performance. Maybe you could help me |r1|?"
+  },
+  {
+    "player_input": "Want to go fishing?",
+    "npc_output": "I'd love to, but first, I need to |r1|. The wind is not ideal for fishing, anyway."
+  },
+  {
+    "player_input": "How's life as a noble?",
+    "npc_output": "It's... complicated. I have many responsibilities, like |r1|. But I'm tired and need some advice."
+  },
+  {
+    "player_input": "What's new with you?",
+    "npc_output": "Not much, just feeling a bit sad and bored. I wish I had something exciting to do, like |r1|."
+  },
+  {
+    "player_input": "How's the morning?",
+    "npc_output": "It's lovely, thanks for asking. I was just thinking about trying out a new cooking recipe. Care to join me?"
+  },
+  {
+    "player_input": "What's the best thing to sell now?",
+    "npc_output": "Well, I've been thinking of |r1|, but the festival is almost over. Maybe we can discuss strategies?"
+  }
+]

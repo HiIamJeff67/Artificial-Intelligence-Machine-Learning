@@ -1,0 +1,62 @@
+[
+  {
+    "player_input": "What's the weather like today?",
+    "npc_output": "It's stormy outside, and it's noon. By the way, I need you to |r1|."
+  },
+  {
+    "player_input": "How's your day?",
+    "npc_output": "It's foggy, and I'm feeling sad and anxious. Maybe I'll go |r2| later."
+  },
+  {
+    "player_input": "Want to go fishing?",
+    "npc_output": "I'd love to, but it's midnight and I have to |r1| first."
+  },
+  {
+    "player_input": "What's new?",
+    "npc_output": "Not much, just trying to |r1| before the council meeting. It's snowy and noon, you know."
+  },
+  {
+    "player_input": "Want to hear a story?",
+    "npc_output": "I'd love to, but I have to |r1| on stage first. It's foggy and midnight, perfect for a performance."
+  },
+  {
+    "player_input": "Any news?",
+    "npc_output": "Just that it's snowy and dawn. I should probably |r1| now."
+  },
+  {
+    "player_input": "How's the queen?",
+    "npc_output": "She's happy and hopeful, and it's foggy during the festival. Maybe I'll |r1| at the palace."
+  },
+  {
+    "player_input": "What are you doing?",
+    "npc_output": "Just trying to |r1| at night, but it's snowy and hard to see."
+  },
+  {
+    "player_input": "Need any help?",
+    "npc_output": "Actually, I need someone to |r1| in the evening. It's hot and noon, so it might be a good time."
+  },
+  {
+    "player_input": "What's your specialty?",
+    "npc_output": "I'm a witch, and I can |r1| after the storm. It's stormy and after sunset, perfect for some magic."
+  },
+  {
+    "player_input": "Want to learn something new?",
+    "npc_output": "I'd love to teach you, but I'm a bit sad and bored. Maybe we can |r1| later."
+  },
+  {
+    "player_input": "What's the best food?",
+    "npc_output": "I think it's something cooked, and it's snowy and at dusk. Maybe we can |r1| in the temple."
+  },
+  {
+    "player_input": "Want to have some fun?",
+    "npc_output": "I'd love to, and it's cloudy and at dusk. Let's |r1| during the festival!"
+  },
+  {
+    "player_input": "Any deliveries?",
+    "npc_output": "Yes, I have to |r1| at midnight, and it's drizzle outside."
+  },
+  {
+    "player_input": "Need any tools?",
+    "npc_output": "Actually, I need to |r1| before rain, and it's rainy and before sunrise."
+  }
+]

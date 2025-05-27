@@ -1,0 +1,62 @@
+[
+  {
+    "player_input": "What's the weather like?",
+    "npc_output": "It's hailing outside."
+  },
+  {
+    "player_input": "What are you doing?",
+    "npc_output": "I'm getting ready for work, sharpening my tools.|r1|"
+  },
+  {
+    "player_input": "How's your day?",
+    "npc_output": "It's going well, I'm just identifying some herbs."
+  },
+  {
+    "player_input": "What's new?",
+    "npc_output": "Not much, just trying to sow some seeds.|r1|"
+  },
+  {
+    "player_input": "Hi, how are you?",
+    "npc_output": "I'm a bit bored, want to go hunting with me?"
+  },
+  {
+    "player_input": "What's your favorite hobby?",
+    "npc_output": "I love to dance and read.|r1|"
+  },
+  {
+    "player_input": "What do you need help with?",
+    "npc_output": "I need someone to observe my test results."
+  },
+  {
+    "player_input": "What's the news?",
+    "npc_output": "There's been an urgent message, I need to announce it.|r1|"
+  },
+  {
+    "player_input": "What do you do for fun?",
+    "npc_output": "I love to heal people and conduct ceremonies.|r1|"
+  },
+  {
+    "player_input": "How can I help?",
+    "npc_output": "I could use some help delivering this cleaning."
+  },
+  {
+    "player_input": "What are you planting?",
+    "npc_output": "I'm planting some seeds, want to help?"
+  },
+  {
+    "player_input": "What's your expertise?",
+    "npc_output": "I'm skilled in crafting and alchemy."
+  },
+  {
+    "player_input": "What's your daily routine?",
+    "npc_output": "I usually mine for stones and gems.|r1|"
+  },
+  {
+    "player_input": "What's the latest news?",
+    "npc_output": "I need to notify someone about a parcel.|r1|"
+  },
+  {
+    "player_input": "What's your favorite activity?",
+    "npc_output": "I enjoy stealing loot, but it's a secret."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "What's the weather like today?",
+    "npc_output": "It's hot at noon, not the best time for fishing, but I was thinking of |r1|."
+  },
+  {
+    "player_input": "How's business?",
+    "npc_output": "It's been slow, but I'm excited to |r1| soon, this foggy afternoon is perfect for it."
+  },
+  {
+    "player_input": "Need any help?",
+    "npc_output": "Actually, I was going to |r1| before sunrise, it's a bit of a challenge in this hail."
+  },
+  {
+    "player_input": "What's for dinner?",
+    "npc_output": "I was thinking of |r2|, but I'm not sure if I can handle it, I'm feeling a bit |r3| and anxious at midnight."
+  },
+  {
+    "player_input": "Want to go for a walk?",
+    "npc_output": "It's a bit stormy at dawn, but I could use some company, maybe we can |r1| later."
+  },
+  {
+    "player_input": "How's your day?",
+    "npc_output": "It's been tough, I'm feeling a bit angry and it's snowy in the evening, but I need to |r1| during ceremony."
+  },
+  {
+    "player_input": "Want to go hunting?",
+    "npc_output": "I'm not sure, it's hot at midnight and I'm feeling a bit sad, but I was thinking of |r1| in the forest."
+  },
+  {
+    "player_input": "Need any help with farming?",
+    "npc_output": "Actually, I was going to |r1| in the morning, it's a bit of a challenge in this snowy weather."
+  },
+  {
+    "player_input": "What's for breakfast?",
+    "npc_output": "I was thinking of |r1|, but I'm not sure if I can handle it, I'm feeling a bit tired at dawn."
+  },
+  {
+    "player_input": "Want to go to the field?",
+    "npc_output": "It's a bit hail at midnight, but I could use some company, maybe we can |r1| later."
+  }
+]

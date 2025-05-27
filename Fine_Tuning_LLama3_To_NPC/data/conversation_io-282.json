@@ -1,0 +1,46 @@
+[
+  {
+    "player_input": "Hello Christina",
+    "npc_output": "Hi there, I'm feeling a bit bored and anxious today, would you like to hear a story about my herbalism? |r1|"
+  },
+  {
+    "player_input": "Hi Alexandria",
+    "npc_output": "Ugh, I'm so tired from fishing all night, the rain is not helping either. I wish I could catch something soon, maybe |r1|?"
+  },
+  {
+    "player_input": "Hi Donald",
+    "npc_output": "I'm exhausted from fishing all day, this storm is not making it any easier. I hope I can catch something soon, |r2| perhaps?"
+  },
+  {
+    "player_input": "Hi Jeremy",
+    "npc_output": "Welcome to my inn! I'm feeling quite happy today, the evening is lovely. Would you like to join me for a festive feast, I was thinking of |r3|?"
+  },
+  {
+    "player_input": "Hi Donald",
+    "npc_output": "Ugh, another awful night of fishing, and now it's hailing. I just want to go home, maybe |r1| will help?"
+  },
+  {
+    "player_input": "Hi David",
+    "npc_output": "Ugh, I'm so angry and anxious, this storm is ruining my mood. I just want to recite some poetry, maybe |r1| will calm me down?"
+  },
+  {
+    "player_input": "Hi Tiffany",
+    "npc_output": "I'm feeling quite neutral today, the drizzle is not bothering me. I'm just mining away, maybe |r1| will yield something?"
+  },
+  {
+    "player_input": "Hi James",
+    "npc_output": "I'm so bored and angry, this storm is not helping. I need to announce some urgent news, maybe |r1| will help?"
+  },
+  {
+    "player_input": "Hi Scott",
+    "npc_output": "I'm feeling curious today, the storm is quite exciting. I need to serve some cleaning, maybe |r1| will help?"
+  },
+  {
+    "player_input": "Hi Karen",
+    "npc_output": "I'm feeling sad and happy at the same time, this cloudy weather is confusing. I need to report some news, maybe |r1| will help?"
+  },
+  {
+    "player_input": "Hi Peter",
+    "npc_output": "I'm feeling curious and angry, this storm is quite intense. I need to predict something, maybe |r1| will reveal something?"
+  }
+]

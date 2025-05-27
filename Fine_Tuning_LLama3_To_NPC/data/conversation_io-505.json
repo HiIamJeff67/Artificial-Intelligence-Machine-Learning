@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "What can I do for you?",
+    "npc_output": "I need some help with |r1|, can you Grow the healing plant during spring for me?"
+  },
+  {
+    "player_input": "How are you?",
+    "npc_output": "I'm a bit tired, but I need you to |r1|, Escort the secure law at the gate, it's urgent."
+  },
+  {
+    "player_input": "What's on your mind?",
+    "npc_output": "I'm thinking about |r1|, Donate the influential debt after ceremony, will you help me?"
+  },
+  {
+    "player_input": "What's the plan for today?",
+    "npc_output": "I need to |r1|, Lead the powerful treasure at festival, care to join me?"
+  },
+  {
+    "player_input": "Do you need anything?",
+    "npc_output": "Actually, I was thinking of |r1|, Attend the proud debt in the city, would you like to come?"
+  },
+  {
+    "player_input": "How's work?",
+    "npc_output": "It's going well, but I need to |r1|, Break the hidden gem before sunset, want to help?"
+  },
+  {
+    "player_input": "What's new with you?",
+    "npc_output": "Not much, just thinking about |r1|, Steal the nimble lock at night, but I need someone I can trust."
+  },
+  {
+    "player_input": "Do you have any tasks for me?",
+    "npc_output": "Actually, I do, |r1|, Run the trusted scroll at dawn, can you take care of it?"
+  },
+  {
+    "player_input": "How's business?",
+    "npc_output": "It's been good, but I need to |r1|, Mend the elegant outfit in the shop, can you assist me?"
+  },
+  {
+    "player_input": "What's the most important thing you need to do today?",
+    "npc_output": "I really need to |r1|, Recite the witty instrument during festival, will you help me prepare?"
+  }
+]

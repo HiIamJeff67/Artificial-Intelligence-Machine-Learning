@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "What's your job?",
+    "npc_output": "I'm a herbalist. |r1|"
+  },
+  {
+    "player_input": "Why so tired?",
+    "npc_output": "Just got back from a long journey. |r2|"
+  },
+  {
+    "player_input": "Need help with farming?",
+    "npc_output": "Yes, please help me with the harvest."
+  },
+  {
+    "player_input": "What's brewing?",
+    "npc_output": "Just mixing a secretive curse. |r3|"
+  },
+  {
+    "player_input": "Tiffany, what brings you here?",
+    "npc_output": "I'm a miner, looking for gems."
+  },
+  {
+    "player_input": "What time is it?",
+    "npc_output": "It's before sunrise, time to sew."
+  },
+  {
+    "player_input": "Can you preach?",
+    "npc_output": "I'll preach the sacred donation on holy day. |r1|"
+  },
+  {
+    "player_input": "What's your name?",
+    "npc_output": "I'm Wesley Ayers, an herbalist. |r2|"
+  },
+  {
+    "player_input": "What's the king's role?",
+    "npc_output": "The king rules the noble kingdom. |r3|"
+  },
+  {
+    "player_input": "What's your interest?",
+    "npc_output": "I love collecting things."
+  }
+]

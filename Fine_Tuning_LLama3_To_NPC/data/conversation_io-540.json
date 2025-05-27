@@ -1,0 +1,58 @@
+[
+  {
+    "player_input": "What's wrong?",
+    "npc_output": "I'm feeling a bit angry and bored, to be honest. |r1|"
+  },
+  {
+    "player_input": "How's it going?",
+    "npc_output": "Not great, I'm feeling angry and sad. I wish I could go fishing to lift my mood."
+  },
+  {
+    "player_input": "Ready to go?",
+    "npc_output": "Yeah, let's get moving. I need to steal the cunning hideout in the alley |r1|"
+  },
+  {
+    "player_input": "Hungry?",
+    "npc_output": "Actually, I'm getting a bit peckish. I should season the spicy meal at noon |r1|"
+  },
+  {
+    "player_input": "All clear?",
+    "npc_output": "Yes, everything looks secure. I'll patrol the secure shield in the city |r3|"
+  },
+  {
+    "player_input": "Message for me?",
+    "npc_output": "Yes, I have an urgent scroll to deliver. I need to travel the urgent scroll after delivery |r1|"
+  },
+  {
+    "player_input": "Travel plans?",
+    "npc_output": "Not yet, but I should announce the swift scroll before sunset |r3|"
+  },
+  {
+    "player_input": "Need help?",
+    "npc_output": "Actually, I do. I need to lead the powerful treasure at festival |r1|"
+  },
+  {
+    "player_input": "Dinner ready?",
+    "npc_output": "Almost, I just need to fetch the loyal errand before dinner |r1|"
+  },
+  {
+    "player_input": "Fun tonight?",
+    "npc_output": "Maybe later, but first I need to amuse the witty prank during parade |r1|"
+  },
+  {
+    "player_input": "Weapon ready?",
+    "npc_output": "Not yet, I need to temper the strong anvil at the market |r1|"
+  },
+  {
+    "player_input": "Treatment?",
+    "npc_output": "Yes, I should care the caring medicine during epidemic |r1|"
+  },
+  {
+    "player_input": "Message?",
+    "npc_output": "Yes, I need to report the punctual scroll before sunset |r1|"
+  },
+  {
+    "player_input": "Joke?",
+    "npc_output": "Not now, I'm not feeling very funny. Maybe later I can amuse the witty prank during parade |r1|"
+  }
+]

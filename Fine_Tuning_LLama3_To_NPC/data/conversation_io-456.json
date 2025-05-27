@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "What's for dinner?",
+    "npc_output": "I'm making a delicious stew, would you like to taste it? |r2|"
+  },
+  {
+    "player_input": "How's the ceremony going?",
+    "npc_output": "It's going well, but I need to heal the faithful after the prayer, |r1|"
+  },
+  {
+    "player_input": "Do you need any help?",
+    "npc_output": "Actually, I need someone to fetch some firewood for the manor, |r1|"
+  },
+  {
+    "player_input": "What are you working on?",
+    "npc_output": "I'm building a new house, and I need to repair the smooth walls, |r1|"
+  },
+  {
+    "player_input": "What's the special today?",
+    "npc_output": "We have a generous feast after sunset, would you like to join us? |r2|"
+  },
+  {
+    "player_input": "Can you help me with something?",
+    "npc_output": "I'm busy with my painting, but I can help you later"
+  },
+  {
+    "player_input": "What's the best way to steal something?",
+    "npc_output": "I'm not sure I should be telling you this, but you can steal the nimble lock at night, |r1|"
+  },
+  {
+    "player_input": "Do you have any messages for me?",
+    "npc_output": "Yes, I have a punctual letter to deliver to you, |r1|"
+  },
+  {
+    "player_input": "Where's the best spot to fish?",
+    "npc_output": "You can catch the salty fish during fishing at the river, |r1|"
+  },
+  {
+    "player_input": "What do you need help with?",
+    "npc_output": "I need to trade some valuable goods on the road, |r1|"
+  }
+]

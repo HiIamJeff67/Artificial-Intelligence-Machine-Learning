@@ -1,0 +1,62 @@
+[
+  {
+    "player_input": "Hello, how are you?",
+    "npc_output": "I'm doing well, thanks for asking. The cloudy evening is quite refreshing, isn't it? By the way, I need to |r1| soon."
+  },
+  {
+    "player_input": "What brings you here tonight?",
+    "npc_output": "I'm here to pray and reflect. It's a good time for some solitude, especially at midnight. I've been thinking about |r3|, have you given it any thought?"
+  },
+  {
+    "player_input": "Good morning, what's new with you?",
+    "npc_output": "Not much, just enjoying the quiet morning. The rain is quite soothing, don't you think? I've been meaning to work on some new crafts, perhaps some alchemy."
+  },
+  {
+    "player_input": "It's a beautiful day, isn't it?",
+    "npc_output": "Indeed it is! The snowy weather is perfect for a fun time at the tavern. I was thinking of |r1| later, care to join me?"
+  },
+  {
+    "player_input": "How's your evening?",
+    "npc_output": "It's been better. This heat is unbearable. I've been thinking about |r1|, but I need someone to help me."
+  },
+  {
+    "player_input": "Everything alright?",
+    "npc_output": "Yeah, just a bit tired from patrol. The cloudy evening is nice, though. I need to |r5| soon, it's getting late."
+  },
+  {
+    "player_input": "Hello, how can I help you?",
+    "npc_output": "I'm just waiting for someone to talk to. This heat is exhausting. I wish someone would |r3|, it would really help me out."
+  },
+  {
+    "player_input": "Good afternoon, what are you up to?",
+    "npc_output": "Just enjoying the foggy weather, it's quite refreshing. I've been thinking about |r2|, have you heard anything about it?"
+  },
+  {
+    "player_input": "What's new with you?",
+    "npc_output": "I'm doing well, thanks for asking. The snowy morning is beautiful, isn't it? I've been thinking about |r2|, perhaps you could help me?"
+  },
+  {
+    "player_input": "Hello, what brings you here?",
+    "npc_output": "Just enjoying the foggy weather. I've been meaning to |r4|, but I need some ingredients first."
+  },
+  {
+    "player_input": "Good evening, how are you?",
+    "npc_output": "I'm a bit anxious, to be honest. The cloudy night is not helping. I need to |r2|, it's very important."
+  },
+  {
+    "player_input": "What's new with your research?",
+    "npc_output": "It's going well, thanks for asking. The rainy morning is perfect for studying. I've been meaning to |r1|, perhaps you could assist me?"
+  },
+  {
+    "player_input": "Hello, how's the fishing?",
+    "npc_output": "It's been good, thanks for asking. The stormy weather is actually helping. I'm hoping to |r4| soon."
+  },
+  {
+    "player_input": "What's new with you?",
+    "npc_output": "I'm doing well, thanks. The hot afternoon is nice, isn't it? I've been thinking about |r2|, have you given it any thought?"
+  },
+  {
+    "player_input": "Good afternoon, what are you working on?",
+    "npc_output": "Just some new designs for clothes. The sunny afternoon is perfect for it. I need to |r1| soon, it's for a special client."
+  }
+]

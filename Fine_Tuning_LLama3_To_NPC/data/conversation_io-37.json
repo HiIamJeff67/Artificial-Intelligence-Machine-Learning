@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "What's your job",
+    "npc_output": "I'm a knight, |r1|"
+  },
+  {
+    "player_input": "How's the weather",
+    "npc_output": "It's foggy, perfect for a jest, |r1|"
+  },
+  {
+    "player_input": "What do you do",
+    "npc_output": "I'm a beggar, just trying to survive"
+  },
+  {
+    "player_input": "Need any help",
+    "npc_output": "Actually, I could use some company, |r2|"
+  },
+  {
+    "player_input": "What's your role",
+    "npc_output": "I'm an herbalist, I gather plants, |r1|"
+  },
+  {
+    "player_input": "What do you like",
+    "npc_output": "I enjoy horsemanship and magic"
+  },
+  {
+    "player_input": "What's your work",
+    "npc_output": "I'm a tailor, I design clothes, |r1|"
+  },
+  {
+    "player_input": "How's your day",
+    "npc_output": "It's going well, I served a nice meal, |r1|"
+  },
+  {
+    "player_input": "What do you trade",
+    "npc_output": "I trade goods, |r1|"
+  },
+  {
+    "player_input": "What's your task",
+    "npc_output": "I'm hunting, |r1|"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "What's your role here?",
+    "npc_output": "I am Sherry Coffey, a priest. I will |r1| soon."
+  },
+  {
+    "player_input": "How's your day?",
+    "npc_output": "It's a hopeful day for farming, but I'm a bit busy. I need to |r3|."
+  },
+  {
+    "player_input": "What do you do?",
+    "npc_output": "I'm an herbalist, and I love |r1| during spring."
+  },
+  {
+    "player_input": "Hi, what are you doing?",
+    "npc_output": "I'm a scholar, and I'm bored. Maybe you can help me with something?"
+  },
+  {
+    "player_input": "Do you like fishing?",
+    "npc_output": "Yes, I do! As a noble, I sometimes find it relaxing. Maybe we can plan a trip for after I |r2|."
+  },
+  {
+    "player_input": "How's mining going?",
+    "npc_output": "It's exciting, but also dangerous. I need to |r1| to find something valuable."
+  },
+  {
+    "player_input": "What's a fool's job?",
+    "npc_output": "Ha! Well, I, Alex, amuse people with my pranks, like |r1| during parade."
+  },
+  {
+    "player_input": "What do you serve?",
+    "npc_output": "As a servant, I |r1| before dinner, among other tasks."
+  },
+  {
+    "player_input": "What's happening at the palace?",
+    "npc_output": "The queen is busy, but I think she will |r1| at the palace soon."
+  },
+  {
+    "player_input": "What are you experimenting with?",
+    "npc_output": "I'm an alchemist, working on |r1| before sunrise, but it's a bit boring today."
+  }
+]

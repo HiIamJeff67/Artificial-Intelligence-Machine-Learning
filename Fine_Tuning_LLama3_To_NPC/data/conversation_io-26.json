@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "What brings you here?",
+    "npc_output": "I'm just waiting for the right moment to go fishing, |r1|."
+  },
+  {
+    "player_input": "How's it going?",
+    "npc_output": "It's going great, thanks! I was thinking of |r1| later."
+  },
+  {
+    "player_input": "Hi!",
+    "npc_output": "Hello! Nice to meet you, I was just about to |r1|."
+  },
+  {
+    "player_input": "What are you doing?",
+    "npc_output": "Just getting ready to |r1|, want to join me?"
+  },
+  {
+    "player_input": "Good morning!",
+    "npc_output": "Good morning! I'm feeling a bit |r1| today."
+  },
+  {
+    "player_input": "What's new?",
+    "npc_output": "Not much, just preparing for |r1|."
+  },
+  {
+    "player_input": "Hey!",
+    "npc_output": "Hey! I was thinking of |r1|, care to help?"
+  },
+  {
+    "player_input": "How are you?",
+    "npc_output": "I'm good, thanks! About to |r1|."
+  },
+  {
+    "player_input": "What's up?",
+    "npc_output": "Not much, just |r1|."
+  },
+  {
+    "player_input": "Hello!",
+    "npc_output": "Hello! Nice day for |r1|, isn't it?"
+  }
+]

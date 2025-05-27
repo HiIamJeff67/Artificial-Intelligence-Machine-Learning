@@ -1,0 +1,62 @@
+[
+  {
+    "player_input": "What's the weather like today?",
+    "npc_output": "It's a lovely rainy afternoon, perfect for staying indoors and discussing business, perhaps |r1|?"
+  },
+  {
+    "player_input": "How's your day?",
+    "npc_output": "I'm feeling quite anxious with this rainy weather and the festival going on, I hope I can still |r2|."
+  },
+  {
+    "player_input": "What are you doing at sunset?",
+    "npc_output": "I'll be fishing, the calm after sunset is perfect for catching something, |r5| is a must today."
+  },
+  {
+    "player_input": "What are your plans?",
+    "npc_output": "I'm planning to teach a study at night, |r1| is something I'm really looking forward to."
+  },
+  {
+    "player_input": "What do you need help with?",
+    "npc_input": "I need to prepare a meal for the festival, |r3| would be a big help, thanks!"
+  },
+  {
+    "player_input": "How can I assist you?",
+    "npc_output": "I have an urgent delivery to make before sunset, |r4| would be great if you could help me."
+  },
+  {
+    "player_input": "What's on your mind?",
+    "npc_output": "I'm thinking of unlocking a secret hideout, but I need to |r1| first."
+  },
+  {
+    "player_input": "What do you like to do?",
+    "npc_output": "I love sailing, and I was thinking of anchoring my ship, maybe |r1|?"
+  },
+  {
+    "player_input": "What's your task?",
+    "npc_output": "I need to break a hidden gem before sunset, |r1| is my priority."
+  },
+  {
+    "player_input": "How can I help?",
+    "npc_output": "I'm trying to sail the lucky bait, but I need to |r1| first."
+  },
+  {
+    "player_input": "What are your plans?",
+    "npc_output": "I'm planning to mend an elegant outfit, and then |r1|."
+  },
+  {
+    "player_input": "What do you want to do?",
+    "npc_output": "I want to attend a proud debt, and I need to |r1|."
+  },
+  {
+    "player_input": "What's your goal?",
+    "npc_output": "I'm trying to hex a strange ritual, and I need to |r1| first."
+  },
+  {
+    "player_input": "How's your day?",
+    "npc_output": "It's going well, I was thinking of growing a medicinal herb, |r1| is on my mind."
+  },
+  {
+    "player_input": "What do you need?",
+    "npc_output": "I'm feeling a bit sad and tired, I wish I could |r1|."
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "player_input": "Hello David",
+    "npc_output": "Hello there, I'm feeling a bit anxious today, |r1| perhaps you could help me?"
+  },
+  {
+    "player_input": "What's up Shelley?",
+    "npc_output": "Not much, just gathering my thoughts at dawn, the foggy weather is quite calming"
+  },
+  {
+    "player_input": "Robert, what's your specialty?",
+    "npc_output": "I'm a witch, and I must say, I'm feeling a bit anxious about the wind, |r2| would you like to learn more?"
+  },
+  {
+    "player_input": "Alex, want to dance?",
+    "npc_output": "I'd love to, but it's snowy and I'm not sure I can amuse the crowd with a witty prank during parade"
+  },
+  {
+    "player_input": "Robert, what brings you out tonight?",
+    "npc_output": "Just enjoying the evening, and perhaps I'll |r5| later, the snowy weather is quite enchanting"
+  },
+  {
+    "player_input": "Edward, how's sailing?",
+    "npc_output": "It's been a challenge with this hail, but I'm excited to anchor the restless harbor on the ship soon"
+  },
+  {
+    "player_input": "Robert, what's on your mind?",
+    "npc_output": "I'm anxious about the festival, and I hope I can |r10| without any issues"
+  },
+  {
+    "player_input": "Craig, catch anything today?",
+    "npc_output": "Not yet, but I'm hopeful, and I might just |r1| if the sunny weather holds up"
+  },
+  {
+    "player_input": "Robert, want to go fishing?",
+    "npc_output": "I'd rather not, it's stormy and I don't think I can catch anything, but perhaps I'll |r4| later"
+  },
+  {
+    "player_input": "Andrew, need any help?",
+    "npc_output": "Actually, I could use some help with this outfit, I need to |r1| before the festival"
+  },
+  {
+    "player_input": "Glenda, what's new?",
+    "npc_output": "Not much, just enjoying the sunny morning, and thinking about selling the expensive market during festival"
+  },
+  {
+    "player_input": "Marisa, how's life?",
+    "npc_output": "It's been better, I'm feeling a bit angry and tired, but I need to |r1| before the council"
+  },
+  {
+    "player_input": "John, want to perform?",
+    "npc_output": "I'd love to, and I think I'll |r1|, the sunny weather is perfect for a festival performance"
+  },
+  {
+    "player_input": "Katherine, what's cooking?",
+    "npc_output": "Just preparing for the festival, and I need to |r2|, this hail is not making it easy"
+  },
+  {
+    "player_input": "Jillian, want to sing?",
+    "npc_output": "I'd love to, but I'm feeling a bit sad, perhaps I'll |r1| later, when the storm passes"
+  }
+]

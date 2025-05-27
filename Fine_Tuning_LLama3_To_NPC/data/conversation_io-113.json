@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "What's up?",
+    "npc_output": "Not much, just getting ready for my shift |r1|."
+  },
+  {
+    "player_input": "Hi",
+    "npc_output": "Hello! I'm working on a new piece of metal, want to take a look?"
+  },
+  {
+    "player_input": "How are you?",
+    "npc_output": "I'm a bit tired, but I need to |r1| before the council."
+  },
+  {
+    "player_input": "What are you doing?",
+    "npc_output": "I'm preparing for a heist, need to |r1|."
+  },
+  {
+    "player_input": "Hey",
+    "npc_output": "Hello! Just taking a short break from mining, it's |r5|."
+  },
+  {
+    "player_input": "What's new?",
+    "npc_output": "Not much, just enjoying the sunny weather, maybe I'll |r1| later."
+  },
+  {
+    "player_input": "Hi there",
+    "npc_output": "Hello! I'm getting ready for a voyage, need to |r1|."
+  },
+  {
+    "player_input": "How's it going?",
+    "npc_output": "It's going, just feeling a bit bored, wish I could |r1|."
+  },
+  {
+    "player_input": "What's up?",
+    "npc_output": "Just getting ready for my shift, need to |r5|."
+  },
+  {
+    "player_input": "Hello",
+    "npc_output": "Hello! I'm working on a new outfit, want to take a look?"
+  }
+]

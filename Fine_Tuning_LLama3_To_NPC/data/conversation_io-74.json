@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "What's your role?",
+    "npc_output": "I am a fool, nice to meet you."
+  },
+  {
+    "player_input": "What are you doing?",
+    "npc_output": "I was just about to deliver a message, |r1|."
+  },
+  {
+    "player_input": "Do you like horsemanship?",
+    "npc_output": "Yes, I do! I'm quite skilled at it, actually."
+  },
+  {
+    "player_input": "Want to beg together?",
+    "npc_output": "I'm not really into begging, but I appreciate the offer."
+  },
+  {
+    "player_input": "Let's dance!",
+    "npc_output": "Sounds fun, I love dancing! |r1|"
+  },
+  {
+    "player_input": "Want to go fishing?",
+    "npc_output": "Fishing sounds like a great idea, let's go!"
+  },
+  {
+    "player_input": "Do you serve here?",
+    "npc_output": "Yes, I do. I can help you with your needs, maybe |r1|."
+  },
+  {
+    "player_input": "You seem bored.",
+    "npc_output": "Yes, I am. I wish something exciting would happen, like |r1|."
+  },
+  {
+    "player_input": "What do you play?",
+    "npc_output": "I play the lyre, want to hear me play? |r1|"
+  },
+  {
+    "player_input": "Need help?",
+    "npc_output": "Actually, yes. I need someone to |r1|."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "What do you study at night?",
+    "npc_output": "I research the diligent manuscript at night, would you like to |r2|?"
+  },
+  {
+    "player_input": "What's your hurry?",
+    "npc_output": "I have to announce the quick delivery before sunset."
+  },
+  {
+    "player_input": "Farming tips?",
+    "npc_output": "Try haggling the exotic spice in the city, it can be useful for trade."
+  },
+  {
+    "player_input": "Ready to hunt?",
+    "npc_output": "Not yet, I need to track the rugged arrow before sunset."
+  },
+  {
+    "player_input": "How's farming?",
+    "npc_output": "It's going well, I need to sow the fresh soil at the field today."
+  },
+  {
+    "player_input": "What's the plan for harvest?",
+    "npc_output": "I plan to water the ripe seed during harvest, want to help?"
+  },
+  {
+    "player_input": "Need help with anything?",
+    "npc_output": "Actually, I could use some help with a task, would you like to hear more?"
+  },
+  {
+    "player_input": "How's life as a beggar?",
+    "npc_output": "It's not easy, but I'm managing, thanks for asking."
+  },
+  {
+    "player_input": "Stable looks great!",
+    "npc_output": "Thanks, I stable the tidy bridle at dawn every day."
+  },
+  {
+    "player_input": "loff?",
+    "npc_output": "Sorry, I'm a bit tired, maybe some other time?"
+  }
+]

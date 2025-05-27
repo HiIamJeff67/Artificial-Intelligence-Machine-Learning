@@ -1,0 +1,43 @@
+[
+  {
+    "player_input": "What's your favorite herb?",
+    "npc_output": "I love gardening and alchemy, perhaps I can show you some of my work? |r1|"
+  },
+  {
+    "player_input": "Do you like cooking?",
+    "npc_output": "I'm excited about cooking and farming, let me tell you about my latest recipe."
+  },
+  {
+    "player_input": "Are you busy?",
+    "npc_output": "Just managing my shop, |r1| if you're interested in spices."
+  },
+  {
+    "player_input": "Do you know any stories?",
+    "npc_output": "I can tell you a tale or two, but first, |r3| for me?"
+  },
+  {
+    "player_input": "Want to go for a walk?",
+    "npc_input": "I'd love to, it's a nice day for a messenger like me.",
+    "npc_output": "Let's take a walk, I need to |r1| anyway."
+  },
+  {
+    "player_input": "Do you have any new designs?",
+    "npc_output": "I've been working on some elegant hats, |r1| if you'd like to see them."
+  },
+  {
+    "player_input": "Are you having fun?",
+    "npc_output": "Yes, I love festivals and |r2| is a great experience."
+  },
+  {
+    "player_input": "How's business?",
+    "npc_output": "It's going well, perhaps you can help me with |r1|?"
+  },
+  {
+    "player_input": "Need any help?",
+    "npc_output": "Actually, I could use someone to |r1| for me."
+  },
+  {
+    "player_input": "Good morning!",
+    "npc_output": "Good morning! Beautiful day, isn't it? |r1|"
+  }
+]

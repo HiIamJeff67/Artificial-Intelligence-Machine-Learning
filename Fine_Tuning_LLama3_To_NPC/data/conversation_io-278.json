@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "Hello, what's your job?",
+    "npc_output": "I'm a tailor, nice to meet you! |r1|"
+  },
+  {
+    "player_input": "What's your favorite song?",
+    "npc_output": "I love singing, maybe I'll perform the colorful performance during festival for you?"
+  },
+  {
+    "player_input": "Need help with something?",
+    "npc_output": "I'm a bit anxious, could you help me with the secretive curse in the woods?"
+  },
+  {
+    "player_input": "How's business?",
+    "npc_output": "It's been tough, but I'm preparing the festive banquet after sunset, hope you can join!"
+  },
+  {
+    "player_input": "Want to chat?",
+    "npc_output": "I'm a bit busy, but I can serve the busy room after cleaning, would you like that?"
+  },
+  {
+    "player_input": "What's your dream?",
+    "npc_output": "I want to lead the powerful treasure at festival, it's my utmost desire."
+  },
+  {
+    "player_input": "How's mining?",
+    "npc_output": "It's tough, but I need to search the dusty tunnel in the mine, wish me luck!"
+  },
+  {
+    "player_input": "What's your hobby?",
+    "npc_output": "I love painting, but I don't have any requests for you right now."
+  },
+  {
+    "player_input": "Need healing?",
+    "npc_output": "I can heal the holy faith during ceremony, let me know if you need it!"
+  },
+  {
+    "player_input": "What's for dinner?",
+    "npc_output": "I'm preparing the tasty kitchen at noon, hope you're hungry!"
+  }
+]

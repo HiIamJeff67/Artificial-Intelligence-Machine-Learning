@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "What's your job",
+    "npc_output": "I'm a miner, been working hard all day, have you seen any new tunnels to explore? |r1|"
+  },
+  {
+    "player_input": "Why are you so tired",
+    "npc_output": "I was up all night, teasing the silly mask at the festival, now I need some rest"
+  },
+  {
+    "player_input": "Do you need help",
+    "npc_output": "I'm just a beggar, I don't need much, but if you have some food to spare, that would be great"
+  },
+  {
+    "player_input": "What's the weather like",
+    "npc_output": "It's cloudy at dawn, perfect time to steal the sneaky crime, want to join me? |r1|"
+  },
+  {
+    "player_input": "Are you hungry",
+    "npc_output": "As a beggar, I'm always hoping for a meal, want to wait with me for a bit? |r1|"
+  },
+  {
+    "player_input": "Do you like farming",
+    "npc_output": "Yes, I love plowing the abundant soil after sunrise, it's my favorite part of the day |r1|"
+  },
+  {
+    "player_input": "What do you do",
+    "npc_output": "I'm an herbalist, I mix the bitter remedy during spring, it's a delicate process"
+  },
+  {
+    "player_input": "Do you like plants",
+    "npc_output": "I'm an herbalist, I love identifying the dried plant in the woods, it's so fascinating |r1|"
+  },
+  {
+    "player_input": "Do you like sailing",
+    "npc_output": "I'm a sailor, I navigate the strong map after docking, it's my job |r1|"
+  },
+  {
+    "player_input": "What do you do at night",
+    "npc_output": "As a noble, I attend the proud land after ceremony, it's a lot of work |r1|"
+  }
+]

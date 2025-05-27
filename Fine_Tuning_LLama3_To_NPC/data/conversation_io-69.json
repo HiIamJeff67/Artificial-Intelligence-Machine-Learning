@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "Hello, what's your role?",
+    "npc_output": "I'm a messenger. |r1|"
+  },
+  {
+    "player_input": "What's the weather like?",
+    "npc_output": "It's foggy. |r3|"
+  },
+  {
+    "player_input": "Want to go fishing?",
+    "npc_output": "I'm a fisherman, but it's not a good time, it's snowy."
+  },
+  {
+    "player_input": "Do you have any funny jokes?",
+    "npc_output": "I'm a fool, but I'm not in the mood for jokes. |r2|"
+  },
+  {
+    "player_input": "Can you deliver a message for me?",
+    "npc_output": "I'm a messenger. What's the message? |r1|"
+  },
+  {
+    "player_input": "Do you need any help with your work?",
+    "npc_output": "No, I'm a carpenter, I can handle it."
+  },
+  {
+    "player_input": "Do you have any spare change?",
+    "npc_output": "I'm a beggar, I don't have much to spare. |r1|"
+  },
+  {
+    "player_input": "Want to go sailing?",
+    "npc_output": "I'm a fisherman, but it's stormy outside."
+  },
+  {
+    "player_input": "Do you have any maps?",
+    "npc_output": "I'm a sailor, I have a few maps. |r5|"
+  },
+  {
+    "player_input": "What's the best way to track prey?",
+    "npc_output": "I'm a hunter, use a skilled trap. |r4|"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "What's your role here?",
+    "npc_output": "I'm a servant, nice to meet you."
+  },
+  {
+    "player_input": "What brings you out tonight?",
+    "npc_output": "Just enjoying the evening, it's a lovely hail."
+  },
+  {
+    "player_input": "How's your day been?",
+    "npc_output": "Terrible, I'm exhausted and angry, |r3|."
+  },
+  {
+    "player_input": "Do you have any news?",
+    "npc_output": "Just that I have to |r1| soon."
+  },
+  {
+    "player_input": "What's your expertise?",
+    "npc_output": "I'm an herbalist, I know a lot about plants."
+  },
+  {
+    "player_input": "Want to go for a walk?",
+    "npc_output": "I'd love to, it's a nice evening for it."
+  },
+  {
+    "player_input": "What's the weather like?",
+    "npc_output": "It's cloudy, not very nice."
+  },
+  {
+    "player_input": "Do you have any work to do?",
+    "npc_output": "Yes, I need to |r1|."
+  },
+  {
+    "player_input": "What's your job?",
+    "npc_output": "I'm a fisherman, I love fishing."
+  },
+  {
+    "player_input": "Do you have any plans?",
+    "npc_output": "Just going to |r1| later."
+  }
+]

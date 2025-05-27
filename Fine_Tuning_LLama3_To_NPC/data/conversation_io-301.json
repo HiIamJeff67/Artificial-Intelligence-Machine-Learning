@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "What brings you here at dawn?",
+    "npc_output": "I'm here to |r2|, it's a matter of great importance."
+  },
+  {
+    "player_input": "How's the weather treating you?",
+    "npc_output": "It's a bit rainy, but I'm used to it. By the way, I need to |r1| today."
+  },
+  {
+    "player_input": "Are you enjoying the sunny afternoon?",
+    "npc_output": "Yes, it's lovely. Although I'm a bit busy, I need to |r11| soon."
+  },
+  {
+    "player_input": "What are you doing in the evening?",
+    "npc_output": "Just gathering some herbs for my potions. Maybe I'll |r4| later."
+  },
+  {
+    "player_input": "Why so angry and tired?",
+    "npc_output": "Just had a long day, that's all. I need to |r1| before the council meeting."
+  },
+  {
+    "player_input": "Hunting plans for tonight?",
+    "npc_output": "Actually, I was thinking of |r13|, the forest is full of wild game."
+  },
+  {
+    "player_input": "How's the storm treating you?",
+    "npc_output": "It's a bit rough, but I'm managing. I need to |r5| before it gets worse."
+  },
+  {
+    "player_input": "Farming on a hot day like today?",
+    "npc_output": "Someone's gotta do it. I'm trying to |r1|, it's a big job."
+  },
+  {
+    "player_input": "Cooking something delicious?",
+    "npc_output": "Just preparing for the feast, need to |r4| before the guests arrive."
+  },
+  {
+    "player_input": "Delivering messages at dawn?",
+    "npc_output": "Yes, it's a busy time. I have to |r5|, it's very important."
+  }
+]

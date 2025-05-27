@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "What are you doing tonight?",
+    "npc_output": "I'm going fishing, want to join me? |r2|"
+  },
+  {
+    "player_input": "How's your day?",
+    "npc_output": "It's going great, just studying for my exam, |r1| is on my mind."
+  },
+  {
+    "player_input": "Hello, what's your role?",
+    "npc_output": "I'm a witch, and I sense something mysterious tonight, maybe |r1| can help."
+  },
+  {
+    "player_input": "What brings you here?",
+    "npc_output": "I'm just waiting for someone, hoping |r9| will come true."
+  },
+  {
+    "player_input": "Do you like the weather?",
+    "npc_output": "Not really, this drizzle is terrible for my sport, |r5| would be great now."
+  },
+  {
+    "player_input": "How's work?",
+    "npc_output": "It's going well, just finished building a house, now I need to |r2|."
+  },
+  {
+    "player_input": "What's your plan for the day?",
+    "npc_output": "I'm training for the tournament, need to |r1| to win."
+  },
+  {
+    "player_input": "What do you like to do?",
+    "npc_output": "I love horsemanship, and I'm planning to |r5| soon."
+  },
+  {
+    "player_input": "How's life?",
+    "npc_output": "It's fine, just sailing and navigating, need to |r3| for the next voyage."
+  },
+  {
+    "player_input": "Do you like fishing?",
+    "npc_output": "Yes, I do, and I'm planning to |r1| tomorrow morning."
+  }
+]

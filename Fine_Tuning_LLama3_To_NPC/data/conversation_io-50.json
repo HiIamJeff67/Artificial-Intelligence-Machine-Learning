@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "Hello, what's wrong?",
+    "npc_output": "I'm worried about the construction, |r1| is taking too long."
+  },
+  {
+    "player_input": "How's farming?",
+    "npc_output": "It's going well, I need to |r1| soon."
+  },
+  {
+    "player_input": "What's new?",
+    "npc_output": "I'm working on a new forge, maybe you can help me |r1|?"
+  },
+  {
+    "player_input": "Need help?",
+    "npc_output": "Yes, I need to |r1| before the epidemic gets worse."
+  },
+  {
+    "player_input": "What are you doing?",
+    "npc_output": "I'm planning to |r1|, want to join me?"
+  },
+  {
+    "player_input": "How's life as a noble?",
+    "npc_output": "It's good, but I have to |r1| soon."
+  },
+  {
+    "player_input": "Fishing trip today?",
+    "npc_output": "Yes, I want to |r1|, care to join?"
+  },
+  {
+    "player_input": "Need help with cooking?",
+    "npc_output": "Actually, I need to |r1| for the festival."
+  },
+  {
+    "player_input": "What's your specialty?",
+    "npc_output": "I'm an herbalist, I need to |r1| for a new potion."
+  },
+  {
+    "player_input": "Welcome to the inn!",
+    "npc_output": "Thanks, I'm preparing for |r1|, it's going to be busy."
+  }
+]

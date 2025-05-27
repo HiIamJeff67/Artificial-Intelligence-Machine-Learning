@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "What's the weather like?",
+    "npc_output": "It's hail in the morning, quite unpleasant"
+  },
+  {
+    "player_input": "Hi, how are you?",
+    "npc_output": "I'm neutral, thanks for asking"
+  },
+  {
+    "player_input": "Do you like fishing?",
+    "npc_output": "I love storytelling and fishing, they're my favorite pastimes"
+  },
+  {
+    "player_input": "Want to hunt?",
+    "npc_output": "I'd love to, let's track the skilled prey in the forest |r1|"
+  },
+  {
+    "player_input": "What's your favorite music?",
+    "npc_output": "I enjoy all kinds, but I'm particularly fond of playing the lively lyre on stage"
+  },
+  {
+    "player_input": "Need any help with farming?",
+    "npc_output": "Actually, I could use some assistance gathering the dried plant at sunrise |r1|"
+  },
+  {
+    "player_input": "How's the delivery business?",
+    "npc_output": "Busy, I need to notify the reliable route during rain |r2|"
+  },
+  {
+    "player_input": "Do you like parties?",
+    "npc_output": "I love hosting events, let's prepare the festive banquet after sunset |r1|"
+  },
+  {
+    "player_input": "Want to craft something?",
+    "npc_output": "I'd love to, let's saw the handcrafted plank before rain |r1|"
+  },
+  {
+    "player_input": "What's your favorite hobby?",
+    "npc_output": "I enjoy meditating and cooking, they're great ways to relax"
+  }
+]

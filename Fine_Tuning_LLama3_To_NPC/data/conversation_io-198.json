@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "Hello, what's your job?",
+    "npc_output": "I'm an herbalist, nice to meet you!"
+  },
+  {
+    "player_input": "How's the mine?",
+    "npc_output": "It's going well, but I need to |r1| soon."
+  },
+  {
+    "player_input": "What's a thief like you doing here?",
+    "npc_output": "Just trying to stay out of trouble, |r3| later."
+  },
+  {
+    "player_input": "Do you know any good rituals?",
+    "npc_output": "Actually, I've been studying a new one, |r1|."
+  },
+  {
+    "player_input": "Do you have any goods to sell?",
+    "npc_output": "Yes, I have some luxurious items, |r2|."
+  },
+  {
+    "player_input": "Want to hear a song?",
+    "npc_output": "I'd love to, maybe a |r1|?"
+  },
+  {
+    "player_input": "How's your day?",
+    "npc_output": "It's been good, just got back from a |r8|."
+  },
+  {
+    "player_input": "Want to dance?",
+    "npc_output": "I'd love to, |r5| sounds fun!"
+  },
+  {
+    "player_input": "What's brewing?",
+    "npc_output": "Just a new potion, |r10| for later."
+  },
+  {
+    "player_input": "How's the festival?",
+    "npc_output": "It's going great, just got back from |r9|."
+  }
+]

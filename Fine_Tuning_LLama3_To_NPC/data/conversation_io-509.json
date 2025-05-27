@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "What brings you here?",
+    "npc_output": "I'm waiting for the dawn to organize the graceful court in the garden, |r3|."
+  },
+  {
+    "player_input": "Do you need help?",
+    "npc_output": "Actually, I could use some assistance with fetching the loyal errand before dinner, |r1|."
+  },
+  {
+    "player_input": "How's the voyage?",
+    "npc_output": "It's going well, but I need to anchor the restless harbor on the ship, |r1|, soon."
+  },
+  {
+    "player_input": "Any plans for the festival?",
+    "npc_output": "I'm planning to pour the festive banquet before festival, |r1|, and I'm excited about it."
+  },
+  {
+    "player_input": "What are you working on?",
+    "npc_output": "I'm tempering the strong anvil at the market, |r1|, it's a delicate process."
+  },
+  {
+    "player_input": "How's your day?",
+    "npc_output": "It's been a long day, but I need to attend to the proud land after ceremony, |r2|, later."
+  },
+  {
+    "player_input": "Want to go mining?",
+    "npc_output": "I'd love to, but first I need to descend the deep helmet during shift, |r1|."
+  },
+  {
+    "player_input": "Any messages to deliver?",
+    "npc_output": "Yes, I need to travel the urgent scroll after delivery, |r1|, it's of utmost importance."
+  },
+  {
+    "player_input": "Need any help with prayers?",
+    "npc_output": "Actually, I'm preparing to preach the sacred donation on holy day, |r1|, and I could use some company."
+  },
+  {
+    "player_input": "Going fishing?",
+    "npc_output": "Yes, I'm planning to cast the salty fish during fishing, |r1|, wish me luck."
+  }
+]

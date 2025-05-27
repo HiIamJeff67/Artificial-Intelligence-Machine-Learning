@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "What's wrong?",
+    "npc_output": "I'm so sad and bored, I wish I could go crafting or dancing to cheer myself up"
+  },
+  {
+    "player_input": "Hi, how's it going?",
+    "npc_output": "I'm excited to be working on a new project, maybe you can help me with |r1|"
+  },
+  {
+    "player_input": "Do you like the fog?",
+    "npc_output": "It's a bit gloomy, but it's perfect for meditation and storytelling"
+  },
+  {
+    "player_input": "Where are you headed?",
+    "npc_output": "I'm going to catch some fish, want to join me for |r1|"
+  },
+  {
+    "player_input": "Hi, what time is it?",
+    "npc_output": "It's sunny in the afternoon, perfect weather for delivering messages, maybe I'll do |r1|"
+  },
+  {
+    "player_input": "What's new?",
+    "npc_output": "I've been studying hard, maybe you can help me with |r1|"
+  },
+  {
+    "player_input": "How's mining?",
+    "npc_output": "It's hot and tough, but I'm searching for something valuable, like |r1|"
+  },
+  {
+    "player_input": "What are you doing?",
+    "npc_output": "I'm extracting ore, but I need help with |r5|"
+  },
+  {
+    "player_input": "Do you like your job?",
+    "npc_output": "It's okay, I guess, but I'd rather be doing something else, like |r1|"
+  },
+  {
+    "player_input": "Hi, how's your day?",
+    "npc_output": "It's going well, thanks, maybe you can help me with |r1|"
+  }
+]

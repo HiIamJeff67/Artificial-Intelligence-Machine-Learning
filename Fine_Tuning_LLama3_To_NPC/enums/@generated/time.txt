@@ -1,0 +1,10 @@
+at dawn # 黎明時分
+in the morning # 早晨
+at noon # 正午
+in the afternoon # 下午
+at dusk # 黃昏
+in the evening # 傍晚
+at midnight # 午夜
+before sunrise # 日出前
+after sunset # 日落後
+during the festival # 節慶期間

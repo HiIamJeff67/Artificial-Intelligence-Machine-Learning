@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "What's up Mandy?",
+    "npc_output": "Not much, just preparing for the meditation session before sunrise. |r1|"
+  },
+  {
+    "player_input": "How's farming?",
+    "npc_output": "It's been tough with this hail, but I'm excited to sow the bountiful soil after sunrise. |r1|"
+  },
+  {
+    "player_input": "Need help with tailoring?",
+    "npc_output": "Actually, I need to fit the embroidered needle at noon. Care to assist me?"
+  },
+  {
+    "player_input": "Fishing today?",
+    "npc_output": "I was thinking of sowing the fresh soil at the field, but the hot weather might not be ideal. |r1|"
+  },
+  {
+    "player_input": "Any thieves around?",
+    "npc_output": "Be careful, I need to escape the cunning loot before dawn. |r1|"
+  },
+  {
+    "player_input": "What's cooking?",
+    "npc_output": "I'm thinking of unlocking the shadowy escape after curfew, but first, let's discuss something else. |r1|"
+  },
+  {
+    "player_input": "Preach something.",
+    "npc_output": "I shall preach the sacred donation on holy day, but for now, let us talk about something else."
+  },
+  {
+    "player_input": "Building something?",
+    "npc_output": "I'm trying to saw the handcrafted plank before rain, but my mood isn't the best. |r1|"
+  },
+  {
+    "player_input": "Study time?",
+    "npc_output": "I'm excited to learn more about cooking and farming, but I don't have any specific requests right now."
+  },
+  {
+    "player_input": "Hungry?",
+    "npc_output": "I could use some help tasting the fresh oven after market. |r1|"
+  }
+]

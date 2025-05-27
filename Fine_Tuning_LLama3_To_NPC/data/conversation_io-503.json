@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "What's the weather like?",
+    "npc_output": "It's raining, I'm afraid. Not the best evening for travelers."
+  },
+  {
+    "player_input": "How's your day been?",
+    "npc_output": "Pretty tiring, thanks for asking. But I've been thinking about |r2|, maybe it's time to bless the wise altar."
+  },
+  {
+    "player_input": "What's new with you?",
+    "npc_output": "Just the usual mining business. Although I've been eyeing that |r3|, breaking the gritty gem sounds like a challenge."
+  },
+  {
+    "player_input": "Hello, what brings you here?",
+    "npc_output": "Just delivering some messages. The urgent scroll is my top priority, you know, |r1|."
+  },
+  {
+    "player_input": "How's your research going?",
+    "npc_output": "Slowly but surely. I've been studying for the exam, and I need to |r2|, write the reserved manuscript soon."
+  },
+  {
+    "player_input": "What's the plan for tonight?",
+    "npc_output": "I was thinking of jesting and |r1|, it's always fun to jest the playful trick after a joke."
+  },
+  {
+    "player_input": "Do you have any performances lined up?",
+    "npc_output": "Yes, I'll be playing the charming performance during the festival, |r1|, it's going to be great."
+  },
+  {
+    "player_input": "What's troubling you?",
+    "npc_output": "Just the usual noble duties. I need to attend the proud debt before the council, |r1|."
+  },
+  {
+    "player_input": "Any new songs?",
+    "npc_output": "I've been working on a few, actually. Maybe I'll recite the colorful instrument after dinner, |r1|."
+  },
+  {
+    "player_input": "What's the best way to escape?",
+    "npc_output": "Well, I'd say escape the cunning loot before dawn, |r1|, but you didn't hear it from me."
+  }
+]

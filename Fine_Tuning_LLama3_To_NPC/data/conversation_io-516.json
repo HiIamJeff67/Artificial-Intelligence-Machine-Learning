@@ -1,0 +1,62 @@
+[
+  {
+    "player_input": "What's wrong",
+    "npc_output": "I'm so tired and my mood isn't helping, |r1| might help me feel better though."
+  },
+  {
+    "player_input": "Need help",
+    "npc_output": "I'm excited to be sailing, but I need to |r1| first."
+  },
+  {
+    "player_input": "Play music",
+    "npc_output": "I'd love to |r1|, music always lifts my mood."
+  },
+  {
+    "player_input": "Good morning",
+    "npc_output": "It's too early and I'm sad, maybe |r3| will improve my day."
+  },
+  {
+    "player_input": "How's fishing",
+    "npc_output": "The hail is making it tough, but I need to |r1|."
+  },
+  {
+    "player_input": "What's happening",
+    "npc_output": "The festival is lively, I should |r1| to get into the spirit."
+  },
+  {
+    "player_input": "Need assistance",
+    "npc_output": "The rain is making the soil perfect for |r1|."
+  },
+  {
+    "player_input": "How's life",
+    "npc_output": "As a beggar, life is tough, but I hope |r1| brings some change."
+  },
+  {
+    "player_input": "What's new",
+    "npc_output": "I've been studying hard, maybe I can |r1| to you."
+  },
+  {
+    "player_input": "Can I help",
+    "npc_output": "I'm a messenger, I need to |r1|, can you aid me?"
+  },
+  {
+    "player_input": "Good evening",
+    "npc_output": "The performance is about to start, I should |r1|."
+  },
+  {
+    "player_input": "How's it going",
+    "npc_output": "The sunny weather is perfect for |r1|."
+  },
+  {
+    "player_input": "Any requests",
+    "npc_output": "I'm a witch, I don't need help, but thank you."
+  },
+  {
+    "player_input": "Want to fish",
+    "npc_output": "The foggy weather isn't ideal, but |r1| could be fun."
+  },
+  {
+    "player_input": "How's farming",
+    "npc_output": "The soil is ready, I should |r1| now."
+  }
+]

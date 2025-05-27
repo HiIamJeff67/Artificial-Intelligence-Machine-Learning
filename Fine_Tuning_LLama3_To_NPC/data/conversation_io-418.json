@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "What's the weather like today?",
+    "npc_output": "It's hailing outside, I'm glad to be indoors."
+  },
+  {
+    "player_input": "How's your day going?",
+    "npc_output": "It's just started, but the rainy weather isn't helping my mood."
+  },
+  {
+    "player_input": "Need any help with your work?",
+    "npc_output": "Actually, I could use someone to help me melt the heavy forge in the forge, |r1|."
+  },
+  {
+    "player_input": "What are your plans for the day?",
+    "npc_output": "I was thinking of sawing some wood, but this foggy weather is making it difficult to see."
+  },
+  {
+    "player_input": "Want to go for a ride?",
+    "npc_output": "I don't think that's a good idea, it's drizzling outside and I have to fight the strong horse during tournament, |r1|."
+  },
+  {
+    "player_input": "Do you have any messages to deliver?",
+    "npc_output": "Yes, I have to announce the urgent letter on the road, |r1|, but it's getting late and it's foggy."
+  },
+  {
+    "player_input": "What's the time?",
+    "npc_output": "It's after sunset, and I still have to attend the proud debt before council, |r1|."
+  },
+  {
+    "player_input": "Can you help me with my farm?",
+    "npc_output": "I'd be happy to help, but first I need to sow the fresh soil at the field, |r1|."
+  },
+  {
+    "player_input": "Want to hear a story?",
+    "npc_output": "I'd love to, but I have to recite the witty instrument during festival, |r1|, and I need to practice."
+  },
+  {
+    "player_input": "Do you have any deliveries?",
+    "npc_output": "Yes, I have to notify the discreet parcel on the road, |r1|, and it's getting foggy."
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "player_input": "What's your music like?",
+    "npc_output": "I play lively tunes on my lyre, come listen! |r1|"
+  },
+  {
+    "player_input": "How's the palace?",
+    "npc_output": "It's lovely, I'm preparing for a court ceremony, would you like to attend? |r1|"
+  },
+  {
+    "player_input": "Need help?",
+    "npc_output": "I'm just waiting for someone to talk to, it's so lonely here... |r3|"
+  },
+  {
+    "player_input": "What's on your mind?",
+    "npc_output": "I'm frustrated with my training, it's just not going well..."
+  },
+  {
+    "player_input": "What herbs do you grow?",
+    "npc_output": "I grow all sorts of medicinal herbs, would you like to see? |r1|"
+  },
+  {
+    "player_input": "Do you need assistance?",
+    "npc_output": "Actually, I need to heal some wounds, can you help me? |r1|"
+  },
+  {
+    "player_input": "What's it like being a thief?",
+    "npc_output": "It's exciting, but also risky, I have to be careful |r1|"
+  },
+  {
+    "player_input": "Can you predict something?",
+    "npc_output": "I sense a dark and mysterious energy, beware... |r1|"
+  },
+  {
+    "player_input": "Are you ready to set sail?",
+    "npc_output": "Almost, just need to load the voyage and anchor the ship |r1|"
+  },
+  {
+    "player_input": "How's business?",
+    "npc_output": "It's been good, preparing for a festival banquet |r1|"
+  },
+  {
+    "player_input": "Do you need help?",
+    "npc_output": "I'm just a bit sad, but I'll be fine..."
+  },
+  {
+    "player_input": "What's your day like?",
+    "npc_output": "I'm busy with cleaning and serving, but it's rewarding |r1|"
+  },
+  {
+    "player_input": "What's the kingdom like?",
+    "npc_output": "It's prosperous, but I have a lot of responsibilities |r1|"
+  },
+  {
+    "player_input": "Do you have a message?",
+    "npc_output": "Actually, I need to deliver a parcel, can you help me? |r1|"
+  },
+  {
+    "player_input": "How's farming?",
+    "npc_output": "It's going well, the soil is fertile and the crops are growing |r1|"
+  }
+]

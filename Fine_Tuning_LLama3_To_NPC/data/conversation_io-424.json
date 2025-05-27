@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "What's your job?",
+    "npc_output": "I'm a carpenter, nice to meet you."
+  },
+  {
+    "player_input": "How's the weather?",
+    "npc_output": "It's stormy, not a great night for outdoor activities."
+  },
+  {
+    "player_input": "What do you do?",
+    "npc_output": "I'm the king, I rule the kingdom, |r1|."
+  },
+  {
+    "player_input": "Do you need help?",
+    "npc_output": "Not right now, thanks for asking, I'm just preparing for a ceremony."
+  },
+  {
+    "player_input": "Want to team up?",
+    "npc_output": "I'm not sure, I have some things to take care of, |r3|."
+  },
+  {
+    "player_input": "Like the festival?",
+    "npc_output": "It's okay, I guess, but I'd rather be doing something else, |r2|."
+  },
+  {
+    "player_input": "What brings you here?",
+    "npc_output": "Just enjoying the evening, it's a lovely night for music, |r5|."
+  },
+  {
+    "player_input": "You look familiar",
+    "npc_output": "I get that a lot, I'm a bit of a night owl, |r9|."
+  },
+  {
+    "player_input": "Need any help?",
+    "npc_output": "Actually, I could use someone to announce a message, |r2|."
+  },
+  {
+    "player_input": "What's your specialty?",
+    "npc_output": "I'm a witch, I do rituals and cast spells, |r4|."
+  }
+]

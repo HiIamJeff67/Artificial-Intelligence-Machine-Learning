@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "What's the weather like tonight?",
+    "npc_output": "It's cloudy at midnight, isn't it lovely?"
+  },
+  {
+    "player_input": "What are you doing at dawn?",
+    "npc_output": "I'm excited to start my day, it's raining, perfect for herbalism!"
+  },
+  {
+    "player_input": "How's business?",
+    "npc_output": "It's slow, but I'm preparing for the festival, |r1|, wish me luck!"
+  },
+  {
+    "player_input": "What do you like to read?",
+    "npc_output": "I love ancient manuscripts, I'm researching |r1| right now."
+  },
+  {
+    "player_input": "Do you have any new clothes?",
+    "npc_output": "I've just made a beautiful outfit, come see, and I need to |r3|."
+  },
+  {
+    "player_input": "What's it like being a miner?",
+    "npc_output": "It's tough, but exciting, I love searching for gems, like |r1|."
+  },
+  {
+    "player_input": "Do you have any advice?",
+    "npc_output": "Always patrol the secure gate, like |r3|, and stay safe."
+  },
+  {
+    "player_input": "Where are you headed?",
+    "npc_output": "I'm on a mission to deliver a message, it's urgent, like |r1|."
+  },
+  {
+    "player_input": "Can you play something for me?",
+    "npc_output": "I'd be delighted to play my lyre, like |r1|, and entertain you."
+  },
+  {
+    "player_input": "What's your favorite sea shanty?",
+    "npc_output": "I love singing about the strong storm, reminds me of |r1|."
+  }
+]

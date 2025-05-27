@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "What's wrong?",
+    "npc_output": "I'm feeling sad today, |r1| might cheer me up."
+  },
+  {
+    "player_input": "How's it going?",
+    "npc_output": "I'm feeling hopeful, but |r1| would be great."
+  },
+  {
+    "player_input": "Want to hunt?",
+    "npc_output": "Yes, let's go, I need to |r1|."
+  },
+  {
+    "player_input": "Hi, what's up?",
+    "npc_output": "Not much, just enjoying the evening, maybe |r1| later."
+  },
+  {
+    "player_input": "What's new?",
+    "npc_output": "Not much, just |r1| before the council."
+  },
+  {
+    "player_input": "Need help?",
+    "npc_output": "Actually, I need to |r1| tonight."
+  },
+  {
+    "player_input": "Going fishing?",
+    "npc_output": "Yes, I want to |r1| in the morning."
+  },
+  {
+    "player_input": "What's your favorite spell?",
+    "npc_output": "I like predicting, maybe |r1| before dawn."
+  },
+  {
+    "player_input": "Want to study?",
+    "npc_output": "Maybe later, I'm a bit bored."
+  },
+  {
+    "player_input": "What's it like being a queen?",
+    "npc_output": "It's nice, I get to |r1| at the palace."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "What's your role?",
+    "npc_output": "I'm an apprentice, nice to meet you!"
+  },
+  {
+    "player_input": "How's the weather?",
+    "npc_output": "It's cloudy and it's after sunset, perfect time for a story!"
+  },
+  {
+    "player_input": "Do you like magic?",
+    "npc_output": "Yes, I do! |r1|"
+  },
+  {
+    "player_input": "What's your expertise?",
+    "npc_output": "I'm a scholar, I can help you with alchemy!"
+  },
+  {
+    "player_input": "Need help with your outfit?",
+    "npc_output": "Actually, I need to mend this elegant outfit in the shop, |r1|"
+  },
+  {
+    "player_input": "Want to go farming?",
+    "npc_output": "I'm a farmer, and it's rainy at dawn, perfect time to tend to the abundant harvest at the field, |r9|"
+  },
+  {
+    "player_input": "Wanna go fishing?",
+    "npc_output": "The rainy evening is perfect for fishing, let's catch some skilled fish!"
+  },
+  {
+    "player_input": "Do you have any deliveries?",
+    "npc_output": "Yes, I need to carry the punctual parcel at dawn, |r1|"
+  },
+  {
+    "player_input": "Want to learn magic?",
+    "npc_output": "Be careful, I'm a thief, and I might just steal your secrets, |r3|"
+  },
+  {
+    "player_input": "Want to cast a spell?",
+    "npc_output": "Let's brew the wise ritual in the woods, |r8|"
+  }
+]

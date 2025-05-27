@@ -1,0 +1,58 @@
+[
+  {
+    "player_input": "What's the court like today?",
+    "npc_output": "It's beautiful, as always. But I must |r1| today."
+  },
+  {
+    "player_input": "Want to explore?",
+    "npc_output": "Not now, I'm on a mission to |r1|."
+  },
+  {
+    "player_input": "Feeling tired?",
+    "npc_output": "Yes, but a good joke always lifts my spirits. Maybe I'll |r3|."
+  },
+  {
+    "player_input": "Do you need help with a delivery?",
+    "npc_output": "Actually, I need to |r1|. Care to join me?"
+  },
+  {
+    "player_input": "Like your outfit?",
+    "npc_output": "Thanks, I'm quite fond of it. Maybe I'll |r2| for the festival."
+  },
+  {
+    "player_input": "Need help with herbs?",
+    "npc_output": "Not right now, but I do need to |r1| soon."
+  },
+  {
+    "player_input": "Hi, how's it going?",
+    "npc_output": "Not bad, just a bit bored. Wish I had something exciting to do."
+  },
+  {
+    "player_input": "Want to deliver a message?",
+    "npc_output": "Always ready to deliver. Maybe I'll |r1| today."
+  },
+  {
+    "player_input": "Do you need help with chores?",
+    "npc_output": "I could use some assistance. Actually, I need to |r1| before dinner."
+  },
+  {
+    "player_input": "Hungry?",
+    "npc_output": "A bit, but I have to |r1| first. Then we can eat."
+  },
+  {
+    "player_input": "Want to research something?",
+    "npc_output": "There's always something to discover. Perhaps I'll |r1| tonight."
+  },
+  {
+    "player_input": "Need help with a manuscript?",
+    "npc_output": "Thanks for offering, but I think I'll |r1| myself."
+  },
+  {
+    "player_input": "Like your hat?",
+    "npc_output": "Thanks, I just finished |r1| it. Quite pleased with how it turned out."
+  },
+  {
+    "player_input": "Want to beg for food?",
+    "npc_output": "It's not my favorite thing to do, but sometimes I have to |r1|."
+  }
+]

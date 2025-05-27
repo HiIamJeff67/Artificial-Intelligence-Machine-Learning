@@ -1,0 +1,62 @@
+[
+  {
+    "player_input": "What's up?",
+    "npc_output": "I'm feeling a bit bored, want to go fishing? |r5|"
+  },
+  {
+    "player_input": "Hi",
+    "npc_output": "Ugh, this weather is awful, I wish I could amuse you with a witty prank during parade |r1|"
+  },
+  {
+    "player_input": "How's it going?",
+    "npc_output": "I'm tired, but I need to mix the fresh ingredient during festival, care to help?"
+  },
+  {
+    "player_input": "Hello",
+    "npc_output": "Blessings to you, I must heal the holy altar on holy day, will you join me?"
+  },
+  {
+    "player_input": "What's new?",
+    "npc_output": "Not much, just mending this elegant outfit in the shop, want to take a look?"
+  },
+  {
+    "player_input": "Hey",
+    "npc_output": "Ugh, I'm so tired, but I have to serve the fresh bread after market, want some?"
+  },
+  {
+    "player_input": "Hi there",
+    "npc_output": "Not bad, just getting ready to cast the salty fish during fishing, want to come?"
+  },
+  {
+    "player_input": "Hey what's up?",
+    "npc_output": "Just the usual, trying to amuse you with a witty prank during parade |r1|"
+  },
+  {
+    "player_input": "Hello!",
+    "npc_output": "Hey, I need to plow the abundant soil after sunrise, want to lend a hand?"
+  },
+  {
+    "player_input": "Hey",
+    "npc_output": "I'm feeling sad, but I have to trap the silent animal after rain, wish me luck |r1|"
+  },
+  {
+    "player_input": "Yo",
+    "npc_output": "Not much, just embroidering this elegant hat in the shop, want to see?"
+  },
+  {
+    "player_input": "Hey there",
+    "npc_output": "Hey, I'm excited to anchor the restless harbor on the ship, want to come?"
+  },
+  {
+    "player_input": "Hi",
+    "npc_output": "Shh, I'm trying to steal the shadowy loot in the alley, don't tell anyone |r1|"
+  },
+  {
+    "player_input": "Hey what's up?",
+    "npc_output": "Just getting ready to play the charming performance during festival, want to join in?"
+  },
+  {
+    "player_input": "Hey",
+    "npc_output": "I'm a bit tired, but I need to teach the learned study at night, care to learn?"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "What's your role?",
+    "npc_output": "I am Mandy Silva, a witch."
+  },
+  {
+    "player_input": "What's the weather like?",
+    "npc_output": "It's snowy."
+  },
+  {
+    "player_input": "Do you have any tasks for me?",
+    "npc_output": "Yes, |r1|."
+  },
+  {
+    "player_input": "How's your day going?",
+    "npc_output": "It's been exciting, but I'm getting tired."
+  },
+  {
+    "player_input": "What are you interested in?",
+    "npc_output": "I like meditation and storytelling."
+  },
+  {
+    "player_input": "What's your name?",
+    "npc_output": "I am Shelley Conner, the herbalist."
+  },
+  {
+    "player_input": "What's the occasion?",
+    "npc_output": "It's the festival, and I'm happy to be here."
+  },
+  {
+    "player_input": "Do you need help with anything?",
+    "npc_output": "Actually, I need help with |r1|."
+  },
+  {
+    "player_input": "What's your hobby?",
+    "npc_output": "I enjoy dancing and reading."
+  },
+  {
+    "player_input": "How can I assist you?",
+    "npc_output": "You can help me with |r1|."
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "player_input": "What's your job?",
+    "npc_output": "I'm a carpenter, nice to meet you."
+  },
+  {
+    "player_input": "Do you like sunny weather?",
+    "npc_output": "Not particularly, I prefer cooler weather, but I do enjoy a sunny evening like this."
+  },
+  {
+    "player_input": "Can you sew clothes?",
+    "npc_output": "Yes, I'm a tailor, I can sew and mend clothes, like this fitted pattern.|r2|"
+  },
+  {
+    "player_input": "Are you a noble?",
+    "npc_output": "Yes, I am a noble, and I have to host the generous estate before council, it's a big responsibility.|r1|"
+  },
+  {
+    "player_input": "Do you like magic?",
+    "npc_output": "I'm fascinated by magic, and I've been known to fight with a fearless sword on patrol.|r3|"
+  },
+  {
+    "player_input": "What do you like to read?",
+    "npc_output": "I enjoy reading about magic and alchemy, and I've been meaning to distill the magical formula before sunrise.|r1|"
+  },
+  {
+    "player_input": "Do you like fishing?",
+    "npc_output": "I love fishing, it's so relaxing, but right now I'm a bit anxious about the proud debt before council.|r1|"
+  },
+  {
+    "player_input": "What do you study?",
+    "npc_output": "I'm a scholar, I study various subjects, but I don't have any specific requests at the moment."
+  },
+  {
+    "player_input": "Can you cook?",
+    "npc_output": "I'm a cook, and I need to bake the fresh bread before feast, it's a lot of work.|r3|"
+  },
+  {
+    "player_input": "Do you like meditation?",
+    "npc_output": "I do enjoy meditation, and I've been meaning to donate the influential debt after ceremony, it's a noble thing to do.|r1|"
+  },
+  {
+    "player_input": "Can you make weapons?",
+    "npc_output": "I'm a blacksmith, I can forge and sharpen weapons, like this strong anvil at the market.|r1|"
+  },
+  {
+    "player_input": "Are you a priest?",
+    "npc_output": "Yes, I am a priest, and I'm happy to help with any spiritual matters."
+  },
+  {
+    "player_input": "Do you like sailing?",
+    "npc_output": "I love sailing and fishing, and I need to reel the skilled river in the morning.|r1|"
+  },
+  {
+    "player_input": "Can you farm?",
+    "npc_output": "I'm a farmer, and I need to plow the abundant soil after sunrise, it's a big job.|r1|"
+  },
+  {
+    "player_input": "What do you research?",
+    "npc_output": "I'm a scholar, I research various subjects, including magic and painting, and I need to research the ancient debate at night.|r1|"
+  }
+]

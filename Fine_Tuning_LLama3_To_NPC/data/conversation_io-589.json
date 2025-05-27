@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "What's your specialty?",
+    "npc_output": "I'm an herbalist, I can help you with plants and remedies.|r1|"
+  },
+  {
+    "player_input": "Do you know any good songs?",
+    "npc_output": "Yes, I can play the charming performance during festival.|r1|"
+  },
+  {
+    "player_input": "Do you work with metal?",
+    "npc_output": "I'm a blacksmith, I can forge and sharpen tools.|r1|"
+  },
+  {
+    "player_input": "Can you take me fishing?",
+    "npc_output": "I'm a fisherman, I can help you catch some fish.|r1|"
+  },
+  {
+    "player_input": "Will you play some music?",
+    "npc_output": "I'd be happy to play the charming lyre at the tavern.|r3|"
+  },
+  {
+    "player_input": "Do you have any messages for me?",
+    "npc_output": "I'm a messenger, I have some urgent news to deliver.|r4|"
+  },
+  {
+    "player_input": "Have you been fishing today?",
+    "npc_output": "Yes, I've been fishing, but I'm getting tired.|r1|"
+  },
+  {
+    "player_input": "Can you help me with my ship?",
+    "npc_output": "I'm a sailor, I can help you navigate and repair your ship.|r1|"
+  },
+  {
+    "player_input": "What's for dinner?",
+    "npc_output": "I'm a cook, I can prepare a tasty meal for you.|r4|"
+  },
+  {
+    "player_input": "Can you help me with my research?",
+    "npc_output": "I'm a scholar, I can help you with your studies."
+  }
+]

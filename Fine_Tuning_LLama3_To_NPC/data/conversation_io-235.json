@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "What's wrong?",
+    "npc_output": "I'm so anxious about my research, I've been having trouble sleeping."
+  },
+  {
+    "player_input": "How's sailing?",
+    "npc_output": "It's been a bit tough with this cloudy weather, but I'm managing."
+  },
+  {
+    "player_input": "Can you bless me?",
+    "npc_output": "Of course, my child. May the light be with you."
+  },
+  {
+    "player_input": "What's your duty?",
+    "npc_output": "I'm on patrol, making sure everyone is safe."
+  },
+  {
+    "player_input": "What's your favorite hobby?",
+    "npc_output": "I love cooking and farming, there's something about creating something with my own hands."
+  },
+  {
+    "player_input": "Do you want to compete?",
+    "npc_output": "Yes, I'm training for the tournament, want to come watch me?"
+  },
+  {
+    "player_input": "Play something for me",
+    "npc_output": "Let me play a happy tune on my instrument, |r1|."
+  },
+  {
+    "player_input": "What's the plan?",
+    "npc_output": "We need to hide before curfew, |r1|."
+  },
+  {
+    "player_input": "Want to spar?",
+    "npc_output": "I'm a bit bored, a sparring match sounds like fun."
+  },
+  {
+    "player_input": "What's wrong?",
+    "npc_output": "I'm just feeling a bit sad and tired, |r3|."
+  }
+]

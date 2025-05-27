@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "What's wrong?",
+    "npc_output": "I'm just having a tough day, feeling a bit sad and angry, I wish someone would |r1|."
+  },
+  {
+    "player_input": "How's sailing?",
+    "npc_output": "It's been tough with this stormy weather, I need to |r2| before we set sail."
+  },
+  {
+    "player_input": "Want to dance?",
+    "npc_output": "I'd love to, but I have to |r1| first, it's getting late."
+  },
+  {
+    "player_input": "Need help cooking?",
+    "npc_output": "Actually, I need to |r1| before the feast, thanks for offering."
+  },
+  {
+    "player_input": "Any messages?",
+    "npc_output": "Yes, I need to |r1|, it's urgent."
+  },
+  {
+    "player_input": "What's your research?",
+    "npc_output": "I'm studying the ancient debate, it's fascinating, I need to |r1| tonight."
+  },
+  {
+    "player_input": "Any deliveries?",
+    "npc_output": "Yes, I need to |r1|, it's a bit foggy outside."
+  },
+  {
+    "player_input": "Want to explore?",
+    "npc_output": "I'd love to, but I need to |r1| first, it's not safe."
+  },
+  {
+    "player_input": "How's apprenticeship?",
+    "npc_output": "It's going well, but I'm feeling a bit sad and bored, wish I could go fishing."
+  },
+  {
+    "player_input": "Want to fight?",
+    "npc_output": "I'm always up for a challenge, let's |r1|, I'll show you my skills."
+  }
+]

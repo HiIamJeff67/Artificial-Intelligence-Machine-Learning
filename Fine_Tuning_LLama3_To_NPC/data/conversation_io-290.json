@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "What's your role?",
+    "npc_output": "I am a noble, nice to meet you."
+  },
+  {
+    "player_input": "Nice weather we're having",
+    "npc_output": "Actually, I wish it was a bit cloudier, sunny days are not my favorite."
+  },
+  {
+    "player_input": "Any news?",
+    "npc_output": "Not really, just got back from a mining expedition, found some interesting gems, but it's been a long day, I'm excited to rest."
+  },
+  {
+    "player_input": "Do you like this place?",
+    "npc_output": "It's alright, but the stormy weather is making it hard for me to enjoy my usual hobbies like hunting and fishing."
+  },
+  {
+    "player_input": "What are you doing today?",
+    "npc_output": "Trying to curse this dark broom, wish me luck, I'm a bit anxious about it."
+  },
+  {
+    "player_input": "How's life?",
+    "npc_output": "A bit dull to be honest, I wish I had some company to practice my horsemanship skills."
+  },
+  {
+    "player_input": "Do you need any help?",
+    "npc_output": "Actually, I could use some assistance with predicting the dark broom before dawn, it's a bit tricky."
+  },
+  {
+    "player_input": "What's your favorite topic?",
+    "npc_output": "I love discussing trading and fishing, have you heard about the new fishing spots?"
+  },
+  {
+    "player_input": "Any plans for later?",
+    "npc_output": "I might travel with my luxurious caravan to the market, care to join me?"
+  },
+  {
+    "player_input": "How's your day going?",
+    "npc_output": "It's been good, I anchored my ship earlier and now I'm just enjoying the evening, the hot weather is nice for once."
+  }
+]

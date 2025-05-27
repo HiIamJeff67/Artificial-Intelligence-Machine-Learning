@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "What's wrong?",
+    "npc_output": "I'm feeling a bit angry and bored, to be honest. |r1|"
+  },
+  {
+    "player_input": "Need help with anything?",
+    "npc_output": "Actually, I need to fit this embroidered needle at noon, can you assist me?"
+  },
+  {
+    "player_input": "How's your day?",
+    "npc_output": "It's been boring, but I should probably gather some dried plants at sunrise. |r1|"
+  },
+  {
+    "player_input": "What's for dinner?",
+    "npc_output": "I'm planning to serve some fresh bread after the market, would you like some?"
+  },
+  {
+    "player_input": "Want to perform?",
+    "npc_output": "I'd love to recite some colorful instrument after dinner, it's been a while. |r1|"
+  },
+  {
+    "player_input": "Be careful out there.",
+    "npc_output": "Thanks, I'll be exploring the deep helmet before sunset, wish me luck. |r2|"
+  },
+  {
+    "player_input": "How's training?",
+    "npc_output": "It's going well, I'm planning to train the fearless horse during the tournament. |r1|"
+  },
+  {
+    "player_input": "Need a hand?",
+    "npc_output": "Actually, I need to repair this smooth house during construction, can you help?"
+  },
+  {
+    "player_input": "Going fishing?",
+    "npc_output": "Yes, I'm planning to sail the lucky bait in the morning, care to join me? |r1|"
+  },
+  {
+    "player_input": "What's your specialty?",
+    "npc_output": "I'm a witch, I can predict the dark herb after a storm, among other things."
+  }
+]

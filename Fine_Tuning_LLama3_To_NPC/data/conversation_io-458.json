@@ -1,0 +1,43 @@
+[
+  {
+    "player_input": "What's the weather like?",
+    "npc_output": "It's stormy outside, let's stay inside and talk about hunting, I've heard the forest is full of game."
+  },
+  {
+    "player_input": "How's it going?",
+    "npc_input": "",
+    "npc_output": "I'm doing well, thanks for asking, the rain is making the soil perfect for sowing."
+  },
+  {
+    "player_input": "Need any help?",
+    "npc_output": "Actually, I need someone to help me mix the fresh flower at sunrise, would you like to learn about herbalism?"
+  },
+  {
+    "player_input": "What's wrong?",
+    "npc_output": "I'm a bit anxious, the hail is not good for my broom, perhaps you could help me predict the dark herb after the storm?"
+  },
+  {
+    "player_input": "What's the plan?",
+    "npc_output": "I was planning to conduct the sacred faith on holy day, but this stormy weather is making it difficult, let's chant the faithful faith instead."
+  },
+  {
+    "player_input": "Want to chat?",
+    "npc_output": "I'm a bit bored, but I love storytelling, let's talk and I'll tell you about my hideout in the alley."
+  },
+  {
+    "player_input": "Hungry?",
+    "npc_output": "Actually, I was thinking of serving the fresh bread after the market, would you like to help me in the kitchen?"
+  },
+  {
+    "player_input": "What's new?",
+    "npc_output": "Not much, just the usual kingdom business, I need to rule the powerful kingdom during council, but it's hard with this foggy weather."
+  },
+  {
+    "player_input": "Need any assistance?",
+    "npc_output": "I could use some help diagnosing the patient's balm at dawn, are you familiar with healing?"
+  },
+  {
+    "player_input": "What's up?",
+    "npc_output": "Just studying, I'm trying to learn more about horsemanship, but it's hard to focus with this sunny weather making me want to go outside."
+  }
+]

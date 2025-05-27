@@ -1,0 +1,62 @@
+[
+  {
+    "player_input": "What's wrong",
+    "npc_output": "I'm just feeling a bit tired and angry, it's been a long day |r1|"
+  },
+  {
+    "player_input": "How's mining",
+    "npc_output": "It's going well, I found a nice vein of ore earlier, but now it's getting late and I need to |r2|"
+  },
+  {
+    "player_input": "Need help",
+    "npc_output": "Actually, yes, I need help preparing the festive banquet, it's a lot of work |r1|"
+  },
+  {
+    "player_input": "What's up",
+    "npc_output": "Not much, just feeling a bit bored and curious, I wish I had something exciting to do"
+  },
+  {
+    "player_input": "Good morning",
+    "npc_output": "Good morning, I'm still a bit tired, but I need to get started on the day's tasks, like hosting the cozy music |r2|"
+  },
+  {
+    "player_input": "How's the weather",
+    "npc_output": "It's nice and cloudy, perfect for a relaxing afternoon, maybe I can even go exploring |r1|"
+  },
+  {
+    "player_input": "What's your plan",
+    "npc_output": "I'm planning to load the salty voyage at the harbor, want to come with me |r1|"
+  },
+  {
+    "player_input": "Sing something",
+    "npc_output": "I'd love to, how about a colorful performance, it's always a hit during festival |r1|"
+  },
+  {
+    "player_input": "What's new",
+    "npc_output": "Not much, just got a new parcel to deliver, it's a bit urgent, so I need to |r5|"
+  },
+  {
+    "player_input": "How's life",
+    "npc_output": "It's good, just a bit foggy today, but I'm looking forward to preaching the sacred donation on holy day |r1|"
+  },
+  {
+    "player_input": "Want to duel",
+    "npc_output": "Sure, I'm always up for a challenge, let's fight the strong horse during tournament |r1|"
+  },
+  {
+    "player_input": "What's funny",
+    "npc_output": "Not much, but I do have a witty prank I've been wanting to try out during parade |r1|"
+  },
+  {
+    "player_input": "Need a delivery",
+    "npc_output": "Actually, yes, I need to deliver the punctual letter at dawn, can you help me |r1|"
+  },
+  {
+    "player_input": "How's farming",
+    "npc_output": "It's going well, just plowed the abundant soil after sunrise, now I need to plant the fresh field |r3|"
+  },
+  {
+    "player_input": "What's for dessert",
+    "npc_output": "I'm thinking of seasoning the crispy dessert before feast, want to try some |r1|"
+  }
+]

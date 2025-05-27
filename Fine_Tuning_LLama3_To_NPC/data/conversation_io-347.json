@@ -1,0 +1,42 @@
+[
+  {
+    "player_input": "What's your role?",
+    "npc_output": "I'm a tailor, nice to meet you!"
+  },
+  {
+    "player_input": "How's it going?",
+    "npc_output": "I'm a bit anxious, to be honest, it's cloudy and noon."
+  },
+  {
+    "player_input": "Do you like mining?",
+    "npc_output": "Yes, I love mining, it's my passion!"
+  },
+  {
+    "player_input": "What's your request?",
+    "npc_output": "Donate the influential debt after ceremony, |r1|."
+  },
+  {
+    "player_input": "Are you happy?",
+    "npc_output": "I'm bored, but I love storytelling and farming."
+  },
+  {
+    "player_input": "What's the weather like?",
+    "npc_output": "It's stormy, and it's midnight, not the best time for herbalism."
+  },
+  {
+    "player_input": "Can you heal me?",
+    "npc_output": "I'll heal the holy altar on holy day, |r1|."
+  },
+  {
+    "player_input": "Do you like fishing?",
+    "npc_output": "Yes, I love fishing, but I'm a witch, not a fisherman."
+  },
+  {
+    "player_input": "Can you catch a fish?",
+    "npc_output": "I can try, but I need to cast the salty fish during fishing, |r1|."
+  },
+  {
+    "player_input": "Do you like sports?",
+    "npc_output": "Yes, I love sports, and I'm a messenger, so I have to be quick!"
+  }
+]
