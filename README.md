@@ -16,5 +16,8 @@
   (`Implement_Naive_Bayers_Classifier/`)
   - Lab3 - Tree Classifiers (`Tree_Classifiers/`)
   - Lab4 - Multi-Layer Perceptron (`Multi_Layer_Perceptron/`)
+  - Lab5 - Face Detection And Recognition (`Face_Detection_And_Recognition/`)
 
 ### Note that the .pdf file inside each lab folders are the report for the corresponding lab
+
+### The dataset of "Lab5 - Face Detection And Recognition" is downloaded here:  https://www.kaggle.com/datasets/dansbecker/5-celebrity-faces-dataset, I can't upload it to the github since the filename inside it is too long to be acceptable by github

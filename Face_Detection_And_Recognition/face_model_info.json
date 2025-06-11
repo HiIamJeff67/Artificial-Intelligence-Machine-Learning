@@ -1,0 +1,12 @@
+{
+  "input_shape": [
+    null,
+    512
+  ],
+  "output_shape": [
+    null,
+    5
+  ],
+  "num_classes": 5,
+  "embedding_dim": 512
+}
